@@ -8,6 +8,7 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
+krebstats-web-venv
 dist
 dist-ssr
 *.local
@@ -22,6 +23,3 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-
-# Folders
-krebstats-web-venv/

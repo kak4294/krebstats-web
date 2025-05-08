@@ -24,4 +24,4 @@ dist-ssr
 *.sw?
 
 # Folders
-krebsstats-web/
+krebsstats-web-venv/

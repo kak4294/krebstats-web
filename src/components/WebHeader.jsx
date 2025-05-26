@@ -28,7 +28,7 @@ function WebHeader() {
       padding: scrolled ? '0.7rem 2rem' : '1.2rem 2rem',
       backgroundColor: scrolled ? 'rgba(255, 255, 255, 0.97)' : 'white', // White background
       color: '#333333', // Dark gray text color
-      boxShadow: scrolled ? '0 4px 12px rgba(255, 154, 90, 0.15)' : '0 2px 4px rgba(255, 154, 90, 0.1)',
+      boxShadow: scrolled ? '0 12px 24px rgba(255, 154, 90, 0.15)' : '0 2px 4px rgba(255, 154, 90, 0.1)',
       position: 'sticky',
       top: 0,
       left: 0,
@@ -93,10 +93,32 @@ function WebHeader() {
     }
   };
 
-  // Function to handle button clicks (for future navigation implementation)
+  // Function to handle button clicks
   const handleNavClick = (section) => {
-    console.log(`Navigating to ${section}`);
-    // You would implement actual navigation here, such as with React Router
+    if (section === 'about') {
+      window.scrollTo({
+        top: 0,
+        behavior: 'smooth'
+      });
+    } else if (section === 'projects') {
+      const element = document.getElementById('projects-section');
+      if (element) {
+        const elementPosition = element.getBoundingClientRect().top + window.pageYOffset;
+        window.scrollTo({
+          top: elementPosition - 100,
+          behavior: 'smooth'
+        });
+      }
+    } else if (section === 'baclub') {
+      // Navigate to BAClub page
+      window.location.href = '/baclub';
+    } else if (section === 'resume') {
+      // Navigate to Resume page
+      window.location.href = '/resume';
+    } else if (section === 'contact') {
+      // Navigate to Contact page
+      window.location.href = '/contact';
+    }
   };
 
   return (
@@ -115,7 +137,7 @@ function WebHeader() {
 
       {/* Navigation buttons on the right */}
       <nav style={headerStyles.nav}>
-        {['About', 'Projects', 'Resume', 'Contact'].map((item) => (
+        {['About', 'BAClub', 'Projects', 'Resume', 'Contact'].map((item) => (
           <button
             key={item}
             style={headerStyles.navButton}

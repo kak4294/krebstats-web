@@ -8,15 +8,28 @@ import AboutSection from './components/AboutSection'
 function App() {
   const [count, setCount] = useState(0)
 
-  // Updated color scheme - white background with light orange accent
+  // Updated color scheme - light gray background with light orange accent
   const colorScheme = {
-    background: '#ffffff',     // White background
+    background: '#f8f8f8',     // Light gray background
     cardBg: '#ffffff',         // White card background
     cardBorder: '#fff1e6',     // Very light orange for borders
     primaryText: '#333333',    // Dark gray for primary text
     secondaryText: '#5a5a5a',  // Medium gray for secondary text
     accentLight: '#fff1e6',    // Very light orange for accents
     accent: '#ff9a5a'          // Light orange accent color
+  };
+
+  const rootStyle = {
+    backgroundColor: colorScheme.background,
+    minHeight: '100vh',
+    height: '100vh',
+    width: '100%',
+    margin: 0,
+    padding: 0,
+    display: 'flex',
+    flexDirection: 'column',
+    color: colorScheme.primaryText,
+    overflowX: 'hidden'
   };
 
   useEffect(() => {
@@ -31,7 +44,7 @@ function App() {
     document.body.style.color = colorScheme.primaryText;
     document.body.style.margin = 0;
     document.body.style.padding = 0;
-    document.body.style.fontFamily = "'Quicksand', sans-serif"; // Updated to bubble font
+    document.body.style.fontFamily = "'Quicksand', sans-serif";
     document.body.style.overflowX = 'hidden';
     
     // Remove any light blue classes from the body
@@ -56,10 +69,12 @@ function App() {
       backgroundColor: colorScheme.background,
       boxShadow: 'none',
       border: 'none',
+      width: '100%',
     },
     contentWrapper: {
-      padding: '0 20px',
+      padding: '0',
       backgroundColor: colorScheme.background,
+      width: '100%',
     },
     introCard: {
       backgroundColor: colorScheme.cardBg,
@@ -115,21 +130,13 @@ function App() {
   };
 
   return (
-    <div style={{ 
-      backgroundColor: colorScheme.background,
-      minHeight: '100vh',
-      display: 'flex',
-      flexDirection: 'column',
-      color: colorScheme.primaryText
-    }}>
+    <div style={rootStyle}>
       {/* Header is now positioned at the very top */}
       <WebHeader />
       
       {/* Main content */}
       <div style={styles.mainContent}>
         <AboutSection />
-        
-
       </div>
     </div>
   )

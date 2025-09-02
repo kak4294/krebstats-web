@@ -1,9 +1,13 @@
 import { useState, useEffect } from 'react'
+import { Routes, Route } from 'react-router-dom'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 import WebHeader from './components/WebHeader'
 import AboutSection from './components/AboutSection'
+import PlayActionDashboardPage from './pages/PlayActionDashboardPage'
+import ScoutingReportsPage from './pages/ScoutingReportsPage'
+import BookDatabasePage from './pages/BookDatabasePage'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -134,9 +138,14 @@ function App() {
       {/* Header is now positioned at the very top */}
       <WebHeader />
       
-      {/* Main content */}
+      {/* Main content with routing */}
       <div style={styles.mainContent}>
-        <AboutSection />
+        <Routes>
+          <Route path="/" element={<AboutSection />} />
+          <Route path="/projects/play-action-dashboard" element={<PlayActionDashboardPage />} />
+          <Route path="/projects/scouting-reports" element={<ScoutingReportsPage />} />
+          <Route path="/projects/book-database-analysis" element={<BookDatabasePage />} />
+        </Routes>
       </div>
     </div>
   )

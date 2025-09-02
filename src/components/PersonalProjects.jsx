@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 function PersonalProjects() {
   const colorScheme = {
@@ -47,7 +48,7 @@ function PersonalProjects() {
       transition: 'transform 0.3s ease, box-shadow 0.3s ease',
       display: 'flex',
       flexDirection: 'column',
-      height: '350px',
+      height: '400px',
     },
     projectContent: {
       flex: '1 0 auto',
@@ -97,7 +98,7 @@ function PersonalProjects() {
       </h2>
 
       <div style={styles.projectsContainer}>
-        {/* Synergy Scraper Project */}
+        {/* Play-Action Frequency Dashboard */}
         <div 
           style={styles.projectCard}
           onMouseOver={(e) => {
@@ -110,14 +111,14 @@ function PersonalProjects() {
           }}
         >
           <div style={styles.projectContent}>
-            <h3 style={styles.projectTitle}>Synergy Data Scraper</h3>
+            <h3 style={styles.projectTitle}>Play-Action Frequency Dashboard</h3>
             <p style={styles.paragraph}>
-              A python program which scrapes any number of play-by-play files produced by synergy. It transports all data into a denormalized database containing stats of over 300 Division III Liberty League basketball games.
+              Created dashboard using Tableau that shows every teams game by game frequency of play types that were run. This includes number of Pick-and-Rolls, Catch-and-Shoot 3's, Transition Stats, etc...
             </p>
           </div>
           <div style={styles.projectFooter}>
-            <a 
-              href="/projects/synergy-scraper" 
+            <Link 
+              to="/projects/play-action-dashboard" 
               style={styles.link}
               onMouseOver={(e) => {
                 e.currentTarget.style.color = '#ffb78a';
@@ -129,43 +130,7 @@ function PersonalProjects() {
               }}
             >
               Learn More →
-            </a>
-          </div>
-        </div>
-
-        {/* Body Composition Statistics */}
-        <div 
-          style={styles.projectCard}
-          onMouseOver={(e) => {
-            e.currentTarget.style.transform = 'translateY(-5px)';
-            e.currentTarget.style.boxShadow = '0 15px 30px rgba(255, 154, 90, 0.12)';
-          }}
-          onMouseOut={(e) => {
-            e.currentTarget.style.transform = 'translateY(0)';
-            e.currentTarget.style.boxShadow = '0 10px 25px rgba(255, 154, 90, 0.08)';
-          }}
-        >
-          <div style={styles.projectContent}>
-            <h3 style={styles.projectTitle}>Body Composition Analytics</h3>
-            <p style={styles.paragraph}>
-              Program which uses Python, SQL, & Javascript that allows users to manually input body metrics & workout details on a user interface. Then takes that data in real time and updates visualizations showing the progress you've made to improve your health!
-            </p>
-          </div>
-          <div style={styles.projectFooter}>
-            <a 
-              href="/projects/body-composition" 
-              style={styles.link}
-              onMouseOver={(e) => {
-                e.currentTarget.style.color = '#ffb78a';
-                e.currentTarget.style.borderBottomColor = '#ffb78a';
-              }}
-              onMouseOut={(e) => {
-                e.currentTarget.style.color = colorScheme.accent;
-                e.currentTarget.style.borderBottomColor = colorScheme.accent;
-              }}
-            >
-              Learn More →
-            </a>
+            </Link>
           </div>
         </div>
 
@@ -188,8 +153,8 @@ function PersonalProjects() {
             </p>
           </div>
           <div style={styles.projectFooter}>
-            <a 
-              href="/projects/scouting-reports" 
+            <Link 
+              to="/projects/scouting-reports" 
               style={styles.link}
               onMouseOver={(e) => {
                 e.currentTarget.style.color = '#ffb78a';
@@ -201,7 +166,43 @@ function PersonalProjects() {
               }}
             >
               Learn More →
-            </a>
+            </Link>
+          </div>
+        </div>
+
+        {/* Statistical Analysis of Book Database */}
+        <div 
+          style={styles.projectCard}
+          onMouseOver={(e) => {
+            e.currentTarget.style.transform = 'translateY(-5px)';
+            e.currentTarget.style.boxShadow = '0 15px 30px rgba(255, 154, 90, 0.12)';
+          }}
+          onMouseOut={(e) => {
+            e.currentTarget.style.transform = 'translateY(0)';
+            e.currentTarget.style.boxShadow = '0 10px 25px rgba(255, 154, 90, 0.08)';
+          }}
+        >
+          <div style={styles.projectContent}>
+            <h3 style={styles.projectTitle}>Statistical Analysis of Book Database</h3>
+            <p style={styles.paragraph}>
+              Led data cleaning and analysis of a relational database using Python (Pandas) and SQL. Managed data pipelines with Java connectors and conducted statistical analysis of user book preferences, presenting findings through clear Excel visualizations.
+            </p>
+          </div>
+          <div style={styles.projectFooter}>
+            <Link 
+              to="/projects/book-database-analysis" 
+              style={styles.link}
+              onMouseOver={(e) => {
+                e.currentTarget.style.color = '#ffb78a';
+                e.currentTarget.style.borderBottomColor = '#ffb78a';
+              }}
+              onMouseOut={(e) => {
+                e.currentTarget.style.color = colorScheme.accent;
+                e.currentTarget.style.borderBottomColor = colorScheme.accent;
+              }}
+            >
+              Learn More →
+            </Link>
           </div>
         </div>
       </div>

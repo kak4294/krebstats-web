@@ -14,82 +14,123 @@ function PlayActionDashboardPage() {
     container: {
       minHeight: '100vh',
       backgroundColor: colorScheme.background,
-      padding: '60px 20px',
+      padding: '40px 20px',
       fontFamily: "'Nunito', sans-serif",
     },
     content: {
-      maxWidth: '1000px',
+      maxWidth: '800px',
       margin: '0 auto',
+      padding: '40px',
       backgroundColor: colorScheme.cardBg,
-      borderRadius: '20px',
-      padding: '60px',
-      boxShadow: '0 20px 40px rgba(255, 154, 90, 0.1)',
+      border: '2px solid #e0e0e0',
+      borderRadius: '8px',
+    },
+    breadcrumb: {
+      fontSize: '0.9rem',
+      color: colorScheme.secondaryText,
+      marginBottom: '10px',
+      textAlign: 'left',
+    },
+    category: {
+      fontSize: '0.95rem',
+      color: colorScheme.secondaryText,
+      marginBottom: '10px',
+      fontWeight: '500',
+      textAlign: 'left',
+    },
+    orangeLabel: {
+      fontSize: '0.85rem',
+      color: colorScheme.accent,
+      marginBottom: '8px',
+      fontWeight: '600',
+      textAlign: 'left',
+      textTransform: 'uppercase',
+      letterSpacing: '0.5px',
     },
     heading: {
-      fontSize: '3rem',
+      fontSize: '2.5rem',
       fontWeight: '700',
-      marginBottom: '30px',
+      marginBottom: '15px',
       color: colorScheme.primaryText,
-      fontFamily: "'Quicksand', sans-serif",
-      textAlign: 'center',
+      lineHeight: '1.2',
+      textAlign: 'left',
     },
-    subheading: {
-      fontSize: '1.3rem',
-      color: colorScheme.primaryText,
+    subtitle: {
+      fontSize: '1.05rem',
+      color: colorScheme.secondaryText,
       marginBottom: '40px',
-      textAlign: 'justify',
-      lineHeight: '1.8',
-      maxWidth: '800px',
-      margin: '0 auto 40px auto',
-      padding: '30px',
-      backgroundColor: '#fff8f0',
-      border: `3px solid ${colorScheme.accent}`,
-      borderRadius: '15px',
-      boxShadow: `0 8px 25px rgba(255, 154, 90, 0.3), 0 0 20px rgba(255, 154, 90, 0.2)`,
-      position: 'relative',
+      lineHeight: '1.4',
+      textAlign: 'left',
     },
     section: {
-      marginBottom: '40px',
+      marginBottom: '30px',
     },
     sectionTitle: {
-      fontSize: '1.5rem',
+      fontSize: '1.4rem',
       fontWeight: '600',
       color: colorScheme.primaryText,
-      marginBottom: '20px',
-      fontFamily: "'Quicksand', sans-serif",
+      marginBottom: '15px',
+      textAlign: 'left',
     },
     paragraph: {
-      fontSize: '1.1rem',
-      lineHeight: '1.8',
-      color: colorScheme.secondaryText,
-      marginBottom: '20px',
+      fontSize: '1rem',
+      lineHeight: '1.7',
+      color: colorScheme.primaryText,
+      marginBottom: '15px',
+      textAlign: 'left',
+    },
+    highlightedParagraph: {
+      fontSize: '1rem',
+      lineHeight: '1.7',
+      color: colorScheme.primaryText,
+      marginBottom: '15px',
+      textAlign: 'left',
+      backgroundColor: 'rgba(255, 154, 90, 0.1)',
+      border: `2px solid rgba(255, 154, 90, 0.3)`,
+      borderRadius: '8px',
+      padding: '20px',
+      marginLeft: '20px',
+      borderLeft: `4px solid ${colorScheme.accent}`,
+    },
+    techStackContainer: {
+      backgroundColor: 'rgba(255, 154, 90, 0.05)',
+      border: `1px solid rgba(255, 154, 90, 0.2)`,
+      borderRadius: '8px',
+      padding: '20px',
+      marginBottom: '15px',
+    },
+    techItem: {
+      display: 'inline-block',
+      backgroundColor: colorScheme.accent,
+      textAlign: 'left',
+      color: 'white',
+      padding: '8px 16px',
+      borderRadius: '20px',
+      fontSize: '0.9rem',
+      fontWeight: '500',
+      marginRight: '10px',
+      marginBottom: '8px',
+      marginLeft: '0px',
+    },
+    techItemsContainer: {
+      margin: '0',
+      padding: '0',
+      textAlign: 'left',
     },
     backButton: {
       display: 'inline-block',
-      padding: '12px 30px',
+      padding: '10px 20px',
       backgroundColor: colorScheme.accent,
       color: 'white',
       textDecoration: 'none',
-      borderRadius: '25px',
-      fontWeight: '600',
+      borderRadius: '6px',
+      fontWeight: '500',
+      fontSize: '0.95rem',
       transition: 'all 0.3s ease',
       marginTop: '40px',
     },
-    comingSoon: {
-      textAlign: 'center',
-      padding: '40px',
-      backgroundColor: '#f0f8ff',
-      borderRadius: '15px',
-      marginTop: '30px',
-      border: `2px dashed ${colorScheme.accent}`,
-    },
     videoSection: {
-      marginBottom: '50px',
-      padding: '30px',
-      backgroundColor: '#fafafa',
-      borderRadius: '15px',
-      boxShadow: `0 8px 20px rgba(255, 154, 90, 0.2), 0 0 15px rgba(255, 154, 90, 0.1)`,
-      border: `2px solid ${colorScheme.accent}40`,
+      marginBottom: '30px',
     },
     videoContainer: {
       display: 'flex',
@@ -101,12 +142,6 @@ function PlayActionDashboardPage() {
     videoCard: {
       flex: '1 1 300px',
       maxWidth: '400px',
-      backgroundColor: colorScheme.cardBg,
-      borderRadius: '12px',
-      padding: '15px',
-      boxShadow: `0 6px 15px rgba(255, 154, 90, 0.3), 0 0 10px rgba(255, 154, 90, 0.2)`,
-      border: `2px solid ${colorScheme.accent}`,
-      transition: 'all 0.3s ease',
     },
     video: {
       width: '100%',
@@ -118,11 +153,24 @@ function PlayActionDashboardPage() {
   return (
     <div style={styles.container}>
       <div style={styles.content}>
+        <p style={styles.orangeLabel}>RIT Basketball</p>
         <h1 style={styles.heading}>Play-Action Frequency Dashboard</h1>
-        
-        <p style={styles.subheading}>
-          This interactive Tableau dashboard analyzes team play-type frequencies across games, providing comprehensive insights into basketball strategy patterns. The dashboard tracks various play types including Pick-and-Rolls, Catch-and-Shoot opportunities, Transition plays, and more, allowing coaches and analysts to identify trends and make data-driven strategic decisions.
-        </p>
+        <p style={styles.subtitle}>Interactive Tableau dashboard analyzing team play-type frequencies across games</p>
+
+      <div style={styles.highlightedParagraph}>
+            <p style={{margin: '0 0 15px 0'}}>
+              This dashboard helps RIT men's and women's coaches analyze play-action frequencies for other Liberty 
+              League teams using their most recent games. By visualizing how often opponents run each type of play, 
+              it highlights potential recency bias.
+            </p>
+            
+            <p style={{margin: '0'}}>
+              This shows what a team has been doing lately versus its 
+              longer-term tendencies. As lineups change over the season, the dashboard incorporates those recent 
+              rotations. This gives coaches a clearer view of how opponents' play-type distributions shift with 
+              personnel.
+            </p>
+          </div>
 
         <div style={styles.videoSection}>
           <h2 style={styles.sectionTitle}>Pick-and-Roll Analysis</h2>
@@ -184,6 +232,14 @@ function PlayActionDashboardPage() {
                 Your browser does not support the video tag.
               </video>
             </div>
+          </div>
+        </div>
+
+        <div style={styles.section}>
+          <h2 style={styles.sectionTitle}>Tech Stack</h2>
+          <div style={styles.techItemsContainer}>
+            <span style={styles.techItem}>Tableau</span>
+            <span style={styles.techItem}>SQL</span>
           </div>
         </div>
 

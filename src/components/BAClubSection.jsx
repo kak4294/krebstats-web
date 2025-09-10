@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 function BAClubSection() {
   const colorScheme = {
@@ -104,8 +105,8 @@ function BAClubSection() {
         </p>
 
         <p style={styles.paragraph}>
-          <a 
-            href="/baclub" 
+          <Link 
+            to="/baclub" 
             style={styles.link}
             onMouseOver={(e) => {
               e.currentTarget.style.color = '#ffb78a';
@@ -117,7 +118,7 @@ function BAClubSection() {
             }}
           >
             Click here to learn more about the club!
-          </a>
+          </Link>
         </p>
       </div>
     </div>

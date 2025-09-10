@@ -313,13 +313,13 @@ function LandingPage() {
         </div>
       </div>
 
-      {/* About Section */}
-      <section style={styles.aboutSection} id="about-section">
+      {/* FIXED: About Section - Removed duplicate ID, properly structured */}
+      <section style={styles.aboutSection}>
         <div style={styles.contentContainer}>
-          {/* About Section - Full Width */}
+          {/* About Content Card - FIXED: Added proper ID here */}
           <div 
             style={styles.column}
-            id="about-content"
+            id="about-section"
             onMouseOver={(e) => {
               e.currentTarget.style.transform = 'translateY(-5px)';
               e.currentTarget.style.boxShadow = '0 15px 30px rgba(255, 154, 90, 0.12)';
@@ -335,16 +335,38 @@ function LandingPage() {
           {/* Separator */}
           <div style={styles.separator}></div>
           
-          {/* Basketball Analytics Club Section */}
-          <div style={styles.column} id="baclub-section">
+          {/* FIXED: Basketball Analytics Club Section - Moved ID to proper container */}
+          <div 
+            style={styles.column} 
+            id="baclub-section"
+            onMouseOver={(e) => {
+              e.currentTarget.style.transform = 'translateY(-5px)';
+              e.currentTarget.style.boxShadow = '0 15px 30px rgba(255, 154, 90, 0.12)';
+            }}
+            onMouseOut={(e) => {
+              e.currentTarget.style.transform = 'translateY(0)';
+              e.currentTarget.style.boxShadow = '0 10px 25px rgba(255, 154, 90, 0.08)';
+            }}
+          >
             <BAClubSection />
           </div>
 
           {/* Separator */}
           <div style={styles.separator}></div>
 
-          {/* Projects Section */}
-          <div id="projects-section">
+          {/* FIXED: Projects Section - Added proper container with styling */}
+          <div 
+            style={styles.column} 
+            id="projects-section"
+            onMouseOver={(e) => {
+              e.currentTarget.style.transform = 'translateY(-5px)';
+              e.currentTarget.style.boxShadow = '0 15px 30px rgba(255, 154, 90, 0.12)';
+            }}
+            onMouseOut={(e) => {
+              e.currentTarget.style.transform = 'translateY(0)';
+              e.currentTarget.style.boxShadow = '0 10px 25px rgba(255, 154, 90, 0.08)';
+            }}
+          >
             <PersonalProjects />
           </div>
 

@@ -92,7 +92,7 @@ function PersonalProjects() {
 
   return (
     <div>
-      <h2 style={styles.heading} id="projects-section">
+      <h2 style={styles.heading}>
         Personal Projects
         <span style={styles.sectionUnderline}></span>
       </h2>

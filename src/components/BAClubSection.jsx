@@ -82,7 +82,7 @@ function BAClubSection() {
   };
 
   return (
-    <div style={styles.clubSection} id="baclub-section">
+    <div style={styles.clubSection}>
       <div style={styles.clubBackground}></div>
       <div style={styles.clubContent}>
         <h2 style={styles.heading}>

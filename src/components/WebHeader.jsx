@@ -27,8 +27,8 @@ function WebHeader() {
       justifyContent: 'space-between',
       alignItems: 'center',
       padding: scrolled ? '0.4rem 1.5rem' : '0.6rem 1.5rem',
-      backgroundColor: scrolled ? 'rgba(255, 255, 255, 0.97)' : 'white', // White background
-      color: '#333333', // Dark gray text color
+      backgroundColor: scrolled ? 'rgba(255, 255, 255, 0.97)' : 'white',
+      color: '#333333',
       boxShadow: scrolled ? '0 12px 24px rgba(255, 154, 90, 0.15)' : '0 2px 4px rgba(255, 154, 90, 0.1)',
       position: 'sticky',
       top: 0,
@@ -56,19 +56,19 @@ function WebHeader() {
     navButton: {
       backgroundColor: 'transparent',
       border: 'none',
-      color: '#333333', // Dark gray text
+      color: '#333333',
       fontSize: '0.95rem',
       fontFamily: "'JetBrains Mono', monospace",
       fontWeight: '400',
       padding: '0.4rem 0.6rem',
       cursor: 'pointer',
       transition: 'all 0.2s ease',
-      borderRadius: '20px', // More rounded for bubble style
+      borderRadius: '20px',
       position: 'relative',
       letterSpacing: '0.3px',
     },
     activeNavButton: {
-      backgroundColor: 'rgba(255, 154, 90, 0.2)' // Semi-transparent light orange
+      backgroundColor: 'rgba(255, 154, 90, 0.2)'
     },
     buttonHighlight: {
       content: '""',
@@ -78,16 +78,30 @@ function WebHeader() {
       transform: 'translateX(-50%)',
       width: '0%',
       height: '3px',
-      backgroundColor: '#ff9a5a', // Light orange for underline
+      backgroundColor: '#ff9a5a',
       transition: 'width 0.3s ease',
-      borderRadius: '10px', // Rounded underline
+      borderRadius: '10px',
     },
-    // Add hover styles
-    hoverStyle: {
-      ':hover': {
-        backgroundColor: '#fff1e6' // Very light orange on hover
-      }
+  };
+
+  // Reliable scroll function that works with your setup
+  const scrollToElement = (elementId) => {
+    const element = document.getElementById(elementId);
+    if (element) {
+      // Use scrollIntoView since it worked in our tests
+      element.scrollIntoView({ 
+        behavior: 'smooth', 
+        block: 'start'
+      });
+      
+      // Add a small offset by scrolling up a bit after the initial scroll
+      setTimeout(() => {
+        window.scrollBy(0, -140);
+      }, 100);
+      
+      return true;
     }
+    return false;
   };
 
   // Function to handle button clicks
@@ -111,12 +125,24 @@ function WebHeader() {
       return;
     }
 
-    // Compute target and navigate using router while keeping URL as '/'
     const targetId = getTargetId(section);
-    if (targetId) {
-      navigate('/', { state: { scrollTo: targetId }, replace: false });
+    
+    if (location.pathname === '/') {
+      // Already on home page, just scroll
+      if (targetId) {
+        // Try immediate scroll first
+        if (!scrollToElement(targetId)) {
+          // If element not found, try again after a short delay
+          setTimeout(() => scrollToElement(targetId), 100);
+        }
+      }
     } else {
-      navigate('/', { replace: false });
+      // Navigate to home page with scroll target
+      if (targetId) {
+        navigate('/', { state: { scrollTo: targetId }, replace: false });
+      } else {
+        navigate('/', { replace: false });
+      }
     }
   };
 

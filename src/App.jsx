@@ -61,27 +61,44 @@ function App() {
   }, []);
 
   // Handle navigation with state-based scroll targets (keeps URL as '/')
+
   useEffect(() => {
     const state = location.state;
     if (state && state.scrollTo) {
       const elementId = state.scrollTo;
-      let attempts = 0;
-      const tryScroll = () => {
+      
+      // Clear the state to prevent re-scrolling on subsequent renders
+      window.history.replaceState({}, document.title);
+      
+      // Improved scroll function with better timing
+      const scrollToTarget = () => {
         const element = document.getElementById(elementId);
         if (element) {
           const elementPosition = element.getBoundingClientRect().top + window.pageYOffset;
+          const offset = 120; // Account for sticky header
+          
           window.scrollTo({
-            top: elementPosition - 100,
+            top: elementPosition - offset,
             behavior: 'smooth'
           });
-        } else if (attempts < 10) {
-          attempts += 1;
-          setTimeout(tryScroll, 100);
+          return true;
         }
+        return false;
       };
-      setTimeout(tryScroll, 100);
+
+      // Try multiple times with increasing delays to ensure content is loaded
+      const attempts = [0, 100, 300, 500, 1000];
+      
+      attempts.forEach((delay, index) => {
+        setTimeout(() => {
+          if (scrollToTarget()) {
+            // Stop further attempts if successful
+            return;
+          }
+        }, delay);
+      });
     }
-  }, [location]);
+  }, [location.state]);
 
   // Handle hash-based navigation for scrolling to sections (fallback if hash exists)
   useEffect(() => {

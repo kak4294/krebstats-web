@@ -25,7 +25,7 @@ function PersonalProjects() {
     },
     sectionUnderline: {
       position: 'absolute',
-      bottom: '10px',
+      bottom: '-5px',
       left: '50%',
       transform: 'translateX(-50%)',
       width: '60px',
@@ -37,6 +37,7 @@ function PersonalProjects() {
       display: 'flex',
       gap: '2rem',
       flexWrap: 'wrap',
+      marginTop: '2rem',
     },
     projectCard: {
       flex: '1 1 300px',

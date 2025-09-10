@@ -14,125 +14,181 @@ function BookDatabasePage() {
     container: {
       minHeight: '100vh',
       backgroundColor: colorScheme.background,
-      padding: '60px 20px',
+      padding: '40px 20px',
       fontFamily: "'Nunito', sans-serif",
     },
     content: {
-      maxWidth: '1000px',
+      maxWidth: '800px',
       margin: '0 auto',
+      padding: '40px',
       backgroundColor: colorScheme.cardBg,
-      borderRadius: '20px',
-      padding: '60px',
-      boxShadow: '0 20px 40px rgba(255, 154, 90, 0.1)',
+      border: '2px solid #e0e0e0',
+      borderRadius: '8px',
+    },
+    breadcrumb: {
+      fontSize: '0.9rem',
+      color: colorScheme.secondaryText,
+      marginBottom: '10px',
+      textAlign: 'left',
+    },
+    category: {
+      fontSize: '0.95rem',
+      color: colorScheme.secondaryText,
+      marginBottom: '10px',
+      fontWeight: '500',
+      textAlign: 'left',
     },
     heading: {
       fontSize: '2.5rem',
       fontWeight: '700',
-      marginBottom: '30px',
+      marginBottom: '15px',
       color: colorScheme.primaryText,
-      fontFamily: "'Quicksand', sans-serif",
-      textAlign: 'center',
+      lineHeight: '1.2',
+      textAlign: 'left',
     },
-    subheading: {
-      fontSize: '1.3rem',
+    subtitle: {
+      fontSize: '1.05rem',
       color: colorScheme.secondaryText,
       marginBottom: '40px',
-      textAlign: 'center',
-      lineHeight: '1.6',
+      lineHeight: '1.4',
+      textAlign: 'left',
     },
     section: {
-      marginBottom: '40px',
+      marginBottom: '30px',
     },
     sectionTitle: {
-      fontSize: '1.5rem',
+      fontSize: '1.4rem',
       fontWeight: '600',
       color: colorScheme.primaryText,
-      marginBottom: '20px',
-      fontFamily: "'Quicksand', sans-serif",
+      marginBottom: '15px',
+      textAlign: 'left',
     },
     paragraph: {
-      fontSize: '1.1rem',
-      lineHeight: '1.8',
-      color: colorScheme.secondaryText,
-      marginBottom: '20px',
+      fontSize: '1rem',
+      lineHeight: '1.7',
+      color: colorScheme.primaryText,
+      marginBottom: '15px',
+      textAlign: 'left',
+    },
+    orangeLabel: {
+      fontSize: '0.85rem',
+      color: colorScheme.accent,
+      marginBottom: '8px',
+      fontWeight: '600',
+      textAlign: 'left',
+      textTransform: 'uppercase',
+      letterSpacing: '0.5px',
+    },
+    highlightedParagraph: {
+      fontSize: '1rem',
+      lineHeight: '1.7',
+      color: colorScheme.primaryText,
+      marginBottom: '15px',
+      textAlign: 'left',
+      backgroundColor: 'rgba(255, 154, 90, 0.1)',
+      border: `2px solid rgba(255, 154, 90, 0.3)`,
+      borderRadius: '8px',
+      padding: '20px',
+      marginLeft: '20px',
+      borderLeft: `4px solid ${colorScheme.accent}`,
+    },
+    techItem: {
+      display: 'inline-block',
+      backgroundColor: colorScheme.accent,
+      textAlign: 'left',
+      color: 'white',
+      padding: '8px 16px',
+      borderRadius: '20px',
+      fontSize: '0.9rem',
+      fontWeight: '500',
+      marginRight: '10px',
+      marginBottom: '8px',
+      marginLeft: '0px',
+    },
+    techItemsContainer: {
+      margin: '0',
+      padding: '0',
+      textAlign: 'left',
+    },
+    pdfSection: {
+      marginBottom: '30px',
+    },
+    pdfContainer: {
+      backgroundColor: '#fafafa',
+      borderRadius: '8px',
+      padding: '20px',
+      border: '1px solid #ddd',
+      marginTop: '20px',
+    },
+    pdfEmbed: {
+      borderRadius: '6px',
+      border: 'none',
+      width: '100%',
     },
     backButton: {
       display: 'inline-block',
-      padding: '12px 30px',
+      padding: '10px 20px',
       backgroundColor: colorScheme.accent,
       color: 'white',
       textDecoration: 'none',
-      borderRadius: '25px',
-      fontWeight: '600',
+      borderRadius: '6px',
+      fontWeight: '500',
+      fontSize: '0.95rem',
       transition: 'all 0.3s ease',
       marginTop: '40px',
-    },
-    comingSoon: {
-      textAlign: 'center',
-      padding: '40px',
-      backgroundColor: '#f0f8ff',
-      borderRadius: '15px',
-      marginTop: '30px',
-      border: `2px dashed ${colorScheme.accent}`,
     },
   };
 
   return (
     <div style={styles.container}>
       <div style={styles.content}>
+        <p style={styles.orangeLabel}>Data Analysis Project</p>
         <h1 style={styles.heading}>Statistical Analysis of Book Database</h1>
-        
-        <p style={styles.subheading}>
-          Comprehensive data pipeline and analysis project using Python, SQL, and Java
-        </p>
+        <p style={styles.subtitle}>Comprehensive data pipeline and analysis project using Python, SQL, and Java</p>
 
         <div style={styles.section}>
-          <h2 style={styles.sectionTitle}>Project Overview</h2>
+          <p style={styles.highlightedParagraph}>
+            As the lead data analyst for my group project, I was tasked with effectively finding insights 
+            about a relational database which was planned, built, and maintained by my team. 
+          </p>
+
+          <h2 style={styles.sectionTitle}>Data Processing & Analysis</h2>
           <p style={styles.paragraph}>
-            This project involved leading the complete data lifecycle for a book database analysis, 
-            from initial data cleaning and insertion through advanced statistical analysis. The project 
-            focused on understanding user book preferences and presenting actionable insights to stakeholders.
+            This project included many different analysis methods. This includes clustering, scatter plots, goodness of 
+            fit tests, heat maps, and pie charts.
+          </p>
+
+          <p style={styles.paragraph}>
+            Led all data cleaning and validation processes, then as a team we built an extensive amount of SQL-Java 
+            connectors which was a key part of our data pipeline. After which, I built all SQL queries for data extraction.
+            All returned queries were exported to Excel and then visualizations were created from there.
           </p>
         </div>
 
-        <div style={styles.section}>
-          <h2 style={styles.sectionTitle}>Key Responsibilities</h2>
+        <div style={styles.pdfSection}>
+          <h2 style={styles.sectionTitle}>Project Poster Visualization</h2>
           <p style={styles.paragraph}>
-            • Led comprehensive data cleaning and validation processes<br/>
-            • Designed and implemented database insertion procedures<br/>
-            • Managed data pipelines with Java and SQL connectors<br/>
-            • Executed complex SQL queries for data extraction<br/>
-            • Conducted statistical analysis of user reading patterns<br/>
-            • Created clear Excel visualizations for non-technical stakeholders
+            Below is a comprehensive poster visualization showcasing the data analysis methodology, key findings, and insights from the book database project.
           </p>
+          <div style={styles.pdfContainer}>
+            <embed 
+              src="/pdfs/PDM_Poster_DataAnalysis.pdf" 
+              type="application/pdf" 
+              width="100%" 
+              height="450px"
+              style={styles.pdfEmbed}
+            />
+          </div>
         </div>
 
         <div style={styles.section}>
-          <h2 style={styles.sectionTitle}>Technologies Used</h2>
-          <p style={styles.paragraph}>
-            • Python (Pandas) for data processing and analysis<br/>
-            • SQL for database management and queries<br/>
-            • Java for data pipeline connectors<br/>
-            • Excel for stakeholder-friendly visualizations<br/>
-            • Statistical analysis methodologies<br/>
-            • Large dataset handling techniques
-          </p>
-        </div>
-
-        <div style={styles.section}>
-          <h2 style={styles.sectionTitle}>Key Insights</h2>
-          <p style={styles.paragraph}>
-            The analysis revealed significant patterns in user book preferences, reading habits, and 
-            engagement metrics. These findings were successfully communicated to stakeholders through 
-            clear, actionable visualizations that informed business decisions.
-          </p>
-        </div>
-
-        <div style={styles.comingSoon}>
-          <h3 style={{...styles.sectionTitle, marginBottom: '10px'}}>Coming Soon</h3>
-          <p style={styles.paragraph}>
-            Sample visualizations, code examples, and detailed methodology documentation coming soon!
-          </p>
+          <h2 style={styles.sectionTitle}>Tech Stack</h2>
+          <div style={styles.techItemsContainer}>
+            <span style={styles.techItem}>Python</span>
+            <span style={styles.techItem}>SQL</span>
+            <span style={styles.techItem}>Java</span>
+            <span style={styles.techItem}>Excel</span>
+          </div>
         </div>
 
         <Link 

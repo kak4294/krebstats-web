@@ -140,8 +140,8 @@ function PlayActionDashboardPage() {
       justifyContent: 'center',
     },
     videoCard: {
-      flex: '1 1 300px',
-      maxWidth: '400px',
+      flex: '1 1 450px',
+      maxWidth: '700px',
     },
     video: {
       width: '100%',
@@ -161,7 +161,7 @@ function PlayActionDashboardPage() {
             <p style={{margin: '0 0 15px 0'}}>
               This dashboard helps RIT men's and women's coaches analyze play-action frequencies for other Liberty 
               League teams using their most recent games. By visualizing how often opponents run each type of play, 
-              it highlights potential recency bias.
+              it highlights potential recency bias, while accounting for pace. 
             </p>
             
             <p style={{margin: '0'}}>
@@ -175,7 +175,10 @@ function PlayActionDashboardPage() {
         <div style={styles.videoSection}>
           <h2 style={styles.sectionTitle}>Pick-and-Roll Analysis</h2>
           <p style={styles.paragraph}>
-            Track the frequency and effectiveness of pick-and-roll plays across different games and opponents. This visualization helps identify which teams rely heavily on screen actions and how successful they are in different situations.
+            The pick-and-roll has been one of the most widely adopted play actions on all levels of basketball.
+            I've found that higher frequencies to which a team ended a play with a pick-and-roll shows one of two things...
+            This teams plays heavy half court basketball, or guards are heavy shooters in this particular offense. Efficiency statistics
+            are needed to back one hypothesis vs the other, however these two possibilities are not mutally exclusive. 
           </p>
           <div style={styles.videoContainer}>
             <div style={styles.videoCard}>
@@ -186,7 +189,7 @@ function PlayActionDashboardPage() {
                 muted
                 playsInline
               >
-                <source src="/videos/pick-and-roll-demo.mp4" type="video/mp4" />
+                <source src="/mp4s/PNRs.mp4" type="video/mp4" />
                 Your browser does not support the video tag.
               </video>
             </div>
@@ -194,9 +197,14 @@ function PlayActionDashboardPage() {
         </div>
 
         <div style={styles.videoSection}>
-          <h2 style={styles.sectionTitle}>Catch-and-Shoot 3-Point Tracking</h2>
+          <h2 style={styles.sectionTitle}>Post-Up Shot Frequency Tracking</h2>
           <p style={styles.paragraph}>
-            Analyze three-point shooting patterns and catch-and-shoot opportunities. This section reveals which teams create the most open looks from beyond the arc and their conversion rates in different game situations.
+            Many lower level DI, II, & III teams have trouble effectively shooting three
+            pointers. Making it important to understand how teams integrate post-shooting into their offense. As
+            we can see, there are teams like RIT that depended on it way more in comparison to teams like Ithaca.
+            This can be backed as RIT had two big-men who accounted for over 25% of their offense, each of which 
+            were back to the basket type of players. While Ithaca led the Liberty League in both 3 point frequency and 
+            3 point percentage. 
           </p>
           <div style={styles.videoContainer}>
             <div style={styles.videoCard}>
@@ -207,7 +215,7 @@ function PlayActionDashboardPage() {
                 muted
                 playsInline
               >
-                <source src="/videos/three-point-analysis.mp4" type="video/mp4" />
+                <source src="/mp4s/Post-Ups.mp4" type="video/mp4" />
                 Your browser does not support the video tag.
               </video>
             </div>
@@ -217,7 +225,13 @@ function PlayActionDashboardPage() {
         <div style={styles.videoSection}>
           <h2 style={styles.sectionTitle}>Transition Statistics</h2>
           <p style={styles.paragraph}>
-            Monitor fast-break opportunities and transition play effectiveness. This dashboard section helps identify teams that excel in up-tempo situations and their success rates in different transition scenarios.
+            The largest difference between old and new era's of basketball is most defintietly the pace to which
+            the game is played. From the 2000's to present day, pace of play jumped from ~93 possessions per game
+            to ~100 possessions per game. So it's no question teams on lower levels want to start integrating that
+            into their offense. On the contrary, it should be mentioned that 3 out of the 4 teams with the lowest number of transition
+            shots were actually the top 3 teams to finish in the Liberty League playoffs. This shows the
+            importance of having a top tier half court offense. This checks out as we all know that games tend 
+            to slow down come crunch time.
           </p>
           <div style={styles.videoContainer}>
             <div style={styles.videoCard}>
@@ -228,7 +242,7 @@ function PlayActionDashboardPage() {
                 muted
                 playsInline
               >
-                <source src="/videos/transition-stats.mp4" type="video/mp4" />
+                <source src="/mp4s/Transitions.mp4" type="video/mp4" />
                 Your browser does not support the video tag.
               </video>
             </div>

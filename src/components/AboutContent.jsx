@@ -43,7 +43,7 @@ function AboutContent() {
       fontWeight: '700',
       marginBottom: '20px',
       color: colorScheme.primaryText,
-      fontFamily: "'Quicksand', sans-serif",
+      fontFamily: "Georgia, serif",
       position: 'relative',
       display: 'inline-block',
       paddingBottom: '25px',
@@ -65,7 +65,7 @@ function AboutContent() {
       lineHeight: '1.8',
       marginBottom: '24px',
       color: colorScheme.secondaryText,
-      fontFamily: "'Nunito', sans-serif",
+      fontFamily: "Georgia, serif",
       fontWeight: '500',
       textAlign: 'left',
     },
@@ -97,7 +97,7 @@ function AboutContent() {
         </p>
         <p style={styles.paragraph}>
           I played college basketball for a year before shoulder injuries got the best of me, but they could not keep me away 
-          from the game. I love watching and learning about it, and I will be a basketball coach one day.
+          from the game. I love watching and learning about it, and I will most definitely be a basketball coach one day.
         </p>
         <p style={styles.paragraph}>
           Hope you enjoy my website!
@@ -115,7 +115,7 @@ function AboutContent() {
         </h2>
         <p style={styles.paragraph}>
           <span style={styles.highlightText}>Education:</span><br />
-          • 4th Year Student at the <span style={styles.highlightText}>Rochester Institute of Technology (RIT)</span> <br />
+          • 4th Year @ <span style={styles.highlightText}>Rochester Institute of Technology (RIT)</span> <br />
           • Computer Science Major<br />
           • Applied Statistics Minor
         </p>

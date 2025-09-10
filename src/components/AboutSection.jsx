@@ -1,5 +1,4 @@
 import React from 'react';
-import WelcomeSection from './WelcomeSection';
 import AboutContent from './AboutContent';
 import BAClubSection from './BAClubSection';
 import PersonalProjects from './PersonalProjects';
@@ -22,7 +21,7 @@ function AboutSection() {
   const styles = {
     container: {
       padding: '0 0 40px',
-      backgroundColor: colorScheme.background,
+      backgroundColor: 'transparent',
       position: 'relative',
       minHeight: '100vh',
       width: '100%',
@@ -58,8 +57,6 @@ function AboutSection() {
 
   return (
     <section style={styles.container} id="about-section">
-      <WelcomeSection />
-      
       <div style={styles.contentContainer}>
         {/* About Section - Full Width */}
         <div 

@@ -26,7 +26,7 @@ function WebHeader() {
       display: 'flex',
       justifyContent: 'space-between',
       alignItems: 'center',
-      padding: scrolled ? '0.4rem 1.5rem' : '0.6rem 1.5rem',
+      padding: scrolled ? '0.8rem 1.5rem' : '1.2rem 1.5rem',
       backgroundColor: scrolled ? 'rgba(255, 255, 255, 0.97)' : 'white',
       color: '#333333',
       boxShadow: scrolled ? '0 12px 24px rgba(255, 154, 90, 0.15)' : '0 2px 4px rgba(255, 154, 90, 0.1)',
@@ -52,6 +52,7 @@ function WebHeader() {
     nav: {
       display: 'flex',
       gap: '1.5rem',
+      paddingRight: '2rem',
     },
     navButton: {
       backgroundColor: 'transparent',
@@ -96,7 +97,7 @@ function WebHeader() {
       
       // Add a small offset by scrolling up a bit after the initial scroll
       setTimeout(() => {
-        window.scrollBy(0, -140);
+        window.scrollBy(0, -180);
       }, 100);
       
       return true;

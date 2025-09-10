@@ -15,7 +15,7 @@ function BAClubSection() {
       fontWeight: '700',
       marginBottom: '10px',
       color: colorScheme.primaryText,
-      fontFamily: "'Quicksand', sans-serif",
+      fontFamily: "Georgia, serif",
       position: 'relative',
       display: 'inline-block',
       paddingBottom: '25px',
@@ -63,7 +63,7 @@ function BAClubSection() {
       lineHeight: '1.8',
       marginBottom: '24px',
       color: colorScheme.secondaryText,
-      fontFamily: "'Nunito', sans-serif",
+      fontFamily: "Georgia, serif",
       fontWeight: '500',
     },
     highlightText: {

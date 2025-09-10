@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 function PersonalProjects() {
   const colorScheme = {
-    background: '#f8f8f8',
+    background: 'transparent',
     cardBg: '#ffffff',
     primaryText: '#333333',
     secondaryText: '#5a5a5a',
@@ -16,7 +16,7 @@ function PersonalProjects() {
       fontWeight: '700',
       marginBottom: '10px',
       color: colorScheme.primaryText,
-      fontFamily: "'Quicksand', sans-serif",
+      fontFamily: "Georgia, serif",
       position: 'relative',
       display: 'inline-block',
       paddingBottom: '25px',
@@ -69,7 +69,7 @@ function PersonalProjects() {
       fontWeight: '700',
       marginBottom: '15px',
       color: colorScheme.primaryText,
-      fontFamily: "'Quicksand', sans-serif",
+      fontFamily: "Georgia, serif",
       textAlign: 'center',
     },
     paragraph: {
@@ -77,7 +77,7 @@ function PersonalProjects() {
       lineHeight: '1.8',
       marginBottom: '18px',
       color: colorScheme.secondaryText,
-      fontFamily: "'Nunito', sans-serif",
+      fontFamily: "Georgia, serif",
       fontWeight: '500',
     },
     link: {
@@ -185,7 +185,7 @@ function PersonalProjects() {
           <div style={styles.projectContent}>
             <h3 style={styles.projectTitle}>Statistical Analysis of Book Database</h3>
             <p style={styles.paragraph}>
-              Led data cleaning and analysis of a relational database using Python (Pandas) and SQL. Managed data pipelines with Java connectors and conducted statistical analysis of user book preferences, presenting findings through clear Excel visualizations.
+              Led data cleaning and analysis of a relational database using Python (Pandas) and SQL. Built Java connectors and conducted statistical analysis of user book preferences, using clear Excel visualizations.
             </p>
           </div>
           <div style={styles.projectFooter}>

@@ -7,6 +7,7 @@ import LandingPage from './pages/LandingPage'
 import PlayActionDashboardPage from './pages/PlayActionDashboardPage'
 import ScoutingReportsPage from './pages/ScoutingReportsPage'
 import BookDatabasePage from './pages/BookDatabasePage'
+import RITBasketballPage from './pages/RIT-Basketball-Page'
 
 function App() {
   const location = useLocation()
@@ -61,44 +62,52 @@ function App() {
   }, []);
 
   // Handle navigation with state-based scroll targets (keeps URL as '/')
-
   useEffect(() => {
     const state = location.state;
     if (state && state.scrollTo) {
       const elementId = state.scrollTo;
       
+      console.log(`🎯 Navigation scroll triggered for: ${elementId}`);
+      
       // Clear the state to prevent re-scrolling on subsequent renders
       window.history.replaceState({}, document.title);
       
-      // Improved scroll function with better timing
+      // Function to scroll to target element
       const scrollToTarget = () => {
         const element = document.getElementById(elementId);
         if (element) {
-          const elementPosition = element.getBoundingClientRect().top + window.pageYOffset;
-          const offset = 120; // Account for sticky header
+          console.log(`✅ Found element for navigation scroll:`, element);
           
-          window.scrollTo({
-            top: elementPosition - offset,
-            behavior: 'smooth'
+          // Use scrollIntoView since that worked in our tests
+          element.scrollIntoView({ 
+            behavior: 'smooth', 
+            block: 'start'
           });
+          
+          // Add offset for sticky header
+          setTimeout(() => {
+            window.scrollBy(0, -180);
+          }, 100);
+          
           return true;
+        } else {
+          console.log(`❌ Element '${elementId}' not found during navigation`);
+          return false;
         }
-        return false;
       };
 
-      // Try multiple times with increasing delays to ensure content is loaded
-      const attempts = [0, 100, 300, 500, 1000];
+      // Try scrolling with multiple delays to ensure content is loaded
+      const attempts = [200, 500, 800, 1200];
       
-      attempts.forEach((delay, index) => {
+      attempts.forEach((delay) => {
         setTimeout(() => {
-          if (scrollToTarget()) {
-            // Stop further attempts if successful
-            return;
+          if (document.getElementById(elementId)) {
+            scrollToTarget();
           }
         }, delay);
       });
     }
-  }, [location.state]);
+  }, [location.state]); 
 
   // Handle hash-based navigation for scrolling to sections (fallback if hash exists)
   useEffect(() => {
@@ -111,7 +120,7 @@ function App() {
       if (element) {
         const elementPosition = element.getBoundingClientRect().top + window.pageYOffset;
         window.scrollTo({
-          top: elementPosition - 100,
+          top: elementPosition - 180,
           behavior: 'smooth'
         });
       } else if (attempts < 10) {
@@ -204,6 +213,7 @@ function App() {
           <Route path="/projects/play-action-dashboard" element={<PlayActionDashboardPage />} />
           <Route path="/projects/scouting-reports" element={<ScoutingReportsPage />} />
           <Route path="/projects/book-database-analysis" element={<BookDatabasePage />} />
+          <Route path="/baclub" element={<RITBasketballPage />} />
         </Routes>
       </div>
     </div>

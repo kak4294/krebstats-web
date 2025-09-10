@@ -1,9 +1,10 @@
 import React, { useState, useEffect } from 'react';
-// Import the logo directly
-import logoImage from '/imgs/KrebStats-Logo-Orange.png';
+import { useNavigate, useLocation } from 'react-router-dom';
 
 function WebHeader() {
   const [scrolled, setScrolled] = useState(false);
+  const navigate = useNavigate();
+  const location = useLocation();
   
   // Handle scroll effect for header
   useEffect(() => {
@@ -25,7 +26,7 @@ function WebHeader() {
       display: 'flex',
       justifyContent: 'space-between',
       alignItems: 'center',
-      padding: scrolled ? '0.7rem 2rem' : '1.2rem 2rem',
+      padding: scrolled ? '0.4rem 1.5rem' : '0.6rem 1.5rem',
       backgroundColor: scrolled ? 'rgba(255, 255, 255, 0.97)' : 'white', // White background
       color: '#333333', // Dark gray text color
       boxShadow: scrolled ? '0 12px 24px rgba(255, 154, 90, 0.15)' : '0 2px 4px rgba(255, 154, 90, 0.1)',
@@ -38,32 +39,28 @@ function WebHeader() {
       transition: 'all 0.3s ease',
       borderBottom: scrolled ? '1px solid rgba(255, 154, 90, 0.2)' : 'none',
     },
-    logo: {
+    nameText: {
       margin: 0,
       cursor: 'pointer',
-      height: scrolled ? '60px' : '75px',
-      display: 'flex',
-      alignItems: 'center',
-      transition: 'height 0.3s ease',
-    },
-    logoImage: {
-      height: '100%',
-      maxHeight: scrolled ? '60px' : '75px',
-      width: 'auto',
-      transition: 'max-height 0.3s ease',
+      fontSize: scrolled ? '1.3rem' : '1.5rem',
+      fontFamily: "'JetBrains Mono', monospace",
+      fontWeight: '700',
+      color: '#333333',
+      transition: 'font-size 0.3s ease',
+      letterSpacing: '0.5px',
     },
     nav: {
       display: 'flex',
-      gap: '2rem',
+      gap: '1.5rem',
     },
     navButton: {
       backgroundColor: 'transparent',
       border: 'none',
       color: '#333333', // Dark gray text
-      fontSize: '1.05rem',
-      fontFamily: "'Quicksand', sans-serif", // Bubble-styled font
-      fontWeight: '600',
-      padding: '0.5rem 0.75rem',
+      fontSize: '0.95rem',
+      fontFamily: "'JetBrains Mono', monospace",
+      fontWeight: '400',
+      padding: '0.4rem 0.6rem',
       cursor: 'pointer',
       transition: 'all 0.2s ease',
       borderRadius: '20px', // More rounded for bubble style
@@ -95,49 +92,47 @@ function WebHeader() {
 
   // Function to handle button clicks
   const handleNavClick = (section) => {
-    if (section === 'about') {
-      window.scrollTo({
-        top: 0,
-        behavior: 'smooth'
-      });
-    } else if (section === 'projects') {
-      const element = document.getElementById('projects-section');
-      if (element) {
-        const elementPosition = element.getBoundingClientRect().top + window.pageYOffset;
-        window.scrollTo({
-          top: elementPosition - 100,
-          behavior: 'smooth'
-        });
+    const getTargetId = (sec) => {
+      if (sec === 'about') return 'about-section';
+      if (sec === 'basketball analytics club') return 'baclub-section';
+      if (sec === 'projects') return 'projects-section';
+      if (sec === 'resume') return 'resume-section';
+      if (sec === 'contact') return 'contact-section';
+      return '';
+    };
+
+    // Handle "home" separately
+    if (section === 'home') {
+      if (location.pathname === '/') {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      } else {
+        navigate('/', { replace: false });
       }
-    } else if (section === 'baclub') {
-      // Navigate to BAClub page
-      window.location.href = '/baclub';
-    } else if (section === 'resume') {
-      // Navigate to Resume page
-      window.location.href = '/resume';
-    } else if (section === 'contact') {
-      // Navigate to Contact page
-      window.location.href = '/contact';
+      return;
+    }
+
+    // Compute target and navigate using router while keeping URL as '/'
+    const targetId = getTargetId(section);
+    if (targetId) {
+      navigate('/', { state: { scrollTo: targetId }, replace: false });
+    } else {
+      navigate('/', { replace: false });
     }
   };
 
   return (
     <header style={headerStyles.header}>
-      {/* Logo/Brand on the left */}
+      {/* Name on the left */}
       <div 
-        style={headerStyles.logo}
+        style={headerStyles.nameText}
         onClick={() => handleNavClick('home')}
       >
-        <img 
-          src={logoImage} 
-          alt="KrebStats Logo" 
-          style={headerStyles.logoImage}
-        />
+        Kyle Krebs
       </div>
 
       {/* Navigation buttons on the right */}
       <nav style={headerStyles.nav}>
-        {['About', 'BAClub', 'Projects', 'Resume', 'Contact'].map((item) => (
+        {['About', 'Basketball Analytics Club', 'Projects', 'Resume', 'Contact'].map((item) => (
           <button
             key={item}
             style={headerStyles.navButton}

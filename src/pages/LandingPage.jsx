@@ -289,7 +289,7 @@ function LandingPage() {
           {/* Resume Button */}
           <div style={styles.resumeContainer}>
             <a 
-              href="/resume.pdf" 
+              href="/pdfs/Resume_Sep2025.pdf" 
               target="_blank" 
               rel="noopener noreferrer"
               style={styles.resumeButton}
@@ -380,7 +380,7 @@ function LandingPage() {
               Download my resume to learn more about my experience in data analysis, basketball analytics, and software development.
             </p>
             <a 
-              href="/resume.pdf" 
+              href="/pdfs/Resume_Sep2025.pdf" 
               target="_blank" 
               rel="noopener noreferrer"
               style={{

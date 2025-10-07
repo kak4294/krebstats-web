@@ -13,6 +13,9 @@ dist
 dist-ssr
 *.local
 
+# MP4 files in root (for local dev only)
+/mp4s/
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json

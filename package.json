@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://kak4294.github.io/krebstats-web/",
+  "homepage": "https://krebstats.com/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

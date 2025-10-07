@@ -16,6 +16,9 @@ dist-ssr
 # MP4 files in root (for local dev only)
 /mp4s/
 
+# Logo file in root (for local dev only)
+/BAClub-Logo.png
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json

@@ -188,6 +188,11 @@ function PlayActionDashboardPage() {
                 loop
                 muted
                 playsInline
+                preload="auto"
+                controls={false}
+                onLoadedData={(e) => {
+                  e.target.play().catch(console.error);
+                }}
               >
                 <source src="/mp4s/PNRs.mp4" type="video/mp4" />
                 Your browser does not support the video tag.
@@ -214,6 +219,11 @@ function PlayActionDashboardPage() {
                 loop
                 muted
                 playsInline
+                preload="auto"
+                controls={false}
+                onLoadedData={(e) => {
+                  e.target.play().catch(console.error);
+                }}
               >
                 <source src="/mp4s/Post-Ups.mp4" type="video/mp4" />
                 Your browser does not support the video tag.
@@ -241,6 +251,11 @@ function PlayActionDashboardPage() {
                 loop
                 muted
                 playsInline
+                preload="auto"
+                controls={false}
+                onLoadedData={(e) => {
+                  e.target.play().catch(console.error);
+                }}
               >
                 <source src="/mp4s/Transitions.mp4" type="video/mp4" />
                 Your browser does not support the video tag.

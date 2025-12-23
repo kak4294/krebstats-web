@@ -1,17 +1,56 @@
 import { useState, useEffect } from 'react'
-import { Routes, Route, useLocation, useNavigationType } from 'react-router-dom'
+import { Routes, Route, useLocation, useNavigationType, Navigate } from 'react-router-dom'
 import './App.css'
 import './fonts.css'
+import { AuthProvider, useAuth } from './context/AuthContext'
 import WebHeader from './components/WebHeader'
 import LandingPage from './pages/LandingPage'
 import PlayActionDashboardPage from './pages/PlayActionDashboardPage'
 import ScoutingReportsPage from './pages/ScoutingReportsPage'
 import BookDatabasePage from './pages/BookDatabasePage'
 import RITBasketballPage from './pages/RIT-Basketball-Page'
+import LoginPage from './liberty-league-components/LoginPage'
+import DashboardPage from './liberty-league-components/DashboardPage'
+import LibertyScoutingReportsPage from './liberty-league-components/ScoutingReportsPage'
+import GameScoutingPage from './liberty-league-components/GameScoutingPage'
+import LeagueStatsPage from './liberty-league-components/LeagueStatsPage'
+import PlayerLeaderboardsPage from './liberty-league-components/PlayerLeaderboardsPage'
+import TeamLeaderboardsPage from './liberty-league-components/TeamLeaderboardsPage'
+import BlogPostsPage from './liberty-league-components/BlogPostsPage'
+import Header from './liberty-league-components/Header'
 
-function App() {
+// Protected Route Component for Liberty League Analytics
+const ProtectedRoute = ({ children }) => {
+  const { isAuthenticated, isLoading } = useAuth();
+  
+  if (isLoading) {
+    return (
+      <div style={{
+        display: 'flex',
+        justifyContent: 'center',
+        alignItems: 'center',
+        height: '100vh',
+        backgroundColor: '#f8f8f8'
+      }}>
+        <div style={{
+          fontSize: '1.2rem',
+          color: '#ff9a5a',
+          fontFamily: "'JetBrains Mono', monospace"
+        }}>
+          Loading...
+        </div>
+      </div>
+    );
+  }
+  
+  return isAuthenticated ? children : <Navigate to="/liberty-league-login" replace />;
+};
+
+// App Content with routing
+const AppContent = () => {
   const location = useLocation()
   const navType = useNavigationType()
+  const { isAuthenticated } = useAuth();
 
   // Updated color scheme - light gray background with light orange accent
   const colorScheme = {
@@ -201,23 +240,76 @@ function App() {
     }
   };
 
+  // Check if we're in Liberty League Analytics section
+  const isLibertyLeagueSection = location.pathname.startsWith('/liberty-league');
+
   return (
     <div style={rootStyle}>
-      {/* Header is now positioned at the very top */}
-      <WebHeader />
+      {/* Conditional Header - show Liberty League header when in that section */}
+      {isLibertyLeagueSection && isAuthenticated ? <Header /> : <WebHeader />}
       
       {/* Main content with routing */}
       <div style={styles.mainContent}>
         <Routes>
+          {/* Main website routes */}
           <Route path="/" element={<LandingPage />} />
           <Route path="/projects/play-action-dashboard" element={<PlayActionDashboardPage />} />
           <Route path="/projects/scouting-reports" element={<ScoutingReportsPage />} />
           <Route path="/projects/book-database-analysis" element={<BookDatabasePage />} />
           <Route path="/baclub" element={<RITBasketballPage />} />
+          
+          {/* Liberty League Analytics routes */}
+          <Route path="/liberty-league-login" element={<LoginPage />} />
+          <Route path="/liberty-league-dashboard" element={
+            <ProtectedRoute>
+              <DashboardPage />
+            </ProtectedRoute>
+          } />
+          <Route path="/liberty-league-scouting-reports" element={
+            <ProtectedRoute>
+              <LibertyScoutingReportsPage />
+            </ProtectedRoute>
+          } />
+          <Route path="/liberty-league-scouting-reports/:team/:gameId" element={
+            <ProtectedRoute>
+              <GameScoutingPage />
+            </ProtectedRoute>
+          } />
+          <Route path="/liberty-league-stats" element={
+            <ProtectedRoute>
+              <LeagueStatsPage />
+            </ProtectedRoute>
+          } />
+          <Route path="/liberty-league-stats/players" element={
+            <ProtectedRoute>
+              <PlayerLeaderboardsPage />
+            </ProtectedRoute>
+          } />
+          <Route path="/liberty-league-stats/teams" element={
+            <ProtectedRoute>
+              <TeamLeaderboardsPage />
+            </ProtectedRoute>
+          } />
+          <Route path="/liberty-league-blog" element={
+            <ProtectedRoute>
+              <BlogPostsPage />
+            </ProtectedRoute>
+          } />
+          
+          {/* Catch all route */}
+          <Route path="*" element={<Navigate to="/" replace />} />
         </Routes>
       </div>
     </div>
   )
+};
+
+function App() {
+  return (
+    <AuthProvider>
+      <AppContent />
+    </AuthProvider>
+  );
 }
 
 export default App

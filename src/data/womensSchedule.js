@@ -1,0 +1,352 @@
+/**
+ * Women's Basketball Schedule Data
+ * RIT Women's Basketball 2025-26 Season
+ * 
+ * To update this schedule, use the update functions in upd_womens_schedule.js
+ * or modify this file directly.
+ */
+
+export const womensSchedule = [
+  {
+    id: 1,
+    date: "November 8, 2025",
+    day: "Saturday",
+    time: "1:00 PM",
+    opponent: "Chatham",
+    location: "Meadville, Pa. / David V. Wise Center",
+    result: { type: "loss", score: "40-64" },
+    conference: "Non-conference",
+    homeAway: "neutral",
+    completed: true,
+    logo: "/imgs/logos/chatham.png"
+  },
+  {
+    id: 2,
+    date: "November 9, 2025",
+    day: "Sunday",
+    time: "3:00 PM",
+    opponent: "Allegheny",
+    location: "Meadville, Pa. / David V. Wise Center",
+    result: { type: "win", score: "62-60" },
+    conference: "Non-conference",
+    homeAway: "away",
+    completed: true,
+    logo: "/imgs/logos/allegheny.png"
+  },
+  {
+    id: 3,
+    date: "November 15, 2025",
+    day: "Saturday",
+    time: "1:00 PM",
+    opponent: "Stevens",
+    location: "Boston, Mass. / Jean Yawkey Center",
+    result: { type: "win", score: "59-39" },
+    conference: "Non-conference",
+    homeAway: "neutral",
+    completed: true,
+    tournament: "Emmanuel College Tip-Off Tournament",
+    logo: "/imgs/logos/stevens.png"
+  },
+  {
+    id: 4,
+    date: "November 16, 2025",
+    day: "Sunday",
+    time: "3:00 PM",
+    opponent: "Emmanuel",
+    location: "Boston, Mass. / Jean Yawkey Center",
+    result: { type: "win", score: "61-50" },
+    conference: "Non-conference",
+    homeAway: "away",
+    completed: true,
+    tournament: "Emmanuel College Tip-Off Tournament",
+    logo: "/imgs/logos/emmanuel.png"
+  },
+  {
+    id: 5,
+    date: "November 22, 2025",
+    day: "Saturday",
+    time: "2:00 PM",
+    opponent: "#22 Geneseo",
+    location: "Geneseo, N.Y. / Carl Schrader Gymnasium",
+    result: { type: "loss", score: "63-64" },
+    conference: "Non-conference",
+    homeAway: "away",
+    completed: true,
+    notes: "Ranked opponent",
+    logo: "/imgs/logos/geneseo.png"
+  },
+  {
+    id: 6,
+    date: "December 2, 2025",
+    day: "Tuesday",
+    time: "6:00 PM",
+    opponent: "Brockport",
+    location: "Brockport, N.Y. / Jim and John Vlogianitis Gymnasium",
+    result: { type: "loss", score: "61-65" },
+    conference: "Non-conference",
+    homeAway: "away",
+    completed: true,
+    logo: "/imgs/logos/brockport.png"
+  },
+  {
+    id: 7,
+    date: "December 5, 2025",
+    day: "Friday",
+    time: "5:30 PM",
+    opponent: "Skidmore",
+    location: "Saratoga Springs, N.Y. / Williamson Sports Center",
+    result: { type: "win", score: "47-46" },
+    conference: "Liberty League",
+    homeAway: "away",
+    completed: true,
+    logo: "/imgs/logos/skidmore.png"
+  },
+  {
+    id: 8,
+    date: "December 6, 2025",
+    day: "Saturday",
+    time: "2:00 PM",
+    opponent: "Bard",
+    location: "Annandale-on-Hudson, N.Y. / Stevenson Athletic Center",
+    result: { type: "win", score: "61-42" },
+    conference: "Liberty League",
+    homeAway: "away",
+    completed: true,
+    logo: "/imgs/logos/bard.png"
+  },
+  {
+    id: 9,
+    date: "January 3, 2026",
+    day: "Saturday",
+    time: "1:00 PM",
+    opponent: "Union",
+    location: "Rochester, N.Y. / Clark Gymnasium",
+    result: null,
+    conference: "Liberty League",
+    homeAway: "home",
+    completed: false,
+    logo: "/imgs/logos/union.png"
+  },
+  {
+    id: 10,
+    date: "January 6, 2026",
+    day: "Tuesday",
+    time: "5:00 PM",
+    opponent: "Rochester",
+    location: "Rochester, N.Y. / Clark Gymnasium",
+    result: null,
+    conference: "Non-conference",
+    homeAway: "home",
+    completed: false,
+    logo: "/imgs/logos/rochester.png"
+  },
+  {
+    id: 11,
+    date: "January 9, 2026",
+    day: "Friday",
+    time: "5:30 PM",
+    opponent: "Ithaca",
+    location: "Ithaca, N.Y. / Ben Light Gymnasium",
+    result: null,
+    conference: "Liberty League",
+    homeAway: "away",
+    completed: false,
+    logo: "/imgs/logos/ithaca.png"
+  },
+  {
+    id: 12,
+    date: "January 10, 2026",
+    day: "Saturday",
+    time: "2:00 PM",
+    opponent: "William Smith",
+    location: "Geneva, N.Y. / Bristol Gymnasium",
+    result: null,
+    conference: "Liberty League",
+    homeAway: "away",
+    completed: false,
+    logo: "/imgs/logos/williamsmith.png"
+  },
+  {
+    id: 13,
+    date: "January 13, 2026",
+    day: "Tuesday",
+    time: "5:30 PM",
+    opponent: "Union",
+    location: "Schenectady, N.Y. / Viniar Athletic Center",
+    result: null,
+    conference: "Liberty League",
+    homeAway: "away",
+    completed: false,
+    logo: "/imgs/logos/union.png"
+  },
+  {
+    id: 14,
+    date: "January 16, 2026",
+    day: "Friday",
+    time: "5:30 PM",
+    opponent: "Vassar",
+    location: "Rochester, N.Y. / Clark Gymnasium",
+    result: null,
+    conference: "Liberty League",
+    homeAway: "home",
+    completed: false,
+    logo: "/imgs/logos/vassar.png"
+  },
+  {
+    id: 15,
+    date: "January 17, 2026",
+    day: "Saturday",
+    time: "2:00 PM",
+    opponent: "RPI",
+    location: "Rochester, N.Y. / Clark Gymnasium",
+    result: null,
+    conference: "Liberty League",
+    homeAway: "home",
+    completed: false,
+    logo: "/imgs/logos/rpi.png"
+  },
+  {
+    id: 16,
+    date: "January 23, 2026",
+    day: "Friday",
+    time: "5:30 PM",
+    opponent: "St. Lawrence",
+    location: "Canton, N.Y. / Ronald T. Burkman Gymnasium",
+    result: null,
+    conference: "Liberty League",
+    homeAway: "away",
+    completed: false,
+    logo: "/imgs/logos/stlawrence.png"
+  },
+  {
+    id: 17,
+    date: "January 24, 2026",
+    day: "Saturday",
+    time: "2:00 PM",
+    opponent: "Clarkson",
+    location: "Potsdam, N.Y. / Alumni Gymnasium",
+    result: null,
+    conference: "Liberty League",
+    homeAway: "away",
+    completed: false,
+    logo: "/imgs/logos/clarkson.png"
+  },
+  {
+    id: 18,
+    date: "January 30, 2026",
+    day: "Friday",
+    time: "5:30 PM",
+    opponent: "William Smith",
+    location: "Rochester, N.Y. / Clark Gymnasium",
+    result: null,
+    conference: "Liberty League",
+    homeAway: "home",
+    completed: false,
+    logo: "/imgs/logos/williamsmith.png"
+  },
+  {
+    id: 19,
+    date: "January 31, 2026",
+    day: "Saturday",
+    time: "2:00 PM",
+    opponent: "Ithaca",
+    location: "Rochester, N.Y. / Clark Gymnasium",
+    result: null,
+    conference: "Liberty League",
+    homeAway: "home",
+    completed: false,
+    logo: "/imgs/logos/ithaca.png"
+  },
+  {
+    id: 20,
+    date: "February 6, 2026",
+    day: "Friday",
+    time: "5:30 PM",
+    opponent: "Clarkson",
+    location: "Rochester, N.Y. / Clark Gymnasium",
+    result: null,
+    conference: "Liberty League",
+    homeAway: "home",
+    completed: false,
+    logo: "/imgs/logos/clarkson.png"
+  },
+  {
+    id: 21,
+    date: "February 7, 2026",
+    day: "Saturday",
+    time: "2:00 PM",
+    opponent: "St. Lawrence",
+    location: "Rochester, N.Y. / Clark Gymnasium",
+    result: null,
+    conference: "Liberty League",
+    homeAway: "home",
+    completed: false,
+    logo: "/imgs/logos/stlawrence.png"
+  },
+  {
+    id: 22,
+    date: "February 13, 2026",
+    day: "Friday",
+    time: "5:30 PM",
+    opponent: "RPI",
+    location: "Troy, N.Y. / ECAV Arena",
+    result: null,
+    conference: "Liberty League",
+    homeAway: "away",
+    completed: false,
+    logo: "/imgs/logos/rpi.png"
+  },
+  {
+    id: 23,
+    date: "February 14, 2026",
+    day: "Saturday",
+    time: "2:00 PM",
+    opponent: "Vassar",
+    location: "Poughkeepsie, N.Y. / Athletics and Fitness Center",
+    result: null,
+    conference: "Liberty League",
+    homeAway: "away",
+    completed: false,
+    logo: "/imgs/logos/vassar.png"
+  },
+  {
+    id: 24,
+    date: "February 20, 2026",
+    day: "Friday",
+    time: "5:30 PM",
+    opponent: "Bard",
+    location: "Rochester, N.Y. / Clark Gymnasium",
+    result: null,
+    conference: "Liberty League",
+    homeAway: "home",
+    completed: false,
+    logo: "/imgs/logos/bard.png"
+  },
+  {
+    id: 25,
+    date: "February 21, 2026",
+    day: "Saturday",
+    time: "2:00 PM",
+    opponent: "Skidmore",
+    location: "Rochester, N.Y. / Clark Gymnasium",
+    result: null,
+    conference: "Liberty League",
+    homeAway: "home",
+    completed: false,
+    logo: "/imgs/logos/skidmore.png"
+  }
+];
+
+// Summary information
+export const womensSummary = {
+  totalGames: 25,
+  completedGames: 8,
+  remainingGames: 17,
+  overallRecord: { wins: 5, losses: 3 },
+  leagueRecord: { wins: 2, losses: 0 },
+  homeVenue: "Clark Gymnasium, Rochester, N.Y.",
+  conference: "Liberty League"
+};
+
+export default womensSchedule;
+

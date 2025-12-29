@@ -20,6 +20,12 @@ export const playerReports = {
     'keuka': '/data/player-reports/mens/Keuka_Mens_Player_Analysis.pdf',
     'nazareth': '/data/player-reports/mens/Nazareth_Mens_Player_Analysis.pdf',
     'skidmore': '/data/player-reports/mens/Skidmore_Thoroughbreds_Player_Analysis_Mens.pdf',
+    'cnu': '/data/player-reports/mens/CNU_Player_Analysis_Mens.pdf',
+    'christopher_newport': '/data/player-reports/mens/CNU_Player_Analysis_Mens.pdf',
+    'jwu_charlotte': '/data/player-reports/mens/JWU_Charlotte_Player_Analysis_Mens.pdf',
+    'johnson_wales_nc': '/data/player-reports/mens/JWU_Charlotte_Player_Analysis_Mens.pdf',
+    'johnson_wales_charlotte': '/data/player-reports/mens/JWU_Charlotte_Player_Analysis_Mens.pdf',
+    'johnson_wales_n_c': '/data/player-reports/mens/JWU_Charlotte_Player_Analysis_Mens.pdf',
   },
   womens: {
     'allegheny': '/data/player-reports/womens/Allegheny_Player_Analysis.pdf',

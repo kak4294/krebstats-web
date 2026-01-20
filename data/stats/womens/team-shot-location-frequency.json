@@ -3,7 +3,7 @@
   "gender": "womens",
   "query": "team-shot-location-frequency",
   "description": "Team shot distribution showing percentage of shots from each court zone",
-  "fetched_at": "2026-01-20T11:52:58.026709",
+  "fetched_at": "2026-01-20T12:30:30.773392",
   "row_count": 10,
   "data": [
     {
@@ -12,7 +12,11 @@
       "CLOSE_COUNT": "114",
       "MID_COUNT": "94",
       "THREE_COUNT": "352",
-      "TOTAL_SHOTS": "1005"
+      "TOTAL_SHOTS": "1005",
+      "LAYUP_PCT": "44.3",
+      "CLOSE_PCT": "11.3",
+      "MID_PCT": "9.4",
+      "THREE_PCT": "35.0"
     },
     {
       "TEAM": "Union (NY) Chargers",
@@ -20,7 +24,11 @@
       "CLOSE_COUNT": "107",
       "MID_COUNT": "43",
       "THREE_COUNT": "271",
-      "TOTAL_SHOTS": "916"
+      "TOTAL_SHOTS": "916",
+      "LAYUP_PCT": "54.0",
+      "CLOSE_PCT": "11.7",
+      "MID_PCT": "4.7",
+      "THREE_PCT": "29.6"
     },
     {
       "TEAM": "Rensselaer Polytechnic",
@@ -28,7 +36,11 @@
       "CLOSE_COUNT": "43",
       "MID_COUNT": "99",
       "THREE_COUNT": "305",
-      "TOTAL_SHOTS": "911"
+      "TOTAL_SHOTS": "911",
+      "LAYUP_PCT": "50.9",
+      "CLOSE_PCT": "4.7",
+      "MID_PCT": "10.9",
+      "THREE_PCT": "33.5"
     },
     {
       "TEAM": "Rochester Institute of Technology Tigers",
@@ -36,7 +48,11 @@
       "CLOSE_COUNT": "150",
       "MID_COUNT": "62",
       "THREE_COUNT": "282",
-      "TOTAL_SHOTS": "886"
+      "TOTAL_SHOTS": "886",
+      "LAYUP_PCT": "44.2",
+      "CLOSE_PCT": "16.9",
+      "MID_PCT": "7.0",
+      "THREE_PCT": "31.8"
     },
     {
       "TEAM": "St. Lawrence Saints",
@@ -44,7 +60,11 @@
       "CLOSE_COUNT": "61",
       "MID_COUNT": "125",
       "THREE_COUNT": "323",
-      "TOTAL_SHOTS": "870"
+      "TOTAL_SHOTS": "870",
+      "LAYUP_PCT": "41.5",
+      "CLOSE_PCT": "7.0",
+      "MID_PCT": "14.4",
+      "THREE_PCT": "37.1"
     },
     {
       "TEAM": "Bard College",
@@ -52,7 +72,11 @@
       "CLOSE_COUNT": "57",
       "MID_COUNT": "71",
       "THREE_COUNT": "397",
-      "TOTAL_SHOTS": "846"
+      "TOTAL_SHOTS": "846",
+      "LAYUP_PCT": "37.9",
+      "CLOSE_PCT": "6.7",
+      "MID_PCT": "8.4",
+      "THREE_PCT": "46.9"
     },
     {
       "TEAM": "William Smith Herons",
@@ -60,7 +84,11 @@
       "CLOSE_COUNT": "113",
       "MID_COUNT": "54",
       "THREE_COUNT": "322",
-      "TOTAL_SHOTS": "825"
+      "TOTAL_SHOTS": "825",
+      "LAYUP_PCT": "40.7",
+      "CLOSE_PCT": "13.7",
+      "MID_PCT": "6.5",
+      "THREE_PCT": "39.0"
     },
     {
       "TEAM": "Skidmore Thoroughbreds",
@@ -68,7 +96,11 @@
       "CLOSE_COUNT": "80",
       "MID_COUNT": "65",
       "THREE_COUNT": "208",
-      "TOTAL_SHOTS": "682"
+      "TOTAL_SHOTS": "682",
+      "LAYUP_PCT": "48.2",
+      "CLOSE_PCT": "11.7",
+      "MID_PCT": "9.5",
+      "THREE_PCT": "30.5"
     },
     {
       "TEAM": "Clarkson University Golden Knights",
@@ -76,7 +108,11 @@
       "CLOSE_COUNT": "21",
       "MID_COUNT": "59",
       "THREE_COUNT": "247",
-      "TOTAL_SHOTS": "644"
+      "TOTAL_SHOTS": "644",
+      "LAYUP_PCT": "49.2",
+      "CLOSE_PCT": "3.3",
+      "MID_PCT": "9.2",
+      "THREE_PCT": "38.4"
     },
     {
       "TEAM": "Vassar Brewers",
@@ -84,7 +120,11 @@
       "CLOSE_COUNT": "45",
       "MID_COUNT": "35",
       "THREE_COUNT": "172",
-      "TOTAL_SHOTS": "575"
+      "TOTAL_SHOTS": "575",
+      "LAYUP_PCT": "56.2",
+      "CLOSE_PCT": "7.8",
+      "MID_PCT": "6.1",
+      "THREE_PCT": "29.9"
     }
   ]
 }

@@ -3,7 +3,7 @@
   "gender": "womens",
   "query": "player-shot-location-frequency",
   "description": "Player shot distribution showing percentage of shots from each court zone",
-  "fetched_at": "2026-01-20T11:53:00.182768",
+  "fetched_at": "2026-01-20T12:30:33.294441",
   "row_count": 133,
   "data": [
     {
@@ -13,7 +13,11 @@
       "CLOSE_COUNT": "22",
       "MID_COUNT": "21",
       "THREE_COUNT": "87",
-      "TOTAL_SHOTS": "209"
+      "TOTAL_SHOTS": "209",
+      "LAYUP_PCT": "37.8",
+      "CLOSE_PCT": "10.5",
+      "MID_PCT": "10.0",
+      "THREE_PCT": "41.6"
     },
     {
       "PLAYER": "Caroline Henderson",
@@ -22,7 +26,11 @@
       "CLOSE_COUNT": "19",
       "MID_COUNT": "27",
       "THREE_COUNT": "134",
-      "TOTAL_SHOTS": "202"
+      "TOTAL_SHOTS": "202",
+      "LAYUP_PCT": "10.9",
+      "CLOSE_PCT": "9.4",
+      "MID_PCT": "13.4",
+      "THREE_PCT": "66.3"
     },
     {
       "PLAYER": "Giana Lobozzo",
@@ -31,7 +39,11 @@
       "CLOSE_COUNT": "42",
       "MID_COUNT": "4",
       "THREE_COUNT": "73",
-      "TOTAL_SHOTS": "191"
+      "TOTAL_SHOTS": "191",
+      "LAYUP_PCT": "37.7",
+      "CLOSE_PCT": "22.0",
+      "MID_PCT": "2.1",
+      "THREE_PCT": "38.2"
     },
     {
       "PLAYER": "Jelena Perovic",
@@ -40,7 +52,11 @@
       "CLOSE_COUNT": "36",
       "MID_COUNT": "6",
       "THREE_COUNT": "1",
-      "TOTAL_SHOTS": "185"
+      "TOTAL_SHOTS": "185",
+      "LAYUP_PCT": "76.8",
+      "CLOSE_PCT": "19.5",
+      "MID_PCT": "3.2",
+      "THREE_PCT": "0.5"
     },
     {
       "PLAYER": "Maddy Ramsgard",
@@ -49,7 +65,11 @@
       "CLOSE_COUNT": "95",
       "MID_COUNT": "5",
       "THREE_COUNT": "21",
-      "TOTAL_SHOTS": "171"
+      "TOTAL_SHOTS": "171",
+      "LAYUP_PCT": "29.2",
+      "CLOSE_PCT": "55.6",
+      "MID_PCT": "2.9",
+      "THREE_PCT": "12.3"
     },
     {
       "PLAYER": "Jackie Malley",
@@ -58,7 +78,11 @@
       "CLOSE_COUNT": "7",
       "MID_COUNT": "6",
       "THREE_COUNT": "113",
-      "TOTAL_SHOTS": "170"
+      "TOTAL_SHOTS": "170",
+      "LAYUP_PCT": "25.9",
+      "CLOSE_PCT": "4.1",
+      "MID_PCT": "3.5",
+      "THREE_PCT": "66.5"
     },
     {
       "PLAYER": "Olivia Cunningham",
@@ -67,7 +91,11 @@
       "CLOSE_COUNT": "38",
       "MID_COUNT": "8",
       "THREE_COUNT": "6",
-      "TOTAL_SHOTS": "147"
+      "TOTAL_SHOTS": "147",
+      "LAYUP_PCT": "64.6",
+      "CLOSE_PCT": "25.9",
+      "MID_PCT": "5.4",
+      "THREE_PCT": "4.1"
     },
     {
       "PLAYER": "Shirley Dong",
@@ -76,7 +104,11 @@
       "CLOSE_COUNT": "21",
       "MID_COUNT": "8",
       "THREE_COUNT": "67",
-      "TOTAL_SHOTS": "144"
+      "TOTAL_SHOTS": "144",
+      "LAYUP_PCT": "33.3",
+      "CLOSE_PCT": "14.6",
+      "MID_PCT": "5.6",
+      "THREE_PCT": "46.5"
     },
     {
       "PLAYER": "Fallon Griffin",
@@ -85,7 +117,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "1",
       "THREE_COUNT": "86",
-      "TOTAL_SHOTS": "141"
+      "TOTAL_SHOTS": "141",
+      "LAYUP_PCT": "37.6",
+      "CLOSE_PCT": "0.7",
+      "MID_PCT": "0.7",
+      "THREE_PCT": "61.0"
     },
     {
       "PLAYER": "Kate Peek",
@@ -94,7 +130,11 @@
       "CLOSE_COUNT": "15",
       "MID_COUNT": "14",
       "THREE_COUNT": "90",
-      "TOTAL_SHOTS": "140"
+      "TOTAL_SHOTS": "140",
+      "LAYUP_PCT": "15.0",
+      "CLOSE_PCT": "10.7",
+      "MID_PCT": "10.0",
+      "THREE_PCT": "64.3"
     },
     {
       "PLAYER": "Madison Gill",
@@ -103,7 +143,11 @@
       "CLOSE_COUNT": "15",
       "MID_COUNT": "5",
       "THREE_COUNT": "51",
-      "TOTAL_SHOTS": "138"
+      "TOTAL_SHOTS": "138",
+      "LAYUP_PCT": "48.6",
+      "CLOSE_PCT": "10.9",
+      "MID_PCT": "3.6",
+      "THREE_PCT": "37.0"
     },
     {
       "PLAYER": "Norah Niesz",
@@ -112,7 +156,11 @@
       "CLOSE_COUNT": "12",
       "MID_COUNT": "28",
       "THREE_COUNT": "49",
-      "TOTAL_SHOTS": "138"
+      "TOTAL_SHOTS": "138",
+      "LAYUP_PCT": "35.5",
+      "CLOSE_PCT": "8.7",
+      "MID_PCT": "20.3",
+      "THREE_PCT": "35.5"
     },
     {
       "PLAYER": "Madison Meyer",
@@ -121,7 +169,11 @@
       "CLOSE_COUNT": "11",
       "MID_COUNT": "15",
       "THREE_COUNT": "41",
-      "TOTAL_SHOTS": "137"
+      "TOTAL_SHOTS": "137",
+      "LAYUP_PCT": "51.1",
+      "CLOSE_PCT": "8.0",
+      "MID_PCT": "10.9",
+      "THREE_PCT": "29.9"
     },
     {
       "PLAYER": "Sophie Costello",
@@ -130,7 +182,11 @@
       "CLOSE_COUNT": "11",
       "MID_COUNT": "8",
       "THREE_COUNT": "38",
-      "TOTAL_SHOTS": "136"
+      "TOTAL_SHOTS": "136",
+      "LAYUP_PCT": "58.1",
+      "CLOSE_PCT": "8.1",
+      "MID_PCT": "5.9",
+      "THREE_PCT": "27.9"
     },
     {
       "PLAYER": "Siena Smith",
@@ -139,7 +195,11 @@
       "CLOSE_COUNT": "5",
       "MID_COUNT": "13",
       "THREE_COUNT": "52",
-      "TOTAL_SHOTS": "135"
+      "TOTAL_SHOTS": "135",
+      "LAYUP_PCT": "48.1",
+      "CLOSE_PCT": "3.7",
+      "MID_PCT": "9.6",
+      "THREE_PCT": "38.5"
     },
     {
       "PLAYER": "Erin Tobes",
@@ -148,7 +208,11 @@
       "CLOSE_COUNT": "13",
       "MID_COUNT": "16",
       "THREE_COUNT": "22",
-      "TOTAL_SHOTS": "131"
+      "TOTAL_SHOTS": "131",
+      "LAYUP_PCT": "61.1",
+      "CLOSE_PCT": "9.9",
+      "MID_PCT": "12.2",
+      "THREE_PCT": "16.8"
     },
     {
       "PLAYER": "Sophia Martinez",
@@ -157,7 +221,11 @@
       "CLOSE_COUNT": "35",
       "MID_COUNT": "12",
       "THREE_COUNT": "24",
-      "TOTAL_SHOTS": "131"
+      "TOTAL_SHOTS": "131",
+      "LAYUP_PCT": "45.8",
+      "CLOSE_PCT": "26.7",
+      "MID_PCT": "9.2",
+      "THREE_PCT": "18.3"
     },
     {
       "PLAYER": "Morgan Kottka",
@@ -166,7 +234,11 @@
       "CLOSE_COUNT": "5",
       "MID_COUNT": "14",
       "THREE_COUNT": "80",
-      "TOTAL_SHOTS": "129"
+      "TOTAL_SHOTS": "129",
+      "LAYUP_PCT": "23.3",
+      "CLOSE_PCT": "3.9",
+      "MID_PCT": "10.9",
+      "THREE_PCT": "62.0"
     },
     {
       "PLAYER": "Grace Ardito",
@@ -175,7 +247,11 @@
       "CLOSE_COUNT": "8",
       "MID_COUNT": "6",
       "THREE_COUNT": "65",
-      "TOTAL_SHOTS": "129"
+      "TOTAL_SHOTS": "129",
+      "LAYUP_PCT": "38.8",
+      "CLOSE_PCT": "6.2",
+      "MID_PCT": "4.7",
+      "THREE_PCT": "50.4"
     },
     {
       "PLAYER": "Grace Ceseretti",
@@ -184,7 +260,11 @@
       "CLOSE_COUNT": "5",
       "MID_COUNT": "3",
       "THREE_COUNT": "68",
-      "TOTAL_SHOTS": "126"
+      "TOTAL_SHOTS": "126",
+      "LAYUP_PCT": "39.7",
+      "CLOSE_PCT": "4.0",
+      "MID_PCT": "2.4",
+      "THREE_PCT": "54.0"
     },
     {
       "PLAYER": "Faye Kaplinski",
@@ -193,7 +273,11 @@
       "CLOSE_COUNT": "7",
       "MID_COUNT": "9",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "125"
+      "TOTAL_SHOTS": "125",
+      "LAYUP_PCT": "87.2",
+      "CLOSE_PCT": "5.6",
+      "MID_PCT": "7.2",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Maureen Regan",
@@ -202,7 +286,11 @@
       "CLOSE_COUNT": "6",
       "MID_COUNT": "11",
       "THREE_COUNT": "54",
-      "TOTAL_SHOTS": "125"
+      "TOTAL_SHOTS": "125",
+      "LAYUP_PCT": "43.2",
+      "CLOSE_PCT": "4.8",
+      "MID_PCT": "8.8",
+      "THREE_PCT": "43.2"
     },
     {
       "PLAYER": "Annie Perry",
@@ -211,7 +299,11 @@
       "CLOSE_COUNT": "4",
       "MID_COUNT": "19",
       "THREE_COUNT": "57",
-      "TOTAL_SHOTS": "120"
+      "TOTAL_SHOTS": "120",
+      "LAYUP_PCT": "33.3",
+      "CLOSE_PCT": "3.3",
+      "MID_PCT": "15.8",
+      "THREE_PCT": "47.5"
     },
     {
       "PLAYER": "Sierra McDermed",
@@ -220,7 +312,11 @@
       "CLOSE_COUNT": "24",
       "MID_COUNT": "0",
       "THREE_COUNT": "27",
-      "TOTAL_SHOTS": "111"
+      "TOTAL_SHOTS": "111",
+      "LAYUP_PCT": "54.1",
+      "CLOSE_PCT": "21.6",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "24.3"
     },
     {
       "PLAYER": "Ben Kayser-Cochran",
@@ -229,7 +325,11 @@
       "CLOSE_COUNT": "13",
       "MID_COUNT": "8",
       "THREE_COUNT": "38",
-      "TOTAL_SHOTS": "110"
+      "TOTAL_SHOTS": "110",
+      "LAYUP_PCT": "46.4",
+      "CLOSE_PCT": "11.8",
+      "MID_PCT": "7.3",
+      "THREE_PCT": "34.5"
     },
     {
       "PLAYER": "Lexi Miller",
@@ -238,7 +338,11 @@
       "CLOSE_COUNT": "7",
       "MID_COUNT": "10",
       "THREE_COUNT": "2",
-      "TOTAL_SHOTS": "107"
+      "TOTAL_SHOTS": "107",
+      "LAYUP_PCT": "82.2",
+      "CLOSE_PCT": "6.5",
+      "MID_PCT": "9.3",
+      "THREE_PCT": "1.9"
     },
     {
       "PLAYER": "Ava Gregory",
@@ -247,7 +351,11 @@
       "CLOSE_COUNT": "4",
       "MID_COUNT": "10",
       "THREE_COUNT": "69",
-      "TOTAL_SHOTS": "104"
+      "TOTAL_SHOTS": "104",
+      "LAYUP_PCT": "20.2",
+      "CLOSE_PCT": "3.8",
+      "MID_PCT": "9.6",
+      "THREE_PCT": "66.3"
     },
     {
       "PLAYER": "Mason Baker-Schlendering",
@@ -256,7 +364,11 @@
       "CLOSE_COUNT": "6",
       "MID_COUNT": "24",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "103"
+      "TOTAL_SHOTS": "103",
+      "LAYUP_PCT": "70.9",
+      "CLOSE_PCT": "5.8",
+      "MID_PCT": "23.3",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Hannah Van Dyke",
@@ -265,7 +377,11 @@
       "CLOSE_COUNT": "13",
       "MID_COUNT": "24",
       "THREE_COUNT": "40",
-      "TOTAL_SHOTS": "102"
+      "TOTAL_SHOTS": "102",
+      "LAYUP_PCT": "24.5",
+      "CLOSE_PCT": "12.7",
+      "MID_PCT": "23.5",
+      "THREE_PCT": "39.2"
     },
     {
       "PLAYER": "Natalie Tucker",
@@ -274,7 +390,11 @@
       "CLOSE_COUNT": "14",
       "MID_COUNT": "11",
       "THREE_COUNT": "35",
-      "TOTAL_SHOTS": "98"
+      "TOTAL_SHOTS": "98",
+      "LAYUP_PCT": "38.8",
+      "CLOSE_PCT": "14.3",
+      "MID_PCT": "11.2",
+      "THREE_PCT": "35.7"
     },
     {
       "PLAYER": "Ava Lobozzo",
@@ -283,7 +403,11 @@
       "CLOSE_COUNT": "34",
       "MID_COUNT": "10",
       "THREE_COUNT": "8",
-      "TOTAL_SHOTS": "98"
+      "TOTAL_SHOTS": "98",
+      "LAYUP_PCT": "46.9",
+      "CLOSE_PCT": "34.7",
+      "MID_PCT": "10.2",
+      "THREE_PCT": "8.2"
     },
     {
       "PLAYER": "Grace McNamara",
@@ -292,7 +416,11 @@
       "CLOSE_COUNT": "18",
       "MID_COUNT": "14",
       "THREE_COUNT": "9",
-      "TOTAL_SHOTS": "95"
+      "TOTAL_SHOTS": "95",
+      "LAYUP_PCT": "56.8",
+      "CLOSE_PCT": "18.9",
+      "MID_PCT": "14.7",
+      "THREE_PCT": "9.5"
     },
     {
       "PLAYER": "Aislynn Dixon",
@@ -301,7 +429,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "1",
       "THREE_COUNT": "79",
-      "TOTAL_SHOTS": "94"
+      "TOTAL_SHOTS": "94",
+      "LAYUP_PCT": "14.9",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "1.1",
+      "THREE_PCT": "84.0"
     },
     {
       "PLAYER": "Amelia McCulley",
@@ -310,7 +442,11 @@
       "CLOSE_COUNT": "12",
       "MID_COUNT": "4",
       "THREE_COUNT": "42",
-      "TOTAL_SHOTS": "94"
+      "TOTAL_SHOTS": "94",
+      "LAYUP_PCT": "38.3",
+      "CLOSE_PCT": "12.8",
+      "MID_PCT": "4.3",
+      "THREE_PCT": "44.7"
     },
     {
       "PLAYER": "Jessica Martin",
@@ -319,7 +455,11 @@
       "CLOSE_COUNT": "6",
       "MID_COUNT": "10",
       "THREE_COUNT": "66",
-      "TOTAL_SHOTS": "92"
+      "TOTAL_SHOTS": "92",
+      "LAYUP_PCT": "10.9",
+      "CLOSE_PCT": "6.5",
+      "MID_PCT": "10.9",
+      "THREE_PCT": "71.7"
     },
     {
       "PLAYER": "Bella Doyle",
@@ -328,7 +468,11 @@
       "CLOSE_COUNT": "2",
       "MID_COUNT": "7",
       "THREE_COUNT": "20",
-      "TOTAL_SHOTS": "92"
+      "TOTAL_SHOTS": "92",
+      "LAYUP_PCT": "68.5",
+      "CLOSE_PCT": "2.2",
+      "MID_PCT": "7.6",
+      "THREE_PCT": "21.7"
     },
     {
       "PLAYER": "Lindsey Shoulders",
@@ -337,7 +481,11 @@
       "CLOSE_COUNT": "2",
       "MID_COUNT": "6",
       "THREE_COUNT": "10",
-      "TOTAL_SHOTS": "92"
+      "TOTAL_SHOTS": "92",
+      "LAYUP_PCT": "80.4",
+      "CLOSE_PCT": "2.2",
+      "MID_PCT": "6.5",
+      "THREE_PCT": "10.9"
     },
     {
       "PLAYER": "Tyler Hormazabal",
@@ -346,7 +494,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "11",
       "THREE_COUNT": "20",
-      "TOTAL_SHOTS": "91"
+      "TOTAL_SHOTS": "91",
+      "LAYUP_PCT": "64.8",
+      "CLOSE_PCT": "1.1",
+      "MID_PCT": "12.1",
+      "THREE_PCT": "22.0"
     },
     {
       "PLAYER": "Molly Libby",
@@ -355,7 +507,11 @@
       "CLOSE_COUNT": "8",
       "MID_COUNT": "24",
       "THREE_COUNT": "37",
-      "TOTAL_SHOTS": "88"
+      "TOTAL_SHOTS": "88",
+      "LAYUP_PCT": "21.6",
+      "CLOSE_PCT": "9.1",
+      "MID_PCT": "27.3",
+      "THREE_PCT": "42.0"
     },
     {
       "PLAYER": "Addie Kea",
@@ -364,7 +520,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "7",
       "THREE_COUNT": "36",
-      "TOTAL_SHOTS": "87"
+      "TOTAL_SHOTS": "87",
+      "LAYUP_PCT": "49.4",
+      "CLOSE_PCT": "1.1",
+      "MID_PCT": "8.0",
+      "THREE_PCT": "41.4"
     },
     {
       "PLAYER": "Madalyn Barrows",
@@ -373,7 +533,11 @@
       "CLOSE_COUNT": "9",
       "MID_COUNT": "3",
       "THREE_COUNT": "41",
-      "TOTAL_SHOTS": "87"
+      "TOTAL_SHOTS": "87",
+      "LAYUP_PCT": "39.1",
+      "CLOSE_PCT": "10.3",
+      "MID_PCT": "3.4",
+      "THREE_PCT": "47.1"
     },
     {
       "PLAYER": "Emilia Rojik",
@@ -382,7 +546,11 @@
       "CLOSE_COUNT": "4",
       "MID_COUNT": "7",
       "THREE_COUNT": "13",
-      "TOTAL_SHOTS": "87"
+      "TOTAL_SHOTS": "87",
+      "LAYUP_PCT": "72.4",
+      "CLOSE_PCT": "4.6",
+      "MID_PCT": "8.0",
+      "THREE_PCT": "14.9"
     },
     {
       "PLAYER": "Claudia Schneider",
@@ -391,7 +559,11 @@
       "CLOSE_COUNT": "12",
       "MID_COUNT": "13",
       "THREE_COUNT": "11",
-      "TOTAL_SHOTS": "87"
+      "TOTAL_SHOTS": "87",
+      "LAYUP_PCT": "58.6",
+      "CLOSE_PCT": "13.8",
+      "MID_PCT": "14.9",
+      "THREE_PCT": "12.6"
     },
     {
       "PLAYER": "Brooke Boyle",
@@ -400,7 +572,11 @@
       "CLOSE_COUNT": "5",
       "MID_COUNT": "4",
       "THREE_COUNT": "23",
-      "TOTAL_SHOTS": "86"
+      "TOTAL_SHOTS": "86",
+      "LAYUP_PCT": "62.8",
+      "CLOSE_PCT": "5.8",
+      "MID_PCT": "4.7",
+      "THREE_PCT": "26.7"
     },
     {
       "PLAYER": "McKenzie Mandyck",
@@ -409,7 +585,11 @@
       "CLOSE_COUNT": "6",
       "MID_COUNT": "3",
       "THREE_COUNT": "51",
-      "TOTAL_SHOTS": "86"
+      "TOTAL_SHOTS": "86",
+      "LAYUP_PCT": "30.2",
+      "CLOSE_PCT": "7.0",
+      "MID_PCT": "3.5",
+      "THREE_PCT": "59.3"
     },
     {
       "PLAYER": "Miranda Martin",
@@ -418,7 +598,11 @@
       "CLOSE_COUNT": "8",
       "MID_COUNT": "5",
       "THREE_COUNT": "39",
-      "TOTAL_SHOTS": "84"
+      "TOTAL_SHOTS": "84",
+      "LAYUP_PCT": "38.1",
+      "CLOSE_PCT": "9.5",
+      "MID_PCT": "6.0",
+      "THREE_PCT": "46.4"
     },
     {
       "PLAYER": "Kate Campbell",
@@ -427,7 +611,11 @@
       "CLOSE_COUNT": "4",
       "MID_COUNT": "16",
       "THREE_COUNT": "21",
-      "TOTAL_SHOTS": "76"
+      "TOTAL_SHOTS": "76",
+      "LAYUP_PCT": "46.1",
+      "CLOSE_PCT": "5.3",
+      "MID_PCT": "21.1",
+      "THREE_PCT": "27.6"
     },
     {
       "PLAYER": "Zoraida Icabalceta",
@@ -436,7 +624,11 @@
       "CLOSE_COUNT": "15",
       "MID_COUNT": "4",
       "THREE_COUNT": "30",
-      "TOTAL_SHOTS": "76"
+      "TOTAL_SHOTS": "76",
+      "LAYUP_PCT": "35.5",
+      "CLOSE_PCT": "19.7",
+      "MID_PCT": "5.3",
+      "THREE_PCT": "39.5"
     },
     {
       "PLAYER": "Sophia Ippolito",
@@ -445,7 +637,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "7",
       "THREE_COUNT": "35",
-      "TOTAL_SHOTS": "73"
+      "TOTAL_SHOTS": "73",
+      "LAYUP_PCT": "42.5",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "9.6",
+      "THREE_PCT": "47.9"
     },
     {
       "PLAYER": "Carly Scott",
@@ -454,7 +650,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "2",
       "THREE_COUNT": "63",
-      "TOTAL_SHOTS": "73"
+      "TOTAL_SHOTS": "73",
+      "LAYUP_PCT": "11.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "2.7",
+      "THREE_PCT": "86.3"
     },
     {
       "PLAYER": "Sydney Pearson",
@@ -463,7 +663,11 @@
       "CLOSE_COUNT": "3",
       "MID_COUNT": "3",
       "THREE_COUNT": "16",
-      "TOTAL_SHOTS": "71"
+      "TOTAL_SHOTS": "71",
+      "LAYUP_PCT": "69.0",
+      "CLOSE_PCT": "4.2",
+      "MID_PCT": "4.2",
+      "THREE_PCT": "22.5"
     },
     {
       "PLAYER": "Hannah Durand",
@@ -472,7 +676,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "1",
       "THREE_COUNT": "32",
-      "TOTAL_SHOTS": "71"
+      "TOTAL_SHOTS": "71",
+      "LAYUP_PCT": "53.5",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "1.4",
+      "THREE_PCT": "45.1"
     },
     {
       "PLAYER": "Elodie Ware",
@@ -481,7 +689,11 @@
       "CLOSE_COUNT": "7",
       "MID_COUNT": "7",
       "THREE_COUNT": "21",
-      "TOTAL_SHOTS": "71"
+      "TOTAL_SHOTS": "71",
+      "LAYUP_PCT": "50.7",
+      "CLOSE_PCT": "9.9",
+      "MID_PCT": "9.9",
+      "THREE_PCT": "29.6"
     },
     {
       "PLAYER": "Morgan Schultz",
@@ -490,7 +702,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "2",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "69"
+      "TOTAL_SHOTS": "69",
+      "LAYUP_PCT": "97.1",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "2.9",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Emma Chambers",
@@ -499,7 +715,11 @@
       "CLOSE_COUNT": "5",
       "MID_COUNT": "8",
       "THREE_COUNT": "27",
-      "TOTAL_SHOTS": "68"
+      "TOTAL_SHOTS": "68",
+      "LAYUP_PCT": "41.2",
+      "CLOSE_PCT": "7.4",
+      "MID_PCT": "11.8",
+      "THREE_PCT": "39.7"
     },
     {
       "PLAYER": "Alexis Kress",
@@ -508,7 +728,11 @@
       "CLOSE_COUNT": "3",
       "MID_COUNT": "8",
       "THREE_COUNT": "38",
-      "TOTAL_SHOTS": "67"
+      "TOTAL_SHOTS": "67",
+      "LAYUP_PCT": "26.9",
+      "CLOSE_PCT": "4.5",
+      "MID_PCT": "11.9",
+      "THREE_PCT": "56.7"
     },
     {
       "PLAYER": "Bridget McCleary",
@@ -517,7 +741,11 @@
       "CLOSE_COUNT": "2",
       "MID_COUNT": "6",
       "THREE_COUNT": "14",
-      "TOTAL_SHOTS": "66"
+      "TOTAL_SHOTS": "66",
+      "LAYUP_PCT": "66.7",
+      "CLOSE_PCT": "3.0",
+      "MID_PCT": "9.1",
+      "THREE_PCT": "21.2"
     },
     {
       "PLAYER": "Sara Hastie",
@@ -526,7 +754,11 @@
       "CLOSE_COUNT": "5",
       "MID_COUNT": "1",
       "THREE_COUNT": "26",
-      "TOTAL_SHOTS": "64"
+      "TOTAL_SHOTS": "64",
+      "LAYUP_PCT": "50.0",
+      "CLOSE_PCT": "7.8",
+      "MID_PCT": "1.6",
+      "THREE_PCT": "40.6"
     },
     {
       "PLAYER": "Sydney Blaney",
@@ -535,7 +767,11 @@
       "CLOSE_COUNT": "2",
       "MID_COUNT": "9",
       "THREE_COUNT": "24",
-      "TOTAL_SHOTS": "61"
+      "TOTAL_SHOTS": "61",
+      "LAYUP_PCT": "42.6",
+      "CLOSE_PCT": "3.3",
+      "MID_PCT": "14.8",
+      "THREE_PCT": "39.3"
     },
     {
       "PLAYER": "Ryley Tate-Padian",
@@ -544,7 +780,11 @@
       "CLOSE_COUNT": "2",
       "MID_COUNT": "2",
       "THREE_COUNT": "21",
-      "TOTAL_SHOTS": "61"
+      "TOTAL_SHOTS": "61",
+      "LAYUP_PCT": "59.0",
+      "CLOSE_PCT": "3.3",
+      "MID_PCT": "3.3",
+      "THREE_PCT": "34.4"
     },
     {
       "PLAYER": "Jojo Sulmasy",
@@ -553,7 +793,11 @@
       "CLOSE_COUNT": "2",
       "MID_COUNT": "3",
       "THREE_COUNT": "2",
-      "TOTAL_SHOTS": "61"
+      "TOTAL_SHOTS": "61",
+      "LAYUP_PCT": "88.5",
+      "CLOSE_PCT": "3.3",
+      "MID_PCT": "4.9",
+      "THREE_PCT": "3.3"
     },
     {
       "PLAYER": "Stevie Bannon",
@@ -562,7 +806,11 @@
       "CLOSE_COUNT": "5",
       "MID_COUNT": "6",
       "THREE_COUNT": "4",
-      "TOTAL_SHOTS": "60"
+      "TOTAL_SHOTS": "60",
+      "LAYUP_PCT": "75.0",
+      "CLOSE_PCT": "8.3",
+      "MID_PCT": "10.0",
+      "THREE_PCT": "6.7"
     },
     {
       "PLAYER": "Ruby Krop",
@@ -571,7 +819,11 @@
       "CLOSE_COUNT": "4",
       "MID_COUNT": "10",
       "THREE_COUNT": "10",
-      "TOTAL_SHOTS": "59"
+      "TOTAL_SHOTS": "59",
+      "LAYUP_PCT": "59.3",
+      "CLOSE_PCT": "6.8",
+      "MID_PCT": "16.9",
+      "THREE_PCT": "16.9"
     },
     {
       "PLAYER": "Danielle Strauf",
@@ -580,7 +832,11 @@
       "CLOSE_COUNT": "4",
       "MID_COUNT": "8",
       "THREE_COUNT": "30",
-      "TOTAL_SHOTS": "57"
+      "TOTAL_SHOTS": "57",
+      "LAYUP_PCT": "26.3",
+      "CLOSE_PCT": "7.0",
+      "MID_PCT": "14.0",
+      "THREE_PCT": "52.6"
     },
     {
       "PLAYER": "Mary Bernat",
@@ -589,7 +845,11 @@
       "CLOSE_COUNT": "7",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "56"
+      "TOTAL_SHOTS": "56",
+      "LAYUP_PCT": "87.5",
+      "CLOSE_PCT": "12.5",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Kenzie Perluke",
@@ -598,7 +858,11 @@
       "CLOSE_COUNT": "2",
       "MID_COUNT": "2",
       "THREE_COUNT": "22",
-      "TOTAL_SHOTS": "54"
+      "TOTAL_SHOTS": "54",
+      "LAYUP_PCT": "51.9",
+      "CLOSE_PCT": "3.7",
+      "MID_PCT": "3.7",
+      "THREE_PCT": "40.7"
     },
     {
       "PLAYER": "Niamh Gendron",
@@ -607,7 +871,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "1",
       "THREE_COUNT": "34",
-      "TOTAL_SHOTS": "53"
+      "TOTAL_SHOTS": "53",
+      "LAYUP_PCT": "34.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "1.9",
+      "THREE_PCT": "64.2"
     },
     {
       "PLAYER": "Simone Pintinalli",
@@ -616,7 +884,11 @@
       "CLOSE_COUNT": "3",
       "MID_COUNT": "15",
       "THREE_COUNT": "31",
-      "TOTAL_SHOTS": "52"
+      "TOTAL_SHOTS": "52",
+      "LAYUP_PCT": "5.8",
+      "CLOSE_PCT": "5.8",
+      "MID_PCT": "28.8",
+      "THREE_PCT": "59.6"
     },
     {
       "PLAYER": "Elizabeth Flynn",
@@ -625,7 +897,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "8",
       "THREE_COUNT": "9",
-      "TOTAL_SHOTS": "50"
+      "TOTAL_SHOTS": "50",
+      "LAYUP_PCT": "64.0",
+      "CLOSE_PCT": "2.0",
+      "MID_PCT": "16.0",
+      "THREE_PCT": "18.0"
     },
     {
       "PLAYER": "Izzy Caron",
@@ -634,7 +910,11 @@
       "CLOSE_COUNT": "6",
       "MID_COUNT": "3",
       "THREE_COUNT": "21",
-      "TOTAL_SHOTS": "50"
+      "TOTAL_SHOTS": "50",
+      "LAYUP_PCT": "40.0",
+      "CLOSE_PCT": "12.0",
+      "MID_PCT": "6.0",
+      "THREE_PCT": "42.0"
     },
     {
       "PLAYER": "Aila Dervisevic",
@@ -643,7 +923,11 @@
       "CLOSE_COUNT": "3",
       "MID_COUNT": "2",
       "THREE_COUNT": "37",
-      "TOTAL_SHOTS": "49"
+      "TOTAL_SHOTS": "49",
+      "LAYUP_PCT": "14.3",
+      "CLOSE_PCT": "6.1",
+      "MID_PCT": "4.1",
+      "THREE_PCT": "75.5"
     },
     {
       "PLAYER": "Meghan Drury",
@@ -652,7 +936,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "2",
       "THREE_COUNT": "20",
-      "TOTAL_SHOTS": "48"
+      "TOTAL_SHOTS": "48",
+      "LAYUP_PCT": "52.1",
+      "CLOSE_PCT": "2.1",
+      "MID_PCT": "4.2",
+      "THREE_PCT": "41.7"
     },
     {
       "PLAYER": "Rachel Carpenter",
@@ -661,7 +949,11 @@
       "CLOSE_COUNT": "2",
       "MID_COUNT": "1",
       "THREE_COUNT": "44",
-      "TOTAL_SHOTS": "47"
+      "TOTAL_SHOTS": "47",
+      "LAYUP_PCT": "0.0",
+      "CLOSE_PCT": "4.3",
+      "MID_PCT": "2.1",
+      "THREE_PCT": "93.6"
     },
     {
       "PLAYER": "Tianna Gonzalez",
@@ -670,7 +962,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "2",
       "THREE_COUNT": "12",
-      "TOTAL_SHOTS": "45"
+      "TOTAL_SHOTS": "45",
+      "LAYUP_PCT": "66.7",
+      "CLOSE_PCT": "2.2",
+      "MID_PCT": "4.4",
+      "THREE_PCT": "26.7"
     },
     {
       "PLAYER": "Megan Heyns",
@@ -679,7 +975,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "6",
       "THREE_COUNT": "19",
-      "TOTAL_SHOTS": "44"
+      "TOTAL_SHOTS": "44",
+      "LAYUP_PCT": "40.9",
+      "CLOSE_PCT": "2.3",
+      "MID_PCT": "13.6",
+      "THREE_PCT": "43.2"
     },
     {
       "PLAYER": "Stella Criniti",
@@ -688,7 +988,11 @@
       "CLOSE_COUNT": "5",
       "MID_COUNT": "7",
       "THREE_COUNT": "20",
-      "TOTAL_SHOTS": "43"
+      "TOTAL_SHOTS": "43",
+      "LAYUP_PCT": "25.6",
+      "CLOSE_PCT": "11.6",
+      "MID_PCT": "16.3",
+      "THREE_PCT": "46.5"
     },
     {
       "PLAYER": "Erin Lovett",
@@ -697,7 +1001,11 @@
       "CLOSE_COUNT": "2",
       "MID_COUNT": "0",
       "THREE_COUNT": "1",
-      "TOTAL_SHOTS": "41"
+      "TOTAL_SHOTS": "41",
+      "LAYUP_PCT": "92.7",
+      "CLOSE_PCT": "4.9",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "2.4"
     },
     {
       "PLAYER": "Avery McPeek",
@@ -706,7 +1014,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "14",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "39"
+      "TOTAL_SHOTS": "39",
+      "LAYUP_PCT": "64.1",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "35.9",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Maddy Polky",
@@ -715,7 +1027,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "5",
       "THREE_COUNT": "12",
-      "TOTAL_SHOTS": "38"
+      "TOTAL_SHOTS": "38",
+      "LAYUP_PCT": "55.3",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "13.2",
+      "THREE_PCT": "31.6"
     },
     {
       "PLAYER": "Erin Dipaola",
@@ -724,7 +1040,11 @@
       "CLOSE_COUNT": "2",
       "MID_COUNT": "2",
       "THREE_COUNT": "15",
-      "TOTAL_SHOTS": "38"
+      "TOTAL_SHOTS": "38",
+      "LAYUP_PCT": "50.0",
+      "CLOSE_PCT": "5.3",
+      "MID_PCT": "5.3",
+      "THREE_PCT": "39.5"
     },
     {
       "PLAYER": "Elizabeth Aiossa",
@@ -733,7 +1053,11 @@
       "CLOSE_COUNT": "2",
       "MID_COUNT": "2",
       "THREE_COUNT": "1",
-      "TOTAL_SHOTS": "36"
+      "TOTAL_SHOTS": "36",
+      "LAYUP_PCT": "86.1",
+      "CLOSE_PCT": "5.6",
+      "MID_PCT": "5.6",
+      "THREE_PCT": "2.8"
     },
     {
       "PLAYER": "Jenny Shine",
@@ -742,7 +1066,11 @@
       "CLOSE_COUNT": "3",
       "MID_COUNT": "1",
       "THREE_COUNT": "6",
-      "TOTAL_SHOTS": "36"
+      "TOTAL_SHOTS": "36",
+      "LAYUP_PCT": "72.2",
+      "CLOSE_PCT": "8.3",
+      "MID_PCT": "2.8",
+      "THREE_PCT": "16.7"
     },
     {
       "PLAYER": "Ella Wilson",
@@ -751,7 +1079,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "2",
       "THREE_COUNT": "9",
-      "TOTAL_SHOTS": "34"
+      "TOTAL_SHOTS": "34",
+      "LAYUP_PCT": "64.7",
+      "CLOSE_PCT": "2.9",
+      "MID_PCT": "5.9",
+      "THREE_PCT": "26.5"
     },
     {
       "PLAYER": "Margaret Dougher",
@@ -760,7 +1092,11 @@
       "CLOSE_COUNT": "4",
       "MID_COUNT": "3",
       "THREE_COUNT": "12",
-      "TOTAL_SHOTS": "30"
+      "TOTAL_SHOTS": "30",
+      "LAYUP_PCT": "36.7",
+      "CLOSE_PCT": "13.3",
+      "MID_PCT": "10.0",
+      "THREE_PCT": "40.0"
     },
     {
       "PLAYER": "Kira Ostovar",
@@ -769,7 +1105,11 @@
       "CLOSE_COUNT": "3",
       "MID_COUNT": "8",
       "THREE_COUNT": "10",
-      "TOTAL_SHOTS": "30"
+      "TOTAL_SHOTS": "30",
+      "LAYUP_PCT": "30.0",
+      "CLOSE_PCT": "10.0",
+      "MID_PCT": "26.7",
+      "THREE_PCT": "33.3"
     },
     {
       "PLAYER": "Callie Flynn",
@@ -778,7 +1118,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "25"
+      "TOTAL_SHOTS": "25",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Sam Lederman",
@@ -787,7 +1131,11 @@
       "CLOSE_COUNT": "2",
       "MID_COUNT": "1",
       "THREE_COUNT": "9",
-      "TOTAL_SHOTS": "21"
+      "TOTAL_SHOTS": "21",
+      "LAYUP_PCT": "42.9",
+      "CLOSE_PCT": "9.5",
+      "MID_PCT": "4.8",
+      "THREE_PCT": "42.9"
     },
     {
       "PLAYER": "Riley Cullen",
@@ -796,7 +1144,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "2",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "20"
+      "TOTAL_SHOTS": "20",
+      "LAYUP_PCT": "90.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "10.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Ava Gurley",
@@ -805,7 +1157,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "10",
-      "TOTAL_SHOTS": "20"
+      "TOTAL_SHOTS": "20",
+      "LAYUP_PCT": "50.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "50.0"
     },
     {
       "PLAYER": "Sophia Spizuoco",
@@ -814,7 +1170,11 @@
       "CLOSE_COUNT": "6",
       "MID_COUNT": "0",
       "THREE_COUNT": "9",
-      "TOTAL_SHOTS": "19"
+      "TOTAL_SHOTS": "19",
+      "LAYUP_PCT": "21.1",
+      "CLOSE_PCT": "31.6",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "47.4"
     },
     {
       "PLAYER": "Alexis Mackenzie",
@@ -823,7 +1183,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "1",
       "THREE_COUNT": "11",
-      "TOTAL_SHOTS": "19"
+      "TOTAL_SHOTS": "19",
+      "LAYUP_PCT": "31.6",
+      "CLOSE_PCT": "5.3",
+      "MID_PCT": "5.3",
+      "THREE_PCT": "57.9"
     },
     {
       "PLAYER": "Melissa Severino",
@@ -832,7 +1196,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "3",
       "THREE_COUNT": "6",
-      "TOTAL_SHOTS": "18"
+      "TOTAL_SHOTS": "18",
+      "LAYUP_PCT": "44.4",
+      "CLOSE_PCT": "5.6",
+      "MID_PCT": "16.7",
+      "THREE_PCT": "33.3"
     },
     {
       "PLAYER": "Lily Wohlleber",
@@ -841,7 +1209,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "2",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "17"
+      "TOTAL_SHOTS": "17",
+      "LAYUP_PCT": "88.2",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "11.8",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Dani Krenzer",
@@ -850,7 +1222,11 @@
       "CLOSE_COUNT": "2",
       "MID_COUNT": "4",
       "THREE_COUNT": "3",
-      "TOTAL_SHOTS": "16"
+      "TOTAL_SHOTS": "16",
+      "LAYUP_PCT": "43.8",
+      "CLOSE_PCT": "12.5",
+      "MID_PCT": "25.0",
+      "THREE_PCT": "18.8"
     },
     {
       "PLAYER": "Anne Keneally",
@@ -859,7 +1235,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "4",
       "THREE_COUNT": "11",
-      "TOTAL_SHOTS": "16"
+      "TOTAL_SHOTS": "16",
+      "LAYUP_PCT": "0.0",
+      "CLOSE_PCT": "6.3",
+      "MID_PCT": "25.0",
+      "THREE_PCT": "68.8"
     },
     {
       "PLAYER": "Mia Firdman",
@@ -868,7 +1248,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "1",
       "THREE_COUNT": "4",
-      "TOTAL_SHOTS": "15"
+      "TOTAL_SHOTS": "15",
+      "LAYUP_PCT": "60.0",
+      "CLOSE_PCT": "6.7",
+      "MID_PCT": "6.7",
+      "THREE_PCT": "26.7"
     },
     {
       "PLAYER": "Simran Randhawa",
@@ -877,7 +1261,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "1",
       "THREE_COUNT": "11",
-      "TOTAL_SHOTS": "14"
+      "TOTAL_SHOTS": "14",
+      "LAYUP_PCT": "14.3",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "7.1",
+      "THREE_PCT": "78.6"
     },
     {
       "PLAYER": "Eliana York",
@@ -886,7 +1274,11 @@
       "CLOSE_COUNT": "3",
       "MID_COUNT": "3",
       "THREE_COUNT": "5",
-      "TOTAL_SHOTS": "13"
+      "TOTAL_SHOTS": "13",
+      "LAYUP_PCT": "15.4",
+      "CLOSE_PCT": "23.1",
+      "MID_PCT": "23.1",
+      "THREE_PCT": "38.5"
     },
     {
       "PLAYER": "Whitney Lewis",
@@ -895,7 +1287,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "1",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "13"
+      "TOTAL_SHOTS": "13",
+      "LAYUP_PCT": "84.6",
+      "CLOSE_PCT": "7.7",
+      "MID_PCT": "7.7",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Audrey Bowen",
@@ -904,7 +1300,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "12"
+      "TOTAL_SHOTS": "12",
+      "LAYUP_PCT": "91.7",
+      "CLOSE_PCT": "8.3",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Emily Wendt",
@@ -913,7 +1313,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "1",
       "THREE_COUNT": "6",
-      "TOTAL_SHOTS": "12"
+      "TOTAL_SHOTS": "12",
+      "LAYUP_PCT": "33.3",
+      "CLOSE_PCT": "8.3",
+      "MID_PCT": "8.3",
+      "THREE_PCT": "50.0"
     },
     {
       "PLAYER": "Ryanne Gulbin",
@@ -922,7 +1326,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "9",
-      "TOTAL_SHOTS": "12"
+      "TOTAL_SHOTS": "12",
+      "LAYUP_PCT": "25.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "75.0"
     },
     {
       "PLAYER": "Aiden Gill",
@@ -931,7 +1339,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "0",
       "THREE_COUNT": "2",
-      "TOTAL_SHOTS": "12"
+      "TOTAL_SHOTS": "12",
+      "LAYUP_PCT": "75.0",
+      "CLOSE_PCT": "8.3",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "16.7"
     },
     {
       "PLAYER": "Emery Mullen",
@@ -940,7 +1352,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "2",
       "THREE_COUNT": "1",
-      "TOTAL_SHOTS": "12"
+      "TOTAL_SHOTS": "12",
+      "LAYUP_PCT": "75.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "16.7",
+      "THREE_PCT": "8.3"
     },
     {
       "PLAYER": "Ava Latizia",
@@ -949,7 +1365,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "4",
       "THREE_COUNT": "1",
-      "TOTAL_SHOTS": "11"
+      "TOTAL_SHOTS": "11",
+      "LAYUP_PCT": "54.5",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "36.4",
+      "THREE_PCT": "9.1"
     },
     {
       "PLAYER": "Casey Weeren",
@@ -958,7 +1378,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "1",
       "THREE_COUNT": "4",
-      "TOTAL_SHOTS": "11"
+      "TOTAL_SHOTS": "11",
+      "LAYUP_PCT": "45.5",
+      "CLOSE_PCT": "9.1",
+      "MID_PCT": "9.1",
+      "THREE_PCT": "36.4"
     },
     {
       "PLAYER": "Jessica Sterbens",
@@ -967,7 +1391,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "1",
       "THREE_COUNT": "1",
-      "TOTAL_SHOTS": "10"
+      "TOTAL_SHOTS": "10",
+      "LAYUP_PCT": "80.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "10.0",
+      "THREE_PCT": "10.0"
     },
     {
       "PLAYER": "Hannah Manley",
@@ -976,7 +1404,11 @@
       "CLOSE_COUNT": "2",
       "MID_COUNT": "4",
       "THREE_COUNT": "2",
-      "TOTAL_SHOTS": "10"
+      "TOTAL_SHOTS": "10",
+      "LAYUP_PCT": "20.0",
+      "CLOSE_PCT": "20.0",
+      "MID_PCT": "40.0",
+      "THREE_PCT": "20.0"
     },
     {
       "PLAYER": "Caroline Smith",
@@ -985,7 +1417,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "10"
+      "TOTAL_SHOTS": "10",
+      "LAYUP_PCT": "90.0",
+      "CLOSE_PCT": "10.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Emma Phelan",
@@ -994,7 +1430,11 @@
       "CLOSE_COUNT": "2",
       "MID_COUNT": "0",
       "THREE_COUNT": "2",
-      "TOTAL_SHOTS": "9"
+      "TOTAL_SHOTS": "9",
+      "LAYUP_PCT": "55.6",
+      "CLOSE_PCT": "22.2",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "22.2"
     },
     {
       "PLAYER": "Maddie Ahearn",
@@ -1003,7 +1443,11 @@
       "CLOSE_COUNT": "2",
       "MID_COUNT": "1",
       "THREE_COUNT": "4",
-      "TOTAL_SHOTS": "9"
+      "TOTAL_SHOTS": "9",
+      "LAYUP_PCT": "22.2",
+      "CLOSE_PCT": "22.2",
+      "MID_PCT": "11.1",
+      "THREE_PCT": "44.4"
     },
     {
       "PLAYER": "Eily Hubler",
@@ -1012,7 +1456,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "0",
       "THREE_COUNT": "6",
-      "TOTAL_SHOTS": "9"
+      "TOTAL_SHOTS": "9",
+      "LAYUP_PCT": "22.2",
+      "CLOSE_PCT": "11.1",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "66.7"
     },
     {
       "PLAYER": "Sonya Benhassen",
@@ -1021,7 +1469,11 @@
       "CLOSE_COUNT": "3",
       "MID_COUNT": "1",
       "THREE_COUNT": "1",
-      "TOTAL_SHOTS": "8"
+      "TOTAL_SHOTS": "8",
+      "LAYUP_PCT": "37.5",
+      "CLOSE_PCT": "37.5",
+      "MID_PCT": "12.5",
+      "THREE_PCT": "12.5"
     },
     {
       "PLAYER": "Abby Cleary",
@@ -1030,7 +1482,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "1",
-      "TOTAL_SHOTS": "8"
+      "TOTAL_SHOTS": "8",
+      "LAYUP_PCT": "87.5",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "12.5"
     },
     {
       "PLAYER": "Kate Mocho",
@@ -1039,7 +1495,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "4",
-      "TOTAL_SHOTS": "7"
+      "TOTAL_SHOTS": "7",
+      "LAYUP_PCT": "42.9",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "57.1"
     },
     {
       "PLAYER": "Elyssa Kalamaras",
@@ -1048,7 +1508,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "2",
       "THREE_COUNT": "2",
-      "TOTAL_SHOTS": "7"
+      "TOTAL_SHOTS": "7",
+      "LAYUP_PCT": "42.9",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "28.6",
+      "THREE_PCT": "28.6"
     },
     {
       "PLAYER": "Aiko Bastiaens",
@@ -1057,7 +1521,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "7"
+      "TOTAL_SHOTS": "7",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Caroline Vient",
@@ -1066,7 +1534,11 @@
       "CLOSE_COUNT": "2",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "6"
+      "TOTAL_SHOTS": "6",
+      "LAYUP_PCT": "66.7",
+      "CLOSE_PCT": "33.3",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Hazel Hoog",
@@ -1075,7 +1547,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "1",
-      "TOTAL_SHOTS": "6"
+      "TOTAL_SHOTS": "6",
+      "LAYUP_PCT": "83.3",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "16.7"
     },
     {
       "PLAYER": "Lili Shanahan",
@@ -1084,7 +1560,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "0",
       "THREE_COUNT": "2",
-      "TOTAL_SHOTS": "5"
+      "TOTAL_SHOTS": "5",
+      "LAYUP_PCT": "40.0",
+      "CLOSE_PCT": "20.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "40.0"
     },
     {
       "PLAYER": "Anna O'Keefe",
@@ -1093,7 +1573,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "0",
       "THREE_COUNT": "2",
-      "TOTAL_SHOTS": "5"
+      "TOTAL_SHOTS": "5",
+      "LAYUP_PCT": "40.0",
+      "CLOSE_PCT": "20.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "40.0"
     },
     {
       "PLAYER": "Olivia Stevens",
@@ -1102,7 +1586,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "4"
+      "TOTAL_SHOTS": "4",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Olivia Powers",
@@ -1111,7 +1599,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "3"
+      "TOTAL_SHOTS": "3",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Allie Grove",
@@ -1120,7 +1612,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "2",
-      "TOTAL_SHOTS": "3"
+      "TOTAL_SHOTS": "3",
+      "LAYUP_PCT": "33.3",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "66.7"
     },
     {
       "PLAYER": "Ally Burke",
@@ -1129,7 +1625,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "1",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "3"
+      "TOTAL_SHOTS": "3",
+      "LAYUP_PCT": "66.7",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "33.3",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Aliza Flore",
@@ -1138,7 +1638,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "1",
-      "TOTAL_SHOTS": "2"
+      "TOTAL_SHOTS": "2",
+      "LAYUP_PCT": "50.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "50.0"
     },
     {
       "PLAYER": "Megan Cassidy",
@@ -1147,7 +1651,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "2"
+      "TOTAL_SHOTS": "2",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Josie Cancro",
@@ -1156,7 +1664,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "1",
       "THREE_COUNT": "1",
-      "TOTAL_SHOTS": "2"
+      "TOTAL_SHOTS": "2",
+      "LAYUP_PCT": "0.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "50.0",
+      "THREE_PCT": "50.0"
     },
     {
       "PLAYER": "Sarah Abbott",
@@ -1165,7 +1677,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "1"
+      "TOTAL_SHOTS": "1",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Sydney Dodds",
@@ -1174,7 +1690,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "1",
-      "TOTAL_SHOTS": "1"
+      "TOTAL_SHOTS": "1",
+      "LAYUP_PCT": "0.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "100.0"
     },
     {
       "PLAYER": "Addison Westbrook",
@@ -1183,7 +1703,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "1"
+      "TOTAL_SHOTS": "1",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Caelan McCormack",
@@ -1192,7 +1716,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "1"
+      "TOTAL_SHOTS": "1",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Ella Pysnack",
@@ -1201,7 +1729,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "1",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "1"
+      "TOTAL_SHOTS": "1",
+      "LAYUP_PCT": "0.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "100.0",
+      "THREE_PCT": "0.0"
     }
   ]
 }

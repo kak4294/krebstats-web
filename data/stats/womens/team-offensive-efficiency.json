@@ -2,8 +2,8 @@
   "success": true,
   "gender": "womens",
   "query": "team-offensive-efficiency",
-  "include_percentiles": true,
-  "fetched_at": "2026-01-20T11:52:57.646799",
+  "description": "Team offensive efficiency by play type with PPP, shooting percentages, and percentile rankings",
+  "fetched_at": "2026-01-20T12:30:30.212922",
   "row_count": 89,
   "data": [
     {

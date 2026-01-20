@@ -3,7 +3,7 @@
   "gender": "mens",
   "query": "team-playtype-shot-frequency",
   "description": "Team shot distribution by play type, showing where teams shoot from on different offensive actions",
-  "fetched_at": "2026-01-20T11:52:53.947766",
+  "fetched_at": "2026-01-20T12:30:25.956160",
   "row_count": 103,
   "data": [
     {
@@ -13,7 +13,11 @@
       "CLOSE_COUNT": "19",
       "MID_COUNT": "8",
       "THREE_COUNT": "220",
-      "TOTAL_SHOTS": "326"
+      "TOTAL_SHOTS": "326",
+      "LAYUP_PCT": "24.2",
+      "CLOSE_PCT": "5.8",
+      "MID_PCT": "2.5",
+      "THREE_PCT": "67.5"
     },
     {
       "TEAM": "Bard College",
@@ -22,7 +26,11 @@
       "CLOSE_COUNT": "6",
       "MID_COUNT": "0",
       "THREE_COUNT": "41",
-      "TOTAL_SHOTS": "150"
+      "TOTAL_SHOTS": "150",
+      "LAYUP_PCT": "68.7",
+      "CLOSE_PCT": "4.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "27.3"
     },
     {
       "TEAM": "Bard College",
@@ -31,7 +39,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "76"
+      "TOTAL_SHOTS": "76",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "TEAM": "Bard College",
@@ -40,7 +52,11 @@
       "CLOSE_COUNT": "6",
       "MID_COUNT": "2",
       "THREE_COUNT": "20",
-      "TOTAL_SHOTS": "69"
+      "TOTAL_SHOTS": "69",
+      "LAYUP_PCT": "59.4",
+      "CLOSE_PCT": "8.7",
+      "MID_PCT": "2.9",
+      "THREE_PCT": "29.0"
     },
     {
       "TEAM": "Bard College",
@@ -49,7 +65,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "0",
       "THREE_COUNT": "35",
-      "TOTAL_SHOTS": "41"
+      "TOTAL_SHOTS": "41",
+      "LAYUP_PCT": "12.2",
+      "CLOSE_PCT": "2.4",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "85.4"
     },
     {
       "TEAM": "Bard College",
@@ -58,7 +78,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "2",
       "THREE_COUNT": "22",
-      "TOTAL_SHOTS": "37"
+      "TOTAL_SHOTS": "37",
+      "LAYUP_PCT": "32.4",
+      "CLOSE_PCT": "2.7",
+      "MID_PCT": "5.4",
+      "THREE_PCT": "59.5"
     },
     {
       "TEAM": "Bard College",
@@ -67,7 +91,11 @@
       "CLOSE_COUNT": "2",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "31"
+      "TOTAL_SHOTS": "31",
+      "LAYUP_PCT": "93.5",
+      "CLOSE_PCT": "6.5",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "TEAM": "Bard College",
@@ -76,7 +104,11 @@
       "CLOSE_COUNT": "3",
       "MID_COUNT": "1",
       "THREE_COUNT": "5",
-      "TOTAL_SHOTS": "27"
+      "TOTAL_SHOTS": "27",
+      "LAYUP_PCT": "66.7",
+      "CLOSE_PCT": "11.1",
+      "MID_PCT": "3.7",
+      "THREE_PCT": "18.5"
     },
     {
       "TEAM": "Bard College",
@@ -85,7 +117,11 @@
       "CLOSE_COUNT": "5",
       "MID_COUNT": "0",
       "THREE_COUNT": "12",
-      "TOTAL_SHOTS": "25"
+      "TOTAL_SHOTS": "25",
+      "LAYUP_PCT": "32.0",
+      "CLOSE_PCT": "20.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "48.0"
     },
     {
       "TEAM": "Bard College",
@@ -94,7 +130,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "25"
+      "TOTAL_SHOTS": "25",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "TEAM": "Bard College",
@@ -103,7 +143,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "1",
       "THREE_COUNT": "3",
-      "TOTAL_SHOTS": "15"
+      "TOTAL_SHOTS": "15",
+      "LAYUP_PCT": "73.3",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "6.7",
+      "THREE_PCT": "20.0"
     },
     {
       "TEAM": "Clarkson University Golden Knights",
@@ -112,7 +156,11 @@
       "CLOSE_COUNT": "19",
       "MID_COUNT": "7",
       "THREE_COUNT": "275",
-      "TOTAL_SHOTS": "385"
+      "TOTAL_SHOTS": "385",
+      "LAYUP_PCT": "21.8",
+      "CLOSE_PCT": "4.9",
+      "MID_PCT": "1.8",
+      "THREE_PCT": "71.4"
     },
     {
       "TEAM": "Clarkson University Golden Knights",
@@ -121,7 +169,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "120"
+      "TOTAL_SHOTS": "120",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "TEAM": "Clarkson University Golden Knights",
@@ -130,7 +182,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "1",
       "THREE_COUNT": "41",
-      "TOTAL_SHOTS": "99"
+      "TOTAL_SHOTS": "99",
+      "LAYUP_PCT": "57.6",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "1.0",
+      "THREE_PCT": "41.4"
     },
     {
       "TEAM": "Clarkson University Golden Knights",
@@ -139,7 +195,11 @@
       "CLOSE_COUNT": "8",
       "MID_COUNT": "0",
       "THREE_COUNT": "39",
-      "TOTAL_SHOTS": "79"
+      "TOTAL_SHOTS": "79",
+      "LAYUP_PCT": "40.5",
+      "CLOSE_PCT": "10.1",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "49.4"
     },
     {
       "TEAM": "Clarkson University Golden Knights",
@@ -148,7 +208,11 @@
       "CLOSE_COUNT": "5",
       "MID_COUNT": "2",
       "THREE_COUNT": "33",
-      "TOTAL_SHOTS": "67"
+      "TOTAL_SHOTS": "67",
+      "LAYUP_PCT": "40.3",
+      "CLOSE_PCT": "7.5",
+      "MID_PCT": "3.0",
+      "THREE_PCT": "49.3"
     },
     {
       "TEAM": "Clarkson University Golden Knights",
@@ -157,7 +221,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "1",
       "THREE_COUNT": "33",
-      "TOTAL_SHOTS": "45"
+      "TOTAL_SHOTS": "45",
+      "LAYUP_PCT": "22.2",
+      "CLOSE_PCT": "2.2",
+      "MID_PCT": "2.2",
+      "THREE_PCT": "73.3"
     },
     {
       "TEAM": "Clarkson University Golden Knights",
@@ -166,7 +234,11 @@
       "CLOSE_COUNT": "3",
       "MID_COUNT": "0",
       "THREE_COUNT": "1",
-      "TOTAL_SHOTS": "40"
+      "TOTAL_SHOTS": "40",
+      "LAYUP_PCT": "90.0",
+      "CLOSE_PCT": "7.5",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "2.5"
     },
     {
       "TEAM": "Clarkson University Golden Knights",
@@ -175,7 +247,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "1",
       "THREE_COUNT": "20",
-      "TOTAL_SHOTS": "32"
+      "TOTAL_SHOTS": "32",
+      "LAYUP_PCT": "34.4",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "3.1",
+      "THREE_PCT": "62.5"
     },
     {
       "TEAM": "Clarkson University Golden Knights",
@@ -184,7 +260,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "17"
+      "TOTAL_SHOTS": "17",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "TEAM": "Hobart College Statesmen",
@@ -193,7 +273,11 @@
       "CLOSE_COUNT": "37",
       "MID_COUNT": "12",
       "THREE_COUNT": "232",
-      "TOTAL_SHOTS": "372"
+      "TOTAL_SHOTS": "372",
+      "LAYUP_PCT": "24.5",
+      "CLOSE_PCT": "9.9",
+      "MID_PCT": "3.2",
+      "THREE_PCT": "62.4"
     },
     {
       "TEAM": "Hobart College Statesmen",
@@ -202,7 +286,11 @@
       "CLOSE_COUNT": "7",
       "MID_COUNT": "0",
       "THREE_COUNT": "68",
-      "TOTAL_SHOTS": "239"
+      "TOTAL_SHOTS": "239",
+      "LAYUP_PCT": "68.6",
+      "CLOSE_PCT": "2.9",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "28.5"
     },
     {
       "TEAM": "Hobart College Statesmen",
@@ -211,7 +299,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "82"
+      "TOTAL_SHOTS": "82",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "TEAM": "Hobart College Statesmen",
@@ -220,7 +312,11 @@
       "CLOSE_COUNT": "2",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "55"
+      "TOTAL_SHOTS": "55",
+      "LAYUP_PCT": "96.4",
+      "CLOSE_PCT": "3.6",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "TEAM": "Hobart College Statesmen",
@@ -229,7 +325,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "37"
+      "TOTAL_SHOTS": "37",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "TEAM": "Hobart College Statesmen",
@@ -238,7 +338,11 @@
       "CLOSE_COUNT": "9",
       "MID_COUNT": "3",
       "THREE_COUNT": "5",
-      "TOTAL_SHOTS": "37"
+      "TOTAL_SHOTS": "37",
+      "LAYUP_PCT": "54.1",
+      "CLOSE_PCT": "24.3",
+      "MID_PCT": "8.1",
+      "THREE_PCT": "13.5"
     },
     {
       "TEAM": "Hobart College Statesmen",
@@ -247,7 +351,11 @@
       "CLOSE_COUNT": "7",
       "MID_COUNT": "0",
       "THREE_COUNT": "1",
-      "TOTAL_SHOTS": "32"
+      "TOTAL_SHOTS": "32",
+      "LAYUP_PCT": "75.0",
+      "CLOSE_PCT": "21.9",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "3.1"
     },
     {
       "TEAM": "Hobart College Statesmen",
@@ -256,7 +364,11 @@
       "CLOSE_COUNT": "2",
       "MID_COUNT": "2",
       "THREE_COUNT": "10",
-      "TOTAL_SHOTS": "19"
+      "TOTAL_SHOTS": "19",
+      "LAYUP_PCT": "26.3",
+      "CLOSE_PCT": "10.5",
+      "MID_PCT": "10.5",
+      "THREE_PCT": "52.6"
     },
     {
       "TEAM": "Hobart College Statesmen",
@@ -265,7 +377,11 @@
       "CLOSE_COUNT": "2",
       "MID_COUNT": "1",
       "THREE_COUNT": "2",
-      "TOTAL_SHOTS": "16"
+      "TOTAL_SHOTS": "16",
+      "LAYUP_PCT": "68.8",
+      "CLOSE_PCT": "12.5",
+      "MID_PCT": "6.3",
+      "THREE_PCT": "12.5"
     },
     {
       "TEAM": "Hobart College Statesmen",
@@ -274,7 +390,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "0",
       "THREE_COUNT": "9",
-      "TOTAL_SHOTS": "16"
+      "TOTAL_SHOTS": "16",
+      "LAYUP_PCT": "37.5",
+      "CLOSE_PCT": "6.3",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "56.3"
     },
     {
       "TEAM": "Ithaca College",
@@ -283,7 +403,11 @@
       "CLOSE_COUNT": "3",
       "MID_COUNT": "5",
       "THREE_COUNT": "239",
-      "TOTAL_SHOTS": "310"
+      "TOTAL_SHOTS": "310",
+      "LAYUP_PCT": "20.3",
+      "CLOSE_PCT": "1.0",
+      "MID_PCT": "1.6",
+      "THREE_PCT": "77.1"
     },
     {
       "TEAM": "Ithaca College",
@@ -292,7 +416,11 @@
       "CLOSE_COUNT": "2",
       "MID_COUNT": "0",
       "THREE_COUNT": "101",
-      "TOTAL_SHOTS": "210"
+      "TOTAL_SHOTS": "210",
+      "LAYUP_PCT": "51.0",
+      "CLOSE_PCT": "1.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "48.1"
     },
     {
       "TEAM": "Ithaca College",
@@ -301,7 +429,11 @@
       "CLOSE_COUNT": "3",
       "MID_COUNT": "4",
       "THREE_COUNT": "54",
-      "TOTAL_SHOTS": "95"
+      "TOTAL_SHOTS": "95",
+      "LAYUP_PCT": "35.8",
+      "CLOSE_PCT": "3.2",
+      "MID_PCT": "4.2",
+      "THREE_PCT": "56.8"
     },
     {
       "TEAM": "Ithaca College",
@@ -310,7 +442,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "3",
       "THREE_COUNT": "25",
-      "TOTAL_SHOTS": "86"
+      "TOTAL_SHOTS": "86",
+      "LAYUP_PCT": "66.3",
+      "CLOSE_PCT": "1.2",
+      "MID_PCT": "3.5",
+      "THREE_PCT": "29.1"
     },
     {
       "TEAM": "Ithaca College",
@@ -319,7 +455,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "61"
+      "TOTAL_SHOTS": "61",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "TEAM": "Ithaca College",
@@ -328,7 +468,11 @@
       "CLOSE_COUNT": "3",
       "MID_COUNT": "0",
       "THREE_COUNT": "2",
-      "TOTAL_SHOTS": "59"
+      "TOTAL_SHOTS": "59",
+      "LAYUP_PCT": "91.5",
+      "CLOSE_PCT": "5.1",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "3.4"
     },
     {
       "TEAM": "Ithaca College",
@@ -337,7 +481,11 @@
       "CLOSE_COUNT": "3",
       "MID_COUNT": "1",
       "THREE_COUNT": "27",
-      "TOTAL_SHOTS": "43"
+      "TOTAL_SHOTS": "43",
+      "LAYUP_PCT": "27.9",
+      "CLOSE_PCT": "7.0",
+      "MID_PCT": "2.3",
+      "THREE_PCT": "62.8"
     },
     {
       "TEAM": "Ithaca College",
@@ -346,7 +494,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "35"
+      "TOTAL_SHOTS": "35",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "TEAM": "Ithaca College",
@@ -355,7 +507,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "8",
-      "TOTAL_SHOTS": "29"
+      "TOTAL_SHOTS": "29",
+      "LAYUP_PCT": "72.4",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "27.6"
     },
     {
       "TEAM": "Ithaca College",
@@ -364,7 +520,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "2",
       "THREE_COUNT": "2",
-      "TOTAL_SHOTS": "25"
+      "TOTAL_SHOTS": "25",
+      "LAYUP_PCT": "84.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "8.0",
+      "THREE_PCT": "8.0"
     },
     {
       "TEAM": "Ithaca College",
@@ -373,7 +533,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "6",
-      "TOTAL_SHOTS": "14"
+      "TOTAL_SHOTS": "14",
+      "LAYUP_PCT": "57.1",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "42.9"
     },
     {
       "TEAM": "Rensselaer Polytechnic",
@@ -382,7 +546,11 @@
       "CLOSE_COUNT": "9",
       "MID_COUNT": "8",
       "THREE_COUNT": "254",
-      "TOTAL_SHOTS": "306"
+      "TOTAL_SHOTS": "306",
+      "LAYUP_PCT": "11.4",
+      "CLOSE_PCT": "2.9",
+      "MID_PCT": "2.6",
+      "THREE_PCT": "83.0"
     },
     {
       "TEAM": "Rensselaer Polytechnic",
@@ -391,7 +559,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "3",
       "THREE_COUNT": "51",
-      "TOTAL_SHOTS": "152"
+      "TOTAL_SHOTS": "152",
+      "LAYUP_PCT": "64.5",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "2.0",
+      "THREE_PCT": "33.6"
     },
     {
       "TEAM": "Rensselaer Polytechnic",
@@ -400,7 +572,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "129"
+      "TOTAL_SHOTS": "129",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "TEAM": "Rensselaer Polytechnic",
@@ -409,7 +585,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "65"
+      "TOTAL_SHOTS": "65",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "TEAM": "Rensselaer Polytechnic",
@@ -418,7 +598,11 @@
       "CLOSE_COUNT": "7",
       "MID_COUNT": "3",
       "THREE_COUNT": "18",
-      "TOTAL_SHOTS": "49"
+      "TOTAL_SHOTS": "49",
+      "LAYUP_PCT": "42.9",
+      "CLOSE_PCT": "14.3",
+      "MID_PCT": "6.1",
+      "THREE_PCT": "36.7"
     },
     {
       "TEAM": "Rensselaer Polytechnic",
@@ -427,7 +611,11 @@
       "CLOSE_COUNT": "5",
       "MID_COUNT": "0",
       "THREE_COUNT": "23",
-      "TOTAL_SHOTS": "32"
+      "TOTAL_SHOTS": "32",
+      "LAYUP_PCT": "12.5",
+      "CLOSE_PCT": "15.6",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "71.9"
     },
     {
       "TEAM": "Rensselaer Polytechnic",
@@ -436,7 +624,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "26"
+      "TOTAL_SHOTS": "26",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "TEAM": "Rensselaer Polytechnic",
@@ -445,7 +637,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "1",
       "THREE_COUNT": "11",
-      "TOTAL_SHOTS": "26"
+      "TOTAL_SHOTS": "26",
+      "LAYUP_PCT": "50.0",
+      "CLOSE_PCT": "3.8",
+      "MID_PCT": "3.8",
+      "THREE_PCT": "42.3"
     },
     {
       "TEAM": "Rensselaer Polytechnic",
@@ -454,7 +650,11 @@
       "CLOSE_COUNT": "3",
       "MID_COUNT": "2",
       "THREE_COUNT": "13",
-      "TOTAL_SHOTS": "21"
+      "TOTAL_SHOTS": "21",
+      "LAYUP_PCT": "14.3",
+      "CLOSE_PCT": "14.3",
+      "MID_PCT": "9.5",
+      "THREE_PCT": "61.9"
     },
     {
       "TEAM": "Rochester Institute of Technology Tigers",
@@ -463,7 +663,11 @@
       "CLOSE_COUNT": "28",
       "MID_COUNT": "23",
       "THREE_COUNT": "196",
-      "TOTAL_SHOTS": "309"
+      "TOTAL_SHOTS": "309",
+      "LAYUP_PCT": "20.1",
+      "CLOSE_PCT": "9.1",
+      "MID_PCT": "7.4",
+      "THREE_PCT": "63.4"
     },
     {
       "TEAM": "Rochester Institute of Technology Tigers",
@@ -472,7 +676,11 @@
       "CLOSE_COUNT": "9",
       "MID_COUNT": "5",
       "THREE_COUNT": "43",
-      "TOTAL_SHOTS": "146"
+      "TOTAL_SHOTS": "146",
+      "LAYUP_PCT": "61.0",
+      "CLOSE_PCT": "6.2",
+      "MID_PCT": "3.4",
+      "THREE_PCT": "29.5"
     },
     {
       "TEAM": "Rochester Institute of Technology Tigers",
@@ -481,7 +689,11 @@
       "CLOSE_COUNT": "27",
       "MID_COUNT": "20",
       "THREE_COUNT": "23",
-      "TOTAL_SHOTS": "140"
+      "TOTAL_SHOTS": "140",
+      "LAYUP_PCT": "50.0",
+      "CLOSE_PCT": "19.3",
+      "MID_PCT": "14.3",
+      "THREE_PCT": "16.4"
     },
     {
       "TEAM": "Rochester Institute of Technology Tigers",
@@ -490,7 +702,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "89"
+      "TOTAL_SHOTS": "89",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "TEAM": "Rochester Institute of Technology Tigers",
@@ -499,7 +715,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "88"
+      "TOTAL_SHOTS": "88",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "TEAM": "Rochester Institute of Technology Tigers",
@@ -508,7 +728,11 @@
       "CLOSE_COUNT": "7",
       "MID_COUNT": "9",
       "THREE_COUNT": "43",
-      "TOTAL_SHOTS": "77"
+      "TOTAL_SHOTS": "77",
+      "LAYUP_PCT": "23.4",
+      "CLOSE_PCT": "9.1",
+      "MID_PCT": "11.7",
+      "THREE_PCT": "55.8"
     },
     {
       "TEAM": "Rochester Institute of Technology Tigers",
@@ -517,7 +741,11 @@
       "CLOSE_COUNT": "5",
       "MID_COUNT": "0",
       "THREE_COUNT": "1",
-      "TOTAL_SHOTS": "57"
+      "TOTAL_SHOTS": "57",
+      "LAYUP_PCT": "89.5",
+      "CLOSE_PCT": "8.8",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "1.8"
     },
     {
       "TEAM": "Rochester Institute of Technology Tigers",
@@ -526,7 +754,11 @@
       "CLOSE_COUNT": "10",
       "MID_COUNT": "4",
       "THREE_COUNT": "4",
-      "TOTAL_SHOTS": "52"
+      "TOTAL_SHOTS": "52",
+      "LAYUP_PCT": "65.4",
+      "CLOSE_PCT": "19.2",
+      "MID_PCT": "7.7",
+      "THREE_PCT": "7.7"
     },
     {
       "TEAM": "Rochester Institute of Technology Tigers",
@@ -535,7 +767,11 @@
       "CLOSE_COUNT": "13",
       "MID_COUNT": "3",
       "THREE_COUNT": "14",
-      "TOTAL_SHOTS": "46"
+      "TOTAL_SHOTS": "46",
+      "LAYUP_PCT": "34.8",
+      "CLOSE_PCT": "28.3",
+      "MID_PCT": "6.5",
+      "THREE_PCT": "30.4"
     },
     {
       "TEAM": "Rochester Institute of Technology Tigers",
@@ -544,7 +780,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "1",
       "THREE_COUNT": "12",
-      "TOTAL_SHOTS": "25"
+      "TOTAL_SHOTS": "25",
+      "LAYUP_PCT": "44.0",
+      "CLOSE_PCT": "4.0",
+      "MID_PCT": "4.0",
+      "THREE_PCT": "48.0"
     },
     {
       "TEAM": "Rochester Institute of Technology Tigers",
@@ -553,7 +793,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "0",
       "THREE_COUNT": "3",
-      "TOTAL_SHOTS": "13"
+      "TOTAL_SHOTS": "13",
+      "LAYUP_PCT": "69.2",
+      "CLOSE_PCT": "7.7",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "23.1"
     },
     {
       "TEAM": "Skidmore Thoroughbreds",
@@ -562,7 +806,11 @@
       "CLOSE_COUNT": "21",
       "MID_COUNT": "12",
       "THREE_COUNT": "160",
-      "TOTAL_SHOTS": "236"
+      "TOTAL_SHOTS": "236",
+      "LAYUP_PCT": "18.2",
+      "CLOSE_PCT": "8.9",
+      "MID_PCT": "5.1",
+      "THREE_PCT": "67.8"
     },
     {
       "TEAM": "Skidmore Thoroughbreds",
@@ -571,7 +819,11 @@
       "CLOSE_COUNT": "31",
       "MID_COUNT": "14",
       "THREE_COUNT": "28",
-      "TOTAL_SHOTS": "115"
+      "TOTAL_SHOTS": "115",
+      "LAYUP_PCT": "36.5",
+      "CLOSE_PCT": "27.0",
+      "MID_PCT": "12.2",
+      "THREE_PCT": "24.3"
     },
     {
       "TEAM": "Skidmore Thoroughbreds",
@@ -580,7 +832,11 @@
       "CLOSE_COUNT": "5",
       "MID_COUNT": "2",
       "THREE_COUNT": "36",
-      "TOTAL_SHOTS": "115"
+      "TOTAL_SHOTS": "115",
+      "LAYUP_PCT": "62.6",
+      "CLOSE_PCT": "4.3",
+      "MID_PCT": "1.7",
+      "THREE_PCT": "31.3"
     },
     {
       "TEAM": "Skidmore Thoroughbreds",
@@ -589,7 +845,11 @@
       "CLOSE_COUNT": "9",
       "MID_COUNT": "5",
       "THREE_COUNT": "12",
-      "TOTAL_SHOTS": "53"
+      "TOTAL_SHOTS": "53",
+      "LAYUP_PCT": "50.9",
+      "CLOSE_PCT": "17.0",
+      "MID_PCT": "9.4",
+      "THREE_PCT": "22.6"
     },
     {
       "TEAM": "Skidmore Thoroughbreds",
@@ -598,7 +858,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "39"
+      "TOTAL_SHOTS": "39",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "TEAM": "Skidmore Thoroughbreds",
@@ -607,7 +871,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "0",
       "THREE_COUNT": "1",
-      "TOTAL_SHOTS": "37"
+      "TOTAL_SHOTS": "37",
+      "LAYUP_PCT": "94.6",
+      "CLOSE_PCT": "2.7",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "2.7"
     },
     {
       "TEAM": "Skidmore Thoroughbreds",
@@ -616,7 +884,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "2",
       "THREE_COUNT": "27",
-      "TOTAL_SHOTS": "35"
+      "TOTAL_SHOTS": "35",
+      "LAYUP_PCT": "14.3",
+      "CLOSE_PCT": "2.9",
+      "MID_PCT": "5.7",
+      "THREE_PCT": "77.1"
     },
     {
       "TEAM": "Skidmore Thoroughbreds",
@@ -625,7 +897,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "0",
       "THREE_COUNT": "13",
-      "TOTAL_SHOTS": "32"
+      "TOTAL_SHOTS": "32",
+      "LAYUP_PCT": "56.3",
+      "CLOSE_PCT": "3.1",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "40.6"
     },
     {
       "TEAM": "Skidmore Thoroughbreds",
@@ -634,7 +910,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "25"
+      "TOTAL_SHOTS": "25",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "TEAM": "Skidmore Thoroughbreds",
@@ -643,7 +923,11 @@
       "CLOSE_COUNT": "2",
       "MID_COUNT": "3",
       "THREE_COUNT": "10",
-      "TOTAL_SHOTS": "20"
+      "TOTAL_SHOTS": "20",
+      "LAYUP_PCT": "25.0",
+      "CLOSE_PCT": "10.0",
+      "MID_PCT": "15.0",
+      "THREE_PCT": "50.0"
     },
     {
       "TEAM": "St. Lawrence Saints",
@@ -652,7 +936,11 @@
       "CLOSE_COUNT": "27",
       "MID_COUNT": "25",
       "THREE_COUNT": "167",
-      "TOTAL_SHOTS": "284"
+      "TOTAL_SHOTS": "284",
+      "LAYUP_PCT": "22.9",
+      "CLOSE_PCT": "9.5",
+      "MID_PCT": "8.8",
+      "THREE_PCT": "58.8"
     },
     {
       "TEAM": "St. Lawrence Saints",
@@ -661,7 +949,11 @@
       "CLOSE_COUNT": "5",
       "MID_COUNT": "4",
       "THREE_COUNT": "77",
-      "TOTAL_SHOTS": "170"
+      "TOTAL_SHOTS": "170",
+      "LAYUP_PCT": "49.4",
+      "CLOSE_PCT": "2.9",
+      "MID_PCT": "2.4",
+      "THREE_PCT": "45.3"
     },
     {
       "TEAM": "St. Lawrence Saints",
@@ -670,7 +962,11 @@
       "CLOSE_COUNT": "14",
       "MID_COUNT": "9",
       "THREE_COUNT": "28",
-      "TOTAL_SHOTS": "80"
+      "TOTAL_SHOTS": "80",
+      "LAYUP_PCT": "36.3",
+      "CLOSE_PCT": "17.5",
+      "MID_PCT": "11.3",
+      "THREE_PCT": "35.0"
     },
     {
       "TEAM": "St. Lawrence Saints",
@@ -679,7 +975,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "61"
+      "TOTAL_SHOTS": "61",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "TEAM": "St. Lawrence Saints",
@@ -688,7 +988,11 @@
       "CLOSE_COUNT": "4",
       "MID_COUNT": "2",
       "THREE_COUNT": "9",
-      "TOTAL_SHOTS": "51"
+      "TOTAL_SHOTS": "51",
+      "LAYUP_PCT": "70.6",
+      "CLOSE_PCT": "7.8",
+      "MID_PCT": "3.9",
+      "THREE_PCT": "17.6"
     },
     {
       "TEAM": "St. Lawrence Saints",
@@ -697,7 +1001,11 @@
       "CLOSE_COUNT": "4",
       "MID_COUNT": "1",
       "THREE_COUNT": "30",
-      "TOTAL_SHOTS": "45"
+      "TOTAL_SHOTS": "45",
+      "LAYUP_PCT": "22.2",
+      "CLOSE_PCT": "8.9",
+      "MID_PCT": "2.2",
+      "THREE_PCT": "66.7"
     },
     {
       "TEAM": "St. Lawrence Saints",
@@ -706,7 +1014,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "37"
+      "TOTAL_SHOTS": "37",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "TEAM": "St. Lawrence Saints",
@@ -715,7 +1027,11 @@
       "CLOSE_COUNT": "6",
       "MID_COUNT": "4",
       "THREE_COUNT": "13",
-      "TOTAL_SHOTS": "36"
+      "TOTAL_SHOTS": "36",
+      "LAYUP_PCT": "36.1",
+      "CLOSE_PCT": "16.7",
+      "MID_PCT": "11.1",
+      "THREE_PCT": "36.1"
     },
     {
       "TEAM": "St. Lawrence Saints",
@@ -724,7 +1040,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "2",
-      "TOTAL_SHOTS": "30"
+      "TOTAL_SHOTS": "30",
+      "LAYUP_PCT": "93.3",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "6.7"
     },
     {
       "TEAM": "St. Lawrence Saints",
@@ -733,7 +1053,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "1",
       "THREE_COUNT": "7",
-      "TOTAL_SHOTS": "23"
+      "TOTAL_SHOTS": "23",
+      "LAYUP_PCT": "65.2",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "4.3",
+      "THREE_PCT": "30.4"
     },
     {
       "TEAM": "St. Lawrence Saints",
@@ -742,7 +1066,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "11",
-      "TOTAL_SHOTS": "16"
+      "TOTAL_SHOTS": "16",
+      "LAYUP_PCT": "31.3",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "68.8"
     },
     {
       "TEAM": "Union (NY) Chargers",
@@ -751,7 +1079,11 @@
       "CLOSE_COUNT": "26",
       "MID_COUNT": "18",
       "THREE_COUNT": "164",
-      "TOTAL_SHOTS": "268"
+      "TOTAL_SHOTS": "268",
+      "LAYUP_PCT": "22.4",
+      "CLOSE_PCT": "9.7",
+      "MID_PCT": "6.7",
+      "THREE_PCT": "61.2"
     },
     {
       "TEAM": "Union (NY) Chargers",
@@ -760,7 +1092,11 @@
       "CLOSE_COUNT": "3",
       "MID_COUNT": "8",
       "THREE_COUNT": "41",
-      "TOTAL_SHOTS": "149"
+      "TOTAL_SHOTS": "149",
+      "LAYUP_PCT": "65.1",
+      "CLOSE_PCT": "2.0",
+      "MID_PCT": "5.4",
+      "THREE_PCT": "27.5"
     },
     {
       "TEAM": "Union (NY) Chargers",
@@ -769,7 +1105,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "108"
+      "TOTAL_SHOTS": "108",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "TEAM": "Union (NY) Chargers",
@@ -778,7 +1118,11 @@
       "CLOSE_COUNT": "16",
       "MID_COUNT": "12",
       "THREE_COUNT": "24",
-      "TOTAL_SHOTS": "72"
+      "TOTAL_SHOTS": "72",
+      "LAYUP_PCT": "27.8",
+      "CLOSE_PCT": "22.2",
+      "MID_PCT": "16.7",
+      "THREE_PCT": "33.3"
     },
     {
       "TEAM": "Union (NY) Chargers",
@@ -787,7 +1131,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "2",
       "THREE_COUNT": "7",
-      "TOTAL_SHOTS": "45"
+      "TOTAL_SHOTS": "45",
+      "LAYUP_PCT": "77.8",
+      "CLOSE_PCT": "2.2",
+      "MID_PCT": "4.4",
+      "THREE_PCT": "15.6"
     },
     {
       "TEAM": "Union (NY) Chargers",
@@ -796,7 +1144,11 @@
       "CLOSE_COUNT": "2",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "38"
+      "TOTAL_SHOTS": "38",
+      "LAYUP_PCT": "94.7",
+      "CLOSE_PCT": "5.3",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "TEAM": "Union (NY) Chargers",
@@ -805,7 +1157,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "37"
+      "TOTAL_SHOTS": "37",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "TEAM": "Union (NY) Chargers",
@@ -814,7 +1170,11 @@
       "CLOSE_COUNT": "3",
       "MID_COUNT": "0",
       "THREE_COUNT": "21",
-      "TOTAL_SHOTS": "31"
+      "TOTAL_SHOTS": "31",
+      "LAYUP_PCT": "22.6",
+      "CLOSE_PCT": "9.7",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "67.7"
     },
     {
       "TEAM": "Union (NY) Chargers",
@@ -823,7 +1183,11 @@
       "CLOSE_COUNT": "4",
       "MID_COUNT": "5",
       "THREE_COUNT": "17",
-      "TOTAL_SHOTS": "31"
+      "TOTAL_SHOTS": "31",
+      "LAYUP_PCT": "16.1",
+      "CLOSE_PCT": "12.9",
+      "MID_PCT": "16.1",
+      "THREE_PCT": "54.8"
     },
     {
       "TEAM": "Union (NY) Chargers",
@@ -832,7 +1196,11 @@
       "CLOSE_COUNT": "5",
       "MID_COUNT": "5",
       "THREE_COUNT": "2",
-      "TOTAL_SHOTS": "28"
+      "TOTAL_SHOTS": "28",
+      "LAYUP_PCT": "57.1",
+      "CLOSE_PCT": "17.9",
+      "MID_PCT": "17.9",
+      "THREE_PCT": "7.1"
     },
     {
       "TEAM": "Vassar Brewers",
@@ -841,7 +1209,11 @@
       "CLOSE_COUNT": "27",
       "MID_COUNT": "4",
       "THREE_COUNT": "196",
-      "TOTAL_SHOTS": "255"
+      "TOTAL_SHOTS": "255",
+      "LAYUP_PCT": "11.0",
+      "CLOSE_PCT": "10.6",
+      "MID_PCT": "1.6",
+      "THREE_PCT": "76.9"
     },
     {
       "TEAM": "Vassar Brewers",
@@ -850,7 +1222,11 @@
       "CLOSE_COUNT": "6",
       "MID_COUNT": "1",
       "THREE_COUNT": "46",
-      "TOTAL_SHOTS": "161"
+      "TOTAL_SHOTS": "161",
+      "LAYUP_PCT": "67.1",
+      "CLOSE_PCT": "3.7",
+      "MID_PCT": "0.6",
+      "THREE_PCT": "28.6"
     },
     {
       "TEAM": "Vassar Brewers",
@@ -859,7 +1235,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "105"
+      "TOTAL_SHOTS": "105",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "TEAM": "Vassar Brewers",
@@ -868,7 +1248,11 @@
       "CLOSE_COUNT": "33",
       "MID_COUNT": "8",
       "THREE_COUNT": "26",
-      "TOTAL_SHOTS": "92"
+      "TOTAL_SHOTS": "92",
+      "LAYUP_PCT": "27.2",
+      "CLOSE_PCT": "35.9",
+      "MID_PCT": "8.7",
+      "THREE_PCT": "28.3"
     },
     {
       "TEAM": "Vassar Brewers",
@@ -877,7 +1261,11 @@
       "CLOSE_COUNT": "4",
       "MID_COUNT": "0",
       "THREE_COUNT": "1",
-      "TOTAL_SHOTS": "64"
+      "TOTAL_SHOTS": "64",
+      "LAYUP_PCT": "92.2",
+      "CLOSE_PCT": "6.3",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "1.6"
     },
     {
       "TEAM": "Vassar Brewers",
@@ -886,7 +1274,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "57"
+      "TOTAL_SHOTS": "57",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "TEAM": "Vassar Brewers",
@@ -895,7 +1287,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "1",
       "THREE_COUNT": "14",
-      "TOTAL_SHOTS": "35"
+      "TOTAL_SHOTS": "35",
+      "LAYUP_PCT": "57.1",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "2.9",
+      "THREE_PCT": "40.0"
     },
     {
       "TEAM": "Vassar Brewers",
@@ -904,7 +1300,11 @@
       "CLOSE_COUNT": "4",
       "MID_COUNT": "3",
       "THREE_COUNT": "18",
-      "TOTAL_SHOTS": "31"
+      "TOTAL_SHOTS": "31",
+      "LAYUP_PCT": "19.4",
+      "CLOSE_PCT": "12.9",
+      "MID_PCT": "9.7",
+      "THREE_PCT": "58.1"
     },
     {
       "TEAM": "Vassar Brewers",
@@ -913,7 +1313,11 @@
       "CLOSE_COUNT": "5",
       "MID_COUNT": "0",
       "THREE_COUNT": "16",
-      "TOTAL_SHOTS": "27"
+      "TOTAL_SHOTS": "27",
+      "LAYUP_PCT": "22.2",
+      "CLOSE_PCT": "18.5",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "59.3"
     },
     {
       "TEAM": "Vassar Brewers",
@@ -922,7 +1326,11 @@
       "CLOSE_COUNT": "13",
       "MID_COUNT": "1",
       "THREE_COUNT": "2",
-      "TOTAL_SHOTS": "25"
+      "TOTAL_SHOTS": "25",
+      "LAYUP_PCT": "36.0",
+      "CLOSE_PCT": "52.0",
+      "MID_PCT": "4.0",
+      "THREE_PCT": "8.0"
     },
     {
       "TEAM": "Vassar Brewers",
@@ -931,7 +1339,11 @@
       "CLOSE_COUNT": "3",
       "MID_COUNT": "0",
       "THREE_COUNT": "1",
-      "TOTAL_SHOTS": "10"
+      "TOTAL_SHOTS": "10",
+      "LAYUP_PCT": "60.0",
+      "CLOSE_PCT": "30.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "10.0"
     }
   ]
 }

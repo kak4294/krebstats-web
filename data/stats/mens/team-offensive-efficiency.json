@@ -2,8 +2,8 @@
   "success": true,
   "gender": "mens",
   "query": "team-offensive-efficiency",
-  "include_percentiles": true,
-  "fetched_at": "2026-01-20T11:52:53.122384",
+  "description": "Team offensive efficiency by play type with PPP, shooting percentages, and percentile rankings",
+  "fetched_at": "2026-01-20T12:30:24.921093",
   "row_count": 100,
   "data": [
     {

@@ -3,7 +3,7 @@
   "gender": "mens",
   "query": "player-playtype-shot-frequency",
   "description": "Shot distribution by play type, showing where players shoot from on different offensive actions",
-  "fetched_at": "2026-01-20T11:52:55.770966",
+  "fetched_at": "2026-01-20T12:30:28.429721",
   "row_count": 436,
   "data": [
     {
@@ -14,7 +14,11 @@
       "CLOSE_COUNT": "5",
       "MID_COUNT": "0",
       "THREE_COUNT": "27",
-      "TOTAL_SHOTS": "42"
+      "TOTAL_SHOTS": "42",
+      "LAYUP_PCT": "23.8",
+      "CLOSE_PCT": "11.9",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "64.3"
     },
     {
       "PLAYER": "Adam Dudzinski",
@@ -24,7 +28,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "20",
-      "TOTAL_SHOTS": "30"
+      "TOTAL_SHOTS": "30",
+      "LAYUP_PCT": "33.3",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "66.7"
     },
     {
       "PLAYER": "Adam Dudzinski",
@@ -34,7 +42,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "20"
+      "TOTAL_SHOTS": "20",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Adam Dudzinski",
@@ -44,7 +56,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "1",
       "THREE_COUNT": "6",
-      "TOTAL_SHOTS": "11"
+      "TOTAL_SHOTS": "11",
+      "LAYUP_PCT": "27.3",
+      "CLOSE_PCT": "9.1",
+      "MID_PCT": "9.1",
+      "THREE_PCT": "54.5"
     },
     {
       "PLAYER": "Adam Dudzinski",
@@ -54,7 +70,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "1",
       "THREE_COUNT": "8",
-      "TOTAL_SHOTS": "10"
+      "TOTAL_SHOTS": "10",
+      "LAYUP_PCT": "10.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "10.0",
+      "THREE_PCT": "80.0"
     },
     {
       "PLAYER": "Adam Dudzinski",
@@ -64,7 +84,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "10"
+      "TOTAL_SHOTS": "10",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Adam Dudzinski",
@@ -74,7 +98,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "0",
       "THREE_COUNT": "7",
-      "TOTAL_SHOTS": "9"
+      "TOTAL_SHOTS": "9",
+      "LAYUP_PCT": "11.1",
+      "CLOSE_PCT": "11.1",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "77.8"
     },
     {
       "PLAYER": "Adam Dudzinski",
@@ -84,7 +112,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "4",
-      "TOTAL_SHOTS": "7"
+      "TOTAL_SHOTS": "7",
+      "LAYUP_PCT": "42.9",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "57.1"
     },
     {
       "PLAYER": "Adam Dudzinski",
@@ -94,7 +126,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "5",
-      "TOTAL_SHOTS": "5"
+      "TOTAL_SHOTS": "5",
+      "LAYUP_PCT": "0.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "100.0"
     },
     {
       "PLAYER": "Aidan Phelan",
@@ -104,7 +140,11 @@
       "CLOSE_COUNT": "3",
       "MID_COUNT": "1",
       "THREE_COUNT": "32",
-      "TOTAL_SHOTS": "48"
+      "TOTAL_SHOTS": "48",
+      "LAYUP_PCT": "25.0",
+      "CLOSE_PCT": "6.3",
+      "MID_PCT": "2.1",
+      "THREE_PCT": "66.7"
     },
     {
       "PLAYER": "Aidan Phelan",
@@ -114,7 +154,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "1",
       "THREE_COUNT": "15",
-      "TOTAL_SHOTS": "22"
+      "TOTAL_SHOTS": "22",
+      "LAYUP_PCT": "27.3",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "4.5",
+      "THREE_PCT": "68.2"
     },
     {
       "PLAYER": "Aidan Phelan",
@@ -124,7 +168,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "2",
       "THREE_COUNT": "2",
-      "TOTAL_SHOTS": "8"
+      "TOTAL_SHOTS": "8",
+      "LAYUP_PCT": "37.5",
+      "CLOSE_PCT": "12.5",
+      "MID_PCT": "25.0",
+      "THREE_PCT": "25.0"
     },
     {
       "PLAYER": "Aidan Phelan",
@@ -134,7 +182,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "7"
+      "TOTAL_SHOTS": "7",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Aidan Roy",
@@ -144,7 +196,11 @@
       "CLOSE_COUNT": "6",
       "MID_COUNT": "9",
       "THREE_COUNT": "16",
-      "TOTAL_SHOTS": "39"
+      "TOTAL_SHOTS": "39",
+      "LAYUP_PCT": "20.5",
+      "CLOSE_PCT": "15.4",
+      "MID_PCT": "23.1",
+      "THREE_PCT": "41.0"
     },
     {
       "PLAYER": "Aidan Roy",
@@ -154,7 +210,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "0",
       "THREE_COUNT": "27",
-      "TOTAL_SHOTS": "32"
+      "TOTAL_SHOTS": "32",
+      "LAYUP_PCT": "12.5",
+      "CLOSE_PCT": "3.1",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "84.4"
     },
     {
       "PLAYER": "Aidan Roy",
@@ -164,7 +224,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "1",
       "THREE_COUNT": "6",
-      "TOTAL_SHOTS": "16"
+      "TOTAL_SHOTS": "16",
+      "LAYUP_PCT": "56.3",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "6.3",
+      "THREE_PCT": "37.5"
     },
     {
       "PLAYER": "Aidan Roy",
@@ -174,7 +238,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "0",
       "THREE_COUNT": "5",
-      "TOTAL_SHOTS": "13"
+      "TOTAL_SHOTS": "13",
+      "LAYUP_PCT": "53.8",
+      "CLOSE_PCT": "7.7",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "38.5"
     },
     {
       "PLAYER": "Aidan Roy",
@@ -184,7 +252,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "2",
       "THREE_COUNT": "5",
-      "TOTAL_SHOTS": "12"
+      "TOTAL_SHOTS": "12",
+      "LAYUP_PCT": "33.3",
+      "CLOSE_PCT": "8.3",
+      "MID_PCT": "16.7",
+      "THREE_PCT": "41.7"
     },
     {
       "PLAYER": "Aidan Roy",
@@ -194,7 +266,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "8",
-      "TOTAL_SHOTS": "9"
+      "TOTAL_SHOTS": "9",
+      "LAYUP_PCT": "11.1",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "88.9"
     },
     {
       "PLAYER": "Alex Moesch",
@@ -204,7 +280,11 @@
       "CLOSE_COUNT": "23",
       "MID_COUNT": "8",
       "THREE_COUNT": "48",
-      "TOTAL_SHOTS": "93"
+      "TOTAL_SHOTS": "93",
+      "LAYUP_PCT": "15.1",
+      "CLOSE_PCT": "24.7",
+      "MID_PCT": "8.6",
+      "THREE_PCT": "51.6"
     },
     {
       "PLAYER": "Alex Moesch",
@@ -214,7 +294,11 @@
       "CLOSE_COUNT": "6",
       "MID_COUNT": "0",
       "THREE_COUNT": "21",
-      "TOTAL_SHOTS": "48"
+      "TOTAL_SHOTS": "48",
+      "LAYUP_PCT": "43.8",
+      "CLOSE_PCT": "12.5",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "43.8"
     },
     {
       "PLAYER": "Alex Moesch",
@@ -224,7 +308,11 @@
       "CLOSE_COUNT": "2",
       "MID_COUNT": "2",
       "THREE_COUNT": "2",
-      "TOTAL_SHOTS": "8"
+      "TOTAL_SHOTS": "8",
+      "LAYUP_PCT": "25.0",
+      "CLOSE_PCT": "25.0",
+      "MID_PCT": "25.0",
+      "THREE_PCT": "25.0"
     },
     {
       "PLAYER": "Alex Moesch",
@@ -234,7 +322,11 @@
       "CLOSE_COUNT": "3",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "7"
+      "TOTAL_SHOTS": "7",
+      "LAYUP_PCT": "57.1",
+      "CLOSE_PCT": "42.9",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Alex Moesch",
@@ -244,7 +336,11 @@
       "CLOSE_COUNT": "2",
       "MID_COUNT": "2",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "6"
+      "TOTAL_SHOTS": "6",
+      "LAYUP_PCT": "33.3",
+      "CLOSE_PCT": "33.3",
+      "MID_PCT": "33.3",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Alex Penders",
@@ -254,7 +350,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "35",
-      "TOTAL_SHOTS": "37"
+      "TOTAL_SHOTS": "37",
+      "LAYUP_PCT": "5.4",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "94.6"
     },
     {
       "PLAYER": "Alex Penders",
@@ -264,7 +364,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "13",
-      "TOTAL_SHOTS": "16"
+      "TOTAL_SHOTS": "16",
+      "LAYUP_PCT": "18.8",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "81.3"
     },
     {
       "PLAYER": "Alex Penders",
@@ -274,7 +378,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "4",
-      "TOTAL_SHOTS": "5"
+      "TOTAL_SHOTS": "5",
+      "LAYUP_PCT": "20.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "80.0"
     },
     {
       "PLAYER": "Allen Mordi",
@@ -284,7 +392,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "0",
       "THREE_COUNT": "34",
-      "TOTAL_SHOTS": "52"
+      "TOTAL_SHOTS": "52",
+      "LAYUP_PCT": "32.7",
+      "CLOSE_PCT": "1.9",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "65.4"
     },
     {
       "PLAYER": "Allen Mordi",
@@ -294,7 +406,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "6",
-      "TOTAL_SHOTS": "19"
+      "TOTAL_SHOTS": "19",
+      "LAYUP_PCT": "68.4",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "31.6"
     },
     {
       "PLAYER": "Allen Mordi",
@@ -304,7 +420,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "13"
+      "TOTAL_SHOTS": "13",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Allen Mordi",
@@ -314,7 +434,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "8"
+      "TOTAL_SHOTS": "8",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Andrew Deppe",
@@ -324,7 +448,11 @@
       "CLOSE_COUNT": "3",
       "MID_COUNT": "3",
       "THREE_COUNT": "27",
-      "TOTAL_SHOTS": "35"
+      "TOTAL_SHOTS": "35",
+      "LAYUP_PCT": "5.7",
+      "CLOSE_PCT": "8.6",
+      "MID_PCT": "8.6",
+      "THREE_PCT": "77.1"
     },
     {
       "PLAYER": "Andrew Deppe",
@@ -334,7 +462,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "26"
+      "TOTAL_SHOTS": "26",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Andrew Deppe",
@@ -344,7 +476,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "22"
+      "TOTAL_SHOTS": "22",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Andrew Deppe",
@@ -354,7 +490,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "6",
-      "TOTAL_SHOTS": "21"
+      "TOTAL_SHOTS": "21",
+      "LAYUP_PCT": "71.4",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "28.6"
     },
     {
       "PLAYER": "Andrew Deppe",
@@ -364,7 +504,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "1",
       "THREE_COUNT": "8",
-      "TOTAL_SHOTS": "20"
+      "TOTAL_SHOTS": "20",
+      "LAYUP_PCT": "50.0",
+      "CLOSE_PCT": "5.0",
+      "MID_PCT": "5.0",
+      "THREE_PCT": "40.0"
     },
     {
       "PLAYER": "Angelos Brakatos",
@@ -374,7 +518,11 @@
       "CLOSE_COUNT": "8",
       "MID_COUNT": "2",
       "THREE_COUNT": "59",
-      "TOTAL_SHOTS": "78"
+      "TOTAL_SHOTS": "78",
+      "LAYUP_PCT": "11.5",
+      "CLOSE_PCT": "10.3",
+      "MID_PCT": "2.6",
+      "THREE_PCT": "75.6"
     },
     {
       "PLAYER": "Angelos Brakatos",
@@ -384,7 +532,11 @@
       "CLOSE_COUNT": "3",
       "MID_COUNT": "0",
       "THREE_COUNT": "14",
-      "TOTAL_SHOTS": "29"
+      "TOTAL_SHOTS": "29",
+      "LAYUP_PCT": "41.4",
+      "CLOSE_PCT": "10.3",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "48.3"
     },
     {
       "PLAYER": "Angelos Brakatos",
@@ -394,7 +546,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "1",
       "THREE_COUNT": "4",
-      "TOTAL_SHOTS": "15"
+      "TOTAL_SHOTS": "15",
+      "LAYUP_PCT": "60.0",
+      "CLOSE_PCT": "6.7",
+      "MID_PCT": "6.7",
+      "THREE_PCT": "26.7"
     },
     {
       "PLAYER": "Angelos Brakatos",
@@ -404,7 +560,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "0",
       "THREE_COUNT": "8",
-      "TOTAL_SHOTS": "10"
+      "TOTAL_SHOTS": "10",
+      "LAYUP_PCT": "10.0",
+      "CLOSE_PCT": "10.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "80.0"
     },
     {
       "PLAYER": "Avery Lee",
@@ -414,7 +574,11 @@
       "CLOSE_COUNT": "22",
       "MID_COUNT": "3",
       "THREE_COUNT": "12",
-      "TOTAL_SHOTS": "49"
+      "TOTAL_SHOTS": "49",
+      "LAYUP_PCT": "24.5",
+      "CLOSE_PCT": "44.9",
+      "MID_PCT": "6.1",
+      "THREE_PCT": "24.5"
     },
     {
       "PLAYER": "Avery Lee",
@@ -424,7 +588,11 @@
       "CLOSE_COUNT": "6",
       "MID_COUNT": "0",
       "THREE_COUNT": "17",
-      "TOTAL_SHOTS": "26"
+      "TOTAL_SHOTS": "26",
+      "LAYUP_PCT": "11.5",
+      "CLOSE_PCT": "23.1",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "65.4"
     },
     {
       "PLAYER": "Avery Lee",
@@ -434,7 +602,11 @@
       "CLOSE_COUNT": "2",
       "MID_COUNT": "1",
       "THREE_COUNT": "9",
-      "TOTAL_SHOTS": "23"
+      "TOTAL_SHOTS": "23",
+      "LAYUP_PCT": "47.8",
+      "CLOSE_PCT": "8.7",
+      "MID_PCT": "4.3",
+      "THREE_PCT": "39.1"
     },
     {
       "PLAYER": "Avery Lee",
@@ -444,7 +616,11 @@
       "CLOSE_COUNT": "3",
       "MID_COUNT": "2",
       "THREE_COUNT": "5",
-      "TOTAL_SHOTS": "12"
+      "TOTAL_SHOTS": "12",
+      "LAYUP_PCT": "16.7",
+      "CLOSE_PCT": "25.0",
+      "MID_PCT": "16.7",
+      "THREE_PCT": "41.7"
     },
     {
       "PLAYER": "Avery Lee",
@@ -454,7 +630,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "0",
       "THREE_COUNT": "4",
-      "TOTAL_SHOTS": "6"
+      "TOTAL_SHOTS": "6",
+      "LAYUP_PCT": "16.7",
+      "CLOSE_PCT": "16.7",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "66.7"
     },
     {
       "PLAYER": "Avery Lee",
@@ -464,7 +644,11 @@
       "CLOSE_COUNT": "4",
       "MID_COUNT": "1",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "6"
+      "TOTAL_SHOTS": "6",
+      "LAYUP_PCT": "16.7",
+      "CLOSE_PCT": "66.7",
+      "MID_PCT": "16.7",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Axel Traina",
@@ -474,7 +658,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "14",
-      "TOTAL_SHOTS": "14"
+      "TOTAL_SHOTS": "14",
+      "LAYUP_PCT": "0.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "100.0"
     },
     {
       "PLAYER": "Axel Traina",
@@ -484,7 +672,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "6",
-      "TOTAL_SHOTS": "6"
+      "TOTAL_SHOTS": "6",
+      "LAYUP_PCT": "0.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "100.0"
     },
     {
       "PLAYER": "Aydin Kocak",
@@ -494,7 +686,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "2",
       "THREE_COUNT": "44",
-      "TOTAL_SHOTS": "47"
+      "TOTAL_SHOTS": "47",
+      "LAYUP_PCT": "2.1",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "4.3",
+      "THREE_PCT": "93.6"
     },
     {
       "PLAYER": "Aydin Kocak",
@@ -504,7 +700,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "1",
       "THREE_COUNT": "9",
-      "TOTAL_SHOTS": "15"
+      "TOTAL_SHOTS": "15",
+      "LAYUP_PCT": "33.3",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "6.7",
+      "THREE_PCT": "60.0"
     },
     {
       "PLAYER": "Aydin Kocak",
@@ -514,7 +714,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "7"
+      "TOTAL_SHOTS": "7",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Aydin Kocak",
@@ -524,7 +728,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "6",
-      "TOTAL_SHOTS": "6"
+      "TOTAL_SHOTS": "6",
+      "LAYUP_PCT": "0.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "100.0"
     },
     {
       "PLAYER": "Azikiwe Cuffy-Scott",
@@ -534,7 +742,11 @@
       "CLOSE_COUNT": "3",
       "MID_COUNT": "4",
       "THREE_COUNT": "5",
-      "TOTAL_SHOTS": "21"
+      "TOTAL_SHOTS": "21",
+      "LAYUP_PCT": "42.9",
+      "CLOSE_PCT": "14.3",
+      "MID_PCT": "19.0",
+      "THREE_PCT": "23.8"
     },
     {
       "PLAYER": "Azikiwe Cuffy-Scott",
@@ -544,7 +756,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "13"
+      "TOTAL_SHOTS": "13",
+      "LAYUP_PCT": "92.3",
+      "CLOSE_PCT": "7.7",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Azikiwe Cuffy-Scott",
@@ -554,7 +770,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "12"
+      "TOTAL_SHOTS": "12",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Azikiwe Cuffy-Scott",
@@ -564,7 +784,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "1",
       "THREE_COUNT": "5",
-      "TOTAL_SHOTS": "12"
+      "TOTAL_SHOTS": "12",
+      "LAYUP_PCT": "41.7",
+      "CLOSE_PCT": "8.3",
+      "MID_PCT": "8.3",
+      "THREE_PCT": "41.7"
     },
     {
       "PLAYER": "Azikiwe Cuffy-Scott",
@@ -574,7 +798,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "9"
+      "TOTAL_SHOTS": "9",
+      "LAYUP_PCT": "88.9",
+      "CLOSE_PCT": "11.1",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Azikiwe Cuffy-Scott",
@@ -584,7 +812,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "5"
+      "TOTAL_SHOTS": "5",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Ben Phillips",
@@ -594,7 +826,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "7"
+      "TOTAL_SHOTS": "7",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Ben Rappa",
@@ -604,7 +840,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "0",
       "THREE_COUNT": "12",
-      "TOTAL_SHOTS": "16"
+      "TOTAL_SHOTS": "16",
+      "LAYUP_PCT": "18.8",
+      "CLOSE_PCT": "6.3",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "75.0"
     },
     {
       "PLAYER": "Billy Feeks",
@@ -614,7 +854,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "42",
-      "TOTAL_SHOTS": "49"
+      "TOTAL_SHOTS": "49",
+      "LAYUP_PCT": "14.3",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "85.7"
     },
     {
       "PLAYER": "Billy Feeks",
@@ -624,7 +868,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "1",
       "THREE_COUNT": "9",
-      "TOTAL_SHOTS": "19"
+      "TOTAL_SHOTS": "19",
+      "LAYUP_PCT": "47.4",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "5.3",
+      "THREE_PCT": "47.4"
     },
     {
       "PLAYER": "Billy Feeks",
@@ -634,7 +882,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "0",
       "THREE_COUNT": "6",
-      "TOTAL_SHOTS": "9"
+      "TOTAL_SHOTS": "9",
+      "LAYUP_PCT": "22.2",
+      "CLOSE_PCT": "11.1",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "66.7"
     },
     {
       "PLAYER": "Billy Feeks",
@@ -644,7 +896,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "1",
       "THREE_COUNT": "2",
-      "TOTAL_SHOTS": "7"
+      "TOTAL_SHOTS": "7",
+      "LAYUP_PCT": "42.9",
+      "CLOSE_PCT": "14.3",
+      "MID_PCT": "14.3",
+      "THREE_PCT": "28.6"
     },
     {
       "PLAYER": "Billy Feeks",
@@ -654,7 +910,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "7"
+      "TOTAL_SHOTS": "7",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Blake Smith",
@@ -664,7 +924,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "14"
+      "TOTAL_SHOTS": "14",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Blake Smith",
@@ -674,7 +938,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "3",
-      "TOTAL_SHOTS": "6"
+      "TOTAL_SHOTS": "6",
+      "LAYUP_PCT": "50.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "50.0"
     },
     {
       "PLAYER": "Blake Smith",
@@ -684,7 +952,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "4",
-      "TOTAL_SHOTS": "5"
+      "TOTAL_SHOTS": "5",
+      "LAYUP_PCT": "20.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "80.0"
     },
     {
       "PLAYER": "Bobby Piddock",
@@ -694,7 +966,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "8"
+      "TOTAL_SHOTS": "8",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Braeden Burns",
@@ -704,7 +980,11 @@
       "CLOSE_COUNT": "9",
       "MID_COUNT": "2",
       "THREE_COUNT": "33",
-      "TOTAL_SHOTS": "77"
+      "TOTAL_SHOTS": "77",
+      "LAYUP_PCT": "42.9",
+      "CLOSE_PCT": "11.7",
+      "MID_PCT": "2.6",
+      "THREE_PCT": "42.9"
     },
     {
       "PLAYER": "Braeden Burns",
@@ -714,7 +994,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "39"
+      "TOTAL_SHOTS": "39",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Braeden Burns",
@@ -724,7 +1008,11 @@
       "CLOSE_COUNT": "2",
       "MID_COUNT": "0",
       "THREE_COUNT": "3",
-      "TOTAL_SHOTS": "22"
+      "TOTAL_SHOTS": "22",
+      "LAYUP_PCT": "77.3",
+      "CLOSE_PCT": "9.1",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "13.6"
     },
     {
       "PLAYER": "Braeden Burns",
@@ -734,7 +1022,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "1",
       "THREE_COUNT": "3",
-      "TOTAL_SHOTS": "20"
+      "TOTAL_SHOTS": "20",
+      "LAYUP_PCT": "80.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "5.0",
+      "THREE_PCT": "15.0"
     },
     {
       "PLAYER": "Braeden Burns",
@@ -744,7 +1036,11 @@
       "CLOSE_COUNT": "2",
       "MID_COUNT": "0",
       "THREE_COUNT": "3",
-      "TOTAL_SHOTS": "16"
+      "TOTAL_SHOTS": "16",
+      "LAYUP_PCT": "68.8",
+      "CLOSE_PCT": "12.5",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "18.8"
     },
     {
       "PLAYER": "Braeden Burns",
@@ -754,7 +1050,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "8"
+      "TOTAL_SHOTS": "8",
+      "LAYUP_PCT": "87.5",
+      "CLOSE_PCT": "12.5",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Braeden Burns",
@@ -764,7 +1064,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "3",
-      "TOTAL_SHOTS": "7"
+      "TOTAL_SHOTS": "7",
+      "LAYUP_PCT": "57.1",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "42.9"
     },
     {
       "PLAYER": "Braeden Burns",
@@ -774,7 +1078,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "6"
+      "TOTAL_SHOTS": "6",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Brayden Shepardson",
@@ -784,7 +1092,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "4",
-      "TOTAL_SHOTS": "5"
+      "TOTAL_SHOTS": "5",
+      "LAYUP_PCT": "20.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "80.0"
     },
     {
       "PLAYER": "Brody Brown",
@@ -794,7 +1106,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "2",
       "THREE_COUNT": "24",
-      "TOTAL_SHOTS": "33"
+      "TOTAL_SHOTS": "33",
+      "LAYUP_PCT": "18.2",
+      "CLOSE_PCT": "3.0",
+      "MID_PCT": "6.1",
+      "THREE_PCT": "72.7"
     },
     {
       "PLAYER": "Brody Brown",
@@ -804,7 +1120,11 @@
       "CLOSE_COUNT": "2",
       "MID_COUNT": "1",
       "THREE_COUNT": "3",
-      "TOTAL_SHOTS": "22"
+      "TOTAL_SHOTS": "22",
+      "LAYUP_PCT": "72.7",
+      "CLOSE_PCT": "9.1",
+      "MID_PCT": "4.5",
+      "THREE_PCT": "13.6"
     },
     {
       "PLAYER": "Brody Brown",
@@ -814,7 +1134,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "5",
-      "TOTAL_SHOTS": "8"
+      "TOTAL_SHOTS": "8",
+      "LAYUP_PCT": "37.5",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "62.5"
     },
     {
       "PLAYER": "Brody Brown",
@@ -824,7 +1148,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "8"
+      "TOTAL_SHOTS": "8",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Brody Brown",
@@ -834,7 +1162,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "1",
       "THREE_COUNT": "2",
-      "TOTAL_SHOTS": "5"
+      "TOTAL_SHOTS": "5",
+      "LAYUP_PCT": "40.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "20.0",
+      "THREE_PCT": "40.0"
     },
     {
       "PLAYER": "Bryce Sampah",
@@ -844,7 +1176,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "0",
       "THREE_COUNT": "3",
-      "TOTAL_SHOTS": "6"
+      "TOTAL_SHOTS": "6",
+      "LAYUP_PCT": "33.3",
+      "CLOSE_PCT": "16.7",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "50.0"
     },
     {
       "PLAYER": "Bryce Sampah",
@@ -854,7 +1190,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "6"
+      "TOTAL_SHOTS": "6",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Cade Furse",
@@ -864,7 +1204,11 @@
       "CLOSE_COUNT": "2",
       "MID_COUNT": "2",
       "THREE_COUNT": "7",
-      "TOTAL_SHOTS": "11"
+      "TOTAL_SHOTS": "11",
+      "LAYUP_PCT": "0.0",
+      "CLOSE_PCT": "18.2",
+      "MID_PCT": "18.2",
+      "THREE_PCT": "63.6"
     },
     {
       "PLAYER": "Caroline Henderson",
@@ -874,7 +1218,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "3",
       "THREE_COUNT": "4",
-      "TOTAL_SHOTS": "8"
+      "TOTAL_SHOTS": "8",
+      "LAYUP_PCT": "0.0",
+      "CLOSE_PCT": "12.5",
+      "MID_PCT": "37.5",
+      "THREE_PCT": "50.0"
     },
     {
       "PLAYER": "Caroline Henderson",
@@ -884,7 +1232,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "5",
-      "TOTAL_SHOTS": "5"
+      "TOTAL_SHOTS": "5",
+      "LAYUP_PCT": "0.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "100.0"
     },
     {
       "PLAYER": "Casey Montesano",
@@ -894,7 +1246,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "8",
-      "TOTAL_SHOTS": "9"
+      "TOTAL_SHOTS": "9",
+      "LAYUP_PCT": "11.1",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "88.9"
     },
     {
       "PLAYER": "Charlie Fantom",
@@ -904,7 +1260,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "28",
-      "TOTAL_SHOTS": "29"
+      "TOTAL_SHOTS": "29",
+      "LAYUP_PCT": "3.4",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "96.6"
     },
     {
       "PLAYER": "Charlie Fantom",
@@ -914,7 +1274,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "6",
-      "TOTAL_SHOTS": "10"
+      "TOTAL_SHOTS": "10",
+      "LAYUP_PCT": "40.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "60.0"
     },
     {
       "PLAYER": "Charlie Fantom",
@@ -924,7 +1288,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "1",
       "THREE_COUNT": "8",
-      "TOTAL_SHOTS": "9"
+      "TOTAL_SHOTS": "9",
+      "LAYUP_PCT": "0.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "11.1",
+      "THREE_PCT": "88.9"
     },
     {
       "PLAYER": "Charlie Weisberg",
@@ -934,7 +1302,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "1",
       "THREE_COUNT": "29",
-      "TOTAL_SHOTS": "34"
+      "TOTAL_SHOTS": "34",
+      "LAYUP_PCT": "11.8",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "2.9",
+      "THREE_PCT": "85.3"
     },
     {
       "PLAYER": "Charlie Weisberg",
@@ -944,7 +1316,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "10",
-      "TOTAL_SHOTS": "11"
+      "TOTAL_SHOTS": "11",
+      "LAYUP_PCT": "9.1",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "90.9"
     },
     {
       "PLAYER": "Charlie Weisberg",
@@ -954,7 +1330,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "8",
-      "TOTAL_SHOTS": "8"
+      "TOTAL_SHOTS": "8",
+      "LAYUP_PCT": "0.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "100.0"
     },
     {
       "PLAYER": "Chris Downs Jr.",
@@ -964,7 +1344,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "37"
+      "TOTAL_SHOTS": "37",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Chris Downs Jr.",
@@ -974,7 +1358,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "2",
       "THREE_COUNT": "1",
-      "TOTAL_SHOTS": "21"
+      "TOTAL_SHOTS": "21",
+      "LAYUP_PCT": "81.0",
+      "CLOSE_PCT": "4.8",
+      "MID_PCT": "9.5",
+      "THREE_PCT": "4.8"
     },
     {
       "PLAYER": "Chris Downs Jr.",
@@ -984,7 +1372,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "12",
       "THREE_COUNT": "2",
-      "TOTAL_SHOTS": "21"
+      "TOTAL_SHOTS": "21",
+      "LAYUP_PCT": "28.6",
+      "CLOSE_PCT": "4.8",
+      "MID_PCT": "57.1",
+      "THREE_PCT": "9.5"
     },
     {
       "PLAYER": "Chris Downs Jr.",
@@ -994,7 +1386,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "13"
+      "TOTAL_SHOTS": "13",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Chris Downs Jr.",
@@ -1004,7 +1400,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "1",
       "THREE_COUNT": "1",
-      "TOTAL_SHOTS": "13"
+      "TOTAL_SHOTS": "13",
+      "LAYUP_PCT": "84.6",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "7.7",
+      "THREE_PCT": "7.7"
     },
     {
       "PLAYER": "Chris Leysath",
@@ -1014,7 +1414,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "14"
+      "TOTAL_SHOTS": "14",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Chris Leysath",
@@ -1024,7 +1428,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "9",
-      "TOTAL_SHOTS": "12"
+      "TOTAL_SHOTS": "12",
+      "LAYUP_PCT": "25.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "75.0"
     },
     {
       "PLAYER": "Chris Leysath",
@@ -1034,7 +1442,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "12"
+      "TOTAL_SHOTS": "12",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Chris Leysath",
@@ -1044,7 +1456,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "11"
+      "TOTAL_SHOTS": "11",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Christian Dufort",
@@ -1054,7 +1470,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "3",
       "THREE_COUNT": "36",
-      "TOTAL_SHOTS": "46"
+      "TOTAL_SHOTS": "46",
+      "LAYUP_PCT": "13.0",
+      "CLOSE_PCT": "2.2",
+      "MID_PCT": "6.5",
+      "THREE_PCT": "78.3"
     },
     {
       "PLAYER": "Christian Dufort",
@@ -1064,7 +1484,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "8",
-      "TOTAL_SHOTS": "26"
+      "TOTAL_SHOTS": "26",
+      "LAYUP_PCT": "69.2",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "30.8"
     },
     {
       "PLAYER": "Christian Dufort",
@@ -1074,7 +1498,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "19"
+      "TOTAL_SHOTS": "19",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Christian Dufort",
@@ -1084,7 +1512,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "5",
-      "TOTAL_SHOTS": "8"
+      "TOTAL_SHOTS": "8",
+      "LAYUP_PCT": "37.5",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "62.5"
     },
     {
       "PLAYER": "Cole Wissink",
@@ -1094,7 +1526,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "27",
-      "TOTAL_SHOTS": "28"
+      "TOTAL_SHOTS": "28",
+      "LAYUP_PCT": "3.6",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "96.4"
     },
     {
       "PLAYER": "Cole Wissink",
@@ -1104,7 +1540,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "13",
-      "TOTAL_SHOTS": "15"
+      "TOTAL_SHOTS": "15",
+      "LAYUP_PCT": "13.3",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "86.7"
     },
     {
       "PLAYER": "Cole Wissink",
@@ -1114,7 +1554,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "3",
-      "TOTAL_SHOTS": "5"
+      "TOTAL_SHOTS": "5",
+      "LAYUP_PCT": "40.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "60.0"
     },
     {
       "PLAYER": "Colton Suriano",
@@ -1124,7 +1568,11 @@
       "CLOSE_COUNT": "2",
       "MID_COUNT": "4",
       "THREE_COUNT": "18",
-      "TOTAL_SHOTS": "27"
+      "TOTAL_SHOTS": "27",
+      "LAYUP_PCT": "11.1",
+      "CLOSE_PCT": "7.4",
+      "MID_PCT": "14.8",
+      "THREE_PCT": "66.7"
     },
     {
       "PLAYER": "Colton Suriano",
@@ -1134,7 +1582,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "0",
       "THREE_COUNT": "12",
-      "TOTAL_SHOTS": "13"
+      "TOTAL_SHOTS": "13",
+      "LAYUP_PCT": "0.0",
+      "CLOSE_PCT": "7.7",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "92.3"
     },
     {
       "PLAYER": "Connor Parkes",
@@ -1144,7 +1596,11 @@
       "CLOSE_COUNT": "3",
       "MID_COUNT": "0",
       "THREE_COUNT": "14",
-      "TOTAL_SHOTS": "21"
+      "TOTAL_SHOTS": "21",
+      "LAYUP_PCT": "19.0",
+      "CLOSE_PCT": "14.3",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "66.7"
     },
     {
       "PLAYER": "Connor Parkes",
@@ -1154,7 +1610,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "9",
-      "TOTAL_SHOTS": "16"
+      "TOTAL_SHOTS": "16",
+      "LAYUP_PCT": "43.8",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "56.3"
     },
     {
       "PLAYER": "Dan Anderson",
@@ -1164,7 +1624,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "1",
       "THREE_COUNT": "42",
-      "TOTAL_SHOTS": "59"
+      "TOTAL_SHOTS": "59",
+      "LAYUP_PCT": "25.4",
+      "CLOSE_PCT": "1.7",
+      "MID_PCT": "1.7",
+      "THREE_PCT": "71.2"
     },
     {
       "PLAYER": "Dan Anderson",
@@ -1174,7 +1638,11 @@
       "CLOSE_COUNT": "2",
       "MID_COUNT": "2",
       "THREE_COUNT": "15",
-      "TOTAL_SHOTS": "36"
+      "TOTAL_SHOTS": "36",
+      "LAYUP_PCT": "47.2",
+      "CLOSE_PCT": "5.6",
+      "MID_PCT": "5.6",
+      "THREE_PCT": "41.7"
     },
     {
       "PLAYER": "Dan Anderson",
@@ -1184,7 +1652,11 @@
       "CLOSE_COUNT": "2",
       "MID_COUNT": "0",
       "THREE_COUNT": "11",
-      "TOTAL_SHOTS": "35"
+      "TOTAL_SHOTS": "35",
+      "LAYUP_PCT": "62.9",
+      "CLOSE_PCT": "5.7",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "31.4"
     },
     {
       "PLAYER": "Dan Anderson",
@@ -1194,7 +1666,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "0",
       "THREE_COUNT": "14",
-      "TOTAL_SHOTS": "21"
+      "TOTAL_SHOTS": "21",
+      "LAYUP_PCT": "28.6",
+      "CLOSE_PCT": "4.8",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "66.7"
     },
     {
       "PLAYER": "Dan Anderson",
@@ -1204,7 +1680,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "1",
       "THREE_COUNT": "2",
-      "TOTAL_SHOTS": "16"
+      "TOTAL_SHOTS": "16",
+      "LAYUP_PCT": "75.0",
+      "CLOSE_PCT": "6.3",
+      "MID_PCT": "6.3",
+      "THREE_PCT": "12.5"
     },
     {
       "PLAYER": "Dan Anderson",
@@ -1214,7 +1694,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "1",
-      "TOTAL_SHOTS": "7"
+      "TOTAL_SHOTS": "7",
+      "LAYUP_PCT": "85.7",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "14.3"
     },
     {
       "PLAYER": "Dan Anderson",
@@ -1224,7 +1708,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "6",
-      "TOTAL_SHOTS": "7"
+      "TOTAL_SHOTS": "7",
+      "LAYUP_PCT": "14.3",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "85.7"
     },
     {
       "PLAYER": "Dan Anderson",
@@ -1234,7 +1722,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "1",
       "THREE_COUNT": "4",
-      "TOTAL_SHOTS": "7"
+      "TOTAL_SHOTS": "7",
+      "LAYUP_PCT": "28.6",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "14.3",
+      "THREE_PCT": "57.1"
     },
     {
       "PLAYER": "Danny Cohen",
@@ -1244,7 +1736,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "3",
       "THREE_COUNT": "8",
-      "TOTAL_SHOTS": "16"
+      "TOTAL_SHOTS": "16",
+      "LAYUP_PCT": "25.0",
+      "CLOSE_PCT": "6.3",
+      "MID_PCT": "18.8",
+      "THREE_PCT": "50.0"
     },
     {
       "PLAYER": "Danny Cohen",
@@ -1254,7 +1750,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "2",
       "THREE_COUNT": "1",
-      "TOTAL_SHOTS": "7"
+      "TOTAL_SHOTS": "7",
+      "LAYUP_PCT": "57.1",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "28.6",
+      "THREE_PCT": "14.3"
     },
     {
       "PLAYER": "Danny Cohen",
@@ -1264,7 +1764,11 @@
       "CLOSE_COUNT": "4",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "6"
+      "TOTAL_SHOTS": "6",
+      "LAYUP_PCT": "33.3",
+      "CLOSE_PCT": "66.7",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Danny Cohen",
@@ -1274,7 +1778,11 @@
       "CLOSE_COUNT": "2",
       "MID_COUNT": "0",
       "THREE_COUNT": "2",
-      "TOTAL_SHOTS": "6"
+      "TOTAL_SHOTS": "6",
+      "LAYUP_PCT": "33.3",
+      "CLOSE_PCT": "33.3",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "33.3"
     },
     {
       "PLAYER": "Danny Cohen",
@@ -1284,7 +1792,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "5"
+      "TOTAL_SHOTS": "5",
+      "LAYUP_PCT": "80.0",
+      "CLOSE_PCT": "20.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Danny Cohen",
@@ -1294,7 +1806,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "5"
+      "TOTAL_SHOTS": "5",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "David Luberoff",
@@ -1304,7 +1820,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "16"
+      "TOTAL_SHOTS": "16",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "David Luberoff",
@@ -1314,7 +1834,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "13"
+      "TOTAL_SHOTS": "13",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "David Luberoff",
@@ -1324,7 +1848,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "6"
+      "TOTAL_SHOTS": "6",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "David Luberoff",
@@ -1334,7 +1862,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "6"
+      "TOTAL_SHOTS": "6",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Dillon McCafferty",
@@ -1344,7 +1876,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "5",
-      "TOTAL_SHOTS": "7"
+      "TOTAL_SHOTS": "7",
+      "LAYUP_PCT": "28.6",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "71.4"
     },
     {
       "PLAYER": "Dillon McCafferty",
@@ -1354,7 +1890,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "1",
-      "TOTAL_SHOTS": "5"
+      "TOTAL_SHOTS": "5",
+      "LAYUP_PCT": "80.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "20.0"
     },
     {
       "PLAYER": "Dimitrios Zampoukas",
@@ -1364,7 +1904,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "0",
       "THREE_COUNT": "15",
-      "TOTAL_SHOTS": "23"
+      "TOTAL_SHOTS": "23",
+      "LAYUP_PCT": "30.4",
+      "CLOSE_PCT": "4.3",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "65.2"
     },
     {
       "PLAYER": "Dimitrios Zampoukas",
@@ -1374,7 +1918,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "5"
+      "TOTAL_SHOTS": "5",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Dorian Paki",
@@ -1384,7 +1932,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "42"
+      "TOTAL_SHOTS": "42",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Dorian Paki",
@@ -1394,7 +1946,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "36"
+      "TOTAL_SHOTS": "36",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Dorian Paki",
@@ -1404,7 +1960,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "26"
+      "TOTAL_SHOTS": "26",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Dorian Paki",
@@ -1414,7 +1974,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "22"
+      "TOTAL_SHOTS": "22",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Dorian Paki",
@@ -1424,7 +1988,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "5"
+      "TOTAL_SHOTS": "5",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Dorian Paki",
@@ -1434,7 +2002,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "5"
+      "TOTAL_SHOTS": "5",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Dylan Matchett",
@@ -1444,7 +2016,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "3",
       "THREE_COUNT": "38",
-      "TOTAL_SHOTS": "42"
+      "TOTAL_SHOTS": "42",
+      "LAYUP_PCT": "2.4",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "7.1",
+      "THREE_PCT": "90.5"
     },
     {
       "PLAYER": "Dylan Matchett",
@@ -1454,7 +2030,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "1",
       "THREE_COUNT": "9",
-      "TOTAL_SHOTS": "25"
+      "TOTAL_SHOTS": "25",
+      "LAYUP_PCT": "60.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "4.0",
+      "THREE_PCT": "36.0"
     },
     {
       "PLAYER": "Dylan Matchett",
@@ -1464,7 +2044,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "19"
+      "TOTAL_SHOTS": "19",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Dylan Matchett",
@@ -1474,7 +2058,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "15"
+      "TOTAL_SHOTS": "15",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Dylan Matchett",
@@ -1484,7 +2072,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "0",
       "THREE_COUNT": "3",
-      "TOTAL_SHOTS": "9"
+      "TOTAL_SHOTS": "9",
+      "LAYUP_PCT": "55.6",
+      "CLOSE_PCT": "11.1",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "33.3"
     },
     {
       "PLAYER": "Dylan Matchett",
@@ -1494,7 +2086,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "1",
       "THREE_COUNT": "4",
-      "TOTAL_SHOTS": "6"
+      "TOTAL_SHOTS": "6",
+      "LAYUP_PCT": "0.0",
+      "CLOSE_PCT": "16.7",
+      "MID_PCT": "16.7",
+      "THREE_PCT": "66.7"
     },
     {
       "PLAYER": "Elvis Lloyd",
@@ -1504,7 +2100,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "2",
-      "TOTAL_SHOTS": "7"
+      "TOTAL_SHOTS": "7",
+      "LAYUP_PCT": "71.4",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "28.6"
     },
     {
       "PLAYER": "Elvis Lloyd",
@@ -1514,7 +2114,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "3",
-      "TOTAL_SHOTS": "6"
+      "TOTAL_SHOTS": "6",
+      "LAYUP_PCT": "50.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "50.0"
     },
     {
       "PLAYER": "Eric Zhang",
@@ -1524,7 +2128,11 @@
       "CLOSE_COUNT": "5",
       "MID_COUNT": "0",
       "THREE_COUNT": "7",
-      "TOTAL_SHOTS": "14"
+      "TOTAL_SHOTS": "14",
+      "LAYUP_PCT": "14.3",
+      "CLOSE_PCT": "35.7",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "50.0"
     },
     {
       "PLAYER": "Eric Zhang",
@@ -1534,7 +2142,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "3",
-      "TOTAL_SHOTS": "10"
+      "TOTAL_SHOTS": "10",
+      "LAYUP_PCT": "70.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "30.0"
     },
     {
       "PLAYER": "Eric Zhang",
@@ -1544,7 +2156,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "9"
+      "TOTAL_SHOTS": "9",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Evan Cabral",
@@ -1554,7 +2170,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "17",
-      "TOTAL_SHOTS": "54"
+      "TOTAL_SHOTS": "54",
+      "LAYUP_PCT": "68.5",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "31.5"
     },
     {
       "PLAYER": "Evan Cabral",
@@ -1564,7 +2184,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "1",
       "THREE_COUNT": "29",
-      "TOTAL_SHOTS": "46"
+      "TOTAL_SHOTS": "46",
+      "LAYUP_PCT": "32.6",
+      "CLOSE_PCT": "2.2",
+      "MID_PCT": "2.2",
+      "THREE_PCT": "63.0"
     },
     {
       "PLAYER": "Evan Cabral",
@@ -1574,7 +2198,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "9",
-      "TOTAL_SHOTS": "38"
+      "TOTAL_SHOTS": "38",
+      "LAYUP_PCT": "76.3",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "23.7"
     },
     {
       "PLAYER": "Evan Cabral",
@@ -1584,7 +2212,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "13",
-      "TOTAL_SHOTS": "26"
+      "TOTAL_SHOTS": "26",
+      "LAYUP_PCT": "50.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "50.0"
     },
     {
       "PLAYER": "Evan Cabral",
@@ -1594,7 +2226,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "5",
-      "TOTAL_SHOTS": "11"
+      "TOTAL_SHOTS": "11",
+      "LAYUP_PCT": "54.5",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "45.5"
     },
     {
       "PLAYER": "Evan Cabral",
@@ -1604,7 +2240,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "1",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "10"
+      "TOTAL_SHOTS": "10",
+      "LAYUP_PCT": "90.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "10.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Evan Cabral",
@@ -1614,7 +2254,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "3",
-      "TOTAL_SHOTS": "9"
+      "TOTAL_SHOTS": "9",
+      "LAYUP_PCT": "66.7",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "33.3"
     },
     {
       "PLAYER": "Evan Cabral",
@@ -1624,7 +2268,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "8"
+      "TOTAL_SHOTS": "8",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Evan Cabral",
@@ -1634,7 +2282,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "6"
+      "TOTAL_SHOTS": "6",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Gabriel Bergeron",
@@ -1644,7 +2296,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "2",
       "THREE_COUNT": "37",
-      "TOTAL_SHOTS": "50"
+      "TOTAL_SHOTS": "50",
+      "LAYUP_PCT": "22.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "4.0",
+      "THREE_PCT": "74.0"
     },
     {
       "PLAYER": "Gabriel Bergeron",
@@ -1654,7 +2310,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "10",
-      "TOTAL_SHOTS": "21"
+      "TOTAL_SHOTS": "21",
+      "LAYUP_PCT": "52.4",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "47.6"
     },
     {
       "PLAYER": "Grayson Wallace",
@@ -1664,7 +2324,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "18",
-      "TOTAL_SHOTS": "19"
+      "TOTAL_SHOTS": "19",
+      "LAYUP_PCT": "5.3",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "94.7"
     },
     {
       "PLAYER": "Gyasi Zinn",
@@ -1674,7 +2338,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "12"
+      "TOTAL_SHOTS": "12",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Gyasi Zinn",
@@ -1684,7 +2352,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "6"
+      "TOTAL_SHOTS": "6",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Hakeem Daphnis",
@@ -1694,7 +2366,11 @@
       "CLOSE_COUNT": "6",
       "MID_COUNT": "2",
       "THREE_COUNT": "26",
-      "TOTAL_SHOTS": "38"
+      "TOTAL_SHOTS": "38",
+      "LAYUP_PCT": "10.5",
+      "CLOSE_PCT": "15.8",
+      "MID_PCT": "5.3",
+      "THREE_PCT": "68.4"
     },
     {
       "PLAYER": "Hakeem Daphnis",
@@ -1704,7 +2380,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "0",
       "THREE_COUNT": "6",
-      "TOTAL_SHOTS": "11"
+      "TOTAL_SHOTS": "11",
+      "LAYUP_PCT": "36.4",
+      "CLOSE_PCT": "9.1",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "54.5"
     },
     {
       "PLAYER": "Hakeem Daphnis",
@@ -1714,7 +2394,11 @@
       "CLOSE_COUNT": "4",
       "MID_COUNT": "1",
       "THREE_COUNT": "1",
-      "TOTAL_SHOTS": "9"
+      "TOTAL_SHOTS": "9",
+      "LAYUP_PCT": "33.3",
+      "CLOSE_PCT": "44.4",
+      "MID_PCT": "11.1",
+      "THREE_PCT": "11.1"
     },
     {
       "PLAYER": "Harrison Collins",
@@ -1724,7 +2408,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "1",
       "THREE_COUNT": "13",
-      "TOTAL_SHOTS": "21"
+      "TOTAL_SHOTS": "21",
+      "LAYUP_PCT": "33.3",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "4.8",
+      "THREE_PCT": "61.9"
     },
     {
       "PLAYER": "Harrison Collins",
@@ -1734,7 +2422,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "1",
-      "TOTAL_SHOTS": "6"
+      "TOTAL_SHOTS": "6",
+      "LAYUP_PCT": "83.3",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "16.7"
     },
     {
       "PLAYER": "Harrison Muntner",
@@ -1744,7 +2436,11 @@
       "CLOSE_COUNT": "3",
       "MID_COUNT": "0",
       "THREE_COUNT": "11",
-      "TOTAL_SHOTS": "23"
+      "TOTAL_SHOTS": "23",
+      "LAYUP_PCT": "39.1",
+      "CLOSE_PCT": "13.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "47.8"
     },
     {
       "PLAYER": "Harrison Muntner",
@@ -1754,7 +2450,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "3",
-      "TOTAL_SHOTS": "11"
+      "TOTAL_SHOTS": "11",
+      "LAYUP_PCT": "72.7",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "27.3"
     },
     {
       "PLAYER": "Harrison Muntner",
@@ -1764,7 +2464,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "9"
+      "TOTAL_SHOTS": "9",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Harrison Muntner",
@@ -1774,7 +2478,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "5"
+      "TOTAL_SHOTS": "5",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Jack LaGarde",
@@ -1784,7 +2492,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "10"
+      "TOTAL_SHOTS": "10",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Jack LaGarde",
@@ -1794,7 +2506,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "9"
+      "TOTAL_SHOTS": "9",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Jack LaGarde",
@@ -1804,7 +2520,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "7"
+      "TOTAL_SHOTS": "7",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Jack Plesser",
@@ -1814,7 +2534,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "44"
+      "TOTAL_SHOTS": "44",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Jack Plesser",
@@ -1824,7 +2548,11 @@
       "CLOSE_COUNT": "13",
       "MID_COUNT": "3",
       "THREE_COUNT": "4",
-      "TOTAL_SHOTS": "44"
+      "TOTAL_SHOTS": "44",
+      "LAYUP_PCT": "54.5",
+      "CLOSE_PCT": "29.5",
+      "MID_PCT": "6.8",
+      "THREE_PCT": "9.1"
     },
     {
       "PLAYER": "Jack Plesser",
@@ -1834,7 +2562,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "0",
       "THREE_COUNT": "3",
-      "TOTAL_SHOTS": "28"
+      "TOTAL_SHOTS": "28",
+      "LAYUP_PCT": "85.7",
+      "CLOSE_PCT": "3.6",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "10.7"
     },
     {
       "PLAYER": "Jack Plesser",
@@ -1844,7 +2576,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "2",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "26"
+      "TOTAL_SHOTS": "26",
+      "LAYUP_PCT": "88.5",
+      "CLOSE_PCT": "3.8",
+      "MID_PCT": "7.7",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Jack Plesser",
@@ -1854,7 +2590,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "25"
+      "TOTAL_SHOTS": "25",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Jack Plesser",
@@ -1864,7 +2604,11 @@
       "CLOSE_COUNT": "3",
       "MID_COUNT": "5",
       "THREE_COUNT": "1",
-      "TOTAL_SHOTS": "16"
+      "TOTAL_SHOTS": "16",
+      "LAYUP_PCT": "43.8",
+      "CLOSE_PCT": "18.8",
+      "MID_PCT": "31.3",
+      "THREE_PCT": "6.3"
     },
     {
       "PLAYER": "Jack Plesser",
@@ -1874,7 +2618,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "10"
+      "TOTAL_SHOTS": "10",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Jackson Carey",
@@ -1884,7 +2632,11 @@
       "CLOSE_COUNT": "2",
       "MID_COUNT": "0",
       "THREE_COUNT": "11",
-      "TOTAL_SHOTS": "20"
+      "TOTAL_SHOTS": "20",
+      "LAYUP_PCT": "35.0",
+      "CLOSE_PCT": "10.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "55.0"
     },
     {
       "PLAYER": "Jackson Carey",
@@ -1894,7 +2646,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "6",
-      "TOTAL_SHOTS": "11"
+      "TOTAL_SHOTS": "11",
+      "LAYUP_PCT": "45.5",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "54.5"
     },
     {
       "PLAYER": "Jackson Otis",
@@ -1904,7 +2660,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "6",
-      "TOTAL_SHOTS": "6"
+      "TOTAL_SHOTS": "6",
+      "LAYUP_PCT": "0.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "100.0"
     },
     {
       "PLAYER": "Jacob Gooden",
@@ -1914,7 +2674,11 @@
       "CLOSE_COUNT": "11",
       "MID_COUNT": "5",
       "THREE_COUNT": "10",
-      "TOTAL_SHOTS": "42"
+      "TOTAL_SHOTS": "42",
+      "LAYUP_PCT": "38.1",
+      "CLOSE_PCT": "26.2",
+      "MID_PCT": "11.9",
+      "THREE_PCT": "23.8"
     },
     {
       "PLAYER": "Jacob Gooden",
@@ -1924,7 +2688,11 @@
       "CLOSE_COUNT": "16",
       "MID_COUNT": "2",
       "THREE_COUNT": "4",
-      "TOTAL_SHOTS": "41"
+      "TOTAL_SHOTS": "41",
+      "LAYUP_PCT": "46.3",
+      "CLOSE_PCT": "39.0",
+      "MID_PCT": "4.9",
+      "THREE_PCT": "9.8"
     },
     {
       "PLAYER": "Jacob Gooden",
@@ -1934,7 +2702,11 @@
       "CLOSE_COUNT": "8",
       "MID_COUNT": "1",
       "THREE_COUNT": "5",
-      "TOTAL_SHOTS": "30"
+      "TOTAL_SHOTS": "30",
+      "LAYUP_PCT": "53.3",
+      "CLOSE_PCT": "26.7",
+      "MID_PCT": "3.3",
+      "THREE_PCT": "16.7"
     },
     {
       "PLAYER": "Jacob Gooden",
@@ -1944,7 +2716,11 @@
       "CLOSE_COUNT": "2",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "24"
+      "TOTAL_SHOTS": "24",
+      "LAYUP_PCT": "91.7",
+      "CLOSE_PCT": "8.3",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Jacob Gooden",
@@ -1954,7 +2730,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "14"
+      "TOTAL_SHOTS": "14",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Jacob Gooden",
@@ -1964,7 +2744,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "9"
+      "TOTAL_SHOTS": "9",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Jaden Jauregui",
@@ -1974,7 +2758,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "3",
-      "TOTAL_SHOTS": "6"
+      "TOTAL_SHOTS": "6",
+      "LAYUP_PCT": "50.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "50.0"
     },
     {
       "PLAYER": "Jakob Harken",
@@ -1984,7 +2772,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "8"
+      "TOTAL_SHOTS": "8",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Jakob Harken",
@@ -1994,7 +2786,11 @@
       "CLOSE_COUNT": "2",
       "MID_COUNT": "0",
       "THREE_COUNT": "1",
-      "TOTAL_SHOTS": "8"
+      "TOTAL_SHOTS": "8",
+      "LAYUP_PCT": "62.5",
+      "CLOSE_PCT": "25.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "12.5"
     },
     {
       "PLAYER": "Jakob Harken",
@@ -2004,7 +2800,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "5"
+      "TOTAL_SHOTS": "5",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Jalen Umstead",
@@ -2014,7 +2814,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "28",
-      "TOTAL_SHOTS": "36"
+      "TOTAL_SHOTS": "36",
+      "LAYUP_PCT": "22.2",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "77.8"
     },
     {
       "PLAYER": "Jalen Umstead",
@@ -2024,7 +2828,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "18"
+      "TOTAL_SHOTS": "18",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Jalen Umstead",
@@ -2034,7 +2842,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "12",
-      "TOTAL_SHOTS": "17"
+      "TOTAL_SHOTS": "17",
+      "LAYUP_PCT": "29.4",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "70.6"
     },
     {
       "PLAYER": "Jalen Umstead",
@@ -2044,7 +2856,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "10"
+      "TOTAL_SHOTS": "10",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Jalen Umstead",
@@ -2054,7 +2870,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "6",
-      "TOTAL_SHOTS": "10"
+      "TOTAL_SHOTS": "10",
+      "LAYUP_PCT": "40.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "60.0"
     },
     {
       "PLAYER": "Jason Gibbs",
@@ -2064,7 +2884,11 @@
       "CLOSE_COUNT": "2",
       "MID_COUNT": "1",
       "THREE_COUNT": "2",
-      "TOTAL_SHOTS": "8"
+      "TOTAL_SHOTS": "8",
+      "LAYUP_PCT": "37.5",
+      "CLOSE_PCT": "25.0",
+      "MID_PCT": "12.5",
+      "THREE_PCT": "25.0"
     },
     {
       "PLAYER": "Jason Gibbs",
@@ -2074,7 +2898,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "2",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "6"
+      "TOTAL_SHOTS": "6",
+      "LAYUP_PCT": "50.0",
+      "CLOSE_PCT": "16.7",
+      "MID_PCT": "33.3",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Jason Gibbs",
@@ -2084,7 +2912,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "4",
-      "TOTAL_SHOTS": "5"
+      "TOTAL_SHOTS": "5",
+      "LAYUP_PCT": "20.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "80.0"
     },
     {
       "PLAYER": "Jaylon O'Neal",
@@ -2094,7 +2926,11 @@
       "CLOSE_COUNT": "2",
       "MID_COUNT": "1",
       "THREE_COUNT": "21",
-      "TOTAL_SHOTS": "33"
+      "TOTAL_SHOTS": "33",
+      "LAYUP_PCT": "27.3",
+      "CLOSE_PCT": "6.1",
+      "MID_PCT": "3.0",
+      "THREE_PCT": "63.6"
     },
     {
       "PLAYER": "Jaylon O'Neal",
@@ -2104,7 +2940,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "3",
-      "TOTAL_SHOTS": "24"
+      "TOTAL_SHOTS": "24",
+      "LAYUP_PCT": "87.5",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "12.5"
     },
     {
       "PLAYER": "Jaylon O'Neal",
@@ -2114,7 +2954,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "3",
       "THREE_COUNT": "4",
-      "TOTAL_SHOTS": "20"
+      "TOTAL_SHOTS": "20",
+      "LAYUP_PCT": "65.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "15.0",
+      "THREE_PCT": "20.0"
     },
     {
       "PLAYER": "Jaylon O'Neal",
@@ -2124,7 +2968,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "2",
       "THREE_COUNT": "8",
-      "TOTAL_SHOTS": "17"
+      "TOTAL_SHOTS": "17",
+      "LAYUP_PCT": "41.2",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "11.8",
+      "THREE_PCT": "47.1"
     },
     {
       "PLAYER": "Jaylon O'Neal",
@@ -2134,7 +2982,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "10"
+      "TOTAL_SHOTS": "10",
+      "LAYUP_PCT": "90.0",
+      "CLOSE_PCT": "10.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Jaylon O'Neal",
@@ -2144,7 +2996,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "7"
+      "TOTAL_SHOTS": "7",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Jaylon O'Neal",
@@ -2154,7 +3010,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "1",
       "THREE_COUNT": "3",
-      "TOTAL_SHOTS": "6"
+      "TOTAL_SHOTS": "6",
+      "LAYUP_PCT": "16.7",
+      "CLOSE_PCT": "16.7",
+      "MID_PCT": "16.7",
+      "THREE_PCT": "50.0"
     },
     {
       "PLAYER": "Jaymon Pysnack",
@@ -2164,7 +3024,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "5",
-      "TOTAL_SHOTS": "6"
+      "TOTAL_SHOTS": "6",
+      "LAYUP_PCT": "16.7",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "83.3"
     },
     {
       "PLAYER": "Jlin Brown",
@@ -2174,7 +3038,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "2",
       "THREE_COUNT": "6",
-      "TOTAL_SHOTS": "14"
+      "TOTAL_SHOTS": "14",
+      "LAYUP_PCT": "35.7",
+      "CLOSE_PCT": "7.1",
+      "MID_PCT": "14.3",
+      "THREE_PCT": "42.9"
     },
     {
       "PLAYER": "Jlin Brown",
@@ -2184,7 +3052,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "1",
       "THREE_COUNT": "1",
-      "TOTAL_SHOTS": "11"
+      "TOTAL_SHOTS": "11",
+      "LAYUP_PCT": "72.7",
+      "CLOSE_PCT": "9.1",
+      "MID_PCT": "9.1",
+      "THREE_PCT": "9.1"
     },
     {
       "PLAYER": "Jlin Brown",
@@ -2194,7 +3066,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "1",
-      "TOTAL_SHOTS": "6"
+      "TOTAL_SHOTS": "6",
+      "LAYUP_PCT": "83.3",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "16.7"
     },
     {
       "PLAYER": "Joey Skoric",
@@ -2204,7 +3080,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "8",
-      "TOTAL_SHOTS": "15"
+      "TOTAL_SHOTS": "15",
+      "LAYUP_PCT": "46.7",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "53.3"
     },
     {
       "PLAYER": "Joey Skoric",
@@ -2214,7 +3094,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "9",
-      "TOTAL_SHOTS": "11"
+      "TOTAL_SHOTS": "11",
+      "LAYUP_PCT": "18.2",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "81.8"
     },
     {
       "PLAYER": "Joey Skoric",
@@ -2224,7 +3108,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "10"
+      "TOTAL_SHOTS": "10",
+      "LAYUP_PCT": "90.0",
+      "CLOSE_PCT": "10.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Joey Skoric",
@@ -2234,7 +3122,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "10"
+      "TOTAL_SHOTS": "10",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Joey Skoric",
@@ -2244,7 +3136,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "2",
-      "TOTAL_SHOTS": "5"
+      "TOTAL_SHOTS": "5",
+      "LAYUP_PCT": "60.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "40.0"
     },
     {
       "PLAYER": "Jose Padilla",
@@ -2254,7 +3150,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "1",
       "THREE_COUNT": "5",
-      "TOTAL_SHOTS": "6"
+      "TOTAL_SHOTS": "6",
+      "LAYUP_PCT": "0.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "16.7",
+      "THREE_PCT": "83.3"
     },
     {
       "PLAYER": "Josiah Turner",
@@ -2264,7 +3164,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "45"
+      "TOTAL_SHOTS": "45",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Josiah Turner",
@@ -2274,7 +3178,11 @@
       "CLOSE_COUNT": "4",
       "MID_COUNT": "1",
       "THREE_COUNT": "25",
-      "TOTAL_SHOTS": "40"
+      "TOTAL_SHOTS": "40",
+      "LAYUP_PCT": "25.0",
+      "CLOSE_PCT": "10.0",
+      "MID_PCT": "2.5",
+      "THREE_PCT": "62.5"
     },
     {
       "PLAYER": "Josiah Turner",
@@ -2284,7 +3192,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "22"
+      "TOTAL_SHOTS": "22",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Josiah Turner",
@@ -2294,7 +3206,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "1",
-      "TOTAL_SHOTS": "19"
+      "TOTAL_SHOTS": "19",
+      "LAYUP_PCT": "94.7",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "5.3"
     },
     {
       "PLAYER": "Josiah Turner",
@@ -2304,7 +3220,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "11",
-      "TOTAL_SHOTS": "17"
+      "TOTAL_SHOTS": "17",
+      "LAYUP_PCT": "35.3",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "64.7"
     },
     {
       "PLAYER": "Josiah Turner",
@@ -2314,7 +3234,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "7",
-      "TOTAL_SHOTS": "12"
+      "TOTAL_SHOTS": "12",
+      "LAYUP_PCT": "41.7",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "58.3"
     },
     {
       "PLAYER": "Josiah Turner",
@@ -2324,7 +3248,11 @@
       "CLOSE_COUNT": "3",
       "MID_COUNT": "0",
       "THREE_COUNT": "1",
-      "TOTAL_SHOTS": "10"
+      "TOTAL_SHOTS": "10",
+      "LAYUP_PCT": "60.0",
+      "CLOSE_PCT": "30.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "10.0"
     },
     {
       "PLAYER": "Josiah Turner",
@@ -2334,7 +3262,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "5",
-      "TOTAL_SHOTS": "6"
+      "TOTAL_SHOTS": "6",
+      "LAYUP_PCT": "16.7",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "83.3"
     },
     {
       "PLAYER": "Justin Price",
@@ -2344,7 +3276,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "1",
       "THREE_COUNT": "29",
-      "TOTAL_SHOTS": "36"
+      "TOTAL_SHOTS": "36",
+      "LAYUP_PCT": "13.9",
+      "CLOSE_PCT": "2.8",
+      "MID_PCT": "2.8",
+      "THREE_PCT": "80.6"
     },
     {
       "PLAYER": "Justin Price",
@@ -2354,7 +3290,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "2",
-      "TOTAL_SHOTS": "8"
+      "TOTAL_SHOTS": "8",
+      "LAYUP_PCT": "75.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "25.0"
     },
     {
       "PLAYER": "Kale Elmhorst",
@@ -2364,7 +3304,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "5",
-      "TOTAL_SHOTS": "5"
+      "TOTAL_SHOTS": "5",
+      "LAYUP_PCT": "0.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "100.0"
     },
     {
       "PLAYER": "Kas Mirza",
@@ -2374,7 +3318,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "1",
       "THREE_COUNT": "6",
-      "TOTAL_SHOTS": "8"
+      "TOTAL_SHOTS": "8",
+      "LAYUP_PCT": "12.5",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "12.5",
+      "THREE_PCT": "75.0"
     },
     {
       "PLAYER": "Kas Mirza",
@@ -2384,7 +3332,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "1",
-      "TOTAL_SHOTS": "5"
+      "TOTAL_SHOTS": "5",
+      "LAYUP_PCT": "80.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "20.0"
     },
     {
       "PLAYER": "Kellen Driscoll",
@@ -2394,7 +3346,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "24",
-      "TOTAL_SHOTS": "25"
+      "TOTAL_SHOTS": "25",
+      "LAYUP_PCT": "4.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "96.0"
     },
     {
       "PLAYER": "Kellen Driscoll",
@@ -2404,7 +3360,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "16"
+      "TOTAL_SHOTS": "16",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Kellen Driscoll",
@@ -2414,7 +3374,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "4",
-      "TOTAL_SHOTS": "13"
+      "TOTAL_SHOTS": "13",
+      "LAYUP_PCT": "69.2",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "30.8"
     },
     {
       "PLAYER": "Kellen Driscoll",
@@ -2424,7 +3388,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "8"
+      "TOTAL_SHOTS": "8",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Klaudius Skehel",
@@ -2434,7 +3402,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "1",
       "THREE_COUNT": "18",
-      "TOTAL_SHOTS": "20"
+      "TOTAL_SHOTS": "20",
+      "LAYUP_PCT": "5.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "5.0",
+      "THREE_PCT": "90.0"
     },
     {
       "PLAYER": "Klaudius Skehel",
@@ -2444,7 +3416,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "7",
-      "TOTAL_SHOTS": "8"
+      "TOTAL_SHOTS": "8",
+      "LAYUP_PCT": "12.5",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "87.5"
     },
     {
       "PLAYER": "Klaudius Skehel",
@@ -2454,7 +3430,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "3",
-      "TOTAL_SHOTS": "5"
+      "TOTAL_SHOTS": "5",
+      "LAYUP_PCT": "40.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "60.0"
     },
     {
       "PLAYER": "Kreekor Karageuzian",
@@ -2464,7 +3444,11 @@
       "CLOSE_COUNT": "3",
       "MID_COUNT": "1",
       "THREE_COUNT": "6",
-      "TOTAL_SHOTS": "14"
+      "TOTAL_SHOTS": "14",
+      "LAYUP_PCT": "28.6",
+      "CLOSE_PCT": "21.4",
+      "MID_PCT": "7.1",
+      "THREE_PCT": "42.9"
     },
     {
       "PLAYER": "Kreekor Karageuzian",
@@ -2474,7 +3458,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "1",
-      "TOTAL_SHOTS": "14"
+      "TOTAL_SHOTS": "14",
+      "LAYUP_PCT": "92.9",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "7.1"
     },
     {
       "PLAYER": "Kreekor Karageuzian",
@@ -2484,7 +3472,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "11"
+      "TOTAL_SHOTS": "11",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Laurence Brady",
@@ -2494,7 +3486,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "7",
-      "TOTAL_SHOTS": "7"
+      "TOTAL_SHOTS": "7",
+      "LAYUP_PCT": "0.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "100.0"
     },
     {
       "PLAYER": "Laurence Brady",
@@ -2504,7 +3500,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "3",
-      "TOTAL_SHOTS": "7"
+      "TOTAL_SHOTS": "7",
+      "LAYUP_PCT": "57.1",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "42.9"
     },
     {
       "PLAYER": "Lorenzo Rappa",
@@ -2514,7 +3514,11 @@
       "CLOSE_COUNT": "3",
       "MID_COUNT": "0",
       "THREE_COUNT": "16",
-      "TOTAL_SHOTS": "26"
+      "TOTAL_SHOTS": "26",
+      "LAYUP_PCT": "26.9",
+      "CLOSE_PCT": "11.5",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "61.5"
     },
     {
       "PLAYER": "Lorenzo Rappa",
@@ -2524,7 +3528,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "2",
-      "TOTAL_SHOTS": "7"
+      "TOTAL_SHOTS": "7",
+      "LAYUP_PCT": "71.4",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "28.6"
     },
     {
       "PLAYER": "Lorenzo Rappa",
@@ -2534,7 +3542,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "0",
       "THREE_COUNT": "1",
-      "TOTAL_SHOTS": "7"
+      "TOTAL_SHOTS": "7",
+      "LAYUP_PCT": "71.4",
+      "CLOSE_PCT": "14.3",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "14.3"
     },
     {
       "PLAYER": "Lorenzo Rappa",
@@ -2544,7 +3556,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "6"
+      "TOTAL_SHOTS": "6",
+      "LAYUP_PCT": "83.3",
+      "CLOSE_PCT": "16.7",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Lorenzo Rappa",
@@ -2554,7 +3570,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "5"
+      "TOTAL_SHOTS": "5",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Lucas Tovar",
@@ -2564,7 +3584,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "0",
       "THREE_COUNT": "20",
-      "TOTAL_SHOTS": "44"
+      "TOTAL_SHOTS": "44",
+      "LAYUP_PCT": "52.3",
+      "CLOSE_PCT": "2.3",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "45.5"
     },
     {
       "PLAYER": "Lucas Tovar",
@@ -2574,7 +3598,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "3",
-      "TOTAL_SHOTS": "37"
+      "TOTAL_SHOTS": "37",
+      "LAYUP_PCT": "91.9",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "8.1"
     },
     {
       "PLAYER": "Lucas Tovar",
@@ -2584,7 +3612,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "0",
       "THREE_COUNT": "10",
-      "TOTAL_SHOTS": "31"
+      "TOTAL_SHOTS": "31",
+      "LAYUP_PCT": "64.5",
+      "CLOSE_PCT": "3.2",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "32.3"
     },
     {
       "PLAYER": "Lucas Tovar",
@@ -2594,7 +3626,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "2",
-      "TOTAL_SHOTS": "12"
+      "TOTAL_SHOTS": "12",
+      "LAYUP_PCT": "83.3",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "16.7"
     },
     {
       "PLAYER": "Lucas Tovar",
@@ -2604,7 +3640,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "9"
+      "TOTAL_SHOTS": "9",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Lucas Tovar",
@@ -2614,7 +3654,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "3",
-      "TOTAL_SHOTS": "9"
+      "TOTAL_SHOTS": "9",
+      "LAYUP_PCT": "66.7",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "33.3"
     },
     {
       "PLAYER": "Lucas Tovar",
@@ -2624,7 +3668,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "5"
+      "TOTAL_SHOTS": "5",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Luke Ravitz",
@@ -2634,7 +3682,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "6"
+      "TOTAL_SHOTS": "6",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Maddy Ramsgard",
@@ -2644,7 +3696,11 @@
       "CLOSE_COUNT": "4",
       "MID_COUNT": "0",
       "THREE_COUNT": "1",
-      "TOTAL_SHOTS": "6"
+      "TOTAL_SHOTS": "6",
+      "LAYUP_PCT": "16.7",
+      "CLOSE_PCT": "66.7",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "16.7"
     },
     {
       "PLAYER": "Maddy Ramsgard",
@@ -2654,7 +3710,11 @@
       "CLOSE_COUNT": "5",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "5"
+      "TOTAL_SHOTS": "5",
+      "LAYUP_PCT": "0.0",
+      "CLOSE_PCT": "100.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Marcus Graves",
@@ -2664,7 +3724,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "8",
-      "TOTAL_SHOTS": "8"
+      "TOTAL_SHOTS": "8",
+      "LAYUP_PCT": "0.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "100.0"
     },
     {
       "PLAYER": "Matt Toscano",
@@ -2674,7 +3738,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "33",
-      "TOTAL_SHOTS": "35"
+      "TOTAL_SHOTS": "35",
+      "LAYUP_PCT": "5.7",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "94.3"
     },
     {
       "PLAYER": "Matt Toscano",
@@ -2684,7 +3752,11 @@
       "CLOSE_COUNT": "3",
       "MID_COUNT": "0",
       "THREE_COUNT": "4",
-      "TOTAL_SHOTS": "10"
+      "TOTAL_SHOTS": "10",
+      "LAYUP_PCT": "30.0",
+      "CLOSE_PCT": "30.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "40.0"
     },
     {
       "PLAYER": "Matt Toscano",
@@ -2694,7 +3766,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "5",
-      "TOTAL_SHOTS": "9"
+      "TOTAL_SHOTS": "9",
+      "LAYUP_PCT": "44.4",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "55.6"
     },
     {
       "PLAYER": "Matt Toscano",
@@ -2704,7 +3780,11 @@
       "CLOSE_COUNT": "3",
       "MID_COUNT": "0",
       "THREE_COUNT": "3",
-      "TOTAL_SHOTS": "7"
+      "TOTAL_SHOTS": "7",
+      "LAYUP_PCT": "14.3",
+      "CLOSE_PCT": "42.9",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "42.9"
     },
     {
       "PLAYER": "Matthew Garside",
@@ -2714,7 +3794,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "1",
       "THREE_COUNT": "44",
-      "TOTAL_SHOTS": "52"
+      "TOTAL_SHOTS": "52",
+      "LAYUP_PCT": "11.5",
+      "CLOSE_PCT": "1.9",
+      "MID_PCT": "1.9",
+      "THREE_PCT": "84.6"
     },
     {
       "PLAYER": "Matthew Garside",
@@ -2724,7 +3808,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "12",
-      "TOTAL_SHOTS": "21"
+      "TOTAL_SHOTS": "21",
+      "LAYUP_PCT": "42.9",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "57.1"
     },
     {
       "PLAYER": "Matthew Garside",
@@ -2734,7 +3822,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "0",
       "THREE_COUNT": "12",
-      "TOTAL_SHOTS": "17"
+      "TOTAL_SHOTS": "17",
+      "LAYUP_PCT": "23.5",
+      "CLOSE_PCT": "5.9",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "70.6"
     },
     {
       "PLAYER": "Matthew Garside",
@@ -2744,7 +3836,11 @@
       "CLOSE_COUNT": "2",
       "MID_COUNT": "0",
       "THREE_COUNT": "7",
-      "TOTAL_SHOTS": "9"
+      "TOTAL_SHOTS": "9",
+      "LAYUP_PCT": "0.0",
+      "CLOSE_PCT": "22.2",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "77.8"
     },
     {
       "PLAYER": "Matthew Garside",
@@ -2754,7 +3850,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "9"
+      "TOTAL_SHOTS": "9",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Matthew Garside",
@@ -2764,7 +3864,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "3",
-      "TOTAL_SHOTS": "5"
+      "TOTAL_SHOTS": "5",
+      "LAYUP_PCT": "40.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "60.0"
     },
     {
       "PLAYER": "Matthew Zenker",
@@ -2774,7 +3878,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "1",
       "THREE_COUNT": "47",
-      "TOTAL_SHOTS": "65"
+      "TOTAL_SHOTS": "65",
+      "LAYUP_PCT": "26.2",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "1.5",
+      "THREE_PCT": "72.3"
     },
     {
       "PLAYER": "Matthew Zenker",
@@ -2784,7 +3892,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "21",
-      "TOTAL_SHOTS": "37"
+      "TOTAL_SHOTS": "37",
+      "LAYUP_PCT": "43.2",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "56.8"
     },
     {
       "PLAYER": "Matthew Zenker",
@@ -2794,7 +3906,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "7",
-      "TOTAL_SHOTS": "16"
+      "TOTAL_SHOTS": "16",
+      "LAYUP_PCT": "56.3",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "43.8"
     },
     {
       "PLAYER": "Matthew Zenker",
@@ -2804,7 +3920,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "4",
-      "TOTAL_SHOTS": "13"
+      "TOTAL_SHOTS": "13",
+      "LAYUP_PCT": "69.2",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "30.8"
     },
     {
       "PLAYER": "Matthew Zenker",
@@ -2814,7 +3934,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "1",
-      "TOTAL_SHOTS": "9"
+      "TOTAL_SHOTS": "9",
+      "LAYUP_PCT": "88.9",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "11.1"
     },
     {
       "PLAYER": "Matthew Zenker",
@@ -2824,7 +3948,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "1",
-      "TOTAL_SHOTS": "9"
+      "TOTAL_SHOTS": "9",
+      "LAYUP_PCT": "88.9",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "11.1"
     },
     {
       "PLAYER": "Matthew Zenker",
@@ -2834,7 +3962,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "8"
+      "TOTAL_SHOTS": "8",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Matthew Zenker",
@@ -2844,7 +3976,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "5",
-      "TOTAL_SHOTS": "8"
+      "TOTAL_SHOTS": "8",
+      "LAYUP_PCT": "37.5",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "62.5"
     },
     {
       "PLAYER": "Max Frei",
@@ -2854,7 +3990,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "1",
       "THREE_COUNT": "13",
-      "TOTAL_SHOTS": "29"
+      "TOTAL_SHOTS": "29",
+      "LAYUP_PCT": "48.3",
+      "CLOSE_PCT": "3.4",
+      "MID_PCT": "3.4",
+      "THREE_PCT": "44.8"
     },
     {
       "PLAYER": "Max Frei",
@@ -2864,7 +4004,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "0",
       "THREE_COUNT": "3",
-      "TOTAL_SHOTS": "20"
+      "TOTAL_SHOTS": "20",
+      "LAYUP_PCT": "80.0",
+      "CLOSE_PCT": "5.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "15.0"
     },
     {
       "PLAYER": "Max Frei",
@@ -2874,7 +4018,11 @@
       "CLOSE_COUNT": "3",
       "MID_COUNT": "1",
       "THREE_COUNT": "1",
-      "TOTAL_SHOTS": "14"
+      "TOTAL_SHOTS": "14",
+      "LAYUP_PCT": "64.3",
+      "CLOSE_PCT": "21.4",
+      "MID_PCT": "7.1",
+      "THREE_PCT": "7.1"
     },
     {
       "PLAYER": "Max Frei",
@@ -2884,7 +4032,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "5"
+      "TOTAL_SHOTS": "5",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Monty Nedd",
@@ -2894,7 +4046,11 @@
       "CLOSE_COUNT": "7",
       "MID_COUNT": "0",
       "THREE_COUNT": "31",
-      "TOTAL_SHOTS": "56"
+      "TOTAL_SHOTS": "56",
+      "LAYUP_PCT": "32.1",
+      "CLOSE_PCT": "12.5",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "55.4"
     },
     {
       "PLAYER": "Monty Nedd",
@@ -2904,7 +4060,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "0",
       "THREE_COUNT": "10",
-      "TOTAL_SHOTS": "53"
+      "TOTAL_SHOTS": "53",
+      "LAYUP_PCT": "79.2",
+      "CLOSE_PCT": "1.9",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "18.9"
     },
     {
       "PLAYER": "Monty Nedd",
@@ -2914,7 +4074,11 @@
       "CLOSE_COUNT": "6",
       "MID_COUNT": "0",
       "THREE_COUNT": "3",
-      "TOTAL_SHOTS": "20"
+      "TOTAL_SHOTS": "20",
+      "LAYUP_PCT": "55.0",
+      "CLOSE_PCT": "30.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "15.0"
     },
     {
       "PLAYER": "Monty Nedd",
@@ -2924,7 +4088,11 @@
       "CLOSE_COUNT": "2",
       "MID_COUNT": "0",
       "THREE_COUNT": "1",
-      "TOTAL_SHOTS": "13"
+      "TOTAL_SHOTS": "13",
+      "LAYUP_PCT": "76.9",
+      "CLOSE_PCT": "15.4",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "7.7"
     },
     {
       "PLAYER": "Mushin Muhammad",
@@ -2934,7 +4102,11 @@
       "CLOSE_COUNT": "9",
       "MID_COUNT": "5",
       "THREE_COUNT": "11",
-      "TOTAL_SHOTS": "55"
+      "TOTAL_SHOTS": "55",
+      "LAYUP_PCT": "54.5",
+      "CLOSE_PCT": "16.4",
+      "MID_PCT": "9.1",
+      "THREE_PCT": "20.0"
     },
     {
       "PLAYER": "Mushin Muhammad",
@@ -2944,7 +4116,11 @@
       "CLOSE_COUNT": "5",
       "MID_COUNT": "1",
       "THREE_COUNT": "30",
-      "TOTAL_SHOTS": "49"
+      "TOTAL_SHOTS": "49",
+      "LAYUP_PCT": "26.5",
+      "CLOSE_PCT": "10.2",
+      "MID_PCT": "2.0",
+      "THREE_PCT": "61.2"
     },
     {
       "PLAYER": "Mushin Muhammad",
@@ -2954,7 +4130,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "1",
       "THREE_COUNT": "6",
-      "TOTAL_SHOTS": "46"
+      "TOTAL_SHOTS": "46",
+      "LAYUP_PCT": "82.6",
+      "CLOSE_PCT": "2.2",
+      "MID_PCT": "2.2",
+      "THREE_PCT": "13.0"
     },
     {
       "PLAYER": "Mushin Muhammad",
@@ -2964,7 +4144,11 @@
       "CLOSE_COUNT": "2",
       "MID_COUNT": "3",
       "THREE_COUNT": "2",
-      "TOTAL_SHOTS": "18"
+      "TOTAL_SHOTS": "18",
+      "LAYUP_PCT": "61.1",
+      "CLOSE_PCT": "11.1",
+      "MID_PCT": "16.7",
+      "THREE_PCT": "11.1"
     },
     {
       "PLAYER": "Mushin Muhammad",
@@ -2974,7 +4158,11 @@
       "CLOSE_COUNT": "2",
       "MID_COUNT": "1",
       "THREE_COUNT": "9",
-      "TOTAL_SHOTS": "13"
+      "TOTAL_SHOTS": "13",
+      "LAYUP_PCT": "7.7",
+      "CLOSE_PCT": "15.4",
+      "MID_PCT": "7.7",
+      "THREE_PCT": "69.2"
     },
     {
       "PLAYER": "Mushin Muhammad",
@@ -2984,7 +4172,11 @@
       "CLOSE_COUNT": "2",
       "MID_COUNT": "0",
       "THREE_COUNT": "3",
-      "TOTAL_SHOTS": "10"
+      "TOTAL_SHOTS": "10",
+      "LAYUP_PCT": "50.0",
+      "CLOSE_PCT": "20.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "30.0"
     },
     {
       "PLAYER": "Mushin Muhammad",
@@ -2994,7 +4186,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "10"
+      "TOTAL_SHOTS": "10",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Mushin Muhammad",
@@ -3004,7 +4200,11 @@
       "CLOSE_COUNT": "2",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "9"
+      "TOTAL_SHOTS": "9",
+      "LAYUP_PCT": "77.8",
+      "CLOSE_PCT": "22.2",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Mushin Muhammad",
@@ -3014,7 +4214,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "7"
+      "TOTAL_SHOTS": "7",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Nate Abernethy",
@@ -3024,7 +4228,11 @@
       "CLOSE_COUNT": "3",
       "MID_COUNT": "1",
       "THREE_COUNT": "33",
-      "TOTAL_SHOTS": "53"
+      "TOTAL_SHOTS": "53",
+      "LAYUP_PCT": "30.2",
+      "CLOSE_PCT": "5.7",
+      "MID_PCT": "1.9",
+      "THREE_PCT": "62.3"
     },
     {
       "PLAYER": "Nate Abernethy",
@@ -3034,7 +4242,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "44"
+      "TOTAL_SHOTS": "44",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Nate Abernethy",
@@ -3044,7 +4256,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "8",
-      "TOTAL_SHOTS": "21"
+      "TOTAL_SHOTS": "21",
+      "LAYUP_PCT": "61.9",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "38.1"
     },
     {
       "PLAYER": "Nate Abernethy",
@@ -3054,7 +4270,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "14"
+      "TOTAL_SHOTS": "14",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Nate Abernethy",
@@ -3064,7 +4284,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "9"
+      "TOTAL_SHOTS": "9",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Nate Abernethy",
@@ -3074,7 +4298,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "4",
-      "TOTAL_SHOTS": "8"
+      "TOTAL_SHOTS": "8",
+      "LAYUP_PCT": "50.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "50.0"
     },
     {
       "PLAYER": "Nate Abernethy",
@@ -3084,7 +4312,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "5",
-      "TOTAL_SHOTS": "6"
+      "TOTAL_SHOTS": "6",
+      "LAYUP_PCT": "16.7",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "83.3"
     },
     {
       "PLAYER": "Nate Abernethy",
@@ -3094,7 +4326,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "1",
-      "TOTAL_SHOTS": "5"
+      "TOTAL_SHOTS": "5",
+      "LAYUP_PCT": "80.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "20.0"
     },
     {
       "PLAYER": "Nate Tawiah-Boateng",
@@ -3104,7 +4340,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "5"
+      "TOTAL_SHOTS": "5",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Nathan Denham",
@@ -3114,7 +4354,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "2",
-      "TOTAL_SHOTS": "28"
+      "TOTAL_SHOTS": "28",
+      "LAYUP_PCT": "92.9",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "7.1"
     },
     {
       "PLAYER": "Nathan Denham",
@@ -3124,7 +4368,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "25"
+      "TOTAL_SHOTS": "25",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Nathan Denham",
@@ -3134,7 +4382,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "15"
+      "TOTAL_SHOTS": "15",
+      "LAYUP_PCT": "93.3",
+      "CLOSE_PCT": "6.7",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Nathan Denham",
@@ -3144,7 +4396,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "9",
-      "TOTAL_SHOTS": "11"
+      "TOTAL_SHOTS": "11",
+      "LAYUP_PCT": "18.2",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "81.8"
     },
     {
       "PLAYER": "Neil Daterao",
@@ -3154,7 +4410,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "11"
+      "TOTAL_SHOTS": "11",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Neil Daterao",
@@ -3164,7 +4424,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "2",
       "THREE_COUNT": "7",
-      "TOTAL_SHOTS": "10"
+      "TOTAL_SHOTS": "10",
+      "LAYUP_PCT": "10.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "20.0",
+      "THREE_PCT": "70.0"
     },
     {
       "PLAYER": "Neil Daterao",
@@ -3174,7 +4438,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "5",
-      "TOTAL_SHOTS": "10"
+      "TOTAL_SHOTS": "10",
+      "LAYUP_PCT": "50.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "50.0"
     },
     {
       "PLAYER": "Neil Daterao",
@@ -3184,7 +4452,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "5"
+      "TOTAL_SHOTS": "5",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Nick Lemmond",
@@ -3194,7 +4466,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "1",
       "THREE_COUNT": "35",
-      "TOTAL_SHOTS": "44"
+      "TOTAL_SHOTS": "44",
+      "LAYUP_PCT": "18.2",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "2.3",
+      "THREE_PCT": "79.5"
     },
     {
       "PLAYER": "Nick Lemmond",
@@ -3204,7 +4480,11 @@
       "CLOSE_COUNT": "2",
       "MID_COUNT": "0",
       "THREE_COUNT": "20",
-      "TOTAL_SHOTS": "29"
+      "TOTAL_SHOTS": "29",
+      "LAYUP_PCT": "24.1",
+      "CLOSE_PCT": "6.9",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "69.0"
     },
     {
       "PLAYER": "Nick Lemmond",
@@ -3214,7 +4494,11 @@
       "CLOSE_COUNT": "2",
       "MID_COUNT": "2",
       "THREE_COUNT": "17",
-      "TOTAL_SHOTS": "21"
+      "TOTAL_SHOTS": "21",
+      "LAYUP_PCT": "0.0",
+      "CLOSE_PCT": "9.5",
+      "MID_PCT": "9.5",
+      "THREE_PCT": "81.0"
     },
     {
       "PLAYER": "Nick Lemmond",
@@ -3224,7 +4508,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "3",
-      "TOTAL_SHOTS": "7"
+      "TOTAL_SHOTS": "7",
+      "LAYUP_PCT": "57.1",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "42.9"
     },
     {
       "PLAYER": "Nick Lemmond",
@@ -3234,7 +4522,11 @@
       "CLOSE_COUNT": "2",
       "MID_COUNT": "0",
       "THREE_COUNT": "4",
-      "TOTAL_SHOTS": "6"
+      "TOTAL_SHOTS": "6",
+      "LAYUP_PCT": "0.0",
+      "CLOSE_PCT": "33.3",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "66.7"
     },
     {
       "PLAYER": "Nick Padilla",
@@ -3244,7 +4536,11 @@
       "CLOSE_COUNT": "3",
       "MID_COUNT": "2",
       "THREE_COUNT": "4",
-      "TOTAL_SHOTS": "14"
+      "TOTAL_SHOTS": "14",
+      "LAYUP_PCT": "35.7",
+      "CLOSE_PCT": "21.4",
+      "MID_PCT": "14.3",
+      "THREE_PCT": "28.6"
     },
     {
       "PLAYER": "Nick Padilla",
@@ -3254,7 +4550,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "1",
       "THREE_COUNT": "6",
-      "TOTAL_SHOTS": "9"
+      "TOTAL_SHOTS": "9",
+      "LAYUP_PCT": "11.1",
+      "CLOSE_PCT": "11.1",
+      "MID_PCT": "11.1",
+      "THREE_PCT": "66.7"
     },
     {
       "PLAYER": "Nick Padilla",
@@ -3264,7 +4564,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "1",
       "THREE_COUNT": "1",
-      "TOTAL_SHOTS": "7"
+      "TOTAL_SHOTS": "7",
+      "LAYUP_PCT": "57.1",
+      "CLOSE_PCT": "14.3",
+      "MID_PCT": "14.3",
+      "THREE_PCT": "14.3"
     },
     {
       "PLAYER": "Nigel Pierman",
@@ -3274,7 +4578,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "23"
+      "TOTAL_SHOTS": "23",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Nigel Pierman",
@@ -3284,7 +4592,11 @@
       "CLOSE_COUNT": "3",
       "MID_COUNT": "2",
       "THREE_COUNT": "6",
-      "TOTAL_SHOTS": "19"
+      "TOTAL_SHOTS": "19",
+      "LAYUP_PCT": "42.1",
+      "CLOSE_PCT": "15.8",
+      "MID_PCT": "10.5",
+      "THREE_PCT": "31.6"
     },
     {
       "PLAYER": "Nigel Pierman",
@@ -3294,7 +4606,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "13"
+      "TOTAL_SHOTS": "13",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Nigel Pierman",
@@ -3304,7 +4620,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "0",
       "THREE_COUNT": "1",
-      "TOTAL_SHOTS": "9"
+      "TOTAL_SHOTS": "9",
+      "LAYUP_PCT": "77.8",
+      "CLOSE_PCT": "11.1",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "11.1"
     },
     {
       "PLAYER": "Nigel Pierman",
@@ -3314,7 +4634,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "7"
+      "TOTAL_SHOTS": "7",
+      "LAYUP_PCT": "85.7",
+      "CLOSE_PCT": "14.3",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Niko Lutz",
@@ -3324,7 +4648,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "11"
+      "TOTAL_SHOTS": "11",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Niko Lutz",
@@ -3334,7 +4662,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "9"
+      "TOTAL_SHOTS": "9",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Niko Lutz",
@@ -3344,7 +4676,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "1",
-      "TOTAL_SHOTS": "8"
+      "TOTAL_SHOTS": "8",
+      "LAYUP_PCT": "87.5",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "12.5"
     },
     {
       "PLAYER": "Niko Lutz",
@@ -3354,7 +4690,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "7"
+      "TOTAL_SHOTS": "7",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Niko Lutz",
@@ -3364,7 +4704,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "1",
       "THREE_COUNT": "5",
-      "TOTAL_SHOTS": "6"
+      "TOTAL_SHOTS": "6",
+      "LAYUP_PCT": "0.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "16.7",
+      "THREE_PCT": "83.3"
     },
     {
       "PLAYER": "Noah Daniel",
@@ -3374,7 +4718,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "5",
-      "TOTAL_SHOTS": "6"
+      "TOTAL_SHOTS": "6",
+      "LAYUP_PCT": "16.7",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "83.3"
     },
     {
       "PLAYER": "Nolan Smith",
@@ -3384,7 +4732,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "2",
       "THREE_COUNT": "16",
-      "TOTAL_SHOTS": "20"
+      "TOTAL_SHOTS": "20",
+      "LAYUP_PCT": "5.0",
+      "CLOSE_PCT": "5.0",
+      "MID_PCT": "10.0",
+      "THREE_PCT": "80.0"
     },
     {
       "PLAYER": "Nolan Smith",
@@ -3394,7 +4746,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "1",
       "THREE_COUNT": "5",
-      "TOTAL_SHOTS": "6"
+      "TOTAL_SHOTS": "6",
+      "LAYUP_PCT": "0.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "16.7",
+      "THREE_PCT": "83.3"
     },
     {
       "PLAYER": "Parker Neuenhaus",
@@ -3404,7 +4760,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "44"
+      "TOTAL_SHOTS": "44",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Parker Neuenhaus",
@@ -3414,7 +4774,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "25"
+      "TOTAL_SHOTS": "25",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Parker Neuenhaus",
@@ -3424,7 +4788,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "16"
+      "TOTAL_SHOTS": "16",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Parker Neuenhaus",
@@ -3434,7 +4802,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "2",
-      "TOTAL_SHOTS": "14"
+      "TOTAL_SHOTS": "14",
+      "LAYUP_PCT": "85.7",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "14.3"
     },
     {
       "PLAYER": "Parker Neuenhaus",
@@ -3444,7 +4816,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "2",
       "THREE_COUNT": "11",
-      "TOTAL_SHOTS": "14"
+      "TOTAL_SHOTS": "14",
+      "LAYUP_PCT": "7.1",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "14.3",
+      "THREE_PCT": "78.6"
     },
     {
       "PLAYER": "Parker Neuenhaus",
@@ -3454,7 +4830,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "12"
+      "TOTAL_SHOTS": "12",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Pat Cullinan",
@@ -3464,7 +4844,11 @@
       "CLOSE_COUNT": "3",
       "MID_COUNT": "0",
       "THREE_COUNT": "9",
-      "TOTAL_SHOTS": "19"
+      "TOTAL_SHOTS": "19",
+      "LAYUP_PCT": "36.8",
+      "CLOSE_PCT": "15.8",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "47.4"
     },
     {
       "PLAYER": "Pat Cullinan",
@@ -3474,7 +4858,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "1",
       "THREE_COUNT": "2",
-      "TOTAL_SHOTS": "17"
+      "TOTAL_SHOTS": "17",
+      "LAYUP_PCT": "82.4",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "5.9",
+      "THREE_PCT": "11.8"
     },
     {
       "PLAYER": "Pat White",
@@ -3484,7 +4872,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "27",
-      "TOTAL_SHOTS": "29"
+      "TOTAL_SHOTS": "29",
+      "LAYUP_PCT": "6.9",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "93.1"
     },
     {
       "PLAYER": "Pat White",
@@ -3494,7 +4886,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "10"
+      "TOTAL_SHOTS": "10",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Pat White",
@@ -3504,7 +4900,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "7",
-      "TOTAL_SHOTS": "9"
+      "TOTAL_SHOTS": "9",
+      "LAYUP_PCT": "22.2",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "77.8"
     },
     {
       "PLAYER": "PJ Scalisi",
@@ -3514,7 +4914,11 @@
       "CLOSE_COUNT": "4",
       "MID_COUNT": "2",
       "THREE_COUNT": "53",
-      "TOTAL_SHOTS": "69"
+      "TOTAL_SHOTS": "69",
+      "LAYUP_PCT": "14.5",
+      "CLOSE_PCT": "5.8",
+      "MID_PCT": "2.9",
+      "THREE_PCT": "76.8"
     },
     {
       "PLAYER": "PJ Scalisi",
@@ -3524,7 +4928,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "11",
-      "TOTAL_SHOTS": "26"
+      "TOTAL_SHOTS": "26",
+      "LAYUP_PCT": "57.7",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "42.3"
     },
     {
       "PLAYER": "PJ Scalisi",
@@ -3534,7 +4942,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "18"
+      "TOTAL_SHOTS": "18",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "PJ Scalisi",
@@ -3544,7 +4956,11 @@
       "CLOSE_COUNT": "4",
       "MID_COUNT": "0",
       "THREE_COUNT": "6",
-      "TOTAL_SHOTS": "16"
+      "TOTAL_SHOTS": "16",
+      "LAYUP_PCT": "37.5",
+      "CLOSE_PCT": "25.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "37.5"
     },
     {
       "PLAYER": "PJ Scalisi",
@@ -3554,7 +4970,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "6"
+      "TOTAL_SHOTS": "6",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "PJ Scalisi",
@@ -3564,7 +4984,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "5",
-      "TOTAL_SHOTS": "5"
+      "TOTAL_SHOTS": "5",
+      "LAYUP_PCT": "0.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "100.0"
     },
     {
       "PLAYER": "Sacha Greenberg",
@@ -3574,7 +4998,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "0",
       "THREE_COUNT": "22",
-      "TOTAL_SHOTS": "24"
+      "TOTAL_SHOTS": "24",
+      "LAYUP_PCT": "4.2",
+      "CLOSE_PCT": "4.2",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "91.7"
     },
     {
       "PLAYER": "Sacha Greenberg",
@@ -3584,7 +5012,11 @@
       "CLOSE_COUNT": "2",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "13"
+      "TOTAL_SHOTS": "13",
+      "LAYUP_PCT": "84.6",
+      "CLOSE_PCT": "15.4",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Sacha Greenberg",
@@ -3594,7 +5026,11 @@
       "CLOSE_COUNT": "2",
       "MID_COUNT": "0",
       "THREE_COUNT": "9",
-      "TOTAL_SHOTS": "12"
+      "TOTAL_SHOTS": "12",
+      "LAYUP_PCT": "8.3",
+      "CLOSE_PCT": "16.7",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "75.0"
     },
     {
       "PLAYER": "Samuel Gibbs",
@@ -3604,7 +5040,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "19",
-      "TOTAL_SHOTS": "21"
+      "TOTAL_SHOTS": "21",
+      "LAYUP_PCT": "9.5",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "90.5"
     },
     {
       "PLAYER": "Samuel Gibbs",
@@ -3614,7 +5054,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "0",
       "THREE_COUNT": "7",
-      "TOTAL_SHOTS": "11"
+      "TOTAL_SHOTS": "11",
+      "LAYUP_PCT": "27.3",
+      "CLOSE_PCT": "9.1",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "63.6"
     },
     {
       "PLAYER": "Samuel Gibbs",
@@ -3624,7 +5068,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "7",
-      "TOTAL_SHOTS": "9"
+      "TOTAL_SHOTS": "9",
+      "LAYUP_PCT": "22.2",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "77.8"
     },
     {
       "PLAYER": "Samuel Gibbs",
@@ -3634,7 +5082,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "7",
-      "TOTAL_SHOTS": "7"
+      "TOTAL_SHOTS": "7",
+      "LAYUP_PCT": "0.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "100.0"
     },
     {
       "PLAYER": "Scott Schmitt",
@@ -3644,7 +5096,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "11"
+      "TOTAL_SHOTS": "11",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Scott Schmitt",
@@ -3654,7 +5110,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "8"
+      "TOTAL_SHOTS": "8",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Scott Schmitt",
@@ -3664,7 +5124,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "7"
+      "TOTAL_SHOTS": "7",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Scott Schmitt",
@@ -3674,7 +5138,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "5"
+      "TOTAL_SHOTS": "5",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Sebastian Matz",
@@ -3684,7 +5152,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "9",
-      "TOTAL_SHOTS": "9"
+      "TOTAL_SHOTS": "9",
+      "LAYUP_PCT": "0.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "100.0"
     },
     {
       "PLAYER": "Sebastian Medina",
@@ -3694,7 +5166,11 @@
       "CLOSE_COUNT": "5",
       "MID_COUNT": "0",
       "THREE_COUNT": "36",
-      "TOTAL_SHOTS": "44"
+      "TOTAL_SHOTS": "44",
+      "LAYUP_PCT": "6.8",
+      "CLOSE_PCT": "11.4",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "81.8"
     },
     {
       "PLAYER": "Sebastian Medina",
@@ -3704,7 +5180,11 @@
       "CLOSE_COUNT": "2",
       "MID_COUNT": "0",
       "THREE_COUNT": "3",
-      "TOTAL_SHOTS": "16"
+      "TOTAL_SHOTS": "16",
+      "LAYUP_PCT": "68.8",
+      "CLOSE_PCT": "12.5",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "18.8"
     },
     {
       "PLAYER": "Sebastian Medina",
@@ -3714,7 +5194,11 @@
       "CLOSE_COUNT": "4",
       "MID_COUNT": "2",
       "THREE_COUNT": "1",
-      "TOTAL_SHOTS": "12"
+      "TOTAL_SHOTS": "12",
+      "LAYUP_PCT": "41.7",
+      "CLOSE_PCT": "33.3",
+      "MID_PCT": "16.7",
+      "THREE_PCT": "8.3"
     },
     {
       "PLAYER": "Sebastian Medina",
@@ -3724,7 +5208,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "10"
+      "TOTAL_SHOTS": "10",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Sebastian Medina",
@@ -3734,7 +5222,11 @@
       "CLOSE_COUNT": "3",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "5"
+      "TOTAL_SHOTS": "5",
+      "LAYUP_PCT": "40.0",
+      "CLOSE_PCT": "60.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Seth Dyer",
@@ -3744,7 +5236,11 @@
       "CLOSE_COUNT": "2",
       "MID_COUNT": "0",
       "THREE_COUNT": "27",
-      "TOTAL_SHOTS": "33"
+      "TOTAL_SHOTS": "33",
+      "LAYUP_PCT": "12.1",
+      "CLOSE_PCT": "6.1",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "81.8"
     },
     {
       "PLAYER": "Seth Dyer",
@@ -3754,7 +5250,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "0",
       "THREE_COUNT": "2",
-      "TOTAL_SHOTS": "14"
+      "TOTAL_SHOTS": "14",
+      "LAYUP_PCT": "78.6",
+      "CLOSE_PCT": "7.1",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "14.3"
     },
     {
       "PLAYER": "Seth Dyer",
@@ -3764,7 +5264,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "10"
+      "TOTAL_SHOTS": "10",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Seth Dyer",
@@ -3774,7 +5278,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "6"
+      "TOTAL_SHOTS": "6",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Shea Fitzgerald",
@@ -3784,7 +5292,11 @@
       "CLOSE_COUNT": "7",
       "MID_COUNT": "0",
       "THREE_COUNT": "52",
-      "TOTAL_SHOTS": "66"
+      "TOTAL_SHOTS": "66",
+      "LAYUP_PCT": "10.6",
+      "CLOSE_PCT": "10.6",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "78.8"
     },
     {
       "PLAYER": "Shea Fitzgerald",
@@ -3794,7 +5306,11 @@
       "CLOSE_COUNT": "7",
       "MID_COUNT": "3",
       "THREE_COUNT": "11",
-      "TOTAL_SHOTS": "25"
+      "TOTAL_SHOTS": "25",
+      "LAYUP_PCT": "16.0",
+      "CLOSE_PCT": "28.0",
+      "MID_PCT": "12.0",
+      "THREE_PCT": "44.0"
     },
     {
       "PLAYER": "Shea Fitzgerald",
@@ -3804,7 +5320,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "10",
-      "TOTAL_SHOTS": "25"
+      "TOTAL_SHOTS": "25",
+      "LAYUP_PCT": "60.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "40.0"
     },
     {
       "PLAYER": "Shea Fitzgerald",
@@ -3814,7 +5334,11 @@
       "CLOSE_COUNT": "2",
       "MID_COUNT": "0",
       "THREE_COUNT": "9",
-      "TOTAL_SHOTS": "14"
+      "TOTAL_SHOTS": "14",
+      "LAYUP_PCT": "21.4",
+      "CLOSE_PCT": "14.3",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "64.3"
     },
     {
       "PLAYER": "Shea Fitzgerald",
@@ -3824,7 +5348,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "1",
       "THREE_COUNT": "11",
-      "TOTAL_SHOTS": "14"
+      "TOTAL_SHOTS": "14",
+      "LAYUP_PCT": "7.1",
+      "CLOSE_PCT": "7.1",
+      "MID_PCT": "7.1",
+      "THREE_PCT": "78.6"
     },
     {
       "PLAYER": "Shea Fitzgerald",
@@ -3834,7 +5362,11 @@
       "CLOSE_COUNT": "5",
       "MID_COUNT": "0",
       "THREE_COUNT": "1",
-      "TOTAL_SHOTS": "10"
+      "TOTAL_SHOTS": "10",
+      "LAYUP_PCT": "40.0",
+      "CLOSE_PCT": "50.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "10.0"
     },
     {
       "PLAYER": "Steve DeRegis",
@@ -3844,7 +5376,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "0",
       "THREE_COUNT": "56",
-      "TOTAL_SHOTS": "70"
+      "TOTAL_SHOTS": "70",
+      "LAYUP_PCT": "18.6",
+      "CLOSE_PCT": "1.4",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "80.0"
     },
     {
       "PLAYER": "Steve DeRegis",
@@ -3854,7 +5390,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "21",
-      "TOTAL_SHOTS": "25"
+      "TOTAL_SHOTS": "25",
+      "LAYUP_PCT": "16.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "84.0"
     },
     {
       "PLAYER": "Steve DeRegis",
@@ -3864,7 +5404,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "12",
-      "TOTAL_SHOTS": "20"
+      "TOTAL_SHOTS": "20",
+      "LAYUP_PCT": "40.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "60.0"
     },
     {
       "PLAYER": "Steve DeRegis",
@@ -3874,7 +5418,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "19",
-      "TOTAL_SHOTS": "19"
+      "TOTAL_SHOTS": "19",
+      "LAYUP_PCT": "0.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "100.0"
     },
     {
       "PLAYER": "Steve DeRegis",
@@ -3884,7 +5432,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "17",
-      "TOTAL_SHOTS": "18"
+      "TOTAL_SHOTS": "18",
+      "LAYUP_PCT": "5.6",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "94.4"
     },
     {
       "PLAYER": "Steve DeRegis",
@@ -3894,7 +5446,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "7"
+      "TOTAL_SHOTS": "7",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Tanner Tedesco",
@@ -3904,7 +5460,11 @@
       "CLOSE_COUNT": "9",
       "MID_COUNT": "10",
       "THREE_COUNT": "16",
-      "TOTAL_SHOTS": "49"
+      "TOTAL_SHOTS": "49",
+      "LAYUP_PCT": "28.6",
+      "CLOSE_PCT": "18.4",
+      "MID_PCT": "20.4",
+      "THREE_PCT": "32.7"
     },
     {
       "PLAYER": "Tanner Tedesco",
@@ -3914,7 +5474,11 @@
       "CLOSE_COUNT": "6",
       "MID_COUNT": "6",
       "THREE_COUNT": "30",
-      "TOTAL_SHOTS": "46"
+      "TOTAL_SHOTS": "46",
+      "LAYUP_PCT": "8.7",
+      "CLOSE_PCT": "13.0",
+      "MID_PCT": "13.0",
+      "THREE_PCT": "65.2"
     },
     {
       "PLAYER": "Tanner Tedesco",
@@ -3924,7 +5488,11 @@
       "CLOSE_COUNT": "2",
       "MID_COUNT": "6",
       "THREE_COUNT": "9",
-      "TOTAL_SHOTS": "31"
+      "TOTAL_SHOTS": "31",
+      "LAYUP_PCT": "45.2",
+      "CLOSE_PCT": "6.5",
+      "MID_PCT": "19.4",
+      "THREE_PCT": "29.0"
     },
     {
       "PLAYER": "Tanner Tedesco",
@@ -3934,7 +5502,11 @@
       "CLOSE_COUNT": "3",
       "MID_COUNT": "5",
       "THREE_COUNT": "12",
-      "TOTAL_SHOTS": "22"
+      "TOTAL_SHOTS": "22",
+      "LAYUP_PCT": "9.1",
+      "CLOSE_PCT": "13.6",
+      "MID_PCT": "22.7",
+      "THREE_PCT": "54.5"
     },
     {
       "PLAYER": "Tanner Tedesco",
@@ -3944,7 +5516,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "7",
-      "TOTAL_SHOTS": "7"
+      "TOTAL_SHOTS": "7",
+      "LAYUP_PCT": "0.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "100.0"
     },
     {
       "PLAYER": "Tanner Tedesco",
@@ -3954,7 +5530,11 @@
       "CLOSE_COUNT": "2",
       "MID_COUNT": "0",
       "THREE_COUNT": "1",
-      "TOTAL_SHOTS": "6"
+      "TOTAL_SHOTS": "6",
+      "LAYUP_PCT": "50.0",
+      "CLOSE_PCT": "33.3",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "16.7"
     },
     {
       "PLAYER": "Thomas Mckiernan",
@@ -3964,7 +5544,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "11",
-      "TOTAL_SHOTS": "14"
+      "TOTAL_SHOTS": "14",
+      "LAYUP_PCT": "21.4",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "78.6"
     },
     {
       "PLAYER": "Thomas Mckiernan",
@@ -3974,7 +5558,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "7",
-      "TOTAL_SHOTS": "10"
+      "TOTAL_SHOTS": "10",
+      "LAYUP_PCT": "30.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "70.0"
     },
     {
       "PLAYER": "Tommy McMahon",
@@ -3984,7 +5572,11 @@
       "CLOSE_COUNT": "11",
       "MID_COUNT": "2",
       "THREE_COUNT": "17",
-      "TOTAL_SHOTS": "34"
+      "TOTAL_SHOTS": "34",
+      "LAYUP_PCT": "11.8",
+      "CLOSE_PCT": "32.4",
+      "MID_PCT": "5.9",
+      "THREE_PCT": "50.0"
     },
     {
       "PLAYER": "Tommy McMahon",
@@ -3994,7 +5586,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "5",
-      "TOTAL_SHOTS": "17"
+      "TOTAL_SHOTS": "17",
+      "LAYUP_PCT": "70.6",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "29.4"
     },
     {
       "PLAYER": "Tommy McMahon",
@@ -4004,7 +5600,11 @@
       "CLOSE_COUNT": "7",
       "MID_COUNT": "3",
       "THREE_COUNT": "1",
-      "TOTAL_SHOTS": "17"
+      "TOTAL_SHOTS": "17",
+      "LAYUP_PCT": "35.3",
+      "CLOSE_PCT": "41.2",
+      "MID_PCT": "17.6",
+      "THREE_PCT": "5.9"
     },
     {
       "PLAYER": "Tommy McMahon",
@@ -4014,7 +5614,11 @@
       "CLOSE_COUNT": "2",
       "MID_COUNT": "1",
       "THREE_COUNT": "2",
-      "TOTAL_SHOTS": "8"
+      "TOTAL_SHOTS": "8",
+      "LAYUP_PCT": "37.5",
+      "CLOSE_PCT": "25.0",
+      "MID_PCT": "12.5",
+      "THREE_PCT": "25.0"
     },
     {
       "PLAYER": "Tommy McMahon",
@@ -4024,7 +5628,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "5"
+      "TOTAL_SHOTS": "5",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Tommy McMahon",
@@ -4034,7 +5642,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "0",
       "THREE_COUNT": "3",
-      "TOTAL_SHOTS": "5"
+      "TOTAL_SHOTS": "5",
+      "LAYUP_PCT": "20.0",
+      "CLOSE_PCT": "20.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "60.0"
     },
     {
       "PLAYER": "Tommy McMahon",
@@ -4044,7 +5656,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "5"
+      "TOTAL_SHOTS": "5",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Trace Moffitt",
@@ -4054,7 +5670,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "9",
-      "TOTAL_SHOTS": "9"
+      "TOTAL_SHOTS": "9",
+      "LAYUP_PCT": "0.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "100.0"
     },
     {
       "PLAYER": "Tyson Maxam",
@@ -4064,7 +5684,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "2",
       "THREE_COUNT": "18",
-      "TOTAL_SHOTS": "26"
+      "TOTAL_SHOTS": "26",
+      "LAYUP_PCT": "19.2",
+      "CLOSE_PCT": "3.8",
+      "MID_PCT": "7.7",
+      "THREE_PCT": "69.2"
     },
     {
       "PLAYER": "Tyson Maxam",
@@ -4074,7 +5698,11 @@
       "CLOSE_COUNT": "2",
       "MID_COUNT": "0",
       "THREE_COUNT": "9",
-      "TOTAL_SHOTS": "15"
+      "TOTAL_SHOTS": "15",
+      "LAYUP_PCT": "26.7",
+      "CLOSE_PCT": "13.3",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "60.0"
     },
     {
       "PLAYER": "Tyson Maxam",
@@ -4084,7 +5712,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "3",
-      "TOTAL_SHOTS": "6"
+      "TOTAL_SHOTS": "6",
+      "LAYUP_PCT": "50.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "50.0"
     },
     {
       "PLAYER": "Tyson Maxam",
@@ -4094,7 +5726,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "2",
-      "TOTAL_SHOTS": "5"
+      "TOTAL_SHOTS": "5",
+      "LAYUP_PCT": "60.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "40.0"
     },
     {
       "PLAYER": "Tyson Maxam",
@@ -4104,7 +5740,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "1",
       "THREE_COUNT": "3",
-      "TOTAL_SHOTS": "5"
+      "TOTAL_SHOTS": "5",
+      "LAYUP_PCT": "20.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "20.0",
+      "THREE_PCT": "60.0"
     },
     {
       "PLAYER": "Will Ameden",
@@ -4114,7 +5754,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "7"
+      "TOTAL_SHOTS": "7",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Will Ameden",
@@ -4124,7 +5768,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "3",
-      "TOTAL_SHOTS": "5"
+      "TOTAL_SHOTS": "5",
+      "LAYUP_PCT": "40.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "60.0"
     },
     {
       "PLAYER": "Will Gregory",
@@ -4134,7 +5782,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "25",
-      "TOTAL_SHOTS": "27"
+      "TOTAL_SHOTS": "27",
+      "LAYUP_PCT": "7.4",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "92.6"
     },
     {
       "PLAYER": "Will Gregory",
@@ -4144,7 +5796,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "5",
-      "TOTAL_SHOTS": "10"
+      "TOTAL_SHOTS": "10",
+      "LAYUP_PCT": "50.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "50.0"
     },
     {
       "PLAYER": "Will Wertz",
@@ -4154,7 +5810,11 @@
       "CLOSE_COUNT": "2",
       "MID_COUNT": "3",
       "THREE_COUNT": "13",
-      "TOTAL_SHOTS": "25"
+      "TOTAL_SHOTS": "25",
+      "LAYUP_PCT": "28.0",
+      "CLOSE_PCT": "8.0",
+      "MID_PCT": "12.0",
+      "THREE_PCT": "52.0"
     },
     {
       "PLAYER": "Will Wertz",
@@ -4164,7 +5824,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "2",
-      "TOTAL_SHOTS": "19"
+      "TOTAL_SHOTS": "19",
+      "LAYUP_PCT": "89.5",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "10.5"
     },
     {
       "PLAYER": "Will Wertz",
@@ -4174,7 +5838,11 @@
       "CLOSE_COUNT": "2",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "6"
+      "TOTAL_SHOTS": "6",
+      "LAYUP_PCT": "66.7",
+      "CLOSE_PCT": "33.3",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Will Wertz",
@@ -4184,7 +5852,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "6"
+      "TOTAL_SHOTS": "6",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Xavier Nelson",
@@ -4194,7 +5866,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "4",
       "THREE_COUNT": "14",
-      "TOTAL_SHOTS": "21"
+      "TOTAL_SHOTS": "21",
+      "LAYUP_PCT": "9.5",
+      "CLOSE_PCT": "4.8",
+      "MID_PCT": "19.0",
+      "THREE_PCT": "66.7"
     },
     {
       "PLAYER": "Xavier Nelson",
@@ -4204,7 +5880,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "4",
       "THREE_COUNT": "1",
-      "TOTAL_SHOTS": "9"
+      "TOTAL_SHOTS": "9",
+      "LAYUP_PCT": "33.3",
+      "CLOSE_PCT": "11.1",
+      "MID_PCT": "44.4",
+      "THREE_PCT": "11.1"
     },
     {
       "PLAYER": "Xavier Nelson",
@@ -4214,7 +5894,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "0",
       "THREE_COUNT": "2",
-      "TOTAL_SHOTS": "8"
+      "TOTAL_SHOTS": "8",
+      "LAYUP_PCT": "62.5",
+      "CLOSE_PCT": "12.5",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "25.0"
     },
     {
       "PLAYER": "Xavier Nelson",
@@ -4224,7 +5908,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "8"
+      "TOTAL_SHOTS": "8",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Xavier Nelson",
@@ -4234,7 +5922,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "6"
+      "TOTAL_SHOTS": "6",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Xavier Nelson",
@@ -4244,7 +5936,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "1",
       "THREE_COUNT": "1",
-      "TOTAL_SHOTS": "5"
+      "TOTAL_SHOTS": "5",
+      "LAYUP_PCT": "40.0",
+      "CLOSE_PCT": "20.0",
+      "MID_PCT": "20.0",
+      "THREE_PCT": "20.0"
     },
     {
       "PLAYER": "Yechiel Stewart",
@@ -4254,7 +5950,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "0",
       "THREE_COUNT": "29",
-      "TOTAL_SHOTS": "33"
+      "TOTAL_SHOTS": "33",
+      "LAYUP_PCT": "9.1",
+      "CLOSE_PCT": "3.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "87.9"
     },
     {
       "PLAYER": "Yechiel Stewart",
@@ -4264,7 +5964,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "1",
       "THREE_COUNT": "2",
-      "TOTAL_SHOTS": "20"
+      "TOTAL_SHOTS": "20",
+      "LAYUP_PCT": "85.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "5.0",
+      "THREE_PCT": "10.0"
     },
     {
       "PLAYER": "Yechiel Stewart",
@@ -4274,7 +5978,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "11"
+      "TOTAL_SHOTS": "11",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     },
     {
       "PLAYER": "Yechiel Stewart",
@@ -4284,7 +5992,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "4",
-      "TOTAL_SHOTS": "6"
+      "TOTAL_SHOTS": "6",
+      "LAYUP_PCT": "33.3",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "66.7"
     },
     {
       "PLAYER": "Yechiel Stewart",
@@ -4294,7 +6006,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "1",
       "THREE_COUNT": "3",
-      "TOTAL_SHOTS": "5"
+      "TOTAL_SHOTS": "5",
+      "LAYUP_PCT": "20.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "20.0",
+      "THREE_PCT": "60.0"
     },
     {
       "PLAYER": "Yoav Regev",
@@ -4304,7 +6020,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "10",
-      "TOTAL_SHOTS": "14"
+      "TOTAL_SHOTS": "14",
+      "LAYUP_PCT": "28.6",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "71.4"
     },
     {
       "PLAYER": "Zac Ditzel",
@@ -4314,7 +6034,11 @@
       "CLOSE_COUNT": "5",
       "MID_COUNT": "5",
       "THREE_COUNT": "42",
-      "TOTAL_SHOTS": "62"
+      "TOTAL_SHOTS": "62",
+      "LAYUP_PCT": "16.1",
+      "CLOSE_PCT": "8.1",
+      "MID_PCT": "8.1",
+      "THREE_PCT": "67.7"
     },
     {
       "PLAYER": "Zac Ditzel",
@@ -4324,7 +6048,11 @@
       "CLOSE_COUNT": "1",
       "MID_COUNT": "8",
       "THREE_COUNT": "16",
-      "TOTAL_SHOTS": "31"
+      "TOTAL_SHOTS": "31",
+      "LAYUP_PCT": "19.4",
+      "CLOSE_PCT": "3.2",
+      "MID_PCT": "25.8",
+      "THREE_PCT": "51.6"
     },
     {
       "PLAYER": "Zac Ditzel",
@@ -4334,7 +6062,11 @@
       "CLOSE_COUNT": "3",
       "MID_COUNT": "0",
       "THREE_COUNT": "8",
-      "TOTAL_SHOTS": "25"
+      "TOTAL_SHOTS": "25",
+      "LAYUP_PCT": "56.0",
+      "CLOSE_PCT": "12.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "32.0"
     },
     {
       "PLAYER": "Zac Ditzel",
@@ -4344,7 +6076,11 @@
       "CLOSE_COUNT": "6",
       "MID_COUNT": "3",
       "THREE_COUNT": "2",
-      "TOTAL_SHOTS": "18"
+      "TOTAL_SHOTS": "18",
+      "LAYUP_PCT": "38.9",
+      "CLOSE_PCT": "33.3",
+      "MID_PCT": "16.7",
+      "THREE_PCT": "11.1"
     },
     {
       "PLAYER": "Zac Ditzel",
@@ -4354,7 +6090,11 @@
       "CLOSE_COUNT": "2",
       "MID_COUNT": "0",
       "THREE_COUNT": "7",
-      "TOTAL_SHOTS": "13"
+      "TOTAL_SHOTS": "13",
+      "LAYUP_PCT": "30.8",
+      "CLOSE_PCT": "15.4",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "53.8"
     },
     {
       "PLAYER": "Zac Ditzel",
@@ -4364,7 +6104,11 @@
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "11"
+      "TOTAL_SHOTS": "11",
+      "LAYUP_PCT": "100.0",
+      "CLOSE_PCT": "0.0",
+      "MID_PCT": "0.0",
+      "THREE_PCT": "0.0"
     }
   ]
 }

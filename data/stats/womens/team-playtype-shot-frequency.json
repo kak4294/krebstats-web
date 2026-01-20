@@ -1,0 +1,955 @@
+{
+  "success": true,
+  "gender": "womens",
+  "query": "team-playtype-shot-frequency",
+  "description": "Team shot distribution by play type, showing where teams shoot from on different offensive actions",
+  "fetched_at": "2026-01-20T08:52:04.374277",
+  "row_count": 105,
+  "data": [
+    {
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "41",
+      "CLOSE_COUNT": "12",
+      "MID_COUNT": "41",
+      "THREE_COUNT": "246",
+      "TOTAL_SHOTS": "340"
+    },
+    {
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "37",
+      "CLOSE_COUNT": "17",
+      "MID_COUNT": "14",
+      "THREE_COUNT": "41",
+      "TOTAL_SHOTS": "109"
+    },
+    {
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "47",
+      "CLOSE_COUNT": "7",
+      "MID_COUNT": "5",
+      "THREE_COUNT": "46",
+      "TOTAL_SHOTS": "105"
+    },
+    {
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "57",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "57"
+    },
+    {
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "13",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "6",
+      "THREE_COUNT": "33",
+      "TOTAL_SHOTS": "55"
+    },
+    {
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Post",
+      "LAYUP_COUNT": "52",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "52"
+    },
+    {
+      "TEAM": "Bard College",
+      "PLAY_TYPE": null,
+      "LAYUP_COUNT": "40",
+      "CLOSE_COUNT": "9",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "50"
+    },
+    {
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Off Screens",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "17",
+      "TOTAL_SHOTS": "24"
+    },
+    {
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "P&R Roll Man",
+      "LAYUP_COUNT": "10",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "7",
+      "TOTAL_SHOTS": "20"
+    },
+    {
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Misc",
+      "LAYUP_COUNT": "11",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "5",
+      "TOTAL_SHOTS": "19"
+    },
+    {
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Iso",
+      "LAYUP_COUNT": "11",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "15"
+    },
+    {
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "38",
+      "CLOSE_COUNT": "8",
+      "MID_COUNT": "44",
+      "THREE_COUNT": "176",
+      "TOTAL_SHOTS": "266"
+    },
+    {
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "146",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "146"
+    },
+    {
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "34",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "3",
+      "THREE_COUNT": "31",
+      "TOTAL_SHOTS": "71"
+    },
+    {
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "19",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "7",
+      "THREE_COUNT": "5",
+      "TOTAL_SHOTS": "31"
+    },
+    {
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": null,
+      "LAYUP_COUNT": "23",
+      "CLOSE_COUNT": "6",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "30"
+    },
+    {
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "9",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "3",
+      "THREE_COUNT": "12",
+      "TOTAL_SHOTS": "25"
+    },
+    {
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Post",
+      "LAYUP_COUNT": "24",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "24"
+    },
+    {
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Off Screens",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "15",
+      "TOTAL_SHOTS": "18"
+    },
+    {
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "P&R Roll Man",
+      "LAYUP_COUNT": "9",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "4",
+      "TOTAL_SHOTS": "14"
+    },
+    {
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Iso",
+      "LAYUP_COUNT": "10",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "13"
+    },
+    {
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "38",
+      "CLOSE_COUNT": "24",
+      "MID_COUNT": "57",
+      "THREE_COUNT": "188",
+      "TOTAL_SHOTS": "307"
+    },
+    {
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "92",
+      "CLOSE_COUNT": "37",
+      "MID_COUNT": "6",
+      "THREE_COUNT": "71",
+      "TOTAL_SHOTS": "206"
+    },
+    {
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "175",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "175"
+    },
+    {
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "18",
+      "CLOSE_COUNT": "19",
+      "MID_COUNT": "16",
+      "THREE_COUNT": "25",
+      "TOTAL_SHOTS": "78"
+    },
+    {
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Off Screens",
+      "LAYUP_COUNT": "11",
+      "CLOSE_COUNT": "9",
+      "MID_COUNT": "4",
+      "THREE_COUNT": "37",
+      "TOTAL_SHOTS": "61"
+    },
+    {
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": null,
+      "LAYUP_COUNT": "37",
+      "CLOSE_COUNT": "7",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "45"
+    },
+    {
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Iso",
+      "LAYUP_COUNT": "18",
+      "CLOSE_COUNT": "10",
+      "MID_COUNT": "4",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "34"
+    },
+    {
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "8",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "4",
+      "THREE_COUNT": "19",
+      "TOTAL_SHOTS": "34"
+    },
+    {
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Post",
+      "LAYUP_COUNT": "29",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "29"
+    },
+    {
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "P&R Roll Man",
+      "LAYUP_COUNT": "12",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "3",
+      "THREE_COUNT": "6",
+      "TOTAL_SHOTS": "23"
+    },
+    {
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Misc",
+      "LAYUP_COUNT": "7",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "3",
+      "TOTAL_SHOTS": "13"
+    },
+    {
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "75",
+      "CLOSE_COUNT": "11",
+      "MID_COUNT": "57",
+      "THREE_COUNT": "196",
+      "TOTAL_SHOTS": "339"
+    },
+    {
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "135",
+      "CLOSE_COUNT": "17",
+      "MID_COUNT": "8",
+      "THREE_COUNT": "59",
+      "TOTAL_SHOTS": "219"
+    },
+    {
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "87",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "87"
+    },
+    {
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "43",
+      "CLOSE_COUNT": "8",
+      "MID_COUNT": "17",
+      "THREE_COUNT": "16",
+      "TOTAL_SHOTS": "84"
+    },
+    {
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Post",
+      "LAYUP_COUNT": "34",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "34"
+    },
+    {
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": null,
+      "LAYUP_COUNT": "33",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "34"
+    },
+    {
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "18",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "3",
+      "THREE_COUNT": "9",
+      "TOTAL_SHOTS": "31"
+    },
+    {
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Off Screens",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "4",
+      "THREE_COUNT": "17",
+      "TOTAL_SHOTS": "26"
+    },
+    {
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Iso",
+      "LAYUP_COUNT": "16",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "5",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "24"
+    },
+    {
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Misc",
+      "LAYUP_COUNT": "13",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "3",
+      "TOTAL_SHOTS": "20"
+    },
+    {
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "P&R Roll Man",
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "4",
+      "THREE_COUNT": "3",
+      "TOTAL_SHOTS": "13"
+    },
+    {
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "53",
+      "CLOSE_COUNT": "47",
+      "MID_COUNT": "32",
+      "THREE_COUNT": "202",
+      "TOTAL_SHOTS": "334"
+    },
+    {
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "116",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "116"
+    },
+    {
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Post",
+      "LAYUP_COUNT": "91",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "91"
+    },
+    {
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "29",
+      "CLOSE_COUNT": "35",
+      "MID_COUNT": "9",
+      "THREE_COUNT": "10",
+      "TOTAL_SHOTS": "83"
+    },
+    {
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "37",
+      "CLOSE_COUNT": "15",
+      "MID_COUNT": "3",
+      "THREE_COUNT": "16",
+      "TOTAL_SHOTS": "71"
+    },
+    {
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "22",
+      "CLOSE_COUNT": "27",
+      "MID_COUNT": "9",
+      "THREE_COUNT": "9",
+      "TOTAL_SHOTS": "67"
+    },
+    {
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Off Screens",
+      "LAYUP_COUNT": "9",
+      "CLOSE_COUNT": "12",
+      "MID_COUNT": "5",
+      "THREE_COUNT": "35",
+      "TOTAL_SHOTS": "61"
+    },
+    {
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": null,
+      "LAYUP_COUNT": "18",
+      "CLOSE_COUNT": "7",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "26"
+    },
+    {
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "P&R Roll Man",
+      "LAYUP_COUNT": "10",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "6",
+      "TOTAL_SHOTS": "19"
+    },
+    {
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Iso",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "5",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "10"
+    },
+    {
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "37",
+      "CLOSE_COUNT": "12",
+      "MID_COUNT": "25",
+      "THREE_COUNT": "115",
+      "TOTAL_SHOTS": "189"
+    },
+    {
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "46",
+      "CLOSE_COUNT": "30",
+      "MID_COUNT": "17",
+      "THREE_COUNT": "34",
+      "TOTAL_SHOTS": "127"
+    },
+    {
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "57",
+      "CLOSE_COUNT": "18",
+      "MID_COUNT": "12",
+      "THREE_COUNT": "26",
+      "TOTAL_SHOTS": "113"
+    },
+    {
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "92",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "92"
+    },
+    {
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "16",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "4",
+      "THREE_COUNT": "21",
+      "TOTAL_SHOTS": "43"
+    },
+    {
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Iso",
+      "LAYUP_COUNT": "16",
+      "CLOSE_COUNT": "9",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "27"
+    },
+    {
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "P&R Roll Man",
+      "LAYUP_COUNT": "18",
+      "CLOSE_COUNT": "4",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "3",
+      "TOTAL_SHOTS": "26"
+    },
+    {
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Post",
+      "LAYUP_COUNT": "23",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "23"
+    },
+    {
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Misc",
+      "LAYUP_COUNT": "10",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "3",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "18"
+    },
+    {
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": null,
+      "LAYUP_COUNT": "14",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "15"
+    },
+    {
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "71",
+      "CLOSE_COUNT": "24",
+      "MID_COUNT": "67",
+      "THREE_COUNT": "168",
+      "TOTAL_SHOTS": "330"
+    },
+    {
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "68",
+      "CLOSE_COUNT": "15",
+      "MID_COUNT": "16",
+      "THREE_COUNT": "75",
+      "TOTAL_SHOTS": "174"
+    },
+    {
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "20",
+      "CLOSE_COUNT": "6",
+      "MID_COUNT": "9",
+      "THREE_COUNT": "42",
+      "TOTAL_SHOTS": "77"
+    },
+    {
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "72",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "72"
+    },
+    {
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "25",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "17",
+      "THREE_COUNT": "15",
+      "TOTAL_SHOTS": "60"
+    },
+    {
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Iso",
+      "LAYUP_COUNT": "29",
+      "CLOSE_COUNT": "5",
+      "MID_COUNT": "9",
+      "THREE_COUNT": "10",
+      "TOTAL_SHOTS": "53"
+    },
+    {
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Post",
+      "LAYUP_COUNT": "35",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "35"
+    },
+    {
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": null,
+      "LAYUP_COUNT": "22",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "25"
+    },
+    {
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Off Screens",
+      "LAYUP_COUNT": "10",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "3",
+      "THREE_COUNT": "6",
+      "TOTAL_SHOTS": "19"
+    },
+    {
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Misc",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "6",
+      "TOTAL_SHOTS": "14"
+    },
+    {
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "P&R Roll Man",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "11"
+    },
+    {
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "56",
+      "CLOSE_COUNT": "27",
+      "MID_COUNT": "18",
+      "THREE_COUNT": "147",
+      "TOTAL_SHOTS": "248"
+    },
+    {
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "100",
+      "CLOSE_COUNT": "21",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "52",
+      "TOTAL_SHOTS": "175"
+    },
+    {
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "119",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "119"
+    },
+    {
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "47",
+      "CLOSE_COUNT": "25",
+      "MID_COUNT": "6",
+      "THREE_COUNT": "14",
+      "TOTAL_SHOTS": "92"
+    },
+    {
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "28",
+      "CLOSE_COUNT": "12",
+      "MID_COUNT": "7",
+      "THREE_COUNT": "26",
+      "TOTAL_SHOTS": "73"
+    },
+    {
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Post",
+      "LAYUP_COUNT": "62",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "62"
+    },
+    {
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": null,
+      "LAYUP_COUNT": "37",
+      "CLOSE_COUNT": "6",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "43"
+    },
+    {
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Iso",
+      "LAYUP_COUNT": "23",
+      "CLOSE_COUNT": "8",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "3",
+      "TOTAL_SHOTS": "36"
+    },
+    {
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Off Screens",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "3",
+      "THREE_COUNT": "26",
+      "TOTAL_SHOTS": "34"
+    },
+    {
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "P&R Roll Man",
+      "LAYUP_COUNT": "12",
+      "CLOSE_COUNT": "5",
+      "MID_COUNT": "3",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "22"
+    },
+    {
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Misc",
+      "LAYUP_COUNT": "8",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "12"
+    },
+    {
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "58",
+      "CLOSE_COUNT": "15",
+      "MID_COUNT": "19",
+      "THREE_COUNT": "123",
+      "TOTAL_SHOTS": "215"
+    },
+    {
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "80",
+      "CLOSE_COUNT": "6",
+      "MID_COUNT": "5",
+      "THREE_COUNT": "13",
+      "TOTAL_SHOTS": "104"
+    },
+    {
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "55",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "55"
+    },
+    {
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "25",
+      "CLOSE_COUNT": "7",
+      "MID_COUNT": "4",
+      "THREE_COUNT": "4",
+      "TOTAL_SHOTS": "40"
+    },
+    {
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "Post",
+      "LAYUP_COUNT": "37",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "37"
+    },
+    {
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": null,
+      "LAYUP_COUNT": "30",
+      "CLOSE_COUNT": "6",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "36"
+    },
+    {
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "Off Screens",
+      "LAYUP_COUNT": "10",
+      "CLOSE_COUNT": "5",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "18",
+      "TOTAL_SHOTS": "35"
+    },
+    {
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "12",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "3",
+      "THREE_COUNT": "3",
+      "TOTAL_SHOTS": "21"
+    },
+    {
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "Iso",
+      "LAYUP_COUNT": "10",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "5",
+      "TOTAL_SHOTS": "16"
+    },
+    {
+      "TEAM": "William Smith Herons",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "43",
+      "CLOSE_COUNT": "32",
+      "MID_COUNT": "24",
+      "THREE_COUNT": "180",
+      "TOTAL_SHOTS": "279"
+    },
+    {
+      "TEAM": "William Smith Herons",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "79",
+      "CLOSE_COUNT": "25",
+      "MID_COUNT": "5",
+      "THREE_COUNT": "55",
+      "TOTAL_SHOTS": "164"
+    },
+    {
+      "TEAM": "William Smith Herons",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "22",
+      "CLOSE_COUNT": "13",
+      "MID_COUNT": "11",
+      "THREE_COUNT": "36",
+      "TOTAL_SHOTS": "82"
+    },
+    {
+      "TEAM": "William Smith Herons",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "40",
+      "CLOSE_COUNT": "22",
+      "MID_COUNT": "7",
+      "THREE_COUNT": "4",
+      "TOTAL_SHOTS": "73"
+    },
+    {
+      "TEAM": "William Smith Herons",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "67",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "67"
+    },
+    {
+      "TEAM": "William Smith Herons",
+      "PLAY_TYPE": null,
+      "LAYUP_COUNT": "31",
+      "CLOSE_COUNT": "14",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "47"
+    },
+    {
+      "TEAM": "William Smith Herons",
+      "PLAY_TYPE": "Off Screens",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "32",
+      "TOTAL_SHOTS": "38"
+    },
+    {
+      "TEAM": "William Smith Herons",
+      "PLAY_TYPE": "Post",
+      "LAYUP_COUNT": "32",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "32"
+    },
+    {
+      "TEAM": "William Smith Herons",
+      "PLAY_TYPE": "Iso",
+      "LAYUP_COUNT": "13",
+      "CLOSE_COUNT": "5",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "21"
+    },
+    {
+      "TEAM": "William Smith Herons",
+      "PLAY_TYPE": "P&R Roll Man",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "3",
+      "THREE_COUNT": "5",
+      "TOTAL_SHOTS": "11"
+    },
+    {
+      "TEAM": "William Smith Herons",
+      "PLAY_TYPE": "Misc",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "6",
+      "TOTAL_SHOTS": "11"
+    }
+  ]
+}

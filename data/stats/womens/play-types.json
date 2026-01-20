@@ -1,0 +1,17 @@
+{
+  "success": true,
+  "gender": "womens",
+  "fetched_at": "2026-01-20T08:52:07.151834",
+  "play_types": [
+    "Cuts",
+    "Hand Offs",
+    "Iso",
+    "Misc",
+    "Off Screens",
+    "P&R Roll Man",
+    "PNR",
+    "Post",
+    "Spot Ups",
+    "Transition"
+  ]
+}

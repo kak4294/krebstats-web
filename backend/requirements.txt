@@ -1,0 +1,24 @@
+# Web Framework
+fastapi==0.109.2
+uvicorn[standard]==0.27.1
+
+# Database
+pymysql==1.1.0
+cryptography==42.0.2
+
+# Data Processing
+pandas==2.2.0
+numpy==1.26.3
+
+# Environment Variables
+python-dotenv==1.0.1
+
+# CORS Support
+starlette==0.36.3
+
+# Type Hints & Validation
+pydantic==2.6.1
+
+# Development
+httpx==0.26.0
+

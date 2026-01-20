@@ -1,0 +1,90 @@
+{
+  "success": true,
+  "gender": "womens",
+  "query": "team-shot-location-frequency",
+  "description": "Team shot distribution showing percentage of shots from each court zone",
+  "fetched_at": "2026-01-20T08:52:03.784633",
+  "row_count": 10,
+  "data": [
+    {
+      "TEAM": "Ithaca College",
+      "LAYUP_COUNT": "445",
+      "CLOSE_COUNT": "114",
+      "MID_COUNT": "94",
+      "THREE_COUNT": "352",
+      "TOTAL_SHOTS": "1005"
+    },
+    {
+      "TEAM": "Union (NY) Chargers",
+      "LAYUP_COUNT": "495",
+      "CLOSE_COUNT": "107",
+      "MID_COUNT": "43",
+      "THREE_COUNT": "271",
+      "TOTAL_SHOTS": "916"
+    },
+    {
+      "TEAM": "Rensselaer Polytechnic",
+      "LAYUP_COUNT": "464",
+      "CLOSE_COUNT": "43",
+      "MID_COUNT": "99",
+      "THREE_COUNT": "305",
+      "TOTAL_SHOTS": "911"
+    },
+    {
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "LAYUP_COUNT": "392",
+      "CLOSE_COUNT": "150",
+      "MID_COUNT": "62",
+      "THREE_COUNT": "282",
+      "TOTAL_SHOTS": "886"
+    },
+    {
+      "TEAM": "St. Lawrence Saints",
+      "LAYUP_COUNT": "361",
+      "CLOSE_COUNT": "61",
+      "MID_COUNT": "125",
+      "THREE_COUNT": "323",
+      "TOTAL_SHOTS": "870"
+    },
+    {
+      "TEAM": "Bard College",
+      "LAYUP_COUNT": "321",
+      "CLOSE_COUNT": "57",
+      "MID_COUNT": "71",
+      "THREE_COUNT": "397",
+      "TOTAL_SHOTS": "846"
+    },
+    {
+      "TEAM": "William Smith Herons",
+      "LAYUP_COUNT": "336",
+      "CLOSE_COUNT": "113",
+      "MID_COUNT": "54",
+      "THREE_COUNT": "322",
+      "TOTAL_SHOTS": "825"
+    },
+    {
+      "TEAM": "Skidmore Thoroughbreds",
+      "LAYUP_COUNT": "329",
+      "CLOSE_COUNT": "80",
+      "MID_COUNT": "65",
+      "THREE_COUNT": "208",
+      "TOTAL_SHOTS": "682"
+    },
+    {
+      "TEAM": "Clarkson University Golden Knights",
+      "LAYUP_COUNT": "317",
+      "CLOSE_COUNT": "21",
+      "MID_COUNT": "59",
+      "THREE_COUNT": "247",
+      "TOTAL_SHOTS": "644"
+    },
+    {
+      "TEAM": "Vassar Brewers",
+      "LAYUP_COUNT": "323",
+      "CLOSE_COUNT": "45",
+      "MID_COUNT": "35",
+      "THREE_COUNT": "172",
+      "TOTAL_SHOTS": "575"
+    }
+  ]
+}

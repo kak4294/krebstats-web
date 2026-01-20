@@ -1,0 +1,1405 @@
+{
+  "success": true,
+  "gender": "mens",
+  "query": "player-shot-location-frequency",
+  "description": "Player shot distribution showing percentage of shots from each court zone",
+  "fetched_at": "2026-01-20T08:52:00.158443",
+  "row_count": 155,
+  "data": [
+    {
+      "PLAYER": "Mushin Muhammad",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "LAYUP_COUNT": "124",
+      "CLOSE_COUNT": "23",
+      "MID_COUNT": "11",
+      "THREE_COUNT": "64",
+      "TOTAL_SHOTS": "222"
+    },
+    {
+      "PLAYER": "Evan Cabral",
+      "TEAM": "Ithaca College",
+      "LAYUP_COUNT": "129",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "76",
+      "TOTAL_SHOTS": "208"
+    },
+    {
+      "PLAYER": "Braeden Burns",
+      "TEAM": "Clarkson University Golden Knights",
+      "LAYUP_COUNT": "139",
+      "CLOSE_COUNT": "15",
+      "MID_COUNT": "3",
+      "THREE_COUNT": "47",
+      "TOTAL_SHOTS": "204"
+    },
+    {
+      "PLAYER": "Jack Plesser",
+      "TEAM": "Union (NY) Chargers",
+      "LAYUP_COUNT": "157",
+      "CLOSE_COUNT": "20",
+      "MID_COUNT": "10",
+      "THREE_COUNT": "8",
+      "TOTAL_SHOTS": "195"
+    },
+    {
+      "PLAYER": "Josiah Turner",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "LAYUP_COUNT": "116",
+      "CLOSE_COUNT": "9",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "51",
+      "TOTAL_SHOTS": "177"
+    },
+    {
+      "PLAYER": "Dan Anderson",
+      "TEAM": "St. Lawrence Saints",
+      "LAYUP_COUNT": "75",
+      "CLOSE_COUNT": "7",
+      "MID_COUNT": "4",
+      "THREE_COUNT": "90",
+      "TOTAL_SHOTS": "176"
+    },
+    {
+      "PLAYER": "Matthew Zenker",
+      "TEAM": "Ithaca College",
+      "LAYUP_COUNT": "85",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "88",
+      "TOTAL_SHOTS": "174"
+    },
+    {
+      "PLAYER": "Zac Ditzel",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "LAYUP_COUNT": "62",
+      "CLOSE_COUNT": "18",
+      "MID_COUNT": "16",
+      "THREE_COUNT": "77",
+      "TOTAL_SHOTS": "173"
+    },
+    {
+      "PLAYER": "Jacob Gooden",
+      "TEAM": "Skidmore Thoroughbreds",
+      "LAYUP_COUNT": "101",
+      "CLOSE_COUNT": "40",
+      "MID_COUNT": "8",
+      "THREE_COUNT": "21",
+      "TOTAL_SHOTS": "170"
+    },
+    {
+      "PLAYER": "Shea Fitzgerald",
+      "TEAM": "Vassar Brewers",
+      "LAYUP_COUNT": "44",
+      "CLOSE_COUNT": "24",
+      "MID_COUNT": "4",
+      "THREE_COUNT": "97",
+      "TOTAL_SHOTS": "169"
+    },
+    {
+      "PLAYER": "Nate Abernethy",
+      "TEAM": "Clarkson University Golden Knights",
+      "LAYUP_COUNT": "110",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "51",
+      "TOTAL_SHOTS": "165"
+    },
+    {
+      "PLAYER": "Tanner Tedesco",
+      "TEAM": "Union (NY) Chargers",
+      "LAYUP_COUNT": "40",
+      "CLOSE_COUNT": "23",
+      "MID_COUNT": "27",
+      "THREE_COUNT": "75",
+      "TOTAL_SHOTS": "165"
+    },
+    {
+      "PLAYER": "Steve DeRegis",
+      "TEAM": "Clarkson University Golden Knights",
+      "LAYUP_COUNT": "34",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "128",
+      "TOTAL_SHOTS": "163"
+    },
+    {
+      "PLAYER": "Lucas Tovar",
+      "TEAM": "Bard College",
+      "LAYUP_COUNT": "110",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "43",
+      "TOTAL_SHOTS": "155"
+    },
+    {
+      "PLAYER": "Alex Moesch",
+      "TEAM": "Hobart College Statesmen",
+      "LAYUP_COUNT": "45",
+      "CLOSE_COUNT": "36",
+      "MID_COUNT": "10",
+      "THREE_COUNT": "64",
+      "TOTAL_SHOTS": "155"
+    },
+    {
+      "PLAYER": "PJ Scalisi",
+      "TEAM": "Rensselaer Polytechnic",
+      "LAYUP_COUNT": "60",
+      "CLOSE_COUNT": "8",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "79",
+      "TOTAL_SHOTS": "149"
+    },
+    {
+      "PLAYER": "Monty Nedd",
+      "TEAM": "Hobart College Statesmen",
+      "LAYUP_COUNT": "88",
+      "CLOSE_COUNT": "16",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "44",
+      "TOTAL_SHOTS": "148"
+    },
+    {
+      "PLAYER": "Angelos Brakatos",
+      "TEAM": "Bard College",
+      "LAYUP_COUNT": "34",
+      "CLOSE_COUNT": "18",
+      "MID_COUNT": "5",
+      "THREE_COUNT": "86",
+      "TOTAL_SHOTS": "143"
+    },
+    {
+      "PLAYER": "Adam Dudzinski",
+      "TEAM": "St. Lawrence Saints",
+      "LAYUP_COUNT": "57",
+      "CLOSE_COUNT": "8",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "77",
+      "TOTAL_SHOTS": "143"
+    },
+    {
+      "PLAYER": "Andrew Deppe",
+      "TEAM": "Rensselaer Polytechnic",
+      "LAYUP_COUNT": "82",
+      "CLOSE_COUNT": "5",
+      "MID_COUNT": "5",
+      "THREE_COUNT": "43",
+      "TOTAL_SHOTS": "135"
+    },
+    {
+      "PLAYER": "Dorian Paki",
+      "TEAM": "Hobart College Statesmen",
+      "LAYUP_COUNT": "130",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "130"
+    },
+    {
+      "PLAYER": "Avery Lee",
+      "TEAM": "Vassar Brewers",
+      "LAYUP_COUNT": "33",
+      "CLOSE_COUNT": "38",
+      "MID_COUNT": "8",
+      "THREE_COUNT": "51",
+      "TOTAL_SHOTS": "130"
+    },
+    {
+      "PLAYER": "Parker Neuenhaus",
+      "TEAM": "Vassar Brewers",
+      "LAYUP_COUNT": "112",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "14",
+      "TOTAL_SHOTS": "128"
+    },
+    {
+      "PLAYER": "Aidan Roy",
+      "TEAM": "Skidmore Thoroughbreds",
+      "LAYUP_COUNT": "36",
+      "CLOSE_COUNT": "10",
+      "MID_COUNT": "12",
+      "THREE_COUNT": "68",
+      "TOTAL_SHOTS": "126"
+    },
+    {
+      "PLAYER": "Dylan Matchett",
+      "TEAM": "Rensselaer Polytechnic",
+      "LAYUP_COUNT": "59",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "5",
+      "THREE_COUNT": "58",
+      "TOTAL_SHOTS": "125"
+    },
+    {
+      "PLAYER": "Jaylon O'Neal",
+      "TEAM": "Ithaca College",
+      "LAYUP_COUNT": "70",
+      "CLOSE_COUNT": "4",
+      "MID_COUNT": "7",
+      "THREE_COUNT": "40",
+      "TOTAL_SHOTS": "121"
+    },
+    {
+      "PLAYER": "Matthew Garside",
+      "TEAM": "Union (NY) Chargers",
+      "LAYUP_COUNT": "35",
+      "CLOSE_COUNT": "4",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "80",
+      "TOTAL_SHOTS": "120"
+    },
+    {
+      "PLAYER": "Nick Lemmond",
+      "TEAM": "Ithaca College",
+      "LAYUP_COUNT": "24",
+      "CLOSE_COUNT": "6",
+      "MID_COUNT": "3",
+      "THREE_COUNT": "83",
+      "TOTAL_SHOTS": "116"
+    },
+    {
+      "PLAYER": "Chris Downs Jr.",
+      "TEAM": "St. Lawrence Saints",
+      "LAYUP_COUNT": "87",
+      "CLOSE_COUNT": "5",
+      "MID_COUNT": "16",
+      "THREE_COUNT": "4",
+      "TOTAL_SHOTS": "112"
+    },
+    {
+      "PLAYER": "Christian Dufort",
+      "TEAM": "Union (NY) Chargers",
+      "LAYUP_COUNT": "54",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "4",
+      "THREE_COUNT": "51",
+      "TOTAL_SHOTS": "112"
+    },
+    {
+      "PLAYER": "Jalen Umstead",
+      "TEAM": "Bard College",
+      "LAYUP_COUNT": "51",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "52",
+      "TOTAL_SHOTS": "104"
+    },
+    {
+      "PLAYER": "Allen Mordi",
+      "TEAM": "Hobart College Statesmen",
+      "LAYUP_COUNT": "55",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "43",
+      "TOTAL_SHOTS": "100"
+    },
+    {
+      "PLAYER": "Billy Feeks",
+      "TEAM": "Rensselaer Polytechnic",
+      "LAYUP_COUNT": "33",
+      "CLOSE_COUNT": "4",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "60",
+      "TOTAL_SHOTS": "99"
+    },
+    {
+      "PLAYER": "Sebastian Medina",
+      "TEAM": "Vassar Brewers",
+      "LAYUP_COUNT": "38",
+      "CLOSE_COUNT": "17",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "42",
+      "TOTAL_SHOTS": "99"
+    },
+    {
+      "PLAYER": "Aidan Phelan",
+      "TEAM": "St. Lawrence Saints",
+      "LAYUP_COUNT": "34",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "4",
+      "THREE_COUNT": "48",
+      "TOTAL_SHOTS": "89"
+    },
+    {
+      "PLAYER": "Tommy McMahon",
+      "TEAM": "St. Lawrence Saints",
+      "LAYUP_COUNT": "34",
+      "CLOSE_COUNT": "20",
+      "MID_COUNT": "6",
+      "THREE_COUNT": "27",
+      "TOTAL_SHOTS": "87"
+    },
+    {
+      "PLAYER": "Brody Brown",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "LAYUP_COUNT": "41",
+      "CLOSE_COUNT": "4",
+      "MID_COUNT": "4",
+      "THREE_COUNT": "37",
+      "TOTAL_SHOTS": "86"
+    },
+    {
+      "PLAYER": "Gabriel Bergeron",
+      "TEAM": "Hobart College Statesmen",
+      "LAYUP_COUNT": "29",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "3",
+      "THREE_COUNT": "51",
+      "TOTAL_SHOTS": "83"
+    },
+    {
+      "PLAYER": "Nathan Denham",
+      "TEAM": "Vassar Brewers",
+      "LAYUP_COUNT": "70",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "12",
+      "TOTAL_SHOTS": "83"
+    },
+    {
+      "PLAYER": "Yechiel Stewart",
+      "TEAM": "Rensselaer Polytechnic",
+      "LAYUP_COUNT": "37",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "42",
+      "TOTAL_SHOTS": "82"
+    },
+    {
+      "PLAYER": "Aydin Kocak",
+      "TEAM": "Clarkson University Golden Knights",
+      "LAYUP_COUNT": "14",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "3",
+      "THREE_COUNT": "64",
+      "TOTAL_SHOTS": "81"
+    },
+    {
+      "PLAYER": "Nigel Pierman",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "LAYUP_COUNT": "64",
+      "CLOSE_COUNT": "7",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "8",
+      "TOTAL_SHOTS": "81"
+    },
+    {
+      "PLAYER": "Max Frei",
+      "TEAM": "Bard College",
+      "LAYUP_COUNT": "53",
+      "CLOSE_COUNT": "5",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "17",
+      "TOTAL_SHOTS": "77"
+    },
+    {
+      "PLAYER": "Azikiwe Cuffy-Scott",
+      "TEAM": "Bard College",
+      "LAYUP_COUNT": "54",
+      "CLOSE_COUNT": "6",
+      "MID_COUNT": "6",
+      "THREE_COUNT": "11",
+      "TOTAL_SHOTS": "77"
+    },
+    {
+      "PLAYER": "Alex Penders",
+      "TEAM": "Ithaca College",
+      "LAYUP_COUNT": "17",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "56",
+      "TOTAL_SHOTS": "73"
+    },
+    {
+      "PLAYER": "Kellen Driscoll",
+      "TEAM": "Rensselaer Polytechnic",
+      "LAYUP_COUNT": "39",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "31",
+      "TOTAL_SHOTS": "72"
+    },
+    {
+      "PLAYER": "Seth Dyer",
+      "TEAM": "Bard College",
+      "LAYUP_COUNT": "32",
+      "CLOSE_COUNT": "5",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "34",
+      "TOTAL_SHOTS": "71"
+    },
+    {
+      "PLAYER": "Will Wertz",
+      "TEAM": "Skidmore Thoroughbreds",
+      "LAYUP_COUNT": "44",
+      "CLOSE_COUNT": "5",
+      "MID_COUNT": "3",
+      "THREE_COUNT": "17",
+      "TOTAL_SHOTS": "69"
+    },
+    {
+      "PLAYER": "Hakeem Daphnis",
+      "TEAM": "Skidmore Thoroughbreds",
+      "LAYUP_COUNT": "12",
+      "CLOSE_COUNT": "13",
+      "MID_COUNT": "4",
+      "THREE_COUNT": "38",
+      "TOTAL_SHOTS": "67"
+    },
+    {
+      "PLAYER": "Matt Toscano",
+      "TEAM": "Clarkson University Golden Knights",
+      "LAYUP_COUNT": "12",
+      "CLOSE_COUNT": "6",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "48",
+      "TOTAL_SHOTS": "66"
+    },
+    {
+      "PLAYER": "Xavier Nelson",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "LAYUP_COUNT": "28",
+      "CLOSE_COUNT": "7",
+      "MID_COUNT": "9",
+      "THREE_COUNT": "20",
+      "TOTAL_SHOTS": "64"
+    },
+    {
+      "PLAYER": "Tyson Maxam",
+      "TEAM": "Clarkson University Golden Knights",
+      "LAYUP_COUNT": "21",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "3",
+      "THREE_COUNT": "36",
+      "TOTAL_SHOTS": "63"
+    },
+    {
+      "PLAYER": "Chris Leysath",
+      "TEAM": "Ithaca College",
+      "LAYUP_COUNT": "49",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "11",
+      "TOTAL_SHOTS": "61"
+    },
+    {
+      "PLAYER": "Charlie Weisberg",
+      "TEAM": "Skidmore Thoroughbreds",
+      "LAYUP_COUNT": "8",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "50",
+      "TOTAL_SHOTS": "59"
+    },
+    {
+      "PLAYER": "Joey Skoric",
+      "TEAM": "Skidmore Thoroughbreds",
+      "LAYUP_COUNT": "36",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "19",
+      "TOTAL_SHOTS": "57"
+    },
+    {
+      "PLAYER": "Sacha Greenberg",
+      "TEAM": "Vassar Brewers",
+      "LAYUP_COUNT": "19",
+      "CLOSE_COUNT": "5",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "33",
+      "TOTAL_SHOTS": "57"
+    },
+    {
+      "PLAYER": "Pat White",
+      "TEAM": "Rensselaer Polytechnic",
+      "LAYUP_COUNT": "16",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "38",
+      "TOTAL_SHOTS": "56"
+    },
+    {
+      "PLAYER": "Charlie Fantom",
+      "TEAM": "Skidmore Thoroughbreds",
+      "LAYUP_COUNT": "10",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "44",
+      "TOTAL_SHOTS": "55"
+    },
+    {
+      "PLAYER": "Justin Price",
+      "TEAM": "Hobart College Statesmen",
+      "LAYUP_COUNT": "19",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "32",
+      "TOTAL_SHOTS": "54"
+    },
+    {
+      "PLAYER": "Lorenzo Rappa",
+      "TEAM": "Clarkson University Golden Knights",
+      "LAYUP_COUNT": "29",
+      "CLOSE_COUNT": "5",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "19",
+      "TOTAL_SHOTS": "53"
+    },
+    {
+      "PLAYER": "Harrison Muntner",
+      "TEAM": "Hobart College Statesmen",
+      "LAYUP_COUNT": "35",
+      "CLOSE_COUNT": "4",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "14",
+      "TOTAL_SHOTS": "53"
+    },
+    {
+      "PLAYER": "Samuel Gibbs",
+      "TEAM": "Bard College",
+      "LAYUP_COUNT": "9",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "42",
+      "TOTAL_SHOTS": "52"
+    },
+    {
+      "PLAYER": "Connor Parkes",
+      "TEAM": "St. Lawrence Saints",
+      "LAYUP_COUNT": "19",
+      "CLOSE_COUNT": "5",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "27",
+      "TOTAL_SHOTS": "52"
+    },
+    {
+      "PLAYER": "Cole Wissink",
+      "TEAM": "Ithaca College",
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "45",
+      "TOTAL_SHOTS": "51"
+    },
+    {
+      "PLAYER": "David Luberoff",
+      "TEAM": "Ithaca College",
+      "LAYUP_COUNT": "48",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "49"
+    },
+    {
+      "PLAYER": "Pat Cullinan",
+      "TEAM": "Union (NY) Chargers",
+      "LAYUP_COUNT": "31",
+      "CLOSE_COUNT": "5",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "12",
+      "TOTAL_SHOTS": "49"
+    },
+    {
+      "PLAYER": "Kreekor Karageuzian",
+      "TEAM": "Vassar Brewers",
+      "LAYUP_COUNT": "36",
+      "CLOSE_COUNT": "4",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "8",
+      "TOTAL_SHOTS": "49"
+    },
+    {
+      "PLAYER": "Will Gregory",
+      "TEAM": "Vassar Brewers",
+      "LAYUP_COUNT": "14",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "35",
+      "TOTAL_SHOTS": "49"
+    },
+    {
+      "PLAYER": "Danny Cohen",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "LAYUP_COUNT": "23",
+      "CLOSE_COUNT": "8",
+      "MID_COUNT": "5",
+      "THREE_COUNT": "11",
+      "TOTAL_SHOTS": "47"
+    },
+    {
+      "PLAYER": "Colton Suriano",
+      "TEAM": "St. Lawrence Saints",
+      "LAYUP_COUNT": "8",
+      "CLOSE_COUNT": "4",
+      "MID_COUNT": "4",
+      "THREE_COUNT": "29",
+      "TOTAL_SHOTS": "45"
+    },
+    {
+      "PLAYER": "Dimitrios Zampoukas",
+      "TEAM": "Bard College",
+      "LAYUP_COUNT": "22",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "19",
+      "TOTAL_SHOTS": "43"
+    },
+    {
+      "PLAYER": "Eric Zhang",
+      "TEAM": "Vassar Brewers",
+      "LAYUP_COUNT": "26",
+      "CLOSE_COUNT": "5",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "12",
+      "TOTAL_SHOTS": "43"
+    },
+    {
+      "PLAYER": "Niko Lutz",
+      "TEAM": "Hobart College Statesmen",
+      "LAYUP_COUNT": "32",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "9",
+      "TOTAL_SHOTS": "42"
+    },
+    {
+      "PLAYER": "Jlin Brown",
+      "TEAM": "St. Lawrence Saints",
+      "LAYUP_COUNT": "27",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "4",
+      "THREE_COUNT": "8",
+      "TOTAL_SHOTS": "42"
+    },
+    {
+      "PLAYER": "Jackson Carey",
+      "TEAM": "Hobart College Statesmen",
+      "LAYUP_COUNT": "19",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "19",
+      "TOTAL_SHOTS": "41"
+    },
+    {
+      "PLAYER": "Neil Daterao",
+      "TEAM": "Union (NY) Chargers",
+      "LAYUP_COUNT": "25",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "13",
+      "TOTAL_SHOTS": "40"
+    },
+    {
+      "PLAYER": "Klaudius Skehel",
+      "TEAM": "Bard College",
+      "LAYUP_COUNT": "8",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "30",
+      "TOTAL_SHOTS": "39"
+    },
+    {
+      "PLAYER": "Blake Smith",
+      "TEAM": "Rensselaer Polytechnic",
+      "LAYUP_COUNT": "31",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "8",
+      "TOTAL_SHOTS": "39"
+    },
+    {
+      "PLAYER": "Harrison Collins",
+      "TEAM": "Union (NY) Chargers",
+      "LAYUP_COUNT": "20",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "14",
+      "TOTAL_SHOTS": "37"
+    },
+    {
+      "PLAYER": "Nick Padilla",
+      "TEAM": "Skidmore Thoroughbreds",
+      "LAYUP_COUNT": "12",
+      "CLOSE_COUNT": "5",
+      "MID_COUNT": "7",
+      "THREE_COUNT": "12",
+      "TOTAL_SHOTS": "36"
+    },
+    {
+      "PLAYER": "Nolan Smith",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "LAYUP_COUNT": "8",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "3",
+      "THREE_COUNT": "22",
+      "TOTAL_SHOTS": "35"
+    },
+    {
+      "PLAYER": "Thomas Mckiernan",
+      "TEAM": "Ithaca College",
+      "LAYUP_COUNT": "10",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "24",
+      "TOTAL_SHOTS": "34"
+    },
+    {
+      "PLAYER": "Scott Schmitt",
+      "TEAM": "Union (NY) Chargers",
+      "LAYUP_COUNT": "34",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "34"
+    },
+    {
+      "PLAYER": "Jack LaGarde",
+      "TEAM": "Skidmore Thoroughbreds",
+      "LAYUP_COUNT": "32",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "32"
+    },
+    {
+      "PLAYER": "Yoav Regev",
+      "TEAM": "Ithaca College",
+      "LAYUP_COUNT": "12",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "15",
+      "TOTAL_SHOTS": "29"
+    },
+    {
+      "PLAYER": "Ben Rappa",
+      "TEAM": "Clarkson University Golden Knights",
+      "LAYUP_COUNT": "10",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "15",
+      "TOTAL_SHOTS": "27"
+    },
+    {
+      "PLAYER": "Grayson Wallace",
+      "TEAM": "Clarkson University Golden Knights",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "24",
+      "TOTAL_SHOTS": "27"
+    },
+    {
+      "PLAYER": "Jakob Harken",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "LAYUP_COUNT": "21",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "26"
+    },
+    {
+      "PLAYER": "Bryce Sampah",
+      "TEAM": "Bard College",
+      "LAYUP_COUNT": "19",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "5",
+      "TOTAL_SHOTS": "25"
+    },
+    {
+      "PLAYER": "Jason Gibbs",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "LAYUP_COUNT": "11",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "4",
+      "THREE_COUNT": "7",
+      "TOTAL_SHOTS": "25"
+    },
+    {
+      "PLAYER": "Gyasi Zinn",
+      "TEAM": "Vassar Brewers",
+      "LAYUP_COUNT": "24",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "24"
+    },
+    {
+      "PLAYER": "Will Ameden",
+      "TEAM": "Skidmore Thoroughbreds",
+      "LAYUP_COUNT": "18",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "5",
+      "TOTAL_SHOTS": "23"
+    },
+    {
+      "PLAYER": "Axel Traina",
+      "TEAM": "Hobart College Statesmen",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "20",
+      "TOTAL_SHOTS": "20"
+    },
+    {
+      "PLAYER": "Jose Padilla",
+      "TEAM": "Ithaca College",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "12",
+      "TOTAL_SHOTS": "20"
+    },
+    {
+      "PLAYER": "Caroline Henderson",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "6",
+      "THREE_COUNT": "10",
+      "TOTAL_SHOTS": "19"
+    },
+    {
+      "PLAYER": "Maddy Ramsgard",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "12",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "19"
+    },
+    {
+      "PLAYER": "Nate Tawiah-Boateng",
+      "TEAM": "Rensselaer Polytechnic",
+      "LAYUP_COUNT": "18",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "18"
+    },
+    {
+      "PLAYER": "Kas Mirza",
+      "TEAM": "Vassar Brewers",
+      "LAYUP_COUNT": "9",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "8",
+      "TOTAL_SHOTS": "18"
+    },
+    {
+      "PLAYER": "Marcus Graves",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "14",
+      "TOTAL_SHOTS": "17"
+    },
+    {
+      "PLAYER": "Cade Furse",
+      "TEAM": "Union (NY) Chargers",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "9",
+      "TOTAL_SHOTS": "17"
+    },
+    {
+      "PLAYER": "Bobby Piddock",
+      "TEAM": "Clarkson University Golden Knights",
+      "LAYUP_COUNT": "13",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "3",
+      "TOTAL_SHOTS": "16"
+    },
+    {
+      "PLAYER": "Laurence Brady",
+      "TEAM": "Ithaca College",
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "10",
+      "TOTAL_SHOTS": "16"
+    },
+    {
+      "PLAYER": "Noah Daniel",
+      "TEAM": "Rensselaer Polytechnic",
+      "LAYUP_COUNT": "9",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "5",
+      "TOTAL_SHOTS": "16"
+    },
+    {
+      "PLAYER": "Jackson Otis",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "LAYUP_COUNT": "9",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "7",
+      "TOTAL_SHOTS": "16"
+    },
+    {
+      "PLAYER": "Trace Moffitt",
+      "TEAM": "Union (NY) Chargers",
+      "LAYUP_COUNT": "7",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "9",
+      "TOTAL_SHOTS": "16"
+    },
+    {
+      "PLAYER": "Ben Phillips",
+      "TEAM": "Clarkson University Golden Knights",
+      "LAYUP_COUNT": "13",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "15"
+    },
+    {
+      "PLAYER": "Sebastian Matz",
+      "TEAM": "Bard College",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "13",
+      "TOTAL_SHOTS": "14"
+    },
+    {
+      "PLAYER": "Elvis Lloyd",
+      "TEAM": "Hobart College Statesmen",
+      "LAYUP_COUNT": "9",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "5",
+      "TOTAL_SHOTS": "14"
+    },
+    {
+      "PLAYER": "Casey Montesano",
+      "TEAM": "Clarkson University Golden Knights",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "8",
+      "TOTAL_SHOTS": "13"
+    },
+    {
+      "PLAYER": "Tylar Okai-Koi",
+      "TEAM": "Ithaca College",
+      "LAYUP_COUNT": "10",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "3",
+      "TOTAL_SHOTS": "13"
+    },
+    {
+      "PLAYER": "Dillon McCafferty",
+      "TEAM": "Skidmore Thoroughbreds",
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "6",
+      "TOTAL_SHOTS": "12"
+    },
+    {
+      "PLAYER": "Brayden Shepardson",
+      "TEAM": "St. Lawrence Saints",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "7",
+      "TOTAL_SHOTS": "12"
+    },
+    {
+      "PLAYER": "Kale Elmhorst",
+      "TEAM": "Vassar Brewers",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "8",
+      "TOTAL_SHOTS": "12"
+    },
+    {
+      "PLAYER": "Jaden Jauregui",
+      "TEAM": "Union (NY) Chargers",
+      "LAYUP_COUNT": "8",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "3",
+      "TOTAL_SHOTS": "11"
+    },
+    {
+      "PLAYER": "Abubacarr Camara",
+      "TEAM": "Rensselaer Polytechnic",
+      "LAYUP_COUNT": "10",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "10"
+    },
+    {
+      "PLAYER": "Luke Ravitz",
+      "TEAM": "Bard College",
+      "LAYUP_COUNT": "8",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "9"
+    },
+    {
+      "PLAYER": "Jaymon Pysnack",
+      "TEAM": "Hobart College Statesmen",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "6",
+      "TOTAL_SHOTS": "8"
+    },
+    {
+      "PLAYER": "Jaron Josephs",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "LAYUP_COUNT": "8",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "8"
+    },
+    {
+      "PLAYER": "Drew Baker",
+      "TEAM": "St. Lawrence Saints",
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "8"
+    },
+    {
+      "PLAYER": "Dan Hoey",
+      "TEAM": "St. Lawrence Saints",
+      "LAYUP_COUNT": "8",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "8"
+    },
+    {
+      "PLAYER": "Joey Harris",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "4",
+      "TOTAL_SHOTS": "7"
+    },
+    {
+      "PLAYER": "Fumani Sithole",
+      "TEAM": "Skidmore Thoroughbreds",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "6",
+      "TOTAL_SHOTS": "7"
+    },
+    {
+      "PLAYER": "Konstantinos Korfiatis",
+      "TEAM": "Bard College",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Faye Kaplinski",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Sydney Pearson",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Will Yakoobian",
+      "TEAM": "Union (NY) Chargers",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Michael Sweeney",
+      "TEAM": "Bard College",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "3",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Charlie Forgione",
+      "TEAM": "Hobart College Statesmen",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Ryan Jackson",
+      "TEAM": "Rensselaer Polytechnic",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "4",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Charlie Vonoehsen",
+      "TEAM": "St. Lawrence Saints",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "3",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Scotland Simpson",
+      "TEAM": "Hobart College Statesmen",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "4"
+    },
+    {
+      "PLAYER": "Zisi Blades",
+      "TEAM": "Rensselaer Polytechnic",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "3",
+      "TOTAL_SHOTS": "4"
+    },
+    {
+      "PLAYER": "Suley Shah",
+      "TEAM": "Rensselaer Polytechnic",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "4"
+    },
+    {
+      "PLAYER": "Patrick Faughnan",
+      "TEAM": "Rensselaer Polytechnic",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "4"
+    },
+    {
+      "PLAYER": "Sam O'Toole",
+      "TEAM": "Union (NY) Chargers",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "4"
+    },
+    {
+      "PLAYER": "Liam Mali",
+      "TEAM": "Clarkson University Golden Knights",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "3"
+    },
+    {
+      "PLAYER": "Devyn Williams",
+      "TEAM": "Hobart College Statesmen",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "3"
+    },
+    {
+      "PLAYER": "Chris Faughnan",
+      "TEAM": "Rensselaer Polytechnic",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "3"
+    },
+    {
+      "PLAYER": "Brighton Langenegger",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "3"
+    },
+    {
+      "PLAYER": "Erin Dipaola",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "3"
+    },
+    {
+      "PLAYER": "Aren Cummings",
+      "TEAM": "Union (NY) Chargers",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "3"
+    },
+    {
+      "PLAYER": "Kidder Lindley",
+      "TEAM": "Union (NY) Chargers",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "3"
+    },
+    {
+      "PLAYER": "Toure Napier-Rowell",
+      "TEAM": "Bard College",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "2"
+    },
+    {
+      "PLAYER": "James Dingman",
+      "TEAM": "Clarkson University Golden Knights",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "2"
+    },
+    {
+      "PLAYER": "Gavin Schauder",
+      "TEAM": "Ithaca College",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "2"
+    },
+    {
+      "PLAYER": "Harry Luo",
+      "TEAM": "Skidmore Thoroughbreds",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "2"
+    },
+    {
+      "PLAYER": "Patrick Mulholland",
+      "TEAM": "St. Lawrence Saints",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "2"
+    },
+    {
+      "PLAYER": "Ben Bianco",
+      "TEAM": "Clarkson University Golden Knights",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "1"
+    },
+    {
+      "PLAYER": "Brendan Bartley",
+      "TEAM": "Clarkson University Golden Knights",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "1"
+    },
+    {
+      "PLAYER": "Brian Wood",
+      "TEAM": "Rensselaer Polytechnic",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "1"
+    },
+    {
+      "PLAYER": "Sophia Spizuoco",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "1"
+    },
+    {
+      "PLAYER": "Hannah Durand",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "1"
+    },
+    {
+      "PLAYER": "Grady Goodman",
+      "TEAM": "St. Lawrence Saints",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "1"
+    },
+    {
+      "PLAYER": "Cameron Perez",
+      "TEAM": "Union (NY) Chargers",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "1"
+    },
+    {
+      "PLAYER": "Jack Moineau",
+      "TEAM": "Vassar Brewers",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "1"
+    }
+  ]
+}

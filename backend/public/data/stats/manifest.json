@@ -1,0 +1,19 @@
+{
+  "last_updated": "2026-01-20T08:17:03.618238",
+  "datasets": [
+    "mens/team-offensive-efficiency.json",
+    "mens/team-offensive-efficiency-no-percentiles.json",
+    "mens/player-shot-location-efficiency.json",
+    "mens/player-shot-location-frequency.json",
+    "mens/player-playtype-shot-frequency.json",
+    "mens/play-types.json",
+    "mens/teams.json",
+    "womens/team-offensive-efficiency.json",
+    "womens/team-offensive-efficiency-no-percentiles.json",
+    "womens/player-shot-location-efficiency.json",
+    "womens/player-shot-location-frequency.json",
+    "womens/player-playtype-shot-frequency.json",
+    "womens/play-types.json",
+    "womens/teams.json"
+  ]
+}

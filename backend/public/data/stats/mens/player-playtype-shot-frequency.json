@@ -1,0 +1,4350 @@
+{
+  "success": true,
+  "gender": "mens",
+  "query": "player-playtype-shot-frequency",
+  "description": "Shot distribution by play type, showing where players shoot from on different offensive actions",
+  "fetched_at": "2026-01-20T08:16:58.369170",
+  "row_count": 434,
+  "data": [
+    {
+      "PLAYER": "Adam Dudzinski",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "10",
+      "CLOSE_COUNT": "5",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "27",
+      "TOTAL_SHOTS": "42"
+    },
+    {
+      "PLAYER": "Adam Dudzinski",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "10",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "19",
+      "TOTAL_SHOTS": "29"
+    },
+    {
+      "PLAYER": "Adam Dudzinski",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Post",
+      "LAYUP_COUNT": "16",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "16"
+    },
+    {
+      "PLAYER": "Adam Dudzinski",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "8",
+      "TOTAL_SHOTS": "10"
+    },
+    {
+      "PLAYER": "Adam Dudzinski",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Iso",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "5",
+      "TOTAL_SHOTS": "9"
+    },
+    {
+      "PLAYER": "Adam Dudzinski",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Off Screens",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "7",
+      "TOTAL_SHOTS": "9"
+    },
+    {
+      "PLAYER": "Adam Dudzinski",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": null,
+      "LAYUP_COUNT": "9",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "9"
+    },
+    {
+      "PLAYER": "Adam Dudzinski",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "P&R Roll Man",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "4",
+      "TOTAL_SHOTS": "7"
+    },
+    {
+      "PLAYER": "Adam Dudzinski",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Misc",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "5",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Aidan Phelan",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "12",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "27",
+      "TOTAL_SHOTS": "42"
+    },
+    {
+      "PLAYER": "Aidan Phelan",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "15",
+      "TOTAL_SHOTS": "22"
+    },
+    {
+      "PLAYER": "Aidan Phelan",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "8"
+    },
+    {
+      "PLAYER": "Aidan Phelan",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Iso",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Aidan Roy",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "8",
+      "CLOSE_COUNT": "6",
+      "MID_COUNT": "9",
+      "THREE_COUNT": "16",
+      "TOTAL_SHOTS": "39"
+    },
+    {
+      "PLAYER": "Aidan Roy",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "27",
+      "TOTAL_SHOTS": "32"
+    },
+    {
+      "PLAYER": "Aidan Roy",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Iso",
+      "LAYUP_COUNT": "9",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "6",
+      "TOTAL_SHOTS": "16"
+    },
+    {
+      "PLAYER": "Aidan Roy",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "7",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "5",
+      "TOTAL_SHOTS": "13"
+    },
+    {
+      "PLAYER": "Aidan Roy",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "5",
+      "TOTAL_SHOTS": "12"
+    },
+    {
+      "PLAYER": "Aidan Roy",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Off Screens",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "8",
+      "TOTAL_SHOTS": "9"
+    },
+    {
+      "PLAYER": "Alex Moesch",
+      "TEAM": "Hobart College Statesmen",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "11",
+      "CLOSE_COUNT": "22",
+      "MID_COUNT": "5",
+      "THREE_COUNT": "43",
+      "TOTAL_SHOTS": "81"
+    },
+    {
+      "PLAYER": "Alex Moesch",
+      "TEAM": "Hobart College Statesmen",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "19",
+      "CLOSE_COUNT": "6",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "19",
+      "TOTAL_SHOTS": "44"
+    },
+    {
+      "PLAYER": "Alex Moesch",
+      "TEAM": "Hobart College Statesmen",
+      "PLAY_TYPE": "Off Screens",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "8"
+    },
+    {
+      "PLAYER": "Alex Moesch",
+      "TEAM": "Hobart College Statesmen",
+      "PLAY_TYPE": "Iso",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "7"
+    },
+    {
+      "PLAYER": "Alex Moesch",
+      "TEAM": "Hobart College Statesmen",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Alex Penders",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "27",
+      "TOTAL_SHOTS": "29"
+    },
+    {
+      "PLAYER": "Alex Penders",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "11",
+      "TOTAL_SHOTS": "13"
+    },
+    {
+      "PLAYER": "Alex Penders",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Off Screens",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "4",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Allen Mordi",
+      "TEAM": "Hobart College Statesmen",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "17",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "30",
+      "TOTAL_SHOTS": "48"
+    },
+    {
+      "PLAYER": "Allen Mordi",
+      "TEAM": "Hobart College Statesmen",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "12",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "6",
+      "TOTAL_SHOTS": "18"
+    },
+    {
+      "PLAYER": "Allen Mordi",
+      "TEAM": "Hobart College Statesmen",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "10",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "10"
+    },
+    {
+      "PLAYER": "Allen Mordi",
+      "TEAM": "Hobart College Statesmen",
+      "PLAY_TYPE": null,
+      "LAYUP_COUNT": "8",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "8"
+    },
+    {
+      "PLAYER": "Andrew Deppe",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "3",
+      "THREE_COUNT": "27",
+      "TOTAL_SHOTS": "35"
+    },
+    {
+      "PLAYER": "Andrew Deppe",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Post",
+      "LAYUP_COUNT": "26",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "26"
+    },
+    {
+      "PLAYER": "Andrew Deppe",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "22",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "22"
+    },
+    {
+      "PLAYER": "Andrew Deppe",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "15",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "6",
+      "TOTAL_SHOTS": "21"
+    },
+    {
+      "PLAYER": "Andrew Deppe",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "P&R Roll Man",
+      "LAYUP_COUNT": "10",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "8",
+      "TOTAL_SHOTS": "20"
+    },
+    {
+      "PLAYER": "Angelos Brakatos",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "9",
+      "CLOSE_COUNT": "8",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "59",
+      "TOTAL_SHOTS": "78"
+    },
+    {
+      "PLAYER": "Angelos Brakatos",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "12",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "14",
+      "TOTAL_SHOTS": "29"
+    },
+    {
+      "PLAYER": "Angelos Brakatos",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "9",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "4",
+      "TOTAL_SHOTS": "15"
+    },
+    {
+      "PLAYER": "Angelos Brakatos",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Off Screens",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "8",
+      "TOTAL_SHOTS": "10"
+    },
+    {
+      "PLAYER": "Avery Lee",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "12",
+      "CLOSE_COUNT": "22",
+      "MID_COUNT": "3",
+      "THREE_COUNT": "12",
+      "TOTAL_SHOTS": "49"
+    },
+    {
+      "PLAYER": "Avery Lee",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "6",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "17",
+      "TOTAL_SHOTS": "26"
+    },
+    {
+      "PLAYER": "Avery Lee",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "11",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "9",
+      "TOTAL_SHOTS": "23"
+    },
+    {
+      "PLAYER": "Avery Lee",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "5",
+      "TOTAL_SHOTS": "12"
+    },
+    {
+      "PLAYER": "Avery Lee",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "Off Screens",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "4",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Avery Lee",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "Iso",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "4",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Axel Traina",
+      "TEAM": "Hobart College Statesmen",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "14",
+      "TOTAL_SHOTS": "14"
+    },
+    {
+      "PLAYER": "Axel Traina",
+      "TEAM": "Hobart College Statesmen",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "5",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Aydin Kocak",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "44",
+      "TOTAL_SHOTS": "47"
+    },
+    {
+      "PLAYER": "Aydin Kocak",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "P&R Roll Man",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "9",
+      "TOTAL_SHOTS": "15"
+    },
+    {
+      "PLAYER": "Aydin Kocak",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "7",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "7"
+    },
+    {
+      "PLAYER": "Aydin Kocak",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Off Screens",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "6",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Azikiwe Cuffy-Scott",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "9",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "4",
+      "THREE_COUNT": "5",
+      "TOTAL_SHOTS": "21"
+    },
+    {
+      "PLAYER": "Azikiwe Cuffy-Scott",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "12",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "13"
+    },
+    {
+      "PLAYER": "Azikiwe Cuffy-Scott",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "12",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "12"
+    },
+    {
+      "PLAYER": "Azikiwe Cuffy-Scott",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "P&R Roll Man",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "5",
+      "TOTAL_SHOTS": "12"
+    },
+    {
+      "PLAYER": "Azikiwe Cuffy-Scott",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": null,
+      "LAYUP_COUNT": "8",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "9"
+    },
+    {
+      "PLAYER": "Azikiwe Cuffy-Scott",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Post",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Ben Phillips",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "7",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "7"
+    },
+    {
+      "PLAYER": "Ben Rappa",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "12",
+      "TOTAL_SHOTS": "16"
+    },
+    {
+      "PLAYER": "Billy Feeks",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "7",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "42",
+      "TOTAL_SHOTS": "49"
+    },
+    {
+      "PLAYER": "Billy Feeks",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "9",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "9",
+      "TOTAL_SHOTS": "19"
+    },
+    {
+      "PLAYER": "Billy Feeks",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Off Screens",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "6",
+      "TOTAL_SHOTS": "9"
+    },
+    {
+      "PLAYER": "Billy Feeks",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "7"
+    },
+    {
+      "PLAYER": "Billy Feeks",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "7",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "7"
+    },
+    {
+      "PLAYER": "Blake Smith",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "14",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "14"
+    },
+    {
+      "PLAYER": "Blake Smith",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "3",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Blake Smith",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "4",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Bobby Piddock",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "8",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "8"
+    },
+    {
+      "PLAYER": "Braeden Burns",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "33",
+      "CLOSE_COUNT": "9",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "33",
+      "TOTAL_SHOTS": "77"
+    },
+    {
+      "PLAYER": "Braeden Burns",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "39",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "39"
+    },
+    {
+      "PLAYER": "Braeden Burns",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "17",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "3",
+      "TOTAL_SHOTS": "22"
+    },
+    {
+      "PLAYER": "Braeden Burns",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "16",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "3",
+      "TOTAL_SHOTS": "20"
+    },
+    {
+      "PLAYER": "Braeden Burns",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "11",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "3",
+      "TOTAL_SHOTS": "16"
+    },
+    {
+      "PLAYER": "Braeden Burns",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": null,
+      "LAYUP_COUNT": "7",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "8"
+    },
+    {
+      "PLAYER": "Braeden Burns",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "P&R Roll Man",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "3",
+      "TOTAL_SHOTS": "7"
+    },
+    {
+      "PLAYER": "Braeden Burns",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Post",
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Brayden Shepardson",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "4",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Brody Brown",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "24",
+      "TOTAL_SHOTS": "33"
+    },
+    {
+      "PLAYER": "Brody Brown",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "16",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "3",
+      "TOTAL_SHOTS": "22"
+    },
+    {
+      "PLAYER": "Brody Brown",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "5",
+      "TOTAL_SHOTS": "8"
+    },
+    {
+      "PLAYER": "Brody Brown",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "8",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "8"
+    },
+    {
+      "PLAYER": "Brody Brown",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Bryce Sampah",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Bryce Sampah",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "3",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Cade Furse",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "7",
+      "TOTAL_SHOTS": "11"
+    },
+    {
+      "PLAYER": "Caroline Henderson",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "3",
+      "THREE_COUNT": "4",
+      "TOTAL_SHOTS": "8"
+    },
+    {
+      "PLAYER": "Caroline Henderson",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Off Screens",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "5",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Casey Montesano",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "8",
+      "TOTAL_SHOTS": "9"
+    },
+    {
+      "PLAYER": "Charlie Fantom",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "28",
+      "TOTAL_SHOTS": "29"
+    },
+    {
+      "PLAYER": "Charlie Fantom",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "6",
+      "TOTAL_SHOTS": "10"
+    },
+    {
+      "PLAYER": "Charlie Fantom",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Off Screens",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "8",
+      "TOTAL_SHOTS": "9"
+    },
+    {
+      "PLAYER": "Charlie Weisberg",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "29",
+      "TOTAL_SHOTS": "34"
+    },
+    {
+      "PLAYER": "Charlie Weisberg",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "10",
+      "TOTAL_SHOTS": "11"
+    },
+    {
+      "PLAYER": "Charlie Weisberg",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Off Screens",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "8",
+      "TOTAL_SHOTS": "8"
+    },
+    {
+      "PLAYER": "Chris Downs Jr.",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "37",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "37"
+    },
+    {
+      "PLAYER": "Chris Downs Jr.",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "17",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "21"
+    },
+    {
+      "PLAYER": "Chris Downs Jr.",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "12",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "21"
+    },
+    {
+      "PLAYER": "Chris Downs Jr.",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Post",
+      "LAYUP_COUNT": "13",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "13"
+    },
+    {
+      "PLAYER": "Chris Downs Jr.",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "P&R Roll Man",
+      "LAYUP_COUNT": "11",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "13"
+    },
+    {
+      "PLAYER": "Chris Leysath",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "9",
+      "TOTAL_SHOTS": "11"
+    },
+    {
+      "PLAYER": "Chris Leysath",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Post",
+      "LAYUP_COUNT": "11",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "11"
+    },
+    {
+      "PLAYER": "Chris Leysath",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": null,
+      "LAYUP_COUNT": "8",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "8"
+    },
+    {
+      "PLAYER": "Chris Leysath",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "8",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "8"
+    },
+    {
+      "PLAYER": "Christian Dufort",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "3",
+      "THREE_COUNT": "36",
+      "TOTAL_SHOTS": "46"
+    },
+    {
+      "PLAYER": "Christian Dufort",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "18",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "8",
+      "TOTAL_SHOTS": "26"
+    },
+    {
+      "PLAYER": "Christian Dufort",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "19",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "19"
+    },
+    {
+      "PLAYER": "Christian Dufort",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "P&R Roll Man",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "5",
+      "TOTAL_SHOTS": "8"
+    },
+    {
+      "PLAYER": "Cole Wissink",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "21",
+      "TOTAL_SHOTS": "22"
+    },
+    {
+      "PLAYER": "Cole Wissink",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "9",
+      "TOTAL_SHOTS": "10"
+    },
+    {
+      "PLAYER": "Cole Wissink",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "3",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Colton Suriano",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "4",
+      "THREE_COUNT": "15",
+      "TOTAL_SHOTS": "24"
+    },
+    {
+      "PLAYER": "Colton Suriano",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "11",
+      "TOTAL_SHOTS": "12"
+    },
+    {
+      "PLAYER": "Connor Parkes",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "14",
+      "TOTAL_SHOTS": "21"
+    },
+    {
+      "PLAYER": "Connor Parkes",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "7",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "9",
+      "TOTAL_SHOTS": "16"
+    },
+    {
+      "PLAYER": "Dan Anderson",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "15",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "40",
+      "TOTAL_SHOTS": "57"
+    },
+    {
+      "PLAYER": "Dan Anderson",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "17",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "15",
+      "TOTAL_SHOTS": "35"
+    },
+    {
+      "PLAYER": "Dan Anderson",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "21",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "11",
+      "TOTAL_SHOTS": "34"
+    },
+    {
+      "PLAYER": "Dan Anderson",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Off Screens",
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "13",
+      "TOTAL_SHOTS": "20"
+    },
+    {
+      "PLAYER": "Dan Anderson",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Iso",
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "10"
+    },
+    {
+      "PLAYER": "Dan Anderson",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "4",
+      "TOTAL_SHOTS": "7"
+    },
+    {
+      "PLAYER": "Dan Anderson",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": null,
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Dan Anderson",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Misc",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "4",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Danny Cohen",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "3",
+      "THREE_COUNT": "8",
+      "TOTAL_SHOTS": "16"
+    },
+    {
+      "PLAYER": "Danny Cohen",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "7"
+    },
+    {
+      "PLAYER": "Danny Cohen",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "4",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Danny Cohen",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Danny Cohen",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Danny Cohen",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Iso",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "David Luberoff",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Post",
+      "LAYUP_COUNT": "16",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "16"
+    },
+    {
+      "PLAYER": "David Luberoff",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "13",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "13"
+    },
+    {
+      "PLAYER": "David Luberoff",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": null,
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "David Luberoff",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Dillon McCafferty",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "5",
+      "TOTAL_SHOTS": "7"
+    },
+    {
+      "PLAYER": "Dillon McCafferty",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Dimitrios Zampoukas",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "7",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "15",
+      "TOTAL_SHOTS": "23"
+    },
+    {
+      "PLAYER": "Dimitrios Zampoukas",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Dorian Paki",
+      "TEAM": "Hobart College Statesmen",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "42",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "42"
+    },
+    {
+      "PLAYER": "Dorian Paki",
+      "TEAM": "Hobart College Statesmen",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "29",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "29"
+    },
+    {
+      "PLAYER": "Dorian Paki",
+      "TEAM": "Hobart College Statesmen",
+      "PLAY_TYPE": "Post",
+      "LAYUP_COUNT": "26",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "26"
+    },
+    {
+      "PLAYER": "Dorian Paki",
+      "TEAM": "Hobart College Statesmen",
+      "PLAY_TYPE": null,
+      "LAYUP_COUNT": "20",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "20"
+    },
+    {
+      "PLAYER": "Dorian Paki",
+      "TEAM": "Hobart College Statesmen",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Dorian Paki",
+      "TEAM": "Hobart College Statesmen",
+      "PLAY_TYPE": "P&R Roll Man",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Dylan Matchett",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "3",
+      "THREE_COUNT": "38",
+      "TOTAL_SHOTS": "42"
+    },
+    {
+      "PLAYER": "Dylan Matchett",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "15",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "9",
+      "TOTAL_SHOTS": "25"
+    },
+    {
+      "PLAYER": "Dylan Matchett",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "19",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "19"
+    },
+    {
+      "PLAYER": "Dylan Matchett",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Post",
+      "LAYUP_COUNT": "15",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "15"
+    },
+    {
+      "PLAYER": "Dylan Matchett",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "3",
+      "TOTAL_SHOTS": "9"
+    },
+    {
+      "PLAYER": "Dylan Matchett",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "4",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Elvis Lloyd",
+      "TEAM": "Hobart College Statesmen",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "7"
+    },
+    {
+      "PLAYER": "Elvis Lloyd",
+      "TEAM": "Hobart College Statesmen",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "3",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Eric Zhang",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "5",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "7",
+      "TOTAL_SHOTS": "14"
+    },
+    {
+      "PLAYER": "Eric Zhang",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "7",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "3",
+      "TOTAL_SHOTS": "10"
+    },
+    {
+      "PLAYER": "Eric Zhang",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "9",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "9"
+    },
+    {
+      "PLAYER": "Evan Cabral",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "33",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "16",
+      "TOTAL_SHOTS": "49"
+    },
+    {
+      "PLAYER": "Evan Cabral",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "13",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "25",
+      "TOTAL_SHOTS": "40"
+    },
+    {
+      "PLAYER": "Evan Cabral",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "27",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "9",
+      "TOTAL_SHOTS": "36"
+    },
+    {
+      "PLAYER": "Evan Cabral",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "11",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "12",
+      "TOTAL_SHOTS": "23"
+    },
+    {
+      "PLAYER": "Evan Cabral",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Off Screens",
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "5",
+      "TOTAL_SHOTS": "11"
+    },
+    {
+      "PLAYER": "Evan Cabral",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Misc",
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "8"
+    },
+    {
+      "PLAYER": "Evan Cabral",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Evan Cabral",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Iso",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Evan Cabral",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": null,
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Gabriel Bergeron",
+      "TEAM": "Hobart College Statesmen",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "11",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "35",
+      "TOTAL_SHOTS": "48"
+    },
+    {
+      "PLAYER": "Gabriel Bergeron",
+      "TEAM": "Hobart College Statesmen",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "10",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "10",
+      "TOTAL_SHOTS": "20"
+    },
+    {
+      "PLAYER": "Grayson Wallace",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "18",
+      "TOTAL_SHOTS": "19"
+    },
+    {
+      "PLAYER": "Gyasi Zinn",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "12",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "12"
+    },
+    {
+      "PLAYER": "Gyasi Zinn",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": null,
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Hakeem Daphnis",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "6",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "26",
+      "TOTAL_SHOTS": "38"
+    },
+    {
+      "PLAYER": "Hakeem Daphnis",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "6",
+      "TOTAL_SHOTS": "11"
+    },
+    {
+      "PLAYER": "Hakeem Daphnis",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "4",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "9"
+    },
+    {
+      "PLAYER": "Harrison Collins",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "7",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "13",
+      "TOTAL_SHOTS": "21"
+    },
+    {
+      "PLAYER": "Harrison Collins",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Harrison Muntner",
+      "TEAM": "Hobart College Statesmen",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "8",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "10",
+      "TOTAL_SHOTS": "21"
+    },
+    {
+      "PLAYER": "Harrison Muntner",
+      "TEAM": "Hobart College Statesmen",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "8",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "3",
+      "TOTAL_SHOTS": "11"
+    },
+    {
+      "PLAYER": "Harrison Muntner",
+      "TEAM": "Hobart College Statesmen",
+      "PLAY_TYPE": null,
+      "LAYUP_COUNT": "9",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "9"
+    },
+    {
+      "PLAYER": "Jack LaGarde",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": null,
+      "LAYUP_COUNT": "10",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "10"
+    },
+    {
+      "PLAYER": "Jack LaGarde",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "9",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "9"
+    },
+    {
+      "PLAYER": "Jack LaGarde",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "P&R Roll Man",
+      "LAYUP_COUNT": "7",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "7"
+    },
+    {
+      "PLAYER": "Jack Plesser",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "44",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "44"
+    },
+    {
+      "PLAYER": "Jack Plesser",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "24",
+      "CLOSE_COUNT": "13",
+      "MID_COUNT": "3",
+      "THREE_COUNT": "4",
+      "TOTAL_SHOTS": "44"
+    },
+    {
+      "PLAYER": "Jack Plesser",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "24",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "3",
+      "TOTAL_SHOTS": "28"
+    },
+    {
+      "PLAYER": "Jack Plesser",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "P&R Roll Man",
+      "LAYUP_COUNT": "23",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "26"
+    },
+    {
+      "PLAYER": "Jack Plesser",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Post",
+      "LAYUP_COUNT": "25",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "25"
+    },
+    {
+      "PLAYER": "Jack Plesser",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Iso",
+      "LAYUP_COUNT": "7",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "5",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "16"
+    },
+    {
+      "PLAYER": "Jack Plesser",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": null,
+      "LAYUP_COUNT": "10",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "10"
+    },
+    {
+      "PLAYER": "Jackson Carey",
+      "TEAM": "Hobart College Statesmen",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "7",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "11",
+      "TOTAL_SHOTS": "20"
+    },
+    {
+      "PLAYER": "Jackson Carey",
+      "TEAM": "Hobart College Statesmen",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "6",
+      "TOTAL_SHOTS": "11"
+    },
+    {
+      "PLAYER": "Jackson Otis",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "6",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Jacob Gooden",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "16",
+      "CLOSE_COUNT": "11",
+      "MID_COUNT": "5",
+      "THREE_COUNT": "10",
+      "TOTAL_SHOTS": "42"
+    },
+    {
+      "PLAYER": "Jacob Gooden",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "19",
+      "CLOSE_COUNT": "16",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "4",
+      "TOTAL_SHOTS": "41"
+    },
+    {
+      "PLAYER": "Jacob Gooden",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Iso",
+      "LAYUP_COUNT": "16",
+      "CLOSE_COUNT": "8",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "5",
+      "TOTAL_SHOTS": "30"
+    },
+    {
+      "PLAYER": "Jacob Gooden",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "22",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "24"
+    },
+    {
+      "PLAYER": "Jacob Gooden",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Post",
+      "LAYUP_COUNT": "14",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "14"
+    },
+    {
+      "PLAYER": "Jacob Gooden",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "9",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "9"
+    },
+    {
+      "PLAYER": "Jaden Jauregui",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "3",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Jakob Harken",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "8",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "8"
+    },
+    {
+      "PLAYER": "Jakob Harken",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "8"
+    },
+    {
+      "PLAYER": "Jakob Harken",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Jalen Umstead",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "8",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "28",
+      "TOTAL_SHOTS": "36"
+    },
+    {
+      "PLAYER": "Jalen Umstead",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "18",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "18"
+    },
+    {
+      "PLAYER": "Jalen Umstead",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "P&R Roll Man",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "12",
+      "TOTAL_SHOTS": "17"
+    },
+    {
+      "PLAYER": "Jalen Umstead",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Post",
+      "LAYUP_COUNT": "10",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "10"
+    },
+    {
+      "PLAYER": "Jalen Umstead",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "6",
+      "TOTAL_SHOTS": "10"
+    },
+    {
+      "PLAYER": "Jason Gibbs",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "8"
+    },
+    {
+      "PLAYER": "Jason Gibbs",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Jason Gibbs",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "4",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Jaylon O'Neal",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "8",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "18",
+      "TOTAL_SHOTS": "29"
+    },
+    {
+      "PLAYER": "Jaylon O'Neal",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "18",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "3",
+      "TOTAL_SHOTS": "21"
+    },
+    {
+      "PLAYER": "Jaylon O'Neal",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "12",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "4",
+      "TOTAL_SHOTS": "18"
+    },
+    {
+      "PLAYER": "Jaylon O'Neal",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "8",
+      "TOTAL_SHOTS": "14"
+    },
+    {
+      "PLAYER": "Jaylon O'Neal",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": null,
+      "LAYUP_COUNT": "9",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "9"
+    },
+    {
+      "PLAYER": "Jaylon O'Neal",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Jaylon O'Neal",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Off Screens",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Jaymon Pysnack",
+      "TEAM": "Hobart College Statesmen",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "5",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Jlin Brown",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "5",
+      "TOTAL_SHOTS": "13"
+    },
+    {
+      "PLAYER": "Jlin Brown",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "8",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "11"
+    },
+    {
+      "PLAYER": "Jlin Brown",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Iso",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Joey Skoric",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "P&R Roll Man",
+      "LAYUP_COUNT": "7",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "8",
+      "TOTAL_SHOTS": "15"
+    },
+    {
+      "PLAYER": "Joey Skoric",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "9",
+      "TOTAL_SHOTS": "11"
+    },
+    {
+      "PLAYER": "Joey Skoric",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": null,
+      "LAYUP_COUNT": "9",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "10"
+    },
+    {
+      "PLAYER": "Joey Skoric",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "10",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "10"
+    },
+    {
+      "PLAYER": "Joey Skoric",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Jose Padilla",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "5",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Josiah Turner",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Post",
+      "LAYUP_COUNT": "45",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "45"
+    },
+    {
+      "PLAYER": "Josiah Turner",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "10",
+      "CLOSE_COUNT": "4",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "25",
+      "TOTAL_SHOTS": "40"
+    },
+    {
+      "PLAYER": "Josiah Turner",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "22",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "22"
+    },
+    {
+      "PLAYER": "Josiah Turner",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": null,
+      "LAYUP_COUNT": "18",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "19"
+    },
+    {
+      "PLAYER": "Josiah Turner",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "11",
+      "TOTAL_SHOTS": "17"
+    },
+    {
+      "PLAYER": "Josiah Turner",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "P&R Roll Man",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "7",
+      "TOTAL_SHOTS": "12"
+    },
+    {
+      "PLAYER": "Josiah Turner",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Iso",
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "10"
+    },
+    {
+      "PLAYER": "Josiah Turner",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Off Screens",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "5",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Justin Price",
+      "TEAM": "Hobart College Statesmen",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "29",
+      "TOTAL_SHOTS": "35"
+    },
+    {
+      "PLAYER": "Justin Price",
+      "TEAM": "Hobart College Statesmen",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "8"
+    },
+    {
+      "PLAYER": "Kale Elmhorst",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "5",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Kas Mirza",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "6",
+      "TOTAL_SHOTS": "8"
+    },
+    {
+      "PLAYER": "Kas Mirza",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Kellen Driscoll",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "24",
+      "TOTAL_SHOTS": "25"
+    },
+    {
+      "PLAYER": "Kellen Driscoll",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "16",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "16"
+    },
+    {
+      "PLAYER": "Kellen Driscoll",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "9",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "4",
+      "TOTAL_SHOTS": "13"
+    },
+    {
+      "PLAYER": "Kellen Driscoll",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Post",
+      "LAYUP_COUNT": "8",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "8"
+    },
+    {
+      "PLAYER": "Klaudius Skehel",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "18",
+      "TOTAL_SHOTS": "20"
+    },
+    {
+      "PLAYER": "Klaudius Skehel",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Off Screens",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "7",
+      "TOTAL_SHOTS": "8"
+    },
+    {
+      "PLAYER": "Klaudius Skehel",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "3",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Kreekor Karageuzian",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "6",
+      "TOTAL_SHOTS": "14"
+    },
+    {
+      "PLAYER": "Kreekor Karageuzian",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "13",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "14"
+    },
+    {
+      "PLAYER": "Kreekor Karageuzian",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "11",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "11"
+    },
+    {
+      "PLAYER": "Laurence Brady",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "7",
+      "TOTAL_SHOTS": "7"
+    },
+    {
+      "PLAYER": "Laurence Brady",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Lorenzo Rappa",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "7",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "16",
+      "TOTAL_SHOTS": "26"
+    },
+    {
+      "PLAYER": "Lorenzo Rappa",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "7"
+    },
+    {
+      "PLAYER": "Lorenzo Rappa",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "7"
+    },
+    {
+      "PLAYER": "Lorenzo Rappa",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": null,
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Lorenzo Rappa",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Lucas Tovar",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "23",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "20",
+      "TOTAL_SHOTS": "44"
+    },
+    {
+      "PLAYER": "Lucas Tovar",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "34",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "3",
+      "TOTAL_SHOTS": "37"
+    },
+    {
+      "PLAYER": "Lucas Tovar",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "20",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "10",
+      "TOTAL_SHOTS": "31"
+    },
+    {
+      "PLAYER": "Lucas Tovar",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Iso",
+      "LAYUP_COUNT": "10",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "12"
+    },
+    {
+      "PLAYER": "Lucas Tovar",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Misc",
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "3",
+      "TOTAL_SHOTS": "9"
+    },
+    {
+      "PLAYER": "Lucas Tovar",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "9",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "9"
+    },
+    {
+      "PLAYER": "Lucas Tovar",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Post",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Luke Ravitz",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Maddy Ramsgard",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "4",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Maddy Ramsgard",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "5",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Marcus Graves",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "8",
+      "TOTAL_SHOTS": "8"
+    },
+    {
+      "PLAYER": "Matt Toscano",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "33",
+      "TOTAL_SHOTS": "35"
+    },
+    {
+      "PLAYER": "Matt Toscano",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "4",
+      "TOTAL_SHOTS": "10"
+    },
+    {
+      "PLAYER": "Matt Toscano",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "5",
+      "TOTAL_SHOTS": "9"
+    },
+    {
+      "PLAYER": "Matt Toscano",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "3",
+      "TOTAL_SHOTS": "7"
+    },
+    {
+      "PLAYER": "Matthew Garside",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "44",
+      "TOTAL_SHOTS": "52"
+    },
+    {
+      "PLAYER": "Matthew Garside",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "9",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "12",
+      "TOTAL_SHOTS": "21"
+    },
+    {
+      "PLAYER": "Matthew Garside",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Off Screens",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "12",
+      "TOTAL_SHOTS": "17"
+    },
+    {
+      "PLAYER": "Matthew Garside",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "9",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "9"
+    },
+    {
+      "PLAYER": "Matthew Garside",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "7",
+      "TOTAL_SHOTS": "9"
+    },
+    {
+      "PLAYER": "Matthew Garside",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "3",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Matthew Zenker",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "14",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "36",
+      "TOTAL_SHOTS": "51"
+    },
+    {
+      "PLAYER": "Matthew Zenker",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "15",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "18",
+      "TOTAL_SHOTS": "33"
+    },
+    {
+      "PLAYER": "Matthew Zenker",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "9",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "7",
+      "TOTAL_SHOTS": "16"
+    },
+    {
+      "PLAYER": "Matthew Zenker",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "7",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "4",
+      "TOTAL_SHOTS": "11"
+    },
+    {
+      "PLAYER": "Matthew Zenker",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Misc",
+      "LAYUP_COUNT": "8",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "9"
+    },
+    {
+      "PLAYER": "Matthew Zenker",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "8",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "8"
+    },
+    {
+      "PLAYER": "Matthew Zenker",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": null,
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "7"
+    },
+    {
+      "PLAYER": "Matthew Zenker",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Off Screens",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "4",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Max Frei",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "14",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "13",
+      "TOTAL_SHOTS": "29"
+    },
+    {
+      "PLAYER": "Max Frei",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "16",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "3",
+      "TOTAL_SHOTS": "20"
+    },
+    {
+      "PLAYER": "Max Frei",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "9",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "14"
+    },
+    {
+      "PLAYER": "Max Frei",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": null,
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Monty Nedd",
+      "TEAM": "Hobart College Statesmen",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "42",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "9",
+      "TOTAL_SHOTS": "52"
+    },
+    {
+      "PLAYER": "Monty Nedd",
+      "TEAM": "Hobart College Statesmen",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "18",
+      "CLOSE_COUNT": "5",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "28",
+      "TOTAL_SHOTS": "51"
+    },
+    {
+      "PLAYER": "Monty Nedd",
+      "TEAM": "Hobart College Statesmen",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "11",
+      "CLOSE_COUNT": "6",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "3",
+      "TOTAL_SHOTS": "20"
+    },
+    {
+      "PLAYER": "Monty Nedd",
+      "TEAM": "Hobart College Statesmen",
+      "PLAY_TYPE": "Iso",
+      "LAYUP_COUNT": "10",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "13"
+    },
+    {
+      "PLAYER": "Mushin Muhammad",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "30",
+      "CLOSE_COUNT": "9",
+      "MID_COUNT": "5",
+      "THREE_COUNT": "11",
+      "TOTAL_SHOTS": "55"
+    },
+    {
+      "PLAYER": "Mushin Muhammad",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "13",
+      "CLOSE_COUNT": "5",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "30",
+      "TOTAL_SHOTS": "49"
+    },
+    {
+      "PLAYER": "Mushin Muhammad",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "38",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "6",
+      "TOTAL_SHOTS": "46"
+    },
+    {
+      "PLAYER": "Mushin Muhammad",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Iso",
+      "LAYUP_COUNT": "11",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "3",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "18"
+    },
+    {
+      "PLAYER": "Mushin Muhammad",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Off Screens",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "9",
+      "TOTAL_SHOTS": "13"
+    },
+    {
+      "PLAYER": "Mushin Muhammad",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Post",
+      "LAYUP_COUNT": "10",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "10"
+    },
+    {
+      "PLAYER": "Mushin Muhammad",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "3",
+      "TOTAL_SHOTS": "10"
+    },
+    {
+      "PLAYER": "Mushin Muhammad",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": null,
+      "LAYUP_COUNT": "7",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "9"
+    },
+    {
+      "PLAYER": "Mushin Muhammad",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "7",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "7"
+    },
+    {
+      "PLAYER": "Nate Abernethy",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "16",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "33",
+      "TOTAL_SHOTS": "53"
+    },
+    {
+      "PLAYER": "Nate Abernethy",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "44",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "44"
+    },
+    {
+      "PLAYER": "Nate Abernethy",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "13",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "8",
+      "TOTAL_SHOTS": "21"
+    },
+    {
+      "PLAYER": "Nate Abernethy",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": null,
+      "LAYUP_COUNT": "14",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "14"
+    },
+    {
+      "PLAYER": "Nate Abernethy",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Post",
+      "LAYUP_COUNT": "9",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "9"
+    },
+    {
+      "PLAYER": "Nate Abernethy",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Off Screens",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "4",
+      "TOTAL_SHOTS": "8"
+    },
+    {
+      "PLAYER": "Nate Abernethy",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "P&R Roll Man",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "5",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Nate Abernethy",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Nate Tawiah-Boateng",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Nathan Denham",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "26",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "28"
+    },
+    {
+      "PLAYER": "Nathan Denham",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "25",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "25"
+    },
+    {
+      "PLAYER": "Nathan Denham",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": null,
+      "LAYUP_COUNT": "14",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "15"
+    },
+    {
+      "PLAYER": "Nathan Denham",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "9",
+      "TOTAL_SHOTS": "11"
+    },
+    {
+      "PLAYER": "Neil Daterao",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "11",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "11"
+    },
+    {
+      "PLAYER": "Neil Daterao",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "7",
+      "TOTAL_SHOTS": "10"
+    },
+    {
+      "PLAYER": "Neil Daterao",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "5",
+      "TOTAL_SHOTS": "10"
+    },
+    {
+      "PLAYER": "Neil Daterao",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": null,
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Nick Lemmond",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "8",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "29",
+      "TOTAL_SHOTS": "38"
+    },
+    {
+      "PLAYER": "Nick Lemmond",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "7",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "16",
+      "TOTAL_SHOTS": "25"
+    },
+    {
+      "PLAYER": "Nick Lemmond",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "15",
+      "TOTAL_SHOTS": "17"
+    },
+    {
+      "PLAYER": "Nick Lemmond",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "3",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Nick Lemmond",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Off Screens",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "3",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Nick Padilla",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "4",
+      "TOTAL_SHOTS": "14"
+    },
+    {
+      "PLAYER": "Nick Padilla",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "6",
+      "TOTAL_SHOTS": "9"
+    },
+    {
+      "PLAYER": "Nick Padilla",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "7"
+    },
+    {
+      "PLAYER": "Nigel Pierman",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Post",
+      "LAYUP_COUNT": "23",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "23"
+    },
+    {
+      "PLAYER": "Nigel Pierman",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "8",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "6",
+      "TOTAL_SHOTS": "19"
+    },
+    {
+      "PLAYER": "Nigel Pierman",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "13",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "13"
+    },
+    {
+      "PLAYER": "Nigel Pierman",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "7",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "9"
+    },
+    {
+      "PLAYER": "Nigel Pierman",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Iso",
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "7"
+    },
+    {
+      "PLAYER": "Niko Lutz",
+      "TEAM": "Hobart College Statesmen",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "10",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "10"
+    },
+    {
+      "PLAYER": "Niko Lutz",
+      "TEAM": "Hobart College Statesmen",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "7",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "8"
+    },
+    {
+      "PLAYER": "Niko Lutz",
+      "TEAM": "Hobart College Statesmen",
+      "PLAY_TYPE": "Post",
+      "LAYUP_COUNT": "8",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "8"
+    },
+    {
+      "PLAYER": "Niko Lutz",
+      "TEAM": "Hobart College Statesmen",
+      "PLAY_TYPE": null,
+      "LAYUP_COUNT": "7",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "7"
+    },
+    {
+      "PLAYER": "Niko Lutz",
+      "TEAM": "Hobart College Statesmen",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "5",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Noah Daniel",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "5",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Nolan Smith",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "16",
+      "TOTAL_SHOTS": "20"
+    },
+    {
+      "PLAYER": "Nolan Smith",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "5",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Parker Neuenhaus",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "Post",
+      "LAYUP_COUNT": "44",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "44"
+    },
+    {
+      "PLAYER": "Parker Neuenhaus",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "25",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "25"
+    },
+    {
+      "PLAYER": "Parker Neuenhaus",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": null,
+      "LAYUP_COUNT": "16",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "16"
+    },
+    {
+      "PLAYER": "Parker Neuenhaus",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "P&R Roll Man",
+      "LAYUP_COUNT": "12",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "14"
+    },
+    {
+      "PLAYER": "Parker Neuenhaus",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "11",
+      "TOTAL_SHOTS": "14"
+    },
+    {
+      "PLAYER": "Parker Neuenhaus",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "12",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "12"
+    },
+    {
+      "PLAYER": "Pat Cullinan",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "7",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "9",
+      "TOTAL_SHOTS": "19"
+    },
+    {
+      "PLAYER": "Pat Cullinan",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "14",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "17"
+    },
+    {
+      "PLAYER": "Pat White",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "27",
+      "TOTAL_SHOTS": "29"
+    },
+    {
+      "PLAYER": "Pat White",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "10",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "10"
+    },
+    {
+      "PLAYER": "Pat White",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "7",
+      "TOTAL_SHOTS": "9"
+    },
+    {
+      "PLAYER": "PJ Scalisi",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "10",
+      "CLOSE_COUNT": "4",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "53",
+      "TOTAL_SHOTS": "69"
+    },
+    {
+      "PLAYER": "PJ Scalisi",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "15",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "11",
+      "TOTAL_SHOTS": "26"
+    },
+    {
+      "PLAYER": "PJ Scalisi",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "18",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "18"
+    },
+    {
+      "PLAYER": "PJ Scalisi",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "4",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "6",
+      "TOTAL_SHOTS": "16"
+    },
+    {
+      "PLAYER": "PJ Scalisi",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Post",
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "PJ Scalisi",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Off Screens",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "5",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Sacha Greenberg",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "22",
+      "TOTAL_SHOTS": "24"
+    },
+    {
+      "PLAYER": "Sacha Greenberg",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": null,
+      "LAYUP_COUNT": "11",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "13"
+    },
+    {
+      "PLAYER": "Sacha Greenberg",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "9",
+      "TOTAL_SHOTS": "12"
+    },
+    {
+      "PLAYER": "Samuel Gibbs",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "19",
+      "TOTAL_SHOTS": "21"
+    },
+    {
+      "PLAYER": "Samuel Gibbs",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "7",
+      "TOTAL_SHOTS": "11"
+    },
+    {
+      "PLAYER": "Samuel Gibbs",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "7",
+      "TOTAL_SHOTS": "9"
+    },
+    {
+      "PLAYER": "Samuel Gibbs",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Off Screens",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "7",
+      "TOTAL_SHOTS": "7"
+    },
+    {
+      "PLAYER": "Scott Schmitt",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": null,
+      "LAYUP_COUNT": "11",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "11"
+    },
+    {
+      "PLAYER": "Scott Schmitt",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "8",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "8"
+    },
+    {
+      "PLAYER": "Scott Schmitt",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "P&R Roll Man",
+      "LAYUP_COUNT": "7",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "7"
+    },
+    {
+      "PLAYER": "Scott Schmitt",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Post",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Sebastian Matz",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "9",
+      "TOTAL_SHOTS": "9"
+    },
+    {
+      "PLAYER": "Sebastian Medina",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "5",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "36",
+      "TOTAL_SHOTS": "44"
+    },
+    {
+      "PLAYER": "Sebastian Medina",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "11",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "3",
+      "TOTAL_SHOTS": "16"
+    },
+    {
+      "PLAYER": "Sebastian Medina",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "4",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "12"
+    },
+    {
+      "PLAYER": "Sebastian Medina",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "10",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "10"
+    },
+    {
+      "PLAYER": "Sebastian Medina",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "Iso",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Seth Dyer",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "27",
+      "TOTAL_SHOTS": "33"
+    },
+    {
+      "PLAYER": "Seth Dyer",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "11",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "14"
+    },
+    {
+      "PLAYER": "Seth Dyer",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "10",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "10"
+    },
+    {
+      "PLAYER": "Seth Dyer",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": null,
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Shea Fitzgerald",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "7",
+      "CLOSE_COUNT": "7",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "52",
+      "TOTAL_SHOTS": "66"
+    },
+    {
+      "PLAYER": "Shea Fitzgerald",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "15",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "10",
+      "TOTAL_SHOTS": "25"
+    },
+    {
+      "PLAYER": "Shea Fitzgerald",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "7",
+      "MID_COUNT": "3",
+      "THREE_COUNT": "11",
+      "TOTAL_SHOTS": "25"
+    },
+    {
+      "PLAYER": "Shea Fitzgerald",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "Off Screens",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "9",
+      "TOTAL_SHOTS": "14"
+    },
+    {
+      "PLAYER": "Shea Fitzgerald",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "11",
+      "TOTAL_SHOTS": "14"
+    },
+    {
+      "PLAYER": "Shea Fitzgerald",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "Iso",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "5",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "10"
+    },
+    {
+      "PLAYER": "Steve DeRegis",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "13",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "56",
+      "TOTAL_SHOTS": "70"
+    },
+    {
+      "PLAYER": "Steve DeRegis",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "21",
+      "TOTAL_SHOTS": "25"
+    },
+    {
+      "PLAYER": "Steve DeRegis",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "8",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "12",
+      "TOTAL_SHOTS": "20"
+    },
+    {
+      "PLAYER": "Steve DeRegis",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "19",
+      "TOTAL_SHOTS": "19"
+    },
+    {
+      "PLAYER": "Steve DeRegis",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Off Screens",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "17",
+      "TOTAL_SHOTS": "18"
+    },
+    {
+      "PLAYER": "Steve DeRegis",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "7",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "7"
+    },
+    {
+      "PLAYER": "Tanner Tedesco",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "14",
+      "CLOSE_COUNT": "9",
+      "MID_COUNT": "10",
+      "THREE_COUNT": "16",
+      "TOTAL_SHOTS": "49"
+    },
+    {
+      "PLAYER": "Tanner Tedesco",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "6",
+      "MID_COUNT": "6",
+      "THREE_COUNT": "30",
+      "TOTAL_SHOTS": "46"
+    },
+    {
+      "PLAYER": "Tanner Tedesco",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "14",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "6",
+      "THREE_COUNT": "9",
+      "TOTAL_SHOTS": "31"
+    },
+    {
+      "PLAYER": "Tanner Tedesco",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "5",
+      "THREE_COUNT": "12",
+      "TOTAL_SHOTS": "22"
+    },
+    {
+      "PLAYER": "Tanner Tedesco",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Off Screens",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "7",
+      "TOTAL_SHOTS": "7"
+    },
+    {
+      "PLAYER": "Tanner Tedesco",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Iso",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Thomas Mckiernan",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "11",
+      "TOTAL_SHOTS": "14"
+    },
+    {
+      "PLAYER": "Thomas Mckiernan",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "7",
+      "TOTAL_SHOTS": "10"
+    },
+    {
+      "PLAYER": "Tommy McMahon",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "10",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "15",
+      "TOTAL_SHOTS": "31"
+    },
+    {
+      "PLAYER": "Tommy McMahon",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "11",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "5",
+      "TOTAL_SHOTS": "16"
+    },
+    {
+      "PLAYER": "Tommy McMahon",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "7",
+      "MID_COUNT": "3",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "15"
+    },
+    {
+      "PLAYER": "Tommy McMahon",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "8"
+    },
+    {
+      "PLAYER": "Tommy McMahon",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Off Screens",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "3",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Tommy McMahon",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Trace Moffitt",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "9",
+      "TOTAL_SHOTS": "9"
+    },
+    {
+      "PLAYER": "Tyson Maxam",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "18",
+      "TOTAL_SHOTS": "26"
+    },
+    {
+      "PLAYER": "Tyson Maxam",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "9",
+      "TOTAL_SHOTS": "15"
+    },
+    {
+      "PLAYER": "Tyson Maxam",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "3",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Tyson Maxam",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "3",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Tyson Maxam",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Off Screens",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Will Ameden",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "7",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "7"
+    },
+    {
+      "PLAYER": "Will Ameden",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "3",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Will Gregory",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "25",
+      "TOTAL_SHOTS": "27"
+    },
+    {
+      "PLAYER": "Will Gregory",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "5",
+      "TOTAL_SHOTS": "10"
+    },
+    {
+      "PLAYER": "Will Wertz",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "7",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "3",
+      "THREE_COUNT": "13",
+      "TOTAL_SHOTS": "25"
+    },
+    {
+      "PLAYER": "Will Wertz",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "17",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "19"
+    },
+    {
+      "PLAYER": "Will Wertz",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Will Wertz",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": null,
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Xavier Nelson",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "4",
+      "THREE_COUNT": "14",
+      "TOTAL_SHOTS": "21"
+    },
+    {
+      "PLAYER": "Xavier Nelson",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "4",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "9"
+    },
+    {
+      "PLAYER": "Xavier Nelson",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "8"
+    },
+    {
+      "PLAYER": "Xavier Nelson",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "8",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "8"
+    },
+    {
+      "PLAYER": "Xavier Nelson",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": null,
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Xavier Nelson",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Yechiel Stewart",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "29",
+      "TOTAL_SHOTS": "33"
+    },
+    {
+      "PLAYER": "Yechiel Stewart",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "17",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "20"
+    },
+    {
+      "PLAYER": "Yechiel Stewart",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "11",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "11"
+    },
+    {
+      "PLAYER": "Yechiel Stewart",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "4",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Yechiel Stewart",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "3",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Yoav Regev",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "10",
+      "TOTAL_SHOTS": "13"
+    },
+    {
+      "PLAYER": "Zac Ditzel",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "10",
+      "CLOSE_COUNT": "5",
+      "MID_COUNT": "5",
+      "THREE_COUNT": "42",
+      "TOTAL_SHOTS": "62"
+    },
+    {
+      "PLAYER": "Zac Ditzel",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Off Screens",
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "8",
+      "THREE_COUNT": "16",
+      "TOTAL_SHOTS": "31"
+    },
+    {
+      "PLAYER": "Zac Ditzel",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "14",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "8",
+      "TOTAL_SHOTS": "25"
+    },
+    {
+      "PLAYER": "Zac Ditzel",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "7",
+      "CLOSE_COUNT": "6",
+      "MID_COUNT": "3",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "18"
+    },
+    {
+      "PLAYER": "Zac Ditzel",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "7",
+      "TOTAL_SHOTS": "13"
+    },
+    {
+      "PLAYER": "Zac Ditzel",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "11",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "11"
+    }
+  ]
+}

@@ -1,0 +1,4390 @@
+{
+  "success": true,
+  "gender": "womens",
+  "query": "player-playtype-shot-frequency",
+  "description": "Shot distribution by play type, showing where players shoot from on different offensive actions",
+  "fetched_at": "2026-01-20T08:17:02.588754",
+  "row_count": 438,
+  "data": [
+    {
+      "PLAYER": "Addie Kea",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "6",
+      "THREE_COUNT": "18",
+      "TOTAL_SHOTS": "29"
+    },
+    {
+      "PLAYER": "Addie Kea",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "17",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "17"
+    },
+    {
+      "PLAYER": "Addie Kea",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "6",
+      "TOTAL_SHOTS": "11"
+    },
+    {
+      "PLAYER": "Addie Kea",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "8",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "3",
+      "TOTAL_SHOTS": "11"
+    },
+    {
+      "PLAYER": "Addie Kea",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "5",
+      "TOTAL_SHOTS": "8"
+    },
+    {
+      "PLAYER": "Aiden Gill",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Aila Dervisevic",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "20",
+      "TOTAL_SHOTS": "22"
+    },
+    {
+      "PLAYER": "Aila Dervisevic",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "6",
+      "TOTAL_SHOTS": "9"
+    },
+    {
+      "PLAYER": "Aila Dervisevic",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Off Screens",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "6",
+      "TOTAL_SHOTS": "7"
+    },
+    {
+      "PLAYER": "Aila Dervisevic",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "3",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Aislynn Dixon",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "49",
+      "TOTAL_SHOTS": "52"
+    },
+    {
+      "PLAYER": "Aislynn Dixon",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "15",
+      "TOTAL_SHOTS": "21"
+    },
+    {
+      "PLAYER": "Aislynn Dixon",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "9",
+      "TOTAL_SHOTS": "11"
+    },
+    {
+      "PLAYER": "Alexis Kress",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "6",
+      "THREE_COUNT": "31",
+      "TOTAL_SHOTS": "41"
+    },
+    {
+      "PLAYER": "Alexis Kress",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "5",
+      "TOTAL_SHOTS": "8"
+    },
+    {
+      "PLAYER": "Alexis Kress",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Alexis Kress",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Alexis Mackenzie",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "9",
+      "TOTAL_SHOTS": "13"
+    },
+    {
+      "PLAYER": "Amelia McCulley",
+      "TEAM": "William Smith Herons",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "7",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "23",
+      "TOTAL_SHOTS": "31"
+    },
+    {
+      "PLAYER": "Amelia McCulley",
+      "TEAM": "William Smith Herons",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "8",
+      "CLOSE_COUNT": "4",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "11",
+      "TOTAL_SHOTS": "23"
+    },
+    {
+      "PLAYER": "Amelia McCulley",
+      "TEAM": "William Smith Herons",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "7",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "12"
+    },
+    {
+      "PLAYER": "Amelia McCulley",
+      "TEAM": "William Smith Herons",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "9",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "9"
+    },
+    {
+      "PLAYER": "Amelia McCulley",
+      "TEAM": "William Smith Herons",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "3",
+      "TOTAL_SHOTS": "8"
+    },
+    {
+      "PLAYER": "Amelia McCulley",
+      "TEAM": "William Smith Herons",
+      "PLAY_TYPE": null,
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Anne Keneally",
+      "TEAM": "William Smith Herons",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "6",
+      "TOTAL_SHOTS": "9"
+    },
+    {
+      "PLAYER": "Annie Perry",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "8",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "5",
+      "THREE_COUNT": "27",
+      "TOTAL_SHOTS": "40"
+    },
+    {
+      "PLAYER": "Annie Perry",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Iso",
+      "LAYUP_COUNT": "14",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "7",
+      "THREE_COUNT": "6",
+      "TOTAL_SHOTS": "30"
+    },
+    {
+      "PLAYER": "Annie Perry",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "13",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "12",
+      "TOTAL_SHOTS": "27"
+    },
+    {
+      "PLAYER": "Annie Perry",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Off Screens",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "3",
+      "THREE_COUNT": "5",
+      "TOTAL_SHOTS": "8"
+    },
+    {
+      "PLAYER": "Annie Perry",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Annie Perry",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "3",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Ava Gregory",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "5",
+      "THREE_COUNT": "41",
+      "TOTAL_SHOTS": "49"
+    },
+    {
+      "PLAYER": "Ava Gregory",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "13",
+      "TOTAL_SHOTS": "21"
+    },
+    {
+      "PLAYER": "Ava Gregory",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "8",
+      "TOTAL_SHOTS": "10"
+    },
+    {
+      "PLAYER": "Ava Gregory",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "9",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "9"
+    },
+    {
+      "PLAYER": "Ava Gregory",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "4",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Ava Gregory",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": null,
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Ava Gurley",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "10",
+      "TOTAL_SHOTS": "10"
+    },
+    {
+      "PLAYER": "Ava Latizia",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "4",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "7"
+    },
+    {
+      "PLAYER": "Ava Lobozzo",
+      "TEAM": "William Smith Herons",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "9",
+      "MID_COUNT": "4",
+      "THREE_COUNT": "5",
+      "TOTAL_SHOTS": "23"
+    },
+    {
+      "PLAYER": "Ava Lobozzo",
+      "TEAM": "William Smith Herons",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "13",
+      "CLOSE_COUNT": "9",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "23"
+    },
+    {
+      "PLAYER": "Ava Lobozzo",
+      "TEAM": "William Smith Herons",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "11",
+      "CLOSE_COUNT": "7",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "20"
+    },
+    {
+      "PLAYER": "Ava Lobozzo",
+      "TEAM": "William Smith Herons",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "4",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "9"
+    },
+    {
+      "PLAYER": "Ava Lobozzo",
+      "TEAM": "William Smith Herons",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Ava Lobozzo",
+      "TEAM": "William Smith Herons",
+      "PLAY_TYPE": "Misc",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Ava Lobozzo",
+      "TEAM": "William Smith Herons",
+      "PLAY_TYPE": null,
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Avery McPeek",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "13",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "13"
+    },
+    {
+      "PLAYER": "Avery McPeek",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "11",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "11"
+    },
+    {
+      "PLAYER": "Avery McPeek",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "P&R Roll Man",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Bella Doyle",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "29",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "29"
+    },
+    {
+      "PLAYER": "Bella Doyle",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "5",
+      "THREE_COUNT": "11",
+      "TOTAL_SHOTS": "22"
+    },
+    {
+      "PLAYER": "Bella Doyle",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Post",
+      "LAYUP_COUNT": "13",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "13"
+    },
+    {
+      "PLAYER": "Bella Doyle",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "P&R Roll Man",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "7"
+    },
+    {
+      "PLAYER": "Bella Doyle",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Bella Doyle",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Off Screens",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "5",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Ben Kayser-Cochran",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "12",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "6",
+      "THREE_COUNT": "29",
+      "TOTAL_SHOTS": "49"
+    },
+    {
+      "PLAYER": "Ben Kayser-Cochran",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Post",
+      "LAYUP_COUNT": "18",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "18"
+    },
+    {
+      "PLAYER": "Ben Kayser-Cochran",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "9",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "9"
+    },
+    {
+      "PLAYER": "Ben Kayser-Cochran",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Off Screens",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "8"
+    },
+    {
+      "PLAYER": "Ben Kayser-Cochran",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "8"
+    },
+    {
+      "PLAYER": "Ben Kayser-Cochran",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "P&R Roll Man",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "4",
+      "TOTAL_SHOTS": "7"
+    },
+    {
+      "PLAYER": "Ben Kayser-Cochran",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "4",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Bridget McCleary",
+      "TEAM": "William Smith Herons",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "13",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "15"
+    },
+    {
+      "PLAYER": "Bridget McCleary",
+      "TEAM": "William Smith Herons",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "5",
+      "THREE_COUNT": "7",
+      "TOTAL_SHOTS": "15"
+    },
+    {
+      "PLAYER": "Bridget McCleary",
+      "TEAM": "William Smith Herons",
+      "PLAY_TYPE": null,
+      "LAYUP_COUNT": "9",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "11"
+    },
+    {
+      "PLAYER": "Bridget McCleary",
+      "TEAM": "William Smith Herons",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "8",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "8"
+    },
+    {
+      "PLAYER": "Bridget McCleary",
+      "TEAM": "William Smith Herons",
+      "PLAY_TYPE": "Post",
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Brooke Boyle",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "15",
+      "CLOSE_COUNT": "4",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "3",
+      "TOTAL_SHOTS": "22"
+    },
+    {
+      "PLAYER": "Brooke Boyle",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "12",
+      "TOTAL_SHOTS": "20"
+    },
+    {
+      "PLAYER": "Brooke Boyle",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "11",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "11"
+    },
+    {
+      "PLAYER": "Brooke Boyle",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "9"
+    },
+    {
+      "PLAYER": "Brooke Boyle",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": null,
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "7"
+    },
+    {
+      "PLAYER": "Brooke Boyle",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Off Screens",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "5",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Callie Flynn",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "7",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "7"
+    },
+    {
+      "PLAYER": "Callie Flynn",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Post",
+      "LAYUP_COUNT": "7",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "7"
+    },
+    {
+      "PLAYER": "Callie Flynn",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": null,
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Callie Flynn",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Carly Scott",
+      "TEAM": "William Smith Herons",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "36",
+      "TOTAL_SHOTS": "40"
+    },
+    {
+      "PLAYER": "Carly Scott",
+      "TEAM": "William Smith Herons",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "9",
+      "TOTAL_SHOTS": "11"
+    },
+    {
+      "PLAYER": "Carly Scott",
+      "TEAM": "William Smith Herons",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "8",
+      "TOTAL_SHOTS": "10"
+    },
+    {
+      "PLAYER": "Carly Scott",
+      "TEAM": "William Smith Herons",
+      "PLAY_TYPE": "Off Screens",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "8",
+      "TOTAL_SHOTS": "8"
+    },
+    {
+      "PLAYER": "Caroline Henderson",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "8",
+      "MID_COUNT": "12",
+      "THREE_COUNT": "82",
+      "TOTAL_SHOTS": "106"
+    },
+    {
+      "PLAYER": "Caroline Henderson",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Off Screens",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "3",
+      "THREE_COUNT": "25",
+      "TOTAL_SHOTS": "30"
+    },
+    {
+      "PLAYER": "Caroline Henderson",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "7",
+      "MID_COUNT": "7",
+      "THREE_COUNT": "7",
+      "TOTAL_SHOTS": "27"
+    },
+    {
+      "PLAYER": "Caroline Henderson",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "9",
+      "TOTAL_SHOTS": "14"
+    },
+    {
+      "PLAYER": "Caroline Henderson",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "4",
+      "THREE_COUNT": "7",
+      "TOTAL_SHOTS": "12"
+    },
+    {
+      "PLAYER": "Caroline Henderson",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Claudia Schneider",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "29",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "29"
+    },
+    {
+      "PLAYER": "Claudia Schneider",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "8",
+      "THREE_COUNT": "7",
+      "TOTAL_SHOTS": "23"
+    },
+    {
+      "PLAYER": "Claudia Schneider",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "5",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "10"
+    },
+    {
+      "PLAYER": "Claudia Schneider",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "P&R Roll Man",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "7"
+    },
+    {
+      "PLAYER": "Claudia Schneider",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Post",
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Dani Krenzer",
+      "TEAM": "William Smith Herons",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "3",
+      "TOTAL_SHOTS": "7"
+    },
+    {
+      "PLAYER": "Danielle Strauf",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "3",
+      "THREE_COUNT": "17",
+      "TOTAL_SHOTS": "24"
+    },
+    {
+      "PLAYER": "Danielle Strauf",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "3",
+      "THREE_COUNT": "3",
+      "TOTAL_SHOTS": "13"
+    },
+    {
+      "PLAYER": "Danielle Strauf",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "5",
+      "TOTAL_SHOTS": "10"
+    },
+    {
+      "PLAYER": "Eliana York",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "4",
+      "TOTAL_SHOTS": "7"
+    },
+    {
+      "PLAYER": "Elizabeth Aiossa",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "19",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "19"
+    },
+    {
+      "PLAYER": "Elizabeth Aiossa",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": null,
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Elizabeth Aiossa",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Elizabeth Flynn",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "6",
+      "THREE_COUNT": "7",
+      "TOTAL_SHOTS": "17"
+    },
+    {
+      "PLAYER": "Elizabeth Flynn",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "9",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "14"
+    },
+    {
+      "PLAYER": "Elizabeth Flynn",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Ella Wilson",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "8",
+      "TOTAL_SHOTS": "15"
+    },
+    {
+      "PLAYER": "Ella Wilson",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "11",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "11"
+    },
+    {
+      "PLAYER": "Elodie Ware",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "5",
+      "THREE_COUNT": "17",
+      "TOTAL_SHOTS": "30"
+    },
+    {
+      "PLAYER": "Elodie Ware",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "11",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "11"
+    },
+    {
+      "PLAYER": "Elodie Ware",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "7",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "10"
+    },
+    {
+      "PLAYER": "Elodie Ware",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "Post",
+      "LAYUP_COUNT": "9",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "9"
+    },
+    {
+      "PLAYER": "Emilia Rojik",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "5",
+      "THREE_COUNT": "11",
+      "TOTAL_SHOTS": "20"
+    },
+    {
+      "PLAYER": "Emilia Rojik",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "15",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "20"
+    },
+    {
+      "PLAYER": "Emilia Rojik",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "19",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "19"
+    },
+    {
+      "PLAYER": "Emilia Rojik",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Post",
+      "LAYUP_COUNT": "11",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "11"
+    },
+    {
+      "PLAYER": "Emilia Rojik",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": null,
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Emily Wendt",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "6",
+      "TOTAL_SHOTS": "10"
+    },
+    {
+      "PLAYER": "Emma Chambers",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "7",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "6",
+      "THREE_COUNT": "22",
+      "TOTAL_SHOTS": "37"
+    },
+    {
+      "PLAYER": "Emma Chambers",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "17",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "17"
+    },
+    {
+      "PLAYER": "Emma Chambers",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "4",
+      "TOTAL_SHOTS": "7"
+    },
+    {
+      "PLAYER": "Erin Dipaola",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "12",
+      "TOTAL_SHOTS": "20"
+    },
+    {
+      "PLAYER": "Erin Dipaola",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Erin Lovett",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "11",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "11"
+    },
+    {
+      "PLAYER": "Erin Lovett",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "Post",
+      "LAYUP_COUNT": "9",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "9"
+    },
+    {
+      "PLAYER": "Erin Lovett",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Erin Lovett",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Erin Tobes",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "13",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "8",
+      "THREE_COUNT": "19",
+      "TOTAL_SHOTS": "40"
+    },
+    {
+      "PLAYER": "Erin Tobes",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "22",
+      "CLOSE_COUNT": "8",
+      "MID_COUNT": "3",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "34"
+    },
+    {
+      "PLAYER": "Erin Tobes",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "13",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "18"
+    },
+    {
+      "PLAYER": "Erin Tobes",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "7",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "3",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "12"
+    },
+    {
+      "PLAYER": "Erin Tobes",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "9",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "9"
+    },
+    {
+      "PLAYER": "Erin Tobes",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Misc",
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Erin Tobes",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": null,
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Erin Tobes",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Iso",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Fallon Griffin",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "7",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "62",
+      "TOTAL_SHOTS": "70"
+    },
+    {
+      "PLAYER": "Fallon Griffin",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "27",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "27"
+    },
+    {
+      "PLAYER": "Fallon Griffin",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "12",
+      "TOTAL_SHOTS": "17"
+    },
+    {
+      "PLAYER": "Fallon Griffin",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Off Screens",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "5",
+      "TOTAL_SHOTS": "7"
+    },
+    {
+      "PLAYER": "Fallon Griffin",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "5",
+      "TOTAL_SHOTS": "7"
+    },
+    {
+      "PLAYER": "Faye Kaplinski",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Post",
+      "LAYUP_COUNT": "51",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "51"
+    },
+    {
+      "PLAYER": "Faye Kaplinski",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "39",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "39"
+    },
+    {
+      "PLAYER": "Faye Kaplinski",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "6",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "8"
+    },
+    {
+      "PLAYER": "Faye Kaplinski",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "P&R Roll Man",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "7"
+    },
+    {
+      "PLAYER": "Faye Kaplinski",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "7"
+    },
+    {
+      "PLAYER": "Faye Kaplinski",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": null,
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Giana Lobozzo",
+      "TEAM": "William Smith Herons",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "7",
+      "CLOSE_COUNT": "12",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "33",
+      "TOTAL_SHOTS": "52"
+    },
+    {
+      "PLAYER": "Giana Lobozzo",
+      "TEAM": "William Smith Herons",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "25",
+      "CLOSE_COUNT": "9",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "8",
+      "TOTAL_SHOTS": "43"
+    },
+    {
+      "PLAYER": "Giana Lobozzo",
+      "TEAM": "William Smith Herons",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "12",
+      "CLOSE_COUNT": "4",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "17",
+      "TOTAL_SHOTS": "35"
+    },
+    {
+      "PLAYER": "Giana Lobozzo",
+      "TEAM": "William Smith Herons",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "14",
+      "CLOSE_COUNT": "9",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "25"
+    },
+    {
+      "PLAYER": "Giana Lobozzo",
+      "TEAM": "William Smith Herons",
+      "PLAY_TYPE": "Iso",
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "4",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "12"
+    },
+    {
+      "PLAYER": "Giana Lobozzo",
+      "TEAM": "William Smith Herons",
+      "PLAY_TYPE": "Off Screens",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "8",
+      "TOTAL_SHOTS": "9"
+    },
+    {
+      "PLAYER": "Giana Lobozzo",
+      "TEAM": "William Smith Herons",
+      "PLAY_TYPE": null,
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "4",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "8"
+    },
+    {
+      "PLAYER": "Giana Lobozzo",
+      "TEAM": "William Smith Herons",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Grace Ardito",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "8",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "3",
+      "THREE_COUNT": "35",
+      "TOTAL_SHOTS": "47"
+    },
+    {
+      "PLAYER": "Grace Ardito",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "21",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "15",
+      "TOTAL_SHOTS": "38"
+    },
+    {
+      "PLAYER": "Grace Ardito",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "11",
+      "CLOSE_COUNT": "4",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "18"
+    },
+    {
+      "PLAYER": "Grace Ardito",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "5",
+      "TOTAL_SHOTS": "10"
+    },
+    {
+      "PLAYER": "Grace Ardito",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Off Screens",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "8",
+      "TOTAL_SHOTS": "8"
+    },
+    {
+      "PLAYER": "Grace Ceseretti",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "44",
+      "TOTAL_SHOTS": "51"
+    },
+    {
+      "PLAYER": "Grace Ceseretti",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "11",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "9",
+      "TOTAL_SHOTS": "21"
+    },
+    {
+      "PLAYER": "Grace Ceseretti",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "12"
+    },
+    {
+      "PLAYER": "Grace Ceseretti",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Off Screens",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "9",
+      "TOTAL_SHOTS": "11"
+    },
+    {
+      "PLAYER": "Grace Ceseretti",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Iso",
+      "LAYUP_COUNT": "9",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "10"
+    },
+    {
+      "PLAYER": "Grace Ceseretti",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "7",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "7"
+    },
+    {
+      "PLAYER": "Grace Ceseretti",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Grace Ceseretti",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": null,
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Grace McNamara",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "36",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "36"
+    },
+    {
+      "PLAYER": "Grace McNamara",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "12",
+      "THREE_COUNT": "7",
+      "TOTAL_SHOTS": "22"
+    },
+    {
+      "PLAYER": "Grace McNamara",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "4",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "12"
+    },
+    {
+      "PLAYER": "Grace McNamara",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Post",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Grace McNamara",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": null,
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "4",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Hannah Durand",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "8",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "30",
+      "TOTAL_SHOTS": "38"
+    },
+    {
+      "PLAYER": "Hannah Durand",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "9",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "9"
+    },
+    {
+      "PLAYER": "Hannah Durand",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "8",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "9"
+    },
+    {
+      "PLAYER": "Hannah Durand",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "7",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "7"
+    },
+    {
+      "PLAYER": "Hannah Durand",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Hannah Van Dyke",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "6",
+      "MID_COUNT": "13",
+      "THREE_COUNT": "16",
+      "TOTAL_SHOTS": "37"
+    },
+    {
+      "PLAYER": "Hannah Van Dyke",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "5",
+      "THREE_COUNT": "14",
+      "TOTAL_SHOTS": "21"
+    },
+    {
+      "PLAYER": "Hannah Van Dyke",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "4",
+      "THREE_COUNT": "9",
+      "TOTAL_SHOTS": "18"
+    },
+    {
+      "PLAYER": "Hannah Van Dyke",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "13",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "13"
+    },
+    {
+      "PLAYER": "Hannah Van Dyke",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": null,
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Izzy Caron",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "9",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "6",
+      "TOTAL_SHOTS": "16"
+    },
+    {
+      "PLAYER": "Izzy Caron",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "12",
+      "TOTAL_SHOTS": "16"
+    },
+    {
+      "PLAYER": "Izzy Caron",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Jackie Malley",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "13",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "4",
+      "THREE_COUNT": "63",
+      "TOTAL_SHOTS": "83"
+    },
+    {
+      "PLAYER": "Jackie Malley",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "12",
+      "CLOSE_COUNT": "4",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "21",
+      "TOTAL_SHOTS": "37"
+    },
+    {
+      "PLAYER": "Jackie Malley",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "19",
+      "TOTAL_SHOTS": "22"
+    },
+    {
+      "PLAYER": "Jackie Malley",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Iso",
+      "LAYUP_COUNT": "8",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "11"
+    },
+    {
+      "PLAYER": "Jackie Malley",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "6",
+      "TOTAL_SHOTS": "10"
+    },
+    {
+      "PLAYER": "Jelena Perovic",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "56",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "56"
+    },
+    {
+      "PLAYER": "Jelena Perovic",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Post",
+      "LAYUP_COUNT": "26",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "26"
+    },
+    {
+      "PLAYER": "Jelena Perovic",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "10",
+      "CLOSE_COUNT": "10",
+      "MID_COUNT": "5",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "25"
+    },
+    {
+      "PLAYER": "Jelena Perovic",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "16",
+      "CLOSE_COUNT": "8",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "24"
+    },
+    {
+      "PLAYER": "Jelena Perovic",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "P&R Roll Man",
+      "LAYUP_COUNT": "9",
+      "CLOSE_COUNT": "5",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "15"
+    },
+    {
+      "PLAYER": "Jelena Perovic",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "7",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "13"
+    },
+    {
+      "PLAYER": "Jelena Perovic",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": null,
+      "LAYUP_COUNT": "9",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "10"
+    },
+    {
+      "PLAYER": "Jelena Perovic",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "8"
+    },
+    {
+      "PLAYER": "Jelena Perovic",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Iso",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Jenny Shine",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "8",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "8"
+    },
+    {
+      "PLAYER": "Jenny Shine",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Post",
+      "LAYUP_COUNT": "8",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "8"
+    },
+    {
+      "PLAYER": "Jenny Shine",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "P&R Roll Man",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "7"
+    },
+    {
+      "PLAYER": "Jenny Shine",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "7"
+    },
+    {
+      "PLAYER": "Jessica Martin",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "7",
+      "THREE_COUNT": "39",
+      "TOTAL_SHOTS": "51"
+    },
+    {
+      "PLAYER": "Jessica Martin",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "11",
+      "TOTAL_SHOTS": "12"
+    },
+    {
+      "PLAYER": "Jessica Martin",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "5",
+      "TOTAL_SHOTS": "10"
+    },
+    {
+      "PLAYER": "Jessica Martin",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "6",
+      "TOTAL_SHOTS": "7"
+    },
+    {
+      "PLAYER": "Jessica Sterbens",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Jojo Sulmasy",
+      "TEAM": "William Smith Herons",
+      "PLAY_TYPE": "Post",
+      "LAYUP_COUNT": "19",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "19"
+    },
+    {
+      "PLAYER": "Jojo Sulmasy",
+      "TEAM": "William Smith Herons",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "19",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "19"
+    },
+    {
+      "PLAYER": "Jojo Sulmasy",
+      "TEAM": "William Smith Herons",
+      "PLAY_TYPE": null,
+      "LAYUP_COUNT": "7",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "9"
+    },
+    {
+      "PLAYER": "Jojo Sulmasy",
+      "TEAM": "William Smith Herons",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Kate Campbell",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "12",
+      "THREE_COUNT": "17",
+      "TOTAL_SHOTS": "30"
+    },
+    {
+      "PLAYER": "Kate Campbell",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "17",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "17"
+    },
+    {
+      "PLAYER": "Kate Campbell",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "7",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "9"
+    },
+    {
+      "PLAYER": "Kate Campbell",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": null,
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Kate Campbell",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "3",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Kate Peek",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "35",
+      "TOTAL_SHOTS": "37"
+    },
+    {
+      "PLAYER": "Kate Peek",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "8",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "22",
+      "TOTAL_SHOTS": "33"
+    },
+    {
+      "PLAYER": "Kate Peek",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "3",
+      "THREE_COUNT": "16",
+      "TOTAL_SHOTS": "24"
+    },
+    {
+      "PLAYER": "Kate Peek",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "6",
+      "MID_COUNT": "4",
+      "THREE_COUNT": "7",
+      "TOTAL_SHOTS": "18"
+    },
+    {
+      "PLAYER": "Kate Peek",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Off Screens",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "3",
+      "THREE_COUNT": "7",
+      "TOTAL_SHOTS": "11"
+    },
+    {
+      "PLAYER": "Kate Peek",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Iso",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "9"
+    },
+    {
+      "PLAYER": "Kate Peek",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Kenzie Perluke",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "15",
+      "TOTAL_SHOTS": "21"
+    },
+    {
+      "PLAYER": "Kenzie Perluke",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "12",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "3",
+      "TOTAL_SHOTS": "17"
+    },
+    {
+      "PLAYER": "Kenzie Perluke",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "7",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "7"
+    },
+    {
+      "PLAYER": "Kira Ostovar",
+      "TEAM": "William Smith Herons",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "3",
+      "THREE_COUNT": "4",
+      "TOTAL_SHOTS": "8"
+    },
+    {
+      "PLAYER": "Kira Ostovar",
+      "TEAM": "William Smith Herons",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "5",
+      "TOTAL_SHOTS": "8"
+    },
+    {
+      "PLAYER": "Kira Ostovar",
+      "TEAM": "William Smith Herons",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "3",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Lexi Miller",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Post",
+      "LAYUP_COUNT": "38",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "38"
+    },
+    {
+      "PLAYER": "Lexi Miller",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": null,
+      "LAYUP_COUNT": "16",
+      "CLOSE_COUNT": "4",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "20"
+    },
+    {
+      "PLAYER": "Lexi Miller",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "15",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "15"
+    },
+    {
+      "PLAYER": "Lexi Miller",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "8",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "14"
+    },
+    {
+      "PLAYER": "Lexi Miller",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "P&R Roll Man",
+      "LAYUP_COUNT": "7",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "8"
+    },
+    {
+      "PLAYER": "Lexi Miller",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "7",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "8"
+    },
+    {
+      "PLAYER": "Lily Wohlleber",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "7",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "7"
+    },
+    {
+      "PLAYER": "Lindsey Shoulders",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "10",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "4",
+      "THREE_COUNT": "6",
+      "TOTAL_SHOTS": "20"
+    },
+    {
+      "PLAYER": "Lindsey Shoulders",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "Post",
+      "LAYUP_COUNT": "15",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "15"
+    },
+    {
+      "PLAYER": "Lindsey Shoulders",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": null,
+      "LAYUP_COUNT": "14",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "15"
+    },
+    {
+      "PLAYER": "Lindsey Shoulders",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "14",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "14"
+    },
+    {
+      "PLAYER": "Lindsey Shoulders",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "12",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "13"
+    },
+    {
+      "PLAYER": "Lindsey Shoulders",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "7"
+    },
+    {
+      "PLAYER": "Madalyn Barrows",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "3",
+      "THREE_COUNT": "22",
+      "TOTAL_SHOTS": "30"
+    },
+    {
+      "PLAYER": "Madalyn Barrows",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "8",
+      "TOTAL_SHOTS": "17"
+    },
+    {
+      "PLAYER": "Madalyn Barrows",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "13",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "13"
+    },
+    {
+      "PLAYER": "Madalyn Barrows",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Off Screens",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "5",
+      "TOTAL_SHOTS": "7"
+    },
+    {
+      "PLAYER": "Madalyn Barrows",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": null,
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Madalyn Barrows",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Maddie Ahearn",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "4",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Maddy Polky",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "8",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "3",
+      "THREE_COUNT": "9",
+      "TOTAL_SHOTS": "20"
+    },
+    {
+      "PLAYER": "Maddy Polky",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Maddy Ramsgard",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "29",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "18",
+      "TOTAL_SHOTS": "54"
+    },
+    {
+      "PLAYER": "Maddy Ramsgard",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "8",
+      "CLOSE_COUNT": "25",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "35"
+    },
+    {
+      "PLAYER": "Maddy Ramsgard",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "7",
+      "CLOSE_COUNT": "21",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "29"
+    },
+    {
+      "PLAYER": "Maddy Ramsgard",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "7",
+      "CLOSE_COUNT": "10",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "18"
+    },
+    {
+      "PLAYER": "Maddy Ramsgard",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "13",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "13"
+    },
+    {
+      "PLAYER": "Maddy Ramsgard",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Off Screens",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "5",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "9"
+    },
+    {
+      "PLAYER": "Maddy Ramsgard",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": null,
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "4",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Madison Gill",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "9",
+      "CLOSE_COUNT": "6",
+      "MID_COUNT": "3",
+      "THREE_COUNT": "31",
+      "TOTAL_SHOTS": "49"
+    },
+    {
+      "PLAYER": "Madison Gill",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "16",
+      "CLOSE_COUNT": "6",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "14",
+      "TOTAL_SHOTS": "36"
+    },
+    {
+      "PLAYER": "Madison Gill",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "26",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "26"
+    },
+    {
+      "PLAYER": "Madison Gill",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Off Screens",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "4",
+      "TOTAL_SHOTS": "8"
+    },
+    {
+      "PLAYER": "Madison Gill",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": null,
+      "LAYUP_COUNT": "7",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "8"
+    },
+    {
+      "PLAYER": "Madison Meyer",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "11",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "21",
+      "TOTAL_SHOTS": "34"
+    },
+    {
+      "PLAYER": "Madison Meyer",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "14",
+      "CLOSE_COUNT": "4",
+      "MID_COUNT": "8",
+      "THREE_COUNT": "7",
+      "TOTAL_SHOTS": "33"
+    },
+    {
+      "PLAYER": "Madison Meyer",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "15",
+      "CLOSE_COUNT": "4",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "5",
+      "TOTAL_SHOTS": "26"
+    },
+    {
+      "PLAYER": "Madison Meyer",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "17",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "17"
+    },
+    {
+      "PLAYER": "Madison Meyer",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "5",
+      "TOTAL_SHOTS": "12"
+    },
+    {
+      "PLAYER": "Madison Meyer",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Misc",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "7"
+    },
+    {
+      "PLAYER": "Margaret Dougher",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "3",
+      "THREE_COUNT": "8",
+      "TOTAL_SHOTS": "16"
+    },
+    {
+      "PLAYER": "Margaret Dougher",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Mary Bernat",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "19",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "19"
+    },
+    {
+      "PLAYER": "Mary Bernat",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "7",
+      "CLOSE_COUNT": "6",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "13"
+    },
+    {
+      "PLAYER": "Mary Bernat",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Post",
+      "LAYUP_COUNT": "13",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "13"
+    },
+    {
+      "PLAYER": "Mary Bernat",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "P&R Roll Man",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Mary Bernat",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": null,
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Mason Baker-Schlendering",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "31",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "31"
+    },
+    {
+      "PLAYER": "Mason Baker-Schlendering",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Post",
+      "LAYUP_COUNT": "27",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "27"
+    },
+    {
+      "PLAYER": "Mason Baker-Schlendering",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "20",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "23"
+    },
+    {
+      "PLAYER": "Mason Baker-Schlendering",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "8"
+    },
+    {
+      "PLAYER": "Mason Baker-Schlendering",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": null,
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "7"
+    },
+    {
+      "PLAYER": "Mason Baker-Schlendering",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "P&R Roll Man",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Maureen Regan",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "21",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "3",
+      "THREE_COUNT": "33",
+      "TOTAL_SHOTS": "59"
+    },
+    {
+      "PLAYER": "Maureen Regan",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "17",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "4",
+      "THREE_COUNT": "3",
+      "TOTAL_SHOTS": "26"
+    },
+    {
+      "PLAYER": "Maureen Regan",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "9"
+    },
+    {
+      "PLAYER": "Maureen Regan",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "Iso",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "4",
+      "TOTAL_SHOTS": "8"
+    },
+    {
+      "PLAYER": "Maureen Regan",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "Off Screens",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "6",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "McKenzie Mandyck",
+      "TEAM": "William Smith Herons",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "7",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "34",
+      "TOTAL_SHOTS": "45"
+    },
+    {
+      "PLAYER": "McKenzie Mandyck",
+      "TEAM": "William Smith Herons",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "9",
+      "TOTAL_SHOTS": "14"
+    },
+    {
+      "PLAYER": "McKenzie Mandyck",
+      "TEAM": "William Smith Herons",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "9",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "9"
+    },
+    {
+      "PLAYER": "McKenzie Mandyck",
+      "TEAM": "William Smith Herons",
+      "PLAY_TYPE": "Off Screens",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "5",
+      "TOTAL_SHOTS": "7"
+    },
+    {
+      "PLAYER": "Megan Heyns",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "3",
+      "THREE_COUNT": "12",
+      "TOTAL_SHOTS": "18"
+    },
+    {
+      "PLAYER": "Megan Heyns",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "6",
+      "TOTAL_SHOTS": "14"
+    },
+    {
+      "PLAYER": "Megan Heyns",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Meghan Drury",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "10",
+      "TOTAL_SHOTS": "16"
+    },
+    {
+      "PLAYER": "Meghan Drury",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "7",
+      "TOTAL_SHOTS": "11"
+    },
+    {
+      "PLAYER": "Meghan Drury",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "7"
+    },
+    {
+      "PLAYER": "Meghan Drury",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Meghan Drury",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Melissa Severino",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "5",
+      "TOTAL_SHOTS": "8"
+    },
+    {
+      "PLAYER": "Mia Firdman",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "4",
+      "TOTAL_SHOTS": "8"
+    },
+    {
+      "PLAYER": "Miranda Martin",
+      "TEAM": "William Smith Herons",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "5",
+      "MID_COUNT": "5",
+      "THREE_COUNT": "25",
+      "TOTAL_SHOTS": "41"
+    },
+    {
+      "PLAYER": "Miranda Martin",
+      "TEAM": "William Smith Herons",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "10",
+      "TOTAL_SHOTS": "16"
+    },
+    {
+      "PLAYER": "Miranda Martin",
+      "TEAM": "William Smith Herons",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Molly Libby",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "14",
+      "THREE_COUNT": "23",
+      "TOTAL_SHOTS": "44"
+    },
+    {
+      "PLAYER": "Molly Libby",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "4",
+      "MID_COUNT": "3",
+      "THREE_COUNT": "6",
+      "TOTAL_SHOTS": "17"
+    },
+    {
+      "PLAYER": "Molly Libby",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Molly Libby",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "4",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Morgan Kottka",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "10",
+      "THREE_COUNT": "45",
+      "TOTAL_SHOTS": "60"
+    },
+    {
+      "PLAYER": "Morgan Kottka",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "8",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "7",
+      "TOTAL_SHOTS": "15"
+    },
+    {
+      "PLAYER": "Morgan Kottka",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "9",
+      "TOTAL_SHOTS": "12"
+    },
+    {
+      "PLAYER": "Morgan Kottka",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "9",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "9"
+    },
+    {
+      "PLAYER": "Morgan Kottka",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Off Screens",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "5",
+      "TOTAL_SHOTS": "8"
+    },
+    {
+      "PLAYER": "Morgan Kottka",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "6",
+      "TOTAL_SHOTS": "7"
+    },
+    {
+      "PLAYER": "Morgan Kottka",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Misc",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "4",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Morgan Kottka",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "P&R Roll Man",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "4",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Morgan Schultz",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "20",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "20"
+    },
+    {
+      "PLAYER": "Morgan Schultz",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "11",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "13"
+    },
+    {
+      "PLAYER": "Morgan Schultz",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "13",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "13"
+    },
+    {
+      "PLAYER": "Morgan Schultz",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Post",
+      "LAYUP_COUNT": "9",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "9"
+    },
+    {
+      "PLAYER": "Natalie Tucker",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "6",
+      "MID_COUNT": "4",
+      "THREE_COUNT": "20",
+      "TOTAL_SHOTS": "34"
+    },
+    {
+      "PLAYER": "Natalie Tucker",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "8",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "7",
+      "TOTAL_SHOTS": "18"
+    },
+    {
+      "PLAYER": "Natalie Tucker",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "8",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "14"
+    },
+    {
+      "PLAYER": "Natalie Tucker",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "13",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "13"
+    },
+    {
+      "PLAYER": "Natalie Tucker",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "3",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Natalie Tucker",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Off Screens",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "3",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Niamh Gendron",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "23",
+      "TOTAL_SHOTS": "25"
+    },
+    {
+      "PLAYER": "Niamh Gendron",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "9",
+      "TOTAL_SHOTS": "13"
+    },
+    {
+      "PLAYER": "Niamh Gendron",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "7",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "7"
+    },
+    {
+      "PLAYER": "Norah Niesz",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "18",
+      "CLOSE_COUNT": "5",
+      "MID_COUNT": "10",
+      "THREE_COUNT": "18",
+      "TOTAL_SHOTS": "51"
+    },
+    {
+      "PLAYER": "Norah Niesz",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "20",
+      "TOTAL_SHOTS": "29"
+    },
+    {
+      "PLAYER": "Norah Niesz",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "9",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "12",
+      "THREE_COUNT": "5",
+      "TOTAL_SHOTS": "28"
+    },
+    {
+      "PLAYER": "Norah Niesz",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "3",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "11"
+    },
+    {
+      "PLAYER": "Norah Niesz",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Olivia Cunningham",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "7",
+      "CLOSE_COUNT": "13",
+      "MID_COUNT": "4",
+      "THREE_COUNT": "5",
+      "TOTAL_SHOTS": "29"
+    },
+    {
+      "PLAYER": "Olivia Cunningham",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "17",
+      "CLOSE_COUNT": "7",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "24"
+    },
+    {
+      "PLAYER": "Olivia Cunningham",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Post",
+      "LAYUP_COUNT": "21",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "21"
+    },
+    {
+      "PLAYER": "Olivia Cunningham",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "12",
+      "CLOSE_COUNT": "6",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "19"
+    },
+    {
+      "PLAYER": "Olivia Cunningham",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "16",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "16"
+    },
+    {
+      "PLAYER": "Olivia Cunningham",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": null,
+      "LAYUP_COUNT": "10",
+      "CLOSE_COUNT": "4",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "14"
+    },
+    {
+      "PLAYER": "Olivia Cunningham",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "4",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "11"
+    },
+    {
+      "PLAYER": "Olivia Cunningham",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Iso",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "4",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Olivia Cunningham",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Misc",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Rachel Carpenter",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "20",
+      "TOTAL_SHOTS": "21"
+    },
+    {
+      "PLAYER": "Rachel Carpenter",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "10",
+      "TOTAL_SHOTS": "10"
+    },
+    {
+      "PLAYER": "Rachel Carpenter",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "9",
+      "TOTAL_SHOTS": "9"
+    },
+    {
+      "PLAYER": "Rachel Carpenter",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "4",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Riley Cullen",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "8",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "8"
+    },
+    {
+      "PLAYER": "Riley Cullen",
+      "TEAM": "Clarkson University Golden Knights",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Ruby Krop",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "17",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "17"
+    },
+    {
+      "PLAYER": "Ruby Krop",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "5",
+      "THREE_COUNT": "7",
+      "TOTAL_SHOTS": "13"
+    },
+    {
+      "PLAYER": "Ruby Krop",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "P&R Roll Man",
+      "LAYUP_COUNT": "7",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "10"
+    },
+    {
+      "PLAYER": "Ruby Krop",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "3",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "7"
+    },
+    {
+      "PLAYER": "Ruby Krop",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Iso",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Ryanne Gulbin",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "7",
+      "TOTAL_SHOTS": "8"
+    },
+    {
+      "PLAYER": "Ryley Tate-Padian",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "7",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "13",
+      "TOTAL_SHOTS": "22"
+    },
+    {
+      "PLAYER": "Ryley Tate-Padian",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "7",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "4",
+      "TOTAL_SHOTS": "12"
+    },
+    {
+      "PLAYER": "Ryley Tate-Padian",
+      "TEAM": "Union (NY) Chargers",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "8",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "3",
+      "TOTAL_SHOTS": "11"
+    },
+    {
+      "PLAYER": "Sam Lederman",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "9",
+      "TOTAL_SHOTS": "14"
+    },
+    {
+      "PLAYER": "Sara Hastie",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "15",
+      "TOTAL_SHOTS": "23"
+    },
+    {
+      "PLAYER": "Sara Hastie",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "7",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "7",
+      "TOTAL_SHOTS": "16"
+    },
+    {
+      "PLAYER": "Sara Hastie",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "8",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "11"
+    },
+    {
+      "PLAYER": "Sara Hastie",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Sara Hastie",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Shirley Dong",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "10",
+      "CLOSE_COUNT": "6",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "42",
+      "TOTAL_SHOTS": "60"
+    },
+    {
+      "PLAYER": "Shirley Dong",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "11",
+      "CLOSE_COUNT": "8",
+      "MID_COUNT": "6",
+      "THREE_COUNT": "11",
+      "TOTAL_SHOTS": "36"
+    },
+    {
+      "PLAYER": "Shirley Dong",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "4",
+      "TOTAL_SHOTS": "11"
+    },
+    {
+      "PLAYER": "Shirley Dong",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": null,
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "9"
+    },
+    {
+      "PLAYER": "Shirley Dong",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "4",
+      "TOTAL_SHOTS": "7"
+    },
+    {
+      "PLAYER": "Shirley Dong",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Shirley Dong",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Iso",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Siena Smith",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "11",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "8",
+      "THREE_COUNT": "32",
+      "TOTAL_SHOTS": "52"
+    },
+    {
+      "PLAYER": "Siena Smith",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "17",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "11",
+      "TOTAL_SHOTS": "31"
+    },
+    {
+      "PLAYER": "Siena Smith",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "14",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "14"
+    },
+    {
+      "PLAYER": "Siena Smith",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Post",
+      "LAYUP_COUNT": "10",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "10"
+    },
+    {
+      "PLAYER": "Siena Smith",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Off Screens",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "4",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Siena Smith",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Iso",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Siena Smith",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": null,
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Sierra McDermed",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "8",
+      "CLOSE_COUNT": "7",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "18",
+      "TOTAL_SHOTS": "33"
+    },
+    {
+      "PLAYER": "Sierra McDermed",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "26",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "28"
+    },
+    {
+      "PLAYER": "Sierra McDermed",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "8",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "12"
+    },
+    {
+      "PLAYER": "Sierra McDermed",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "Off Screens",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "6",
+      "TOTAL_SHOTS": "12"
+    },
+    {
+      "PLAYER": "Sierra McDermed",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "6",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "11"
+    },
+    {
+      "PLAYER": "Sierra McDermed",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Sierra McDermed",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": null,
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Simone Pintinalli",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "8",
+      "THREE_COUNT": "22",
+      "TOTAL_SHOTS": "31"
+    },
+    {
+      "PLAYER": "Simone Pintinalli",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "5",
+      "TOTAL_SHOTS": "8"
+    },
+    {
+      "PLAYER": "Simone Pintinalli",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "4",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "7"
+    },
+    {
+      "PLAYER": "Simran Randhawa",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "10",
+      "TOTAL_SHOTS": "11"
+    },
+    {
+      "PLAYER": "Sophia Ippolito",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "4",
+      "THREE_COUNT": "25",
+      "TOTAL_SHOTS": "35"
+    },
+    {
+      "PLAYER": "Sophia Ippolito",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "8",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "6",
+      "TOTAL_SHOTS": "14"
+    },
+    {
+      "PLAYER": "Sophia Ippolito",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "Off Screens",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "4",
+      "TOTAL_SHOTS": "10"
+    },
+    {
+      "PLAYER": "Sophia Ippolito",
+      "TEAM": "Vassar Brewers",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Sophia Martinez",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "17",
+      "CLOSE_COUNT": "19",
+      "MID_COUNT": "5",
+      "THREE_COUNT": "3",
+      "TOTAL_SHOTS": "44"
+    },
+    {
+      "PLAYER": "Sophia Martinez",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "8",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "16",
+      "TOTAL_SHOTS": "29"
+    },
+    {
+      "PLAYER": "Sophia Martinez",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "15",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "3",
+      "THREE_COUNT": "4",
+      "TOTAL_SHOTS": "25"
+    },
+    {
+      "PLAYER": "Sophia Martinez",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Iso",
+      "LAYUP_COUNT": "11",
+      "CLOSE_COUNT": "7",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "18"
+    },
+    {
+      "PLAYER": "Sophia Martinez",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Misc",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "7"
+    },
+    {
+      "PLAYER": "Sophia Martinez",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Sophia Spizuoco",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "5",
+      "TOTAL_SHOTS": "8"
+    },
+    {
+      "PLAYER": "Sophie Costello",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "21",
+      "CLOSE_COUNT": "6",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "22",
+      "TOTAL_SHOTS": "51"
+    },
+    {
+      "PLAYER": "Sophie Costello",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "26",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "8",
+      "TOTAL_SHOTS": "36"
+    },
+    {
+      "PLAYER": "Sophie Costello",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "14",
+      "CLOSE_COUNT": "4",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "4",
+      "TOTAL_SHOTS": "24"
+    },
+    {
+      "PLAYER": "Sophie Costello",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "8",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "9"
+    },
+    {
+      "PLAYER": "Sophie Costello",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Iso",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "7"
+    },
+    {
+      "PLAYER": "Stella Criniti",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "4",
+      "THREE_COUNT": "11",
+      "TOTAL_SHOTS": "17"
+    },
+    {
+      "PLAYER": "Stella Criniti",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "3",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "10"
+    },
+    {
+      "PLAYER": "Stella Criniti",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "4",
+      "TOTAL_SHOTS": "8"
+    },
+    {
+      "PLAYER": "Stevie Bannon",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "15",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "4",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "23"
+    },
+    {
+      "PLAYER": "Stevie Bannon",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "9",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "14"
+    },
+    {
+      "PLAYER": "Stevie Bannon",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "9",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "10"
+    },
+    {
+      "PLAYER": "Sydney Blaney",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "7",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "5",
+      "THREE_COUNT": "15",
+      "TOTAL_SHOTS": "29"
+    },
+    {
+      "PLAYER": "Sydney Blaney",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "12",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "5",
+      "TOTAL_SHOTS": "18"
+    },
+    {
+      "PLAYER": "Sydney Blaney",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "3",
+      "TOTAL_SHOTS": "7"
+    },
+    {
+      "PLAYER": "Sydney Pearson",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Post",
+      "LAYUP_COUNT": "20",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "20"
+    },
+    {
+      "PLAYER": "Sydney Pearson",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "14",
+      "TOTAL_SHOTS": "20"
+    },
+    {
+      "PLAYER": "Sydney Pearson",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "17",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "17"
+    },
+    {
+      "PLAYER": "Tianna Gonzalez",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "9",
+      "TOTAL_SHOTS": "14"
+    },
+    {
+      "PLAYER": "Tianna Gonzalez",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Post",
+      "LAYUP_COUNT": "9",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "9"
+    },
+    {
+      "PLAYER": "Tianna Gonzalez",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": null,
+      "LAYUP_COUNT": "7",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "7"
+    },
+    {
+      "PLAYER": "Tianna Gonzalez",
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Tori Drevna",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "5",
+      "MID_COUNT": "11",
+      "THREE_COUNT": "36",
+      "TOTAL_SHOTS": "56"
+    },
+    {
+      "PLAYER": "Tori Drevna",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "23",
+      "CLOSE_COUNT": "9",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "16",
+      "TOTAL_SHOTS": "50"
+    },
+    {
+      "PLAYER": "Tori Drevna",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "24",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "24"
+    },
+    {
+      "PLAYER": "Tori Drevna",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "4",
+      "THREE_COUNT": "8",
+      "TOTAL_SHOTS": "19"
+    },
+    {
+      "PLAYER": "Tori Drevna",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Off Screens",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "14",
+      "TOTAL_SHOTS": "19"
+    },
+    {
+      "PLAYER": "Tori Drevna",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "10",
+      "TOTAL_SHOTS": "17"
+    },
+    {
+      "PLAYER": "Tori Drevna",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Iso",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "8"
+    },
+    {
+      "PLAYER": "Tori Drevna",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": null,
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Tori Drevna",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Post",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Tyler Hormazabal",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "11",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "6",
+      "THREE_COUNT": "16",
+      "TOTAL_SHOTS": "33"
+    },
+    {
+      "PLAYER": "Tyler Hormazabal",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "25",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "28"
+    },
+    {
+      "PLAYER": "Tyler Hormazabal",
+      "TEAM": "Rensselaer Polytechnic",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "8",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "3",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "14"
+    },
+    {
+      "PLAYER": "Whitney Lewis",
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Zoraida Icabalceta",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Spot Ups",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "12",
+      "TOTAL_SHOTS": "17"
+    },
+    {
+      "PLAYER": "Zoraida Icabalceta",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "PNR",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "6",
+      "MID_COUNT": "3",
+      "THREE_COUNT": "5",
+      "TOTAL_SHOTS": "17"
+    },
+    {
+      "PLAYER": "Zoraida Icabalceta",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Transition",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "6",
+      "TOTAL_SHOTS": "12"
+    },
+    {
+      "PLAYER": "Zoraida Icabalceta",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Iso",
+      "LAYUP_COUNT": "7",
+      "CLOSE_COUNT": "4",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "11"
+    },
+    {
+      "PLAYER": "Zoraida Icabalceta",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Cuts",
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Zoraida Icabalceta",
+      "TEAM": "Ithaca College",
+      "PLAY_TYPE": "Off Screens",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "3",
+      "TOTAL_SHOTS": "5"
+    }
+  ]
+}

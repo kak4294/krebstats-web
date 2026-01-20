@@ -1,0 +1,20 @@
+# Copy this file to .env and update values as needed
+
+# Database Configuration
+DB_HOST=your-database-host.com
+DB_USERNAME=your_username
+DB_PASSWORD=your_password_here
+PORT=25060
+
+# Synergy Credentials
+SYNERGY_LOGIN=your_email@example.com
+SYNERGY_PASS=your_synergy_password
+
+# Database Names
+MENS=RITMensBasketball
+WOMENS=RITWomensBasketball
+
+# API Configuration
+API_HOST=0.0.0.0
+API_PORT=8000
+DEBUG=True

@@ -1,0 +1,1207 @@
+{
+  "success": true,
+  "gender": "womens",
+  "query": "player-shot-location-frequency",
+  "description": "Player shot distribution showing percentage of shots from each court zone",
+  "fetched_at": "2026-01-20T08:17:01.907453",
+  "row_count": 133,
+  "data": [
+    {
+      "PLAYER": "Tori Drevna",
+      "TEAM": "Ithaca College",
+      "LAYUP_COUNT": "79",
+      "CLOSE_COUNT": "22",
+      "MID_COUNT": "21",
+      "THREE_COUNT": "87",
+      "TOTAL_SHOTS": "209"
+    },
+    {
+      "PLAYER": "Caroline Henderson",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "LAYUP_COUNT": "22",
+      "CLOSE_COUNT": "19",
+      "MID_COUNT": "27",
+      "THREE_COUNT": "134",
+      "TOTAL_SHOTS": "202"
+    },
+    {
+      "PLAYER": "Giana Lobozzo",
+      "TEAM": "William Smith Herons",
+      "LAYUP_COUNT": "72",
+      "CLOSE_COUNT": "42",
+      "MID_COUNT": "4",
+      "THREE_COUNT": "73",
+      "TOTAL_SHOTS": "191"
+    },
+    {
+      "PLAYER": "Jelena Perovic",
+      "TEAM": "Union (NY) Chargers",
+      "LAYUP_COUNT": "142",
+      "CLOSE_COUNT": "36",
+      "MID_COUNT": "6",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "185"
+    },
+    {
+      "PLAYER": "Maddy Ramsgard",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "LAYUP_COUNT": "50",
+      "CLOSE_COUNT": "95",
+      "MID_COUNT": "5",
+      "THREE_COUNT": "21",
+      "TOTAL_SHOTS": "171"
+    },
+    {
+      "PLAYER": "Jackie Malley",
+      "TEAM": "St. Lawrence Saints",
+      "LAYUP_COUNT": "44",
+      "CLOSE_COUNT": "7",
+      "MID_COUNT": "6",
+      "THREE_COUNT": "113",
+      "TOTAL_SHOTS": "170"
+    },
+    {
+      "PLAYER": "Olivia Cunningham",
+      "TEAM": "Union (NY) Chargers",
+      "LAYUP_COUNT": "95",
+      "CLOSE_COUNT": "38",
+      "MID_COUNT": "8",
+      "THREE_COUNT": "6",
+      "TOTAL_SHOTS": "147"
+    },
+    {
+      "PLAYER": "Shirley Dong",
+      "TEAM": "Bard College",
+      "LAYUP_COUNT": "48",
+      "CLOSE_COUNT": "21",
+      "MID_COUNT": "8",
+      "THREE_COUNT": "67",
+      "TOTAL_SHOTS": "144"
+    },
+    {
+      "PLAYER": "Fallon Griffin",
+      "TEAM": "Clarkson University Golden Knights",
+      "LAYUP_COUNT": "53",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "86",
+      "TOTAL_SHOTS": "141"
+    },
+    {
+      "PLAYER": "Kate Peek",
+      "TEAM": "Union (NY) Chargers",
+      "LAYUP_COUNT": "21",
+      "CLOSE_COUNT": "15",
+      "MID_COUNT": "14",
+      "THREE_COUNT": "90",
+      "TOTAL_SHOTS": "140"
+    },
+    {
+      "PLAYER": "Madison Gill",
+      "TEAM": "Ithaca College",
+      "LAYUP_COUNT": "67",
+      "CLOSE_COUNT": "15",
+      "MID_COUNT": "5",
+      "THREE_COUNT": "51",
+      "TOTAL_SHOTS": "138"
+    },
+    {
+      "PLAYER": "Norah Niesz",
+      "TEAM": "St. Lawrence Saints",
+      "LAYUP_COUNT": "49",
+      "CLOSE_COUNT": "12",
+      "MID_COUNT": "28",
+      "THREE_COUNT": "49",
+      "TOTAL_SHOTS": "138"
+    },
+    {
+      "PLAYER": "Madison Meyer",
+      "TEAM": "Skidmore Thoroughbreds",
+      "LAYUP_COUNT": "70",
+      "CLOSE_COUNT": "11",
+      "MID_COUNT": "15",
+      "THREE_COUNT": "41",
+      "TOTAL_SHOTS": "137"
+    },
+    {
+      "PLAYER": "Sophie Costello",
+      "TEAM": "Rensselaer Polytechnic",
+      "LAYUP_COUNT": "79",
+      "CLOSE_COUNT": "11",
+      "MID_COUNT": "8",
+      "THREE_COUNT": "38",
+      "TOTAL_SHOTS": "136"
+    },
+    {
+      "PLAYER": "Siena Smith",
+      "TEAM": "Rensselaer Polytechnic",
+      "LAYUP_COUNT": "65",
+      "CLOSE_COUNT": "5",
+      "MID_COUNT": "13",
+      "THREE_COUNT": "52",
+      "TOTAL_SHOTS": "135"
+    },
+    {
+      "PLAYER": "Erin Tobes",
+      "TEAM": "Bard College",
+      "LAYUP_COUNT": "80",
+      "CLOSE_COUNT": "13",
+      "MID_COUNT": "16",
+      "THREE_COUNT": "22",
+      "TOTAL_SHOTS": "131"
+    },
+    {
+      "PLAYER": "Sophia Martinez",
+      "TEAM": "Skidmore Thoroughbreds",
+      "LAYUP_COUNT": "60",
+      "CLOSE_COUNT": "35",
+      "MID_COUNT": "12",
+      "THREE_COUNT": "24",
+      "TOTAL_SHOTS": "131"
+    },
+    {
+      "PLAYER": "Morgan Kottka",
+      "TEAM": "Bard College",
+      "LAYUP_COUNT": "30",
+      "CLOSE_COUNT": "5",
+      "MID_COUNT": "14",
+      "THREE_COUNT": "80",
+      "TOTAL_SHOTS": "129"
+    },
+    {
+      "PLAYER": "Grace Ardito",
+      "TEAM": "Union (NY) Chargers",
+      "LAYUP_COUNT": "50",
+      "CLOSE_COUNT": "8",
+      "MID_COUNT": "6",
+      "THREE_COUNT": "65",
+      "TOTAL_SHOTS": "129"
+    },
+    {
+      "PLAYER": "Grace Ceseretti",
+      "TEAM": "Union (NY) Chargers",
+      "LAYUP_COUNT": "50",
+      "CLOSE_COUNT": "5",
+      "MID_COUNT": "3",
+      "THREE_COUNT": "68",
+      "TOTAL_SHOTS": "126"
+    },
+    {
+      "PLAYER": "Faye Kaplinski",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "LAYUP_COUNT": "109",
+      "CLOSE_COUNT": "7",
+      "MID_COUNT": "9",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "125"
+    },
+    {
+      "PLAYER": "Maureen Regan",
+      "TEAM": "Vassar Brewers",
+      "LAYUP_COUNT": "54",
+      "CLOSE_COUNT": "6",
+      "MID_COUNT": "11",
+      "THREE_COUNT": "54",
+      "TOTAL_SHOTS": "125"
+    },
+    {
+      "PLAYER": "Annie Perry",
+      "TEAM": "St. Lawrence Saints",
+      "LAYUP_COUNT": "40",
+      "CLOSE_COUNT": "4",
+      "MID_COUNT": "19",
+      "THREE_COUNT": "57",
+      "TOTAL_SHOTS": "120"
+    },
+    {
+      "PLAYER": "Sierra McDermed",
+      "TEAM": "Vassar Brewers",
+      "LAYUP_COUNT": "60",
+      "CLOSE_COUNT": "24",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "27",
+      "TOTAL_SHOTS": "111"
+    },
+    {
+      "PLAYER": "Ben Kayser-Cochran",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "LAYUP_COUNT": "51",
+      "CLOSE_COUNT": "13",
+      "MID_COUNT": "8",
+      "THREE_COUNT": "38",
+      "TOTAL_SHOTS": "110"
+    },
+    {
+      "PLAYER": "Lexi Miller",
+      "TEAM": "Bard College",
+      "LAYUP_COUNT": "88",
+      "CLOSE_COUNT": "7",
+      "MID_COUNT": "10",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "107"
+    },
+    {
+      "PLAYER": "Ava Gregory",
+      "TEAM": "Bard College",
+      "LAYUP_COUNT": "21",
+      "CLOSE_COUNT": "4",
+      "MID_COUNT": "10",
+      "THREE_COUNT": "69",
+      "TOTAL_SHOTS": "104"
+    },
+    {
+      "PLAYER": "Mason Baker-Schlendering",
+      "TEAM": "St. Lawrence Saints",
+      "LAYUP_COUNT": "73",
+      "CLOSE_COUNT": "6",
+      "MID_COUNT": "24",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "103"
+    },
+    {
+      "PLAYER": "Hannah Van Dyke",
+      "TEAM": "St. Lawrence Saints",
+      "LAYUP_COUNT": "25",
+      "CLOSE_COUNT": "13",
+      "MID_COUNT": "24",
+      "THREE_COUNT": "40",
+      "TOTAL_SHOTS": "102"
+    },
+    {
+      "PLAYER": "Natalie Tucker",
+      "TEAM": "Ithaca College",
+      "LAYUP_COUNT": "38",
+      "CLOSE_COUNT": "14",
+      "MID_COUNT": "11",
+      "THREE_COUNT": "35",
+      "TOTAL_SHOTS": "98"
+    },
+    {
+      "PLAYER": "Ava Lobozzo",
+      "TEAM": "William Smith Herons",
+      "LAYUP_COUNT": "46",
+      "CLOSE_COUNT": "34",
+      "MID_COUNT": "10",
+      "THREE_COUNT": "8",
+      "TOTAL_SHOTS": "98"
+    },
+    {
+      "PLAYER": "Grace McNamara",
+      "TEAM": "Ithaca College",
+      "LAYUP_COUNT": "54",
+      "CLOSE_COUNT": "18",
+      "MID_COUNT": "14",
+      "THREE_COUNT": "9",
+      "TOTAL_SHOTS": "95"
+    },
+    {
+      "PLAYER": "Aislynn Dixon",
+      "TEAM": "Bard College",
+      "LAYUP_COUNT": "14",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "79",
+      "TOTAL_SHOTS": "94"
+    },
+    {
+      "PLAYER": "Amelia McCulley",
+      "TEAM": "William Smith Herons",
+      "LAYUP_COUNT": "36",
+      "CLOSE_COUNT": "12",
+      "MID_COUNT": "4",
+      "THREE_COUNT": "42",
+      "TOTAL_SHOTS": "94"
+    },
+    {
+      "PLAYER": "Jessica Martin",
+      "TEAM": "Bard College",
+      "LAYUP_COUNT": "10",
+      "CLOSE_COUNT": "6",
+      "MID_COUNT": "10",
+      "THREE_COUNT": "66",
+      "TOTAL_SHOTS": "92"
+    },
+    {
+      "PLAYER": "Bella Doyle",
+      "TEAM": "Clarkson University Golden Knights",
+      "LAYUP_COUNT": "63",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "7",
+      "THREE_COUNT": "20",
+      "TOTAL_SHOTS": "92"
+    },
+    {
+      "PLAYER": "Lindsey Shoulders",
+      "TEAM": "Vassar Brewers",
+      "LAYUP_COUNT": "74",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "6",
+      "THREE_COUNT": "10",
+      "TOTAL_SHOTS": "92"
+    },
+    {
+      "PLAYER": "Tyler Hormazabal",
+      "TEAM": "Rensselaer Polytechnic",
+      "LAYUP_COUNT": "59",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "11",
+      "THREE_COUNT": "20",
+      "TOTAL_SHOTS": "91"
+    },
+    {
+      "PLAYER": "Molly Libby",
+      "TEAM": "Rensselaer Polytechnic",
+      "LAYUP_COUNT": "19",
+      "CLOSE_COUNT": "8",
+      "MID_COUNT": "24",
+      "THREE_COUNT": "37",
+      "TOTAL_SHOTS": "88"
+    },
+    {
+      "PLAYER": "Addie Kea",
+      "TEAM": "Clarkson University Golden Knights",
+      "LAYUP_COUNT": "43",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "7",
+      "THREE_COUNT": "36",
+      "TOTAL_SHOTS": "87"
+    },
+    {
+      "PLAYER": "Madalyn Barrows",
+      "TEAM": "Ithaca College",
+      "LAYUP_COUNT": "34",
+      "CLOSE_COUNT": "9",
+      "MID_COUNT": "3",
+      "THREE_COUNT": "41",
+      "TOTAL_SHOTS": "87"
+    },
+    {
+      "PLAYER": "Emilia Rojik",
+      "TEAM": "Rensselaer Polytechnic",
+      "LAYUP_COUNT": "63",
+      "CLOSE_COUNT": "4",
+      "MID_COUNT": "7",
+      "THREE_COUNT": "13",
+      "TOTAL_SHOTS": "87"
+    },
+    {
+      "PLAYER": "Claudia Schneider",
+      "TEAM": "Skidmore Thoroughbreds",
+      "LAYUP_COUNT": "51",
+      "CLOSE_COUNT": "12",
+      "MID_COUNT": "13",
+      "THREE_COUNT": "11",
+      "TOTAL_SHOTS": "87"
+    },
+    {
+      "PLAYER": "Brooke Boyle",
+      "TEAM": "Rensselaer Polytechnic",
+      "LAYUP_COUNT": "54",
+      "CLOSE_COUNT": "5",
+      "MID_COUNT": "4",
+      "THREE_COUNT": "23",
+      "TOTAL_SHOTS": "86"
+    },
+    {
+      "PLAYER": "McKenzie Mandyck",
+      "TEAM": "William Smith Herons",
+      "LAYUP_COUNT": "26",
+      "CLOSE_COUNT": "6",
+      "MID_COUNT": "3",
+      "THREE_COUNT": "51",
+      "TOTAL_SHOTS": "86"
+    },
+    {
+      "PLAYER": "Miranda Martin",
+      "TEAM": "William Smith Herons",
+      "LAYUP_COUNT": "32",
+      "CLOSE_COUNT": "8",
+      "MID_COUNT": "5",
+      "THREE_COUNT": "39",
+      "TOTAL_SHOTS": "84"
+    },
+    {
+      "PLAYER": "Kate Campbell",
+      "TEAM": "Clarkson University Golden Knights",
+      "LAYUP_COUNT": "35",
+      "CLOSE_COUNT": "4",
+      "MID_COUNT": "16",
+      "THREE_COUNT": "21",
+      "TOTAL_SHOTS": "76"
+    },
+    {
+      "PLAYER": "Zoraida Icabalceta",
+      "TEAM": "Ithaca College",
+      "LAYUP_COUNT": "27",
+      "CLOSE_COUNT": "15",
+      "MID_COUNT": "4",
+      "THREE_COUNT": "30",
+      "TOTAL_SHOTS": "76"
+    },
+    {
+      "PLAYER": "Sophia Ippolito",
+      "TEAM": "Vassar Brewers",
+      "LAYUP_COUNT": "31",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "7",
+      "THREE_COUNT": "35",
+      "TOTAL_SHOTS": "73"
+    },
+    {
+      "PLAYER": "Carly Scott",
+      "TEAM": "William Smith Herons",
+      "LAYUP_COUNT": "8",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "63",
+      "TOTAL_SHOTS": "73"
+    },
+    {
+      "PLAYER": "Sydney Pearson",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "LAYUP_COUNT": "49",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "3",
+      "THREE_COUNT": "16",
+      "TOTAL_SHOTS": "71"
+    },
+    {
+      "PLAYER": "Hannah Durand",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "LAYUP_COUNT": "38",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "32",
+      "TOTAL_SHOTS": "71"
+    },
+    {
+      "PLAYER": "Elodie Ware",
+      "TEAM": "Vassar Brewers",
+      "LAYUP_COUNT": "36",
+      "CLOSE_COUNT": "7",
+      "MID_COUNT": "7",
+      "THREE_COUNT": "21",
+      "TOTAL_SHOTS": "71"
+    },
+    {
+      "PLAYER": "Morgan Schultz",
+      "TEAM": "Union (NY) Chargers",
+      "LAYUP_COUNT": "67",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "69"
+    },
+    {
+      "PLAYER": "Emma Chambers",
+      "TEAM": "Clarkson University Golden Knights",
+      "LAYUP_COUNT": "28",
+      "CLOSE_COUNT": "5",
+      "MID_COUNT": "8",
+      "THREE_COUNT": "27",
+      "TOTAL_SHOTS": "68"
+    },
+    {
+      "PLAYER": "Alexis Kress",
+      "TEAM": "Clarkson University Golden Knights",
+      "LAYUP_COUNT": "18",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "8",
+      "THREE_COUNT": "38",
+      "TOTAL_SHOTS": "67"
+    },
+    {
+      "PLAYER": "Bridget McCleary",
+      "TEAM": "William Smith Herons",
+      "LAYUP_COUNT": "44",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "6",
+      "THREE_COUNT": "14",
+      "TOTAL_SHOTS": "66"
+    },
+    {
+      "PLAYER": "Sara Hastie",
+      "TEAM": "Skidmore Thoroughbreds",
+      "LAYUP_COUNT": "32",
+      "CLOSE_COUNT": "5",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "26",
+      "TOTAL_SHOTS": "64"
+    },
+    {
+      "PLAYER": "Sydney Blaney",
+      "TEAM": "Rensselaer Polytechnic",
+      "LAYUP_COUNT": "26",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "9",
+      "THREE_COUNT": "24",
+      "TOTAL_SHOTS": "61"
+    },
+    {
+      "PLAYER": "Ryley Tate-Padian",
+      "TEAM": "Union (NY) Chargers",
+      "LAYUP_COUNT": "36",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "21",
+      "TOTAL_SHOTS": "61"
+    },
+    {
+      "PLAYER": "Jojo Sulmasy",
+      "TEAM": "William Smith Herons",
+      "LAYUP_COUNT": "54",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "3",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "61"
+    },
+    {
+      "PLAYER": "Stevie Bannon",
+      "TEAM": "St. Lawrence Saints",
+      "LAYUP_COUNT": "45",
+      "CLOSE_COUNT": "5",
+      "MID_COUNT": "6",
+      "THREE_COUNT": "4",
+      "TOTAL_SHOTS": "60"
+    },
+    {
+      "PLAYER": "Ruby Krop",
+      "TEAM": "Skidmore Thoroughbreds",
+      "LAYUP_COUNT": "35",
+      "CLOSE_COUNT": "4",
+      "MID_COUNT": "10",
+      "THREE_COUNT": "10",
+      "TOTAL_SHOTS": "59"
+    },
+    {
+      "PLAYER": "Danielle Strauf",
+      "TEAM": "Rensselaer Polytechnic",
+      "LAYUP_COUNT": "15",
+      "CLOSE_COUNT": "4",
+      "MID_COUNT": "8",
+      "THREE_COUNT": "30",
+      "TOTAL_SHOTS": "57"
+    },
+    {
+      "PLAYER": "Mary Bernat",
+      "TEAM": "Ithaca College",
+      "LAYUP_COUNT": "49",
+      "CLOSE_COUNT": "7",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "56"
+    },
+    {
+      "PLAYER": "Kenzie Perluke",
+      "TEAM": "Ithaca College",
+      "LAYUP_COUNT": "28",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "22",
+      "TOTAL_SHOTS": "54"
+    },
+    {
+      "PLAYER": "Niamh Gendron",
+      "TEAM": "Rensselaer Polytechnic",
+      "LAYUP_COUNT": "18",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "34",
+      "TOTAL_SHOTS": "53"
+    },
+    {
+      "PLAYER": "Simone Pintinalli",
+      "TEAM": "Ithaca College",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "15",
+      "THREE_COUNT": "31",
+      "TOTAL_SHOTS": "52"
+    },
+    {
+      "PLAYER": "Elizabeth Flynn",
+      "TEAM": "St. Lawrence Saints",
+      "LAYUP_COUNT": "32",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "8",
+      "THREE_COUNT": "9",
+      "TOTAL_SHOTS": "50"
+    },
+    {
+      "PLAYER": "Izzy Caron",
+      "TEAM": "St. Lawrence Saints",
+      "LAYUP_COUNT": "20",
+      "CLOSE_COUNT": "6",
+      "MID_COUNT": "3",
+      "THREE_COUNT": "21",
+      "TOTAL_SHOTS": "50"
+    },
+    {
+      "PLAYER": "Aila Dervisevic",
+      "TEAM": "Ithaca College",
+      "LAYUP_COUNT": "7",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "37",
+      "TOTAL_SHOTS": "49"
+    },
+    {
+      "PLAYER": "Meghan Drury",
+      "TEAM": "Skidmore Thoroughbreds",
+      "LAYUP_COUNT": "25",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "20",
+      "TOTAL_SHOTS": "48"
+    },
+    {
+      "PLAYER": "Rachel Carpenter",
+      "TEAM": "Skidmore Thoroughbreds",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "44",
+      "TOTAL_SHOTS": "47"
+    },
+    {
+      "PLAYER": "Tianna Gonzalez",
+      "TEAM": "Bard College",
+      "LAYUP_COUNT": "30",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "12",
+      "TOTAL_SHOTS": "45"
+    },
+    {
+      "PLAYER": "Megan Heyns",
+      "TEAM": "Rensselaer Polytechnic",
+      "LAYUP_COUNT": "18",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "6",
+      "THREE_COUNT": "19",
+      "TOTAL_SHOTS": "44"
+    },
+    {
+      "PLAYER": "Stella Criniti",
+      "TEAM": "Skidmore Thoroughbreds",
+      "LAYUP_COUNT": "11",
+      "CLOSE_COUNT": "5",
+      "MID_COUNT": "7",
+      "THREE_COUNT": "20",
+      "TOTAL_SHOTS": "43"
+    },
+    {
+      "PLAYER": "Erin Lovett",
+      "TEAM": "Vassar Brewers",
+      "LAYUP_COUNT": "38",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "41"
+    },
+    {
+      "PLAYER": "Avery McPeek",
+      "TEAM": "Ithaca College",
+      "LAYUP_COUNT": "25",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "14",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "39"
+    },
+    {
+      "PLAYER": "Maddy Polky",
+      "TEAM": "Clarkson University Golden Knights",
+      "LAYUP_COUNT": "21",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "5",
+      "THREE_COUNT": "12",
+      "TOTAL_SHOTS": "38"
+    },
+    {
+      "PLAYER": "Erin Dipaola",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "LAYUP_COUNT": "19",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "15",
+      "TOTAL_SHOTS": "38"
+    },
+    {
+      "PLAYER": "Elizabeth Aiossa",
+      "TEAM": "Clarkson University Golden Knights",
+      "LAYUP_COUNT": "31",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "36"
+    },
+    {
+      "PLAYER": "Jenny Shine",
+      "TEAM": "Skidmore Thoroughbreds",
+      "LAYUP_COUNT": "26",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "6",
+      "TOTAL_SHOTS": "36"
+    },
+    {
+      "PLAYER": "Ella Wilson",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "LAYUP_COUNT": "22",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "9",
+      "TOTAL_SHOTS": "34"
+    },
+    {
+      "PLAYER": "Margaret Dougher",
+      "TEAM": "St. Lawrence Saints",
+      "LAYUP_COUNT": "11",
+      "CLOSE_COUNT": "4",
+      "MID_COUNT": "3",
+      "THREE_COUNT": "12",
+      "TOTAL_SHOTS": "30"
+    },
+    {
+      "PLAYER": "Kira Ostovar",
+      "TEAM": "William Smith Herons",
+      "LAYUP_COUNT": "9",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "8",
+      "THREE_COUNT": "10",
+      "TOTAL_SHOTS": "30"
+    },
+    {
+      "PLAYER": "Callie Flynn",
+      "TEAM": "Rensselaer Polytechnic",
+      "LAYUP_COUNT": "25",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "25"
+    },
+    {
+      "PLAYER": "Sam Lederman",
+      "TEAM": "Vassar Brewers",
+      "LAYUP_COUNT": "9",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "9",
+      "TOTAL_SHOTS": "21"
+    },
+    {
+      "PLAYER": "Riley Cullen",
+      "TEAM": "Clarkson University Golden Knights",
+      "LAYUP_COUNT": "18",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "20"
+    },
+    {
+      "PLAYER": "Ava Gurley",
+      "TEAM": "Vassar Brewers",
+      "LAYUP_COUNT": "10",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "10",
+      "TOTAL_SHOTS": "20"
+    },
+    {
+      "PLAYER": "Sophia Spizuoco",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "6",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "9",
+      "TOTAL_SHOTS": "19"
+    },
+    {
+      "PLAYER": "Alexis Mackenzie",
+      "TEAM": "St. Lawrence Saints",
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "11",
+      "TOTAL_SHOTS": "19"
+    },
+    {
+      "PLAYER": "Melissa Severino",
+      "TEAM": "Skidmore Thoroughbreds",
+      "LAYUP_COUNT": "8",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "3",
+      "THREE_COUNT": "6",
+      "TOTAL_SHOTS": "18"
+    },
+    {
+      "PLAYER": "Lily Wohlleber",
+      "TEAM": "Ithaca College",
+      "LAYUP_COUNT": "15",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "17"
+    },
+    {
+      "PLAYER": "Dani Krenzer",
+      "TEAM": "William Smith Herons",
+      "LAYUP_COUNT": "7",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "4",
+      "THREE_COUNT": "3",
+      "TOTAL_SHOTS": "16"
+    },
+    {
+      "PLAYER": "Anne Keneally",
+      "TEAM": "William Smith Herons",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "4",
+      "THREE_COUNT": "11",
+      "TOTAL_SHOTS": "16"
+    },
+    {
+      "PLAYER": "Mia Firdman",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "LAYUP_COUNT": "9",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "4",
+      "TOTAL_SHOTS": "15"
+    },
+    {
+      "PLAYER": "Simran Randhawa",
+      "TEAM": "Rensselaer Polytechnic",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "11",
+      "TOTAL_SHOTS": "14"
+    },
+    {
+      "PLAYER": "Eliana York",
+      "TEAM": "Clarkson University Golden Knights",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "3",
+      "THREE_COUNT": "5",
+      "TOTAL_SHOTS": "13"
+    },
+    {
+      "PLAYER": "Whitney Lewis",
+      "TEAM": "St. Lawrence Saints",
+      "LAYUP_COUNT": "11",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "13"
+    },
+    {
+      "PLAYER": "Audrey Bowen",
+      "TEAM": "Skidmore Thoroughbreds",
+      "LAYUP_COUNT": "11",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "12"
+    },
+    {
+      "PLAYER": "Emily Wendt",
+      "TEAM": "St. Lawrence Saints",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "6",
+      "TOTAL_SHOTS": "12"
+    },
+    {
+      "PLAYER": "Ryanne Gulbin",
+      "TEAM": "Union (NY) Chargers",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "9",
+      "TOTAL_SHOTS": "12"
+    },
+    {
+      "PLAYER": "Aiden Gill",
+      "TEAM": "Union (NY) Chargers",
+      "LAYUP_COUNT": "9",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "12"
+    },
+    {
+      "PLAYER": "Emery Mullen",
+      "TEAM": "Vassar Brewers",
+      "LAYUP_COUNT": "9",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "12"
+    },
+    {
+      "PLAYER": "Ava Latizia",
+      "TEAM": "Rensselaer Polytechnic",
+      "LAYUP_COUNT": "6",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "4",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "11"
+    },
+    {
+      "PLAYER": "Casey Weeren",
+      "TEAM": "Union (NY) Chargers",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "4",
+      "TOTAL_SHOTS": "11"
+    },
+    {
+      "PLAYER": "Jessica Sterbens",
+      "TEAM": "Rensselaer Polytechnic",
+      "LAYUP_COUNT": "8",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "10"
+    },
+    {
+      "PLAYER": "Hannah Manley",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "4",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "10"
+    },
+    {
+      "PLAYER": "Caroline Smith",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "LAYUP_COUNT": "9",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "10"
+    },
+    {
+      "PLAYER": "Emma Phelan",
+      "TEAM": "Ithaca College",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "9"
+    },
+    {
+      "PLAYER": "Maddie Ahearn",
+      "TEAM": "Vassar Brewers",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "4",
+      "TOTAL_SHOTS": "9"
+    },
+    {
+      "PLAYER": "Eily Hubler",
+      "TEAM": "William Smith Herons",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "6",
+      "TOTAL_SHOTS": "9"
+    },
+    {
+      "PLAYER": "Sonya Benhassen",
+      "TEAM": "Ithaca College",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "3",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "8"
+    },
+    {
+      "PLAYER": "Abby Cleary",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "LAYUP_COUNT": "7",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "8"
+    },
+    {
+      "PLAYER": "Kate Mocho",
+      "TEAM": "Ithaca College",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "4",
+      "TOTAL_SHOTS": "7"
+    },
+    {
+      "PLAYER": "Elyssa Kalamaras",
+      "TEAM": "Rensselaer Polytechnic",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "7"
+    },
+    {
+      "PLAYER": "Aiko Bastiaens",
+      "TEAM": "Union (NY) Chargers",
+      "LAYUP_COUNT": "7",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "7"
+    },
+    {
+      "PLAYER": "Caroline Vient",
+      "TEAM": "Rensselaer Polytechnic",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "2",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Hazel Hoog",
+      "TEAM": "Union (NY) Chargers",
+      "LAYUP_COUNT": "5",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "6"
+    },
+    {
+      "PLAYER": "Lili Shanahan",
+      "TEAM": "Ithaca College",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Anna O'Keefe",
+      "TEAM": "Union (NY) Chargers",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "1",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "5"
+    },
+    {
+      "PLAYER": "Olivia Stevens",
+      "TEAM": "Ithaca College",
+      "LAYUP_COUNT": "4",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "4"
+    },
+    {
+      "PLAYER": "Olivia Powers",
+      "TEAM": "Clarkson University Golden Knights",
+      "LAYUP_COUNT": "3",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "3"
+    },
+    {
+      "PLAYER": "Allie Grove",
+      "TEAM": "Union (NY) Chargers",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "2",
+      "TOTAL_SHOTS": "3"
+    },
+    {
+      "PLAYER": "Ally Burke",
+      "TEAM": "Union (NY) Chargers",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "3"
+    },
+    {
+      "PLAYER": "Aliza Flore",
+      "TEAM": "Clarkson University Golden Knights",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "2"
+    },
+    {
+      "PLAYER": "Megan Cassidy",
+      "TEAM": "Ithaca College",
+      "LAYUP_COUNT": "2",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "2"
+    },
+    {
+      "PLAYER": "Josie Cancro",
+      "TEAM": "St. Lawrence Saints",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "2"
+    },
+    {
+      "PLAYER": "Sarah Abbott",
+      "TEAM": "Clarkson University Golden Knights",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "1"
+    },
+    {
+      "PLAYER": "Sydney Dodds",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "1",
+      "TOTAL_SHOTS": "1"
+    },
+    {
+      "PLAYER": "Addison Westbrook",
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "1"
+    },
+    {
+      "PLAYER": "Caelan McCormack",
+      "TEAM": "St. Lawrence Saints",
+      "LAYUP_COUNT": "1",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "1"
+    },
+    {
+      "PLAYER": "Ella Pysnack",
+      "TEAM": "William Smith Herons",
+      "LAYUP_COUNT": "0",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "1",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "1"
+    }
+  ]
+}

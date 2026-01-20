@@ -18,6 +18,7 @@ import AboutSection from "../rit-basketball-components/AboutSection.jsx";
 import MembersSection from "../rit-basketball-components/MembersSection.jsx";
 import EventsSection from "../rit-basketball-components/EventsSection.jsx";
 import StatsSection from "../rit-basketball-components/StatsSection.jsx";
+import TeamStatisticsSection from "../rit-basketball-components/TeamStatisticsSection.jsx";
 
 export default function RITBasketballPage() {
   return (
@@ -26,6 +27,9 @@ export default function RITBasketballPage() {
       <div className="space-y-0">
         <section id="stats">
           <StatsSection />
+        </section>
+        <section id="team-statistics">
+          <TeamStatisticsSection />
         </section>
         <section id="projects">
           <ProjectsSection />

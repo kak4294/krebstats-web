@@ -3,7 +3,7 @@
   "gender": "mens",
   "query": "team-playtype-shot-frequency",
   "description": "Team shot distribution by play type, showing where teams shoot from on different offensive actions",
-  "fetched_at": "2026-01-20T12:30:25.956160",
+  "fetched_at": "2026-01-20T15:03:58.801538",
   "row_count": 103,
   "data": [
     {

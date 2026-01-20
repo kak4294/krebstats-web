@@ -3,7 +3,7 @@
   "gender": "mens",
   "query": "player-offensive-efficiency",
   "description": "Player offensive efficiency by play type with shooting percentages, PPP, and percentile rankings",
-  "fetched_at": "2026-01-20T12:30:26.591950",
+  "fetched_at": "2026-01-20T15:03:59.375549",
   "row_count": 248,
   "data": [
     {

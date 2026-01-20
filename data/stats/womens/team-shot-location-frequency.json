@@ -3,7 +3,7 @@
   "gender": "womens",
   "query": "team-shot-location-frequency",
   "description": "Team shot distribution showing percentage of shots from each court zone",
-  "fetched_at": "2026-01-20T12:30:30.773392",
+  "fetched_at": "2026-01-20T15:04:04.041580",
   "row_count": 10,
   "data": [
     {

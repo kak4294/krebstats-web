@@ -3,7 +3,7 @@
   "gender": "womens",
   "query": "player-shot-location-frequency",
   "description": "Player shot distribution showing percentage of shots from each court zone",
-  "fetched_at": "2026-01-20T12:30:33.294441",
+  "fetched_at": "2026-01-20T15:04:06.386948",
   "row_count": 133,
   "data": [
     {

@@ -3,7 +3,7 @@
   "gender": "womens",
   "query": "player-shot-location-efficiency",
   "description": "Player shooting efficiency from different court areas (Layup, Close, Mid-Range, 3P) with percentile rankings",
-  "fetched_at": "2026-01-20T12:30:32.623250",
+  "fetched_at": "2026-01-20T15:04:05.723031",
   "row_count": 109,
   "data": [
     {

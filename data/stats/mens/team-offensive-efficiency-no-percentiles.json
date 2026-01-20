@@ -3,7 +3,7 @@
   "gender": "mens",
   "query": "team-offensive-efficiency",
   "include_percentiles": false,
-  "fetched_at": "2026-01-20T08:51:57.167463",
+  "fetched_at": "2026-01-20T11:52:53.125374",
   "row_count": 100,
   "data": [
     {
@@ -21,14 +21,14 @@
     {
       "PLAY_TYPE": "Spot Ups",
       "TEAM": "Hobart College Statesmen",
-      "PPP": "0.7817",
-      "2PA": "128",
-      "2PM": "46",
-      "2P%": "35.94",
-      "3PA": "214",
-      "3PM": "72",
-      "3P%": "33.64",
-      "PLAY_COUNT": 394
+      "PPP": "0.7773",
+      "2PA": "139",
+      "2PM": "50",
+      "2P%": "35.97",
+      "3PA": "229",
+      "3PM": "76",
+      "3P%": "33.19",
+      "PLAY_COUNT": 422
     },
     {
       "PLAY_TYPE": "Spot Ups",
@@ -69,14 +69,26 @@
     {
       "PLAY_TYPE": "Transition",
       "TEAM": "Hobart College Statesmen",
-      "PPP": "0.8095",
-      "2PA": "167",
-      "2PM": "97",
-      "2P%": "58.08",
-      "3PA": "63",
+      "PPP": "0.7919",
+      "2PA": "171",
+      "2PM": "98",
+      "2P%": "57.31",
+      "3PA": "67",
       "3PM": "26",
-      "3P%": "41.27",
-      "PLAY_COUNT": 336
+      "3P%": "38.81",
+      "PLAY_COUNT": 346
+    },
+    {
+      "PLAY_TYPE": "Spot Ups",
+      "TEAM": "St. Lawrence Saints",
+      "PPP": "0.6500",
+      "2PA": "116",
+      "2PM": "37",
+      "2P%": "31.90",
+      "3PA": "163",
+      "3PM": "49",
+      "3P%": "30.06",
+      "PLAY_COUNT": 340
     },
     {
       "PLAY_TYPE": "Spot Ups",
@@ -89,18 +101,6 @@
       "3PM": "93",
       "3P%": "36.90",
       "PLAY_COUNT": 331
-    },
-    {
-      "PLAY_TYPE": "Spot Ups",
-      "TEAM": "St. Lawrence Saints",
-      "PPP": "0.6740",
-      "2PA": "114",
-      "2PM": "37",
-      "2P%": "32.46",
-      "3PA": "149",
-      "3PM": "47",
-      "3P%": "31.54",
-      "PLAY_COUNT": 319
     },
     {
       "PLAY_TYPE": "Spot Ups",
@@ -153,14 +153,14 @@
     {
       "PLAY_TYPE": "Transition",
       "TEAM": "St. Lawrence Saints",
-      "PPP": "0.6364",
-      "2PA": "90",
-      "2PM": "45",
+      "PPP": "0.6360",
+      "2PA": "92",
+      "2PM": "46",
       "2P%": "50.00",
-      "3PA": "74",
-      "3PM": "19",
-      "3P%": "25.68",
-      "PLAY_COUNT": 231
+      "3PA": "77",
+      "3PM": "20",
+      "3P%": "25.97",
+      "PLAY_COUNT": 239
     },
     {
       "PLAY_TYPE": "Transition",
@@ -331,18 +331,6 @@
       "PLAY_COUNT": 134
     },
     {
-      "PLAY_TYPE": "Misc",
-      "TEAM": "Bard College",
-      "PPP": "0.0902",
-      "2PA": "12",
-      "2PM": "6",
-      "2P%": "50.00",
-      "3PA": "3",
-      "3PM": "0",
-      "3P%": "0.00",
-      "PLAY_COUNT": 133
-    },
-    {
       "PLAY_TYPE": "Cuts",
       "TEAM": "Union (NY) Chargers",
       "PPP": "1.0376",
@@ -352,6 +340,18 @@
       "3PA": "0",
       "3PM": "0",
       "3P%": null,
+      "PLAY_COUNT": 133
+    },
+    {
+      "PLAY_TYPE": "Misc",
+      "TEAM": "Bard College",
+      "PPP": "0.0902",
+      "2PA": "12",
+      "2PM": "6",
+      "2P%": "50.00",
+      "3PA": "3",
+      "3PM": "0",
+      "3P%": "0.00",
       "PLAY_COUNT": 133
     },
     {
@@ -404,6 +404,18 @@
     },
     {
       "PLAY_TYPE": "Cuts",
+      "TEAM": "Hobart College Statesmen",
+      "PPP": "0.7241",
+      "2PA": "82",
+      "2PM": "42",
+      "2P%": "51.22",
+      "3PA": "0",
+      "3PM": "0",
+      "3P%": null,
+      "PLAY_COUNT": 116
+    },
+    {
+      "PLAY_TYPE": "Cuts",
       "TEAM": "Rochester Institute of Technology Tigers",
       "PPP": "0.9908",
       "2PA": "88",
@@ -413,6 +425,18 @@
       "3PM": "0",
       "3P%": null,
       "PLAY_COUNT": 109
+    },
+    {
+      "PLAY_TYPE": "PNR",
+      "TEAM": "St. Lawrence Saints",
+      "PPP": "0.6796",
+      "2PA": "50",
+      "2PM": "23",
+      "2P%": "46.00",
+      "3PA": "28",
+      "3PM": "8",
+      "3P%": "28.57",
+      "PLAY_COUNT": 103
     },
     {
       "PLAY_TYPE": "Cuts",
@@ -440,18 +464,6 @@
     },
     {
       "PLAY_TYPE": "PNR",
-      "TEAM": "St. Lawrence Saints",
-      "PPP": "0.6465",
-      "2PA": "47",
-      "2PM": "20",
-      "2P%": "42.55",
-      "3PA": "28",
-      "3PM": "8",
-      "3P%": "28.57",
-      "PLAY_COUNT": 99
-    },
-    {
-      "PLAY_TYPE": "PNR",
       "TEAM": "Union (NY) Chargers",
       "PPP": "0.5368",
       "2PA": "48",
@@ -461,18 +473,6 @@
       "3PM": "5",
       "3P%": "20.83",
       "PLAY_COUNT": 95
-    },
-    {
-      "PLAY_TYPE": "Cuts",
-      "TEAM": "Hobart College Statesmen",
-      "PPP": "0.8298",
-      "2PA": "68",
-      "2PM": "39",
-      "2P%": "57.35",
-      "3PA": "0",
-      "3PM": "0",
-      "3P%": null,
-      "PLAY_COUNT": 94
     },
     {
       "PLAY_TYPE": "Cuts",
@@ -500,6 +500,18 @@
     },
     {
       "PLAY_TYPE": "Misc",
+      "TEAM": "Hobart College Statesmen",
+      "PPP": "0.0674",
+      "2PA": "5",
+      "2PM": "3",
+      "2P%": "60.00",
+      "3PA": "4",
+      "3PM": "0",
+      "3P%": "0.00",
+      "PLAY_COUNT": 89
+    },
+    {
+      "PLAY_TYPE": "Misc",
       "TEAM": "Rensselaer Polytechnic",
       "PPP": "0.0682",
       "2PA": "6",
@@ -509,18 +521,6 @@
       "3PM": "0",
       "3P%": "0.00",
       "PLAY_COUNT": 88
-    },
-    {
-      "PLAY_TYPE": "Post",
-      "TEAM": "Rensselaer Polytechnic",
-      "PPP": "0.7209",
-      "2PA": "65",
-      "2PM": "31",
-      "2P%": "47.69",
-      "3PA": "0",
-      "3PM": "0",
-      "3P%": null,
-      "PLAY_COUNT": 86
     },
     {
       "PLAY_TYPE": "PNR",
@@ -535,27 +535,39 @@
       "PLAY_COUNT": 86
     },
     {
+      "PLAY_TYPE": "Post",
+      "TEAM": "Rensselaer Polytechnic",
+      "PPP": "0.7209",
+      "2PA": "65",
+      "2PM": "31",
+      "2P%": "47.69",
+      "3PA": "0",
+      "3PM": "0",
+      "3P%": null,
+      "PLAY_COUNT": 86
+    },
+    {
       "PLAY_TYPE": "Cuts",
       "TEAM": "St. Lawrence Saints",
-      "PPP": "0.6824",
+      "PPP": "0.6744",
       "2PA": "61",
       "2PM": "29",
       "2P%": "47.54",
       "3PA": "0",
       "3PM": "0",
       "3P%": null,
-      "PLAY_COUNT": 85
+      "PLAY_COUNT": 86
     },
     {
       "PLAY_TYPE": "Misc",
-      "TEAM": "Hobart College Statesmen",
-      "PPP": "0.0714",
+      "TEAM": "St. Lawrence Saints",
+      "PPP": "0.1190",
       "2PA": "5",
-      "2PM": "3",
-      "2P%": "60.00",
-      "3PA": "3",
-      "3PM": "0",
-      "3P%": "0.00",
+      "2PM": "2",
+      "2P%": "40.00",
+      "3PA": "11",
+      "3PM": "2",
+      "3P%": "18.18",
       "PLAY_COUNT": 84
     },
     {
@@ -571,6 +583,18 @@
       "PLAY_COUNT": 84
     },
     {
+      "PLAY_TYPE": null,
+      "TEAM": "Hobart College Statesmen",
+      "PPP": "0.6914",
+      "2PA": "55",
+      "2PM": "28",
+      "2P%": "50.91",
+      "3PA": "0",
+      "3PM": "0",
+      "3P%": null,
+      "PLAY_COUNT": 81
+    },
+    {
       "PLAY_TYPE": "Misc",
       "TEAM": "Skidmore Thoroughbreds",
       "PPP": "0.0750",
@@ -581,18 +605,6 @@
       "3PM": "0",
       "3P%": null,
       "PLAY_COUNT": 80
-    },
-    {
-      "PLAY_TYPE": "Misc",
-      "TEAM": "St. Lawrence Saints",
-      "PPP": "0.1282",
-      "2PA": "4",
-      "2PM": "2",
-      "2P%": "50.00",
-      "3PA": "9",
-      "3PM": "2",
-      "3P%": "22.22",
-      "PLAY_COUNT": 78
     },
     {
       "PLAY_TYPE": null,
@@ -607,16 +619,16 @@
       "PLAY_COUNT": 78
     },
     {
-      "PLAY_TYPE": null,
-      "TEAM": "Hobart College Statesmen",
-      "PPP": "0.6579",
-      "2PA": "52",
-      "2PM": "25",
-      "2P%": "48.08",
-      "3PA": "0",
-      "3PM": "0",
-      "3P%": null,
-      "PLAY_COUNT": 76
+      "PLAY_TYPE": "Iso",
+      "TEAM": "St. Lawrence Saints",
+      "PPP": "0.6410",
+      "2PA": "42",
+      "2PM": "19",
+      "2P%": "45.24",
+      "3PA": "9",
+      "3PM": "4",
+      "3P%": "44.44",
+      "PLAY_COUNT": 78
     },
     {
       "PLAY_TYPE": null,
@@ -629,18 +641,6 @@
       "3PM": "1",
       "3P%": "50.00",
       "PLAY_COUNT": 76
-    },
-    {
-      "PLAY_TYPE": null,
-      "TEAM": "Rochester Institute of Technology Tigers",
-      "PPP": "0.7222",
-      "2PA": "56",
-      "2PM": "26",
-      "2P%": "46.43",
-      "3PA": "1",
-      "3PM": "0",
-      "3P%": "0.00",
-      "PLAY_COUNT": 72
     },
     {
       "PLAY_TYPE": "Hand Offs",
@@ -667,16 +667,16 @@
       "PLAY_COUNT": 72
     },
     {
-      "PLAY_TYPE": "PNR",
-      "TEAM": "Rensselaer Polytechnic",
-      "PPP": "0.5072",
-      "2PA": "30",
-      "2PM": "7",
-      "2P%": "23.33",
-      "3PA": "17",
-      "3PM": "7",
-      "3P%": "41.18",
-      "PLAY_COUNT": 69
+      "PLAY_TYPE": null,
+      "TEAM": "Rochester Institute of Technology Tigers",
+      "PPP": "0.7222",
+      "2PA": "56",
+      "2PM": "26",
+      "2P%": "46.43",
+      "3PA": "1",
+      "3PM": "0",
+      "3P%": "0.00",
+      "PLAY_COUNT": 72
     },
     {
       "PLAY_TYPE": "Post",
@@ -688,6 +688,18 @@
       "3PA": "0",
       "3PM": "0",
       "3P%": null,
+      "PLAY_COUNT": 69
+    },
+    {
+      "PLAY_TYPE": "PNR",
+      "TEAM": "Rensselaer Polytechnic",
+      "PPP": "0.5072",
+      "2PA": "30",
+      "2PM": "7",
+      "2P%": "23.33",
+      "3PA": "17",
+      "3PM": "7",
+      "3P%": "41.18",
       "PLAY_COUNT": 69
     },
     {
@@ -713,18 +725,6 @@
       "3PM": "0",
       "3P%": "0.00",
       "PLAY_COUNT": 67
-    },
-    {
-      "PLAY_TYPE": "Iso",
-      "TEAM": "St. Lawrence Saints",
-      "PPP": "0.6364",
-      "2PA": "32",
-      "2PM": "15",
-      "2P%": "46.88",
-      "3PA": "8",
-      "3PM": "4",
-      "3P%": "50.00",
-      "PLAY_COUNT": 66
     },
     {
       "PLAY_TYPE": "Misc",
@@ -761,6 +761,18 @@
       "3PM": "5",
       "3P%": "41.67",
       "PLAY_COUNT": 59
+    },
+    {
+      "PLAY_TYPE": "Post",
+      "TEAM": "St. Lawrence Saints",
+      "PPP": "0.5862",
+      "2PA": "37",
+      "2PM": "17",
+      "2P%": "45.95",
+      "3PA": "0",
+      "3PM": "0",
+      "3P%": null,
+      "PLAY_COUNT": 58
     },
     {
       "PLAY_TYPE": "Post",
@@ -811,6 +823,18 @@
       "PLAY_COUNT": 55
     },
     {
+      "PLAY_TYPE": "Post",
+      "TEAM": "Hobart College Statesmen",
+      "PPP": "0.6667",
+      "2PA": "37",
+      "2PM": "18",
+      "2P%": "48.65",
+      "3PA": "0",
+      "3PM": "0",
+      "3P%": null,
+      "PLAY_COUNT": 54
+    },
+    {
       "PLAY_TYPE": "Off Screens",
       "TEAM": "Clarkson University Golden Knights",
       "PPP": "0.8704",
@@ -821,6 +845,18 @@
       "3PM": "11",
       "3P%": "33.33",
       "PLAY_COUNT": 54
+    },
+    {
+      "PLAY_TYPE": "Off Screens",
+      "TEAM": "St. Lawrence Saints",
+      "PPP": "0.6226",
+      "2PA": "14",
+      "2PM": "9",
+      "2P%": "64.29",
+      "3PA": "30",
+      "3PM": "5",
+      "3P%": "16.67",
+      "PLAY_COUNT": 53
     },
     {
       "PLAY_TYPE": "Off Screens",
@@ -847,24 +883,12 @@
       "PLAY_COUNT": 52
     },
     {
-      "PLAY_TYPE": "Off Screens",
-      "TEAM": "St. Lawrence Saints",
-      "PPP": "0.6346",
-      "2PA": "14",
-      "2PM": "9",
-      "2P%": "64.29",
-      "3PA": "29",
-      "3PM": "5",
-      "3P%": "17.24",
-      "PLAY_COUNT": 52
-    },
-    {
-      "PLAY_TYPE": "Post",
-      "TEAM": "Hobart College Statesmen",
-      "PPP": "0.6800",
-      "2PA": "35",
-      "2PM": "17",
-      "2P%": "48.57",
+      "PLAY_TYPE": "Cuts",
+      "TEAM": "Skidmore Thoroughbreds",
+      "PPP": "0.7600",
+      "2PA": "39",
+      "2PM": "19",
+      "2P%": "48.72",
       "3PA": "0",
       "3PM": "0",
       "3P%": null,
@@ -880,30 +904,6 @@
       "3PA": "1",
       "3PM": "1",
       "3P%": "100.00",
-      "PLAY_COUNT": 50
-    },
-    {
-      "PLAY_TYPE": "Cuts",
-      "TEAM": "Skidmore Thoroughbreds",
-      "PPP": "0.7600",
-      "2PA": "39",
-      "2PM": "19",
-      "2P%": "48.72",
-      "3PA": "0",
-      "3PM": "0",
-      "3P%": null,
-      "PLAY_COUNT": 50
-    },
-    {
-      "PLAY_TYPE": "Post",
-      "TEAM": "St. Lawrence Saints",
-      "PPP": "0.5600",
-      "2PA": "31",
-      "2PM": "14",
-      "2P%": "45.16",
-      "3PA": "0",
-      "3PM": "0",
-      "3P%": null,
       "PLAY_COUNT": 50
     },
     {
@@ -931,16 +931,16 @@
       "PLAY_COUNT": 48
     },
     {
-      "PLAY_TYPE": "Iso",
-      "TEAM": "Ithaca College",
-      "PPP": "0.3778",
+      "PLAY_TYPE": "Hand Offs",
+      "TEAM": "St. Lawrence Saints",
+      "PPP": "0.6739",
       "2PA": "23",
-      "2PM": "7",
-      "2P%": "30.43",
-      "3PA": "2",
-      "3PM": "1",
-      "3P%": "50.00",
-      "PLAY_COUNT": 45
+      "2PM": "8",
+      "2P%": "34.78",
+      "3PA": "13",
+      "3PM": "5",
+      "3P%": "38.46",
+      "PLAY_COUNT": 46
     },
     {
       "PLAY_TYPE": null,
@@ -956,6 +956,18 @@
     },
     {
       "PLAY_TYPE": "Iso",
+      "TEAM": "Ithaca College",
+      "PPP": "0.3778",
+      "2PA": "23",
+      "2PM": "7",
+      "2P%": "30.43",
+      "3PA": "2",
+      "3PM": "1",
+      "3P%": "50.00",
+      "PLAY_COUNT": 45
+    },
+    {
+      "PLAY_TYPE": "Iso",
       "TEAM": "Union (NY) Chargers",
       "PPP": "0.2439",
       "2PA": "26",
@@ -964,30 +976,6 @@
       "3PA": "2",
       "3PM": "0",
       "3P%": "0.00",
-      "PLAY_COUNT": 41
-    },
-    {
-      "PLAY_TYPE": "Hand Offs",
-      "TEAM": "St. Lawrence Saints",
-      "PPP": "0.5854",
-      "2PA": "20",
-      "2PM": "6",
-      "2P%": "30.00",
-      "3PA": "12",
-      "3PM": "4",
-      "3P%": "33.33",
-      "PLAY_COUNT": 41
-    },
-    {
-      "PLAY_TYPE": "P&R Roll Man",
-      "TEAM": "Bard College",
-      "PPP": "0.7561",
-      "2PA": "15",
-      "2PM": "5",
-      "2P%": "33.33",
-      "3PA": "22",
-      "3PM": "7",
-      "3P%": "31.82",
       "PLAY_COUNT": 41
     },
     {
@@ -1004,14 +992,26 @@
     },
     {
       "PLAY_TYPE": "P&R Roll Man",
-      "TEAM": "Vassar Brewers",
-      "PPP": "0.5000",
-      "2PA": "21",
-      "2PM": "4",
-      "2P%": "19.05",
-      "3PA": "14",
-      "3PM": "4",
-      "3P%": "28.57",
+      "TEAM": "Bard College",
+      "PPP": "0.7561",
+      "2PA": "15",
+      "2PM": "5",
+      "2P%": "33.33",
+      "3PA": "22",
+      "3PM": "7",
+      "3P%": "31.82",
+      "PLAY_COUNT": 41
+    },
+    {
+      "PLAY_TYPE": null,
+      "TEAM": "St. Lawrence Saints",
+      "PPP": "0.8000",
+      "2PA": "28",
+      "2PM": "16",
+      "2P%": "57.14",
+      "3PA": "2",
+      "3PM": "0",
+      "3P%": "0.00",
       "PLAY_COUNT": 40
     },
     {
@@ -1024,6 +1024,18 @@
       "3PA": "2",
       "3PM": "1",
       "3P%": "50.00",
+      "PLAY_COUNT": 40
+    },
+    {
+      "PLAY_TYPE": "P&R Roll Man",
+      "TEAM": "Vassar Brewers",
+      "PPP": "0.5000",
+      "2PA": "21",
+      "2PM": "4",
+      "2P%": "19.05",
+      "3PA": "14",
+      "3PM": "4",
+      "3P%": "28.57",
       "PLAY_COUNT": 40
     },
     {
@@ -1072,18 +1084,6 @@
       "3PA": "18",
       "3PM": "3",
       "3P%": "16.67",
-      "PLAY_COUNT": 37
-    },
-    {
-      "PLAY_TYPE": null,
-      "TEAM": "St. Lawrence Saints",
-      "PPP": "0.8108",
-      "2PA": "26",
-      "2PM": "15",
-      "2P%": "57.69",
-      "3PA": "2",
-      "3PM": "0",
-      "3P%": "0.00",
       "PLAY_COUNT": 37
     },
     {

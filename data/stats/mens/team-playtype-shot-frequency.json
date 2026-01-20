@@ -3,7 +3,7 @@
   "gender": "mens",
   "query": "team-playtype-shot-frequency",
   "description": "Team shot distribution by play type, showing where teams shoot from on different offensive actions",
-  "fetched_at": "2026-01-20T08:51:58.151860",
+  "fetched_at": "2026-01-20T11:52:53.947766",
   "row_count": 103,
   "data": [
     {
@@ -80,20 +80,20 @@
     },
     {
       "TEAM": "Bard College",
-      "PLAY_TYPE": "Post",
-      "LAYUP_COUNT": "25",
-      "CLOSE_COUNT": "0",
-      "MID_COUNT": "0",
-      "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "25"
-    },
-    {
-      "TEAM": "Bard College",
       "PLAY_TYPE": "Hand Offs",
       "LAYUP_COUNT": "8",
       "CLOSE_COUNT": "5",
       "MID_COUNT": "0",
       "THREE_COUNT": "12",
+      "TOTAL_SHOTS": "25"
+    },
+    {
+      "TEAM": "Bard College",
+      "PLAY_TYPE": "Post",
+      "LAYUP_COUNT": "25",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
       "TOTAL_SHOTS": "25"
     },
     {
@@ -189,38 +189,47 @@
     {
       "TEAM": "Hobart College Statesmen",
       "PLAY_TYPE": "Spot Ups",
-      "LAYUP_COUNT": "87",
-      "CLOSE_COUNT": "33",
-      "MID_COUNT": "9",
-      "THREE_COUNT": "217",
-      "TOTAL_SHOTS": "346"
+      "LAYUP_COUNT": "91",
+      "CLOSE_COUNT": "37",
+      "MID_COUNT": "12",
+      "THREE_COUNT": "232",
+      "TOTAL_SHOTS": "372"
     },
     {
       "TEAM": "Hobart College Statesmen",
       "PLAY_TYPE": "Transition",
-      "LAYUP_COUNT": "160",
+      "LAYUP_COUNT": "164",
       "CLOSE_COUNT": "7",
       "MID_COUNT": "0",
-      "THREE_COUNT": "64",
-      "TOTAL_SHOTS": "231"
+      "THREE_COUNT": "68",
+      "TOTAL_SHOTS": "239"
     },
     {
       "TEAM": "Hobart College Statesmen",
       "PLAY_TYPE": "Cuts",
-      "LAYUP_COUNT": "68",
+      "LAYUP_COUNT": "82",
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "68"
+      "TOTAL_SHOTS": "82"
     },
     {
       "TEAM": "Hobart College Statesmen",
       "PLAY_TYPE": null,
-      "LAYUP_COUNT": "50",
+      "LAYUP_COUNT": "53",
       "CLOSE_COUNT": "2",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "52"
+      "TOTAL_SHOTS": "55"
+    },
+    {
+      "TEAM": "Hobart College Statesmen",
+      "PLAY_TYPE": "Post",
+      "LAYUP_COUNT": "37",
+      "CLOSE_COUNT": "0",
+      "MID_COUNT": "0",
+      "THREE_COUNT": "0",
+      "TOTAL_SHOTS": "37"
     },
     {
       "TEAM": "Hobart College Statesmen",
@@ -230,15 +239,6 @@
       "MID_COUNT": "3",
       "THREE_COUNT": "5",
       "TOTAL_SHOTS": "37"
-    },
-    {
-      "TEAM": "Hobart College Statesmen",
-      "PLAY_TYPE": "Post",
-      "LAYUP_COUNT": "35",
-      "CLOSE_COUNT": "0",
-      "MID_COUNT": "0",
-      "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "35"
     },
     {
       "TEAM": "Hobart College Statesmen",
@@ -649,28 +649,28 @@
       "TEAM": "St. Lawrence Saints",
       "PLAY_TYPE": "Spot Ups",
       "LAYUP_COUNT": "65",
-      "CLOSE_COUNT": "25",
+      "CLOSE_COUNT": "27",
       "MID_COUNT": "25",
-      "THREE_COUNT": "153",
-      "TOTAL_SHOTS": "268"
+      "THREE_COUNT": "167",
+      "TOTAL_SHOTS": "284"
     },
     {
       "TEAM": "St. Lawrence Saints",
       "PLAY_TYPE": "Transition",
-      "LAYUP_COUNT": "82",
+      "LAYUP_COUNT": "84",
       "CLOSE_COUNT": "5",
       "MID_COUNT": "4",
-      "THREE_COUNT": "74",
-      "TOTAL_SHOTS": "165"
+      "THREE_COUNT": "77",
+      "TOTAL_SHOTS": "170"
     },
     {
       "TEAM": "St. Lawrence Saints",
       "PLAY_TYPE": "PNR",
-      "LAYUP_COUNT": "27",
+      "LAYUP_COUNT": "29",
       "CLOSE_COUNT": "14",
-      "MID_COUNT": "8",
+      "MID_COUNT": "9",
       "THREE_COUNT": "28",
-      "TOTAL_SHOTS": "77"
+      "TOTAL_SHOTS": "80"
     },
     {
       "TEAM": "St. Lawrence Saints",
@@ -683,48 +683,48 @@
     },
     {
       "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Iso",
+      "LAYUP_COUNT": "36",
+      "CLOSE_COUNT": "4",
+      "MID_COUNT": "2",
+      "THREE_COUNT": "9",
+      "TOTAL_SHOTS": "51"
+    },
+    {
+      "TEAM": "St. Lawrence Saints",
       "PLAY_TYPE": "Off Screens",
       "LAYUP_COUNT": "10",
       "CLOSE_COUNT": "4",
       "MID_COUNT": "1",
-      "THREE_COUNT": "29",
-      "TOTAL_SHOTS": "44"
-    },
-    {
-      "TEAM": "St. Lawrence Saints",
-      "PLAY_TYPE": "Iso",
-      "LAYUP_COUNT": "27",
-      "CLOSE_COUNT": "4",
-      "MID_COUNT": "1",
-      "THREE_COUNT": "8",
-      "TOTAL_SHOTS": "40"
-    },
-    {
-      "TEAM": "St. Lawrence Saints",
-      "PLAY_TYPE": "Hand Offs",
-      "LAYUP_COUNT": "11",
-      "CLOSE_COUNT": "5",
-      "MID_COUNT": "4",
-      "THREE_COUNT": "12",
-      "TOTAL_SHOTS": "32"
+      "THREE_COUNT": "30",
+      "TOTAL_SHOTS": "45"
     },
     {
       "TEAM": "St. Lawrence Saints",
       "PLAY_TYPE": "Post",
-      "LAYUP_COUNT": "31",
+      "LAYUP_COUNT": "37",
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "0",
-      "TOTAL_SHOTS": "31"
+      "TOTAL_SHOTS": "37"
+    },
+    {
+      "TEAM": "St. Lawrence Saints",
+      "PLAY_TYPE": "Hand Offs",
+      "LAYUP_COUNT": "13",
+      "CLOSE_COUNT": "6",
+      "MID_COUNT": "4",
+      "THREE_COUNT": "13",
+      "TOTAL_SHOTS": "36"
     },
     {
       "TEAM": "St. Lawrence Saints",
       "PLAY_TYPE": null,
-      "LAYUP_COUNT": "26",
+      "LAYUP_COUNT": "28",
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
       "THREE_COUNT": "2",
-      "TOTAL_SHOTS": "28"
+      "TOTAL_SHOTS": "30"
     },
     {
       "TEAM": "St. Lawrence Saints",
@@ -738,11 +738,11 @@
     {
       "TEAM": "St. Lawrence Saints",
       "PLAY_TYPE": "Misc",
-      "LAYUP_COUNT": "4",
+      "LAYUP_COUNT": "5",
       "CLOSE_COUNT": "0",
       "MID_COUNT": "0",
-      "THREE_COUNT": "9",
-      "TOTAL_SHOTS": "13"
+      "THREE_COUNT": "11",
+      "TOTAL_SHOTS": "16"
     },
     {
       "TEAM": "Union (NY) Chargers",

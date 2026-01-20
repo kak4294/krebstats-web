@@ -3,9 +3,25 @@
   "gender": "mens",
   "query": "player-offensive-efficiency",
   "description": "Player offensive efficiency by play type with shooting percentages, PPP, and percentile rankings",
-  "fetched_at": "2026-01-20T08:51:58.739103",
-  "row_count": 244,
+  "fetched_at": "2026-01-20T11:52:54.404304",
+  "row_count": 248,
   "data": [
+    {
+      "PLAY_TYPE": "Spot Ups",
+      "PLAYER": "Alex Moesch",
+      "TEAM": "Hobart College Statesmen",
+      "PPP": "0.9900",
+      "2PA": "44",
+      "2PM": "18",
+      "2P%": "40.91",
+      "3PA": "48",
+      "3PM": "21",
+      "3P%": "43.75",
+      "PLAY_COUNT": 100,
+      "PPP_PERCENTILE": 70.7,
+      "2P%_PERCENTILE": 49.3,
+      "3P%_PERCENTILE": 81.3
+    },
     {
       "PLAY_TYPE": "Spot Ups",
       "PLAYER": "Braeden Burns",
@@ -39,22 +55,6 @@
       "3P%_PERCENTILE": 69.3
     },
     {
-      "PLAY_TYPE": "Spot Ups",
-      "PLAYER": "Alex Moesch",
-      "TEAM": "Hobart College Statesmen",
-      "PPP": "1.0000",
-      "2PA": "37",
-      "2PM": "15",
-      "2P%": "40.54",
-      "3PA": "43",
-      "3PM": "19",
-      "3P%": "44.19",
-      "PLAY_COUNT": 87,
-      "PPP_PERCENTILE": 70.7,
-      "2P%_PERCENTILE": 48.0,
-      "3P%_PERCENTILE": 81.3
-    },
-    {
       "PLAY_TYPE": "Transition",
       "PLAYER": "Evan Cabral",
       "TEAM": "Ithaca College",
@@ -66,25 +66,25 @@
       "3PM": "5",
       "3P%": "29.41",
       "PLAY_COUNT": 86,
-      "PPP_PERCENTILE": 44.4,
-      "2P%_PERCENTILE": 70.4,
-      "3P%_PERCENTILE": 53.7
+      "PPP_PERCENTILE": 43.6,
+      "2P%_PERCENTILE": 69.1,
+      "3P%_PERCENTILE": 52.7
     },
     {
       "PLAY_TYPE": "Transition",
       "PLAYER": "Monty Nedd",
       "TEAM": "Hobart College Statesmen",
-      "PPP": "0.8947",
+      "PPP": "0.8831",
       "2PA": "43",
       "2PM": "28",
       "2P%": "65.12",
-      "3PA": "9",
+      "3PA": "10",
       "3PM": "4",
-      "3P%": "44.44",
-      "PLAY_COUNT": 76,
-      "PPP_PERCENTILE": 75.9,
-      "2P%_PERCENTILE": 72.2,
-      "3P%_PERCENTILE": null
+      "3P%": "40.00",
+      "PLAY_COUNT": 77,
+      "PPP_PERCENTILE": 74.5,
+      "2P%_PERCENTILE": 70.9,
+      "3P%_PERCENTILE": 72.7
     },
     {
       "PLAY_TYPE": "Spot Ups",
@@ -100,7 +100,7 @@
       "PLAY_COUNT": 74,
       "PPP_PERCENTILE": 88.0,
       "2P%_PERCENTILE": 85.3,
-      "3P%_PERCENTILE": 84.0
+      "3P%_PERCENTILE": 85.3
     },
     {
       "PLAY_TYPE": "Spot Ups",
@@ -116,7 +116,7 @@
       "PLAY_COUNT": 73,
       "PPP_PERCENTILE": 69.3,
       "2P%_PERCENTILE": null,
-      "3P%_PERCENTILE": 58.7
+      "3P%_PERCENTILE": 60.0
     },
     {
       "PLAY_TYPE": "Spot Ups",
@@ -130,7 +130,7 @@
       "3PM": "17",
       "3P%": "32.69",
       "PLAY_COUNT": 72,
-      "PPP_PERCENTILE": 48.0,
+      "PPP_PERCENTILE": 50.7,
       "2P%_PERCENTILE": null,
       "3P%_PERCENTILE": 49.3
     },
@@ -146,9 +146,9 @@
       "3PM": "20",
       "3P%": "42.55",
       "PLAY_COUNT": 70,
-      "PPP_PERCENTILE": 80.0,
+      "PPP_PERCENTILE": 81.3,
       "2P%_PERCENTILE": 44.0,
-      "3P%_PERCENTILE": 78.7
+      "3P%_PERCENTILE": 80.0
     },
     {
       "PLAY_TYPE": "Post",
@@ -178,8 +178,8 @@
       "3PM": "0",
       "3P%": "0.00",
       "PLAY_COUNT": 68,
-      "PPP_PERCENTILE": 33.3,
-      "2P%_PERCENTILE": 29.6,
+      "PPP_PERCENTILE": 32.7,
+      "2P%_PERCENTILE": 30.9,
       "3P%_PERCENTILE": null
     },
     {
@@ -194,25 +194,57 @@
       "3PM": "4",
       "3P%": "36.36",
       "PLAY_COUNT": 67,
-      "PPP_PERCENTILE": 52.4,
+      "PPP_PERCENTILE": 47.6,
       "2P%_PERCENTILE": 38.1,
       "3P%_PERCENTILE": 71.4
+    },
+    {
+      "PLAY_TYPE": "Spot Ups",
+      "PLAYER": "Dan Anderson",
+      "TEAM": "St. Lawrence Saints",
+      "PPP": "0.7761",
+      "2PA": "17",
+      "2PM": "5",
+      "2P%": "29.41",
+      "3PA": "42",
+      "3PM": "14",
+      "3P%": "33.33",
+      "PLAY_COUNT": 67,
+      "PPP_PERCENTILE": 49.3,
+      "2P%_PERCENTILE": 29.3,
+      "3P%_PERCENTILE": 50.7
     },
     {
       "PLAY_TYPE": "Transition",
       "PLAYER": "Dorian Paki",
       "TEAM": "Hobart College Statesmen",
-      "PPP": "0.6769",
+      "PPP": "0.6567",
       "2PA": "42",
       "2PM": "22",
       "2P%": "52.38",
       "3PA": "0",
       "3PM": "0",
       "3P%": null,
-      "PLAY_COUNT": 65,
-      "PPP_PERCENTILE": 40.7,
-      "2P%_PERCENTILE": 38.9,
+      "PLAY_COUNT": 67,
+      "PPP_PERCENTILE": 40.0,
+      "2P%_PERCENTILE": 38.2,
       "3P%_PERCENTILE": null
+    },
+    {
+      "PLAY_TYPE": "Spot Ups",
+      "PLAYER": "Monty Nedd",
+      "TEAM": "Hobart College Statesmen",
+      "PPP": "0.7692",
+      "2PA": "25",
+      "2PM": "10",
+      "2P%": "40.00",
+      "3PA": "29",
+      "3PM": "10",
+      "3P%": "34.48",
+      "PLAY_COUNT": 65,
+      "PPP_PERCENTILE": 48.0,
+      "2P%_PERCENTILE": 45.3,
+      "3P%_PERCENTILE": 54.7
     },
     {
       "PLAY_TYPE": "Spot Ups",
@@ -226,25 +258,9 @@
       "3PM": "14",
       "3P%": "33.33",
       "PLAY_COUNT": 64,
-      "PPP_PERCENTILE": 76.0,
+      "PPP_PERCENTILE": 77.3,
       "2P%_PERCENTILE": 85.3,
       "3P%_PERCENTILE": 50.7
-    },
-    {
-      "PLAY_TYPE": "Spot Ups",
-      "PLAYER": "Dan Anderson",
-      "TEAM": "St. Lawrence Saints",
-      "PPP": "0.8125",
-      "2PA": "17",
-      "2PM": "5",
-      "2P%": "29.41",
-      "3PA": "40",
-      "3PM": "14",
-      "3P%": "35.00",
-      "PLAY_COUNT": 64,
-      "PPP_PERCENTILE": 52.0,
-      "2P%_PERCENTILE": 29.3,
-      "3P%_PERCENTILE": 57.3
     },
     {
       "PLAY_TYPE": "PNR",
@@ -274,9 +290,25 @@
       "3PM": "21",
       "3P%": "47.73",
       "PLAY_COUNT": 62,
-      "PPP_PERCENTILE": 85.3,
+      "PPP_PERCENTILE": 86.7,
       "2P%_PERCENTILE": null,
-      "3P%_PERCENTILE": 88.0
+      "3P%_PERCENTILE": 89.3
+    },
+    {
+      "PLAY_TYPE": "Transition",
+      "PLAYER": "Alex Moesch",
+      "TEAM": "Hobart College Statesmen",
+      "PPP": "0.8197",
+      "2PA": "27",
+      "2PM": "13",
+      "2P%": "48.15",
+      "3PA": "21",
+      "3PM": "8",
+      "3P%": "38.10",
+      "PLAY_COUNT": 61,
+      "PPP_PERCENTILE": 61.8,
+      "2P%_PERCENTILE": 32.7,
+      "3P%_PERCENTILE": 70.9
     },
     {
       "PLAY_TYPE": "PNR",
@@ -323,24 +355,24 @@
       "3P%": "36.67",
       "PLAY_COUNT": 60,
       "PPP_PERCENTILE": 58.7,
-      "2P%_PERCENTILE": 62.7,
-      "3P%_PERCENTILE": 61.3
+      "2P%_PERCENTILE": 64.0,
+      "3P%_PERCENTILE": 62.7
     },
     {
       "PLAY_TYPE": "Spot Ups",
-      "PLAYER": "Monty Nedd",
+      "PLAYER": "Allen Mordi",
       "TEAM": "Hobart College Statesmen",
-      "PPP": "0.8333",
-      "2PA": "23",
+      "PPP": "1.0333",
+      "2PA": "18",
       "2PM": "10",
-      "2P%": "43.48",
-      "3PA": "26",
-      "3PM": "10",
-      "3P%": "38.46",
+      "2P%": "55.56",
+      "3PA": "34",
+      "3PM": "14",
+      "3P%": "41.18",
       "PLAY_COUNT": 60,
-      "PPP_PERCENTILE": 56.0,
-      "2P%_PERCENTILE": 56.0,
-      "3P%_PERCENTILE": 66.7
+      "PPP_PERCENTILE": 78.7,
+      "2P%_PERCENTILE": 81.3,
+      "3P%_PERCENTILE": 77.3
     },
     {
       "PLAY_TYPE": "Spot Ups",
@@ -354,9 +386,25 @@
       "3PM": "9",
       "3P%": "27.27",
       "PLAY_COUNT": 59,
-      "PPP_PERCENTILE": 49.3,
-      "2P%_PERCENTILE": 62.7,
+      "PPP_PERCENTILE": 52.0,
+      "2P%_PERCENTILE": 64.0,
       "3P%_PERCENTILE": 30.7
+    },
+    {
+      "PLAY_TYPE": "Spot Ups",
+      "PLAYER": "Aidan Phelan",
+      "TEAM": "St. Lawrence Saints",
+      "PPP": "0.7458",
+      "2PA": "15",
+      "2PM": "7",
+      "2P%": "46.67",
+      "3PA": "29",
+      "3PM": "10",
+      "3P%": "34.48",
+      "PLAY_COUNT": 59,
+      "PPP_PERCENTILE": 42.7,
+      "2P%_PERCENTILE": 61.3,
+      "3P%_PERCENTILE": 54.7
     },
     {
       "PLAY_TYPE": "Transition",
@@ -370,8 +418,8 @@
       "3PM": "0",
       "3P%": "0.00",
       "PLAY_COUNT": 59,
-      "PPP_PERCENTILE": 9.3,
-      "2P%_PERCENTILE": 13.0,
+      "PPP_PERCENTILE": 9.1,
+      "2P%_PERCENTILE": 12.7,
       "3P%_PERCENTILE": null
     },
     {
@@ -403,24 +451,8 @@
       "3P%": "33.33",
       "PLAY_COUNT": 58,
       "PPP_PERCENTILE": 85.7,
-      "2P%_PERCENTILE": 71.4,
+      "2P%_PERCENTILE": 66.7,
       "3P%_PERCENTILE": 57.1
-    },
-    {
-      "PLAY_TYPE": "Transition",
-      "PLAYER": "Alex Moesch",
-      "TEAM": "Hobart College Statesmen",
-      "PPP": "0.8421",
-      "2PA": "25",
-      "2PM": "12",
-      "2P%": "48.00",
-      "3PA": "19",
-      "3PM": "8",
-      "3P%": "42.11",
-      "PLAY_COUNT": 57,
-      "PPP_PERCENTILE": 64.8,
-      "2P%_PERCENTILE": 31.5,
-      "3P%_PERCENTILE": 74.1
     },
     {
       "PLAY_TYPE": "Cuts",
@@ -434,25 +466,9 @@
       "3PM": "0",
       "3P%": null,
       "PLAY_COUNT": 56,
-      "PPP_PERCENTILE": 90.5,
-      "2P%_PERCENTILE": 90.5,
+      "PPP_PERCENTILE": 87.0,
+      "2P%_PERCENTILE": 87.0,
       "3P%_PERCENTILE": null
-    },
-    {
-      "PLAY_TYPE": "Spot Ups",
-      "PLAYER": "Allen Mordi",
-      "TEAM": "Hobart College Statesmen",
-      "PPP": "1.0536",
-      "2PA": "18",
-      "2PM": "10",
-      "2P%": "55.56",
-      "3PA": "30",
-      "3PM": "13",
-      "3P%": "43.33",
-      "PLAY_COUNT": 56,
-      "PPP_PERCENTILE": 78.7,
-      "2P%_PERCENTILE": 81.3,
-      "3P%_PERCENTILE": 80.0
     },
     {
       "PLAY_TYPE": "Spot Ups",
@@ -466,9 +482,9 @@
       "3PM": "11",
       "3P%": "45.83",
       "PLAY_COUNT": 56,
-      "PPP_PERCENTILE": 42.7,
+      "PPP_PERCENTILE": 41.3,
       "2P%_PERCENTILE": 26.7,
-      "3P%_PERCENTILE": 85.3
+      "3P%_PERCENTILE": 86.7
     },
     {
       "PLAY_TYPE": "Cuts",
@@ -482,9 +498,25 @@
       "3PM": "0",
       "3P%": null,
       "PLAY_COUNT": 55,
-      "PPP_PERCENTILE": 23.8,
-      "2P%_PERCENTILE": 19.0,
+      "PPP_PERCENTILE": 26.1,
+      "2P%_PERCENTILE": 17.4,
       "3P%_PERCENTILE": null
+    },
+    {
+      "PLAY_TYPE": "Spot Ups",
+      "PLAYER": "Gabriel Bergeron",
+      "TEAM": "Hobart College Statesmen",
+      "PPP": "0.8182",
+      "2PA": "13",
+      "2PM": "3",
+      "2P%": "23.08",
+      "3PA": "37",
+      "3PM": "13",
+      "3P%": "35.14",
+      "PLAY_COUNT": 55,
+      "PPP_PERCENTILE": 53.3,
+      "2P%_PERCENTILE": null,
+      "3P%_PERCENTILE": 58.7
     },
     {
       "PLAY_TYPE": "PNR",
@@ -515,8 +547,24 @@
       "3P%": "20.00",
       "PLAY_COUNT": 54,
       "PPP_PERCENTILE": 32.0,
-      "2P%_PERCENTILE": 61.3,
-      "3P%_PERCENTILE": 13.3
+      "2P%_PERCENTILE": 62.7,
+      "3P%_PERCENTILE": 16.0
+    },
+    {
+      "PLAY_TYPE": "Cuts",
+      "PLAYER": "Dorian Paki",
+      "TEAM": "Hobart College Statesmen",
+      "PPP": "0.5660",
+      "2PA": "36",
+      "2PM": "15",
+      "2P%": "41.67",
+      "3PA": "0",
+      "3PM": "0",
+      "3P%": null,
+      "PLAY_COUNT": 53,
+      "PPP_PERCENTILE": 17.4,
+      "2P%_PERCENTILE": 26.1,
+      "3P%_PERCENTILE": null
     },
     {
       "PLAY_TYPE": "Cuts",
@@ -530,8 +578,8 @@
       "3PM": "0",
       "3P%": null,
       "PLAY_COUNT": 53,
-      "PPP_PERCENTILE": 38.1,
-      "2P%_PERCENTILE": 38.1,
+      "PPP_PERCENTILE": 34.8,
+      "2P%_PERCENTILE": 34.8,
       "3P%_PERCENTILE": null
     },
     {
@@ -551,22 +599,6 @@
       "3P%_PERCENTILE": 2.7
     },
     {
-      "PLAY_TYPE": "Spot Ups",
-      "PLAYER": "Aidan Phelan",
-      "TEAM": "St. Lawrence Saints",
-      "PPP": "0.7170",
-      "2PA": "14",
-      "2PM": "7",
-      "2P%": "50.00",
-      "3PA": "24",
-      "3PM": "8",
-      "3P%": "33.33",
-      "PLAY_COUNT": 53,
-      "PPP_PERCENTILE": 37.3,
-      "2P%_PERCENTILE": null,
-      "3P%_PERCENTILE": 50.7
-    },
-    {
       "PLAY_TYPE": "Post",
       "PLAYER": "Parker Neuenhaus",
       "TEAM": "Vassar Brewers",
@@ -584,19 +616,19 @@
     },
     {
       "PLAY_TYPE": "Spot Ups",
-      "PLAYER": "Gabriel Bergeron",
-      "TEAM": "Hobart College Statesmen",
-      "PPP": "0.8077",
-      "2PA": "13",
-      "2PM": "3",
-      "2P%": "23.08",
-      "3PA": "35",
-      "3PM": "12",
-      "3P%": "34.29",
+      "PLAYER": "Adam Dudzinski",
+      "TEAM": "St. Lawrence Saints",
+      "PPP": "0.7500",
+      "2PA": "15",
+      "2PM": "6",
+      "2P%": "40.00",
+      "3PA": "26",
+      "3PM": "9",
+      "3P%": "34.62",
       "PLAY_COUNT": 52,
-      "PPP_PERCENTILE": 50.7,
-      "2P%_PERCENTILE": null,
-      "3P%_PERCENTILE": 54.7
+      "PPP_PERCENTILE": 44.0,
+      "2P%_PERCENTILE": 45.3,
+      "3P%_PERCENTILE": 57.3
     },
     {
       "PLAY_TYPE": "Spot Ups",
@@ -610,9 +642,9 @@
       "3PM": "10",
       "3P%": "27.78",
       "PLAY_COUNT": 51,
-      "PPP_PERCENTILE": 54.7,
+      "PPP_PERCENTILE": 56.0,
       "2P%_PERCENTILE": null,
-      "3P%_PERCENTILE": 32.0
+      "3P%_PERCENTILE": 33.3
     },
     {
       "PLAY_TYPE": "Spot Ups",
@@ -626,25 +658,9 @@
       "3PM": "13",
       "3P%": "29.55",
       "PLAY_COUNT": 51,
-      "PPP_PERCENTILE": 45.3,
+      "PPP_PERCENTILE": 46.7,
       "2P%_PERCENTILE": null,
-      "3P%_PERCENTILE": 38.7
-    },
-    {
-      "PLAY_TYPE": "Spot Ups",
-      "PLAYER": "Adam Dudzinski",
-      "TEAM": "St. Lawrence Saints",
-      "PPP": "0.7647",
-      "2PA": "15",
-      "2PM": "6",
-      "2P%": "40.00",
-      "3PA": "26",
-      "3PM": "9",
-      "3P%": "34.62",
-      "PLAY_COUNT": 51,
-      "PPP_PERCENTILE": 45.3,
-      "2P%_PERCENTILE": 45.3,
-      "3P%_PERCENTILE": 56.0
+      "3P%_PERCENTILE": 40.0
     },
     {
       "PLAY_TYPE": "Spot Ups",
@@ -660,7 +676,7 @@
       "PLAY_COUNT": 51,
       "PPP_PERCENTILE": 93.3,
       "2P%_PERCENTILE": null,
-      "3P%_PERCENTILE": 90.7
+      "3P%_PERCENTILE": 92.0
     },
     {
       "PLAY_TYPE": "Spot Ups",
@@ -675,7 +691,7 @@
       "3P%": "75.00",
       "PLAY_COUNT": 51,
       "PPP_PERCENTILE": 68.0,
-      "2P%_PERCENTILE": 62.7,
+      "2P%_PERCENTILE": 64.0,
       "3P%_PERCENTILE": null
     },
     {
@@ -706,7 +722,7 @@
       "3PM": "14",
       "3P%": "40.00",
       "PLAY_COUNT": 50,
-      "PPP_PERCENTILE": 77.3,
+      "PPP_PERCENTILE": 80.0,
       "2P%_PERCENTILE": null,
       "3P%_PERCENTILE": 70.7
     },
@@ -722,8 +738,8 @@
       "3PM": "6",
       "3P%": "66.67",
       "PLAY_COUNT": 49,
-      "PPP_PERCENTILE": 48.1,
-      "2P%_PERCENTILE": 25.9,
+      "PPP_PERCENTILE": 47.3,
+      "2P%_PERCENTILE": 25.5,
       "3P%_PERCENTILE": null
     },
     {
@@ -740,7 +756,7 @@
       "PLAY_COUNT": 48,
       "PPP_PERCENTILE": 44.0,
       "2P%_PERCENTILE": null,
-      "3P%_PERCENTILE": 33.3
+      "3P%_PERCENTILE": 34.7
     },
     {
       "PLAY_TYPE": "Spot Ups",
@@ -755,8 +771,8 @@
       "3P%": "53.33",
       "PLAY_COUNT": 48,
       "PPP_PERCENTILE": 96.0,
-      "2P%_PERCENTILE": 62.7,
-      "3P%_PERCENTILE": 94.7
+      "2P%_PERCENTILE": 64.0,
+      "3P%_PERCENTILE": 96.0
     },
     {
       "PLAY_TYPE": "Transition",
@@ -770,8 +786,8 @@
       "3PM": "0",
       "3P%": "0.00",
       "PLAY_COUNT": 48,
-      "PPP_PERCENTILE": 29.6,
-      "2P%_PERCENTILE": 63.0,
+      "PPP_PERCENTILE": 29.1,
+      "2P%_PERCENTILE": 61.8,
       "3P%_PERCENTILE": null
     },
     {
@@ -786,24 +802,24 @@
       "3PM": "0",
       "3P%": null,
       "PLAY_COUNT": 46,
-      "PPP_PERCENTILE": 76.2,
-      "2P%_PERCENTILE": 61.9,
+      "PPP_PERCENTILE": 73.9,
+      "2P%_PERCENTILE": 56.5,
       "3P%_PERCENTILE": null
     },
     {
       "PLAY_TYPE": "PNR",
       "PLAYER": "Dan Anderson",
       "TEAM": "St. Lawrence Saints",
-      "PPP": "0.6222",
-      "2PA": "19",
-      "2PM": "8",
-      "2P%": "42.11",
+      "PPP": "0.6522",
+      "2PA": "20",
+      "2PM": "9",
+      "2P%": "45.00",
       "3PA": "15",
       "3PM": "4",
       "3P%": "26.67",
-      "PLAY_COUNT": 45,
-      "PPP_PERCENTILE": 47.6,
-      "2P%_PERCENTILE": 61.9,
+      "PLAY_COUNT": 46,
+      "PPP_PERCENTILE": 52.4,
+      "2P%_PERCENTILE": 71.4,
       "3P%_PERCENTILE": 42.9
     },
     {
@@ -824,6 +840,22 @@
     },
     {
       "PLAY_TYPE": "Transition",
+      "PLAYER": "Dan Anderson",
+      "TEAM": "St. Lawrence Saints",
+      "PPP": "0.7556",
+      "2PA": "23",
+      "2PM": "14",
+      "2P%": "60.87",
+      "3PA": "11",
+      "3PM": "2",
+      "3P%": "18.18",
+      "PLAY_COUNT": 45,
+      "PPP_PERCENTILE": 50.9,
+      "2P%_PERCENTILE": 60.0,
+      "3P%_PERCENTILE": 36.4
+    },
+    {
+      "PLAY_TYPE": "Transition",
       "PLAYER": "Matthew Zenker",
       "TEAM": "Ithaca College",
       "PPP": "0.7333",
@@ -834,9 +866,9 @@
       "3PM": "5",
       "3P%": "23.81",
       "PLAY_COUNT": 45,
-      "PPP_PERCENTILE": 46.3,
-      "2P%_PERCENTILE": 50.0,
-      "3P%_PERCENTILE": 50.0
+      "PPP_PERCENTILE": 45.5,
+      "2P%_PERCENTILE": 50.9,
+      "3P%_PERCENTILE": 49.1
     },
     {
       "PLAY_TYPE": "Spot Ups",
@@ -850,25 +882,9 @@
       "3PM": "7",
       "3P%": "26.92",
       "PLAY_COUNT": 43,
-      "PPP_PERCENTILE": 40.0,
+      "PPP_PERCENTILE": 38.7,
       "2P%_PERCENTILE": null,
       "3P%_PERCENTILE": 29.3
-    },
-    {
-      "PLAY_TYPE": "Transition",
-      "PLAYER": "Dan Anderson",
-      "TEAM": "St. Lawrence Saints",
-      "PPP": "0.7442",
-      "2PA": "22",
-      "2PM": "13",
-      "2P%": "59.09",
-      "3PA": "11",
-      "3PM": "2",
-      "3P%": "18.18",
-      "PLAY_COUNT": 43,
-      "PPP_PERCENTILE": 51.9,
-      "2P%_PERCENTILE": 57.4,
-      "3P%_PERCENTILE": 37.0
     },
     {
       "PLAY_TYPE": "PNR",
@@ -888,6 +904,22 @@
     },
     {
       "PLAY_TYPE": "Transition",
+      "PLAYER": "Adam Dudzinski",
+      "TEAM": "St. Lawrence Saints",
+      "PPP": "0.8537",
+      "2PA": "10",
+      "2PM": "7",
+      "2P%": "70.00",
+      "3PA": "20",
+      "3PM": "7",
+      "3P%": "35.00",
+      "PLAY_COUNT": 41,
+      "PPP_PERCENTILE": 67.3,
+      "2P%_PERCENTILE": null,
+      "3P%_PERCENTILE": 65.5
+    },
+    {
+      "PLAY_TYPE": "Transition",
       "PLAYER": "Max Frei",
       "TEAM": "Bard College",
       "PPP": "0.4634",
@@ -898,24 +930,8 @@
       "3PM": "3",
       "3P%": "100.00",
       "PLAY_COUNT": 41,
-      "PPP_PERCENTILE": 22.2,
-      "2P%_PERCENTILE": 9.3,
-      "3P%_PERCENTILE": null
-    },
-    {
-      "PLAY_TYPE": "Cuts",
-      "PLAYER": "Dorian Paki",
-      "TEAM": "Hobart College Statesmen",
-      "PPP": "0.7000",
-      "2PA": "29",
-      "2PM": "14",
-      "2P%": "48.28",
-      "3PA": "0",
-      "3PM": "0",
-      "3P%": null,
-      "PLAY_COUNT": 40,
-      "PPP_PERCENTILE": 28.6,
-      "2P%_PERCENTILE": 33.3,
+      "PPP_PERCENTILE": 23.6,
+      "2P%_PERCENTILE": 9.1,
       "3P%_PERCENTILE": null
     },
     {
@@ -952,6 +968,22 @@
     },
     {
       "PLAY_TYPE": "Spot Ups",
+      "PLAYER": "Justin Price",
+      "TEAM": "Hobart College Statesmen",
+      "PPP": "0.5500",
+      "2PA": "7",
+      "2PM": "2",
+      "2P%": "28.57",
+      "3PA": "29",
+      "3PM": "6",
+      "3P%": "20.69",
+      "PLAY_COUNT": 40,
+      "PPP_PERCENTILE": 17.3,
+      "2P%_PERCENTILE": null,
+      "3P%_PERCENTILE": 18.7
+    },
+    {
+      "PLAY_TYPE": "Spot Ups",
       "PLAYER": "Jaylon O'Neal",
       "TEAM": "Ithaca College",
       "PPP": "0.8750",
@@ -978,41 +1010,41 @@
       "3PM": "1",
       "3P%": "33.33",
       "PLAY_COUNT": 40,
-      "PPP_PERCENTILE": 66.7,
-      "2P%_PERCENTILE": 68.5,
+      "PPP_PERCENTILE": 69.1,
+      "2P%_PERCENTILE": 67.3,
       "3P%_PERCENTILE": null
     },
     {
-      "PLAY_TYPE": "Transition",
-      "PLAYER": "Adam Dudzinski",
-      "TEAM": "St. Lawrence Saints",
-      "PPP": "0.8750",
-      "2PA": "10",
-      "2PM": "7",
-      "2P%": "70.00",
-      "3PA": "19",
-      "3PM": "7",
-      "3P%": "36.84",
-      "PLAY_COUNT": 40,
-      "PPP_PERCENTILE": 66.7,
-      "2P%_PERCENTILE": null,
-      "3P%_PERCENTILE": 70.4
+      "PLAY_TYPE": "Post",
+      "PLAYER": "Dorian Paki",
+      "TEAM": "Hobart College Statesmen",
+      "PPP": "0.7179",
+      "2PA": "26",
+      "2PM": "14",
+      "2P%": "53.85",
+      "3PA": "0",
+      "3PM": "0",
+      "3P%": null,
+      "PLAY_COUNT": 39,
+      "PPP_PERCENTILE": 72.7,
+      "2P%_PERCENTILE": 90.9,
+      "3P%_PERCENTILE": null
     },
     {
       "PLAY_TYPE": "Spot Ups",
-      "PLAYER": "Justin Price",
-      "TEAM": "Hobart College Statesmen",
-      "PPP": "0.5641",
-      "2PA": "6",
-      "2PM": "2",
-      "2P%": "33.33",
-      "3PA": "29",
-      "3PM": "6",
-      "3P%": "20.69",
+      "PLAYER": "Tommy McMahon",
+      "TEAM": "St. Lawrence Saints",
+      "PPP": "0.5385",
+      "2PA": "17",
+      "2PM": "6",
+      "2P%": "35.29",
+      "3PA": "17",
+      "3PM": "3",
+      "3P%": "17.65",
       "PLAY_COUNT": 39,
-      "PPP_PERCENTILE": 16.0,
-      "2P%_PERCENTILE": null,
-      "3P%_PERCENTILE": 18.7
+      "PPP_PERCENTILE": 14.7,
+      "2P%_PERCENTILE": 36.0,
+      "3P%_PERCENTILE": 13.3
     },
     {
       "PLAY_TYPE": "Spot Ups",
@@ -1026,9 +1058,9 @@
       "3PM": "10",
       "3P%": "37.04",
       "PLAY_COUNT": 39,
-      "PPP_PERCENTILE": 53.3,
+      "PPP_PERCENTILE": 54.7,
       "2P%_PERCENTILE": null,
-      "3P%_PERCENTILE": 64.0
+      "3P%_PERCENTILE": 65.3
     },
     {
       "PLAY_TYPE": "Spot Ups",
@@ -1042,7 +1074,7 @@
       "3PM": "14",
       "3P%": "40.00",
       "PLAY_COUNT": 39,
-      "PPP_PERCENTILE": 84.0,
+      "PPP_PERCENTILE": 85.3,
       "2P%_PERCENTILE": null,
       "3P%_PERCENTILE": 70.7
     },
@@ -1058,24 +1090,8 @@
       "3PM": "0",
       "3P%": null,
       "PLAY_COUNT": 39,
-      "PPP_PERCENTILE": 63.0,
-      "2P%_PERCENTILE": 74.1,
-      "3P%_PERCENTILE": null
-    },
-    {
-      "PLAY_TYPE": "Post",
-      "PLAYER": "Dorian Paki",
-      "TEAM": "Hobart College Statesmen",
-      "PPP": "0.7568",
-      "2PA": "26",
-      "2PM": "14",
-      "2P%": "53.85",
-      "3PA": "0",
-      "3PM": "0",
-      "3P%": null,
-      "PLAY_COUNT": 37,
-      "PPP_PERCENTILE": 81.8,
-      "2P%_PERCENTILE": 90.9,
+      "PPP_PERCENTILE": 63.6,
+      "2P%_PERCENTILE": 72.7,
       "3P%_PERCENTILE": null
     },
     {
@@ -1124,7 +1140,7 @@
       "PLAY_COUNT": 37,
       "PPP_PERCENTILE": 24.0,
       "2P%_PERCENTILE": null,
-      "3P%_PERCENTILE": 37.3
+      "3P%_PERCENTILE": 38.7
     },
     {
       "PLAY_TYPE": "Transition",
@@ -1138,9 +1154,9 @@
       "3PM": "2",
       "3P%": "20.00",
       "PLAY_COUNT": 37,
-      "PPP_PERCENTILE": 11.1,
-      "2P%_PERCENTILE": 5.6,
-      "3P%_PERCENTILE": 38.9
+      "PPP_PERCENTILE": 10.9,
+      "2P%_PERCENTILE": 5.5,
+      "3P%_PERCENTILE": 38.2
     },
     {
       "PLAY_TYPE": "Misc",
@@ -1154,7 +1170,7 @@
       "3PM": "0",
       "3P%": "0.00",
       "PLAY_COUNT": 36,
-      "PPP_PERCENTILE": 42.9,
+      "PPP_PERCENTILE": 40.0,
       "2P%_PERCENTILE": null,
       "3P%_PERCENTILE": null
     },
@@ -1202,9 +1218,25 @@
       "3PM": "5",
       "3P%": "17.24",
       "PLAY_COUNT": 36,
-      "PPP_PERCENTILE": 18.7,
+      "PPP_PERCENTILE": 20.0,
       "2P%_PERCENTILE": null,
-      "3P%_PERCENTILE": 10.7
+      "3P%_PERCENTILE": 12.0
+    },
+    {
+      "PLAY_TYPE": "Post",
+      "PLAYER": "Adam Dudzinski",
+      "TEAM": "St. Lawrence Saints",
+      "PPP": "0.5714",
+      "2PA": "20",
+      "2PM": "10",
+      "2P%": "50.00",
+      "3PA": "0",
+      "3PM": "0",
+      "3P%": null,
+      "PLAY_COUNT": 35,
+      "PPP_PERCENTILE": 45.5,
+      "2P%_PERCENTILE": 54.5,
+      "3P%_PERCENTILE": null
     },
     {
       "PLAY_TYPE": "Spot Ups",
@@ -1218,25 +1250,9 @@
       "3PM": "5",
       "3P%": "18.52",
       "PLAY_COUNT": 35,
-      "PPP_PERCENTILE": 14.7,
+      "PPP_PERCENTILE": 16.0,
       "2P%_PERCENTILE": null,
-      "3P%_PERCENTILE": 12.0
-    },
-    {
-      "PLAY_TYPE": "Spot Ups",
-      "PLAYER": "Tommy McMahon",
-      "TEAM": "St. Lawrence Saints",
-      "PPP": "0.6000",
-      "2PA": "16",
-      "2PM": "6",
-      "2P%": "37.50",
-      "3PA": "15",
-      "3PM": "3",
-      "3P%": "20.00",
-      "PLAY_COUNT": 35,
-      "PPP_PERCENTILE": 20.0,
-      "2P%_PERCENTILE": 37.3,
-      "3P%_PERCENTILE": 13.3
+      "3P%_PERCENTILE": 14.7
     },
     {
       "PLAY_TYPE": "Spot Ups",
@@ -1268,7 +1284,7 @@
       "PLAY_COUNT": 35,
       "PPP_PERCENTILE": 97.3,
       "2P%_PERCENTILE": null,
-      "3P%_PERCENTILE": 89.3
+      "3P%_PERCENTILE": 90.7
     },
     {
       "PLAY_TYPE": "Transition",
@@ -1282,8 +1298,8 @@
       "3PM": "0",
       "3P%": "0.00",
       "PLAY_COUNT": 35,
-      "PPP_PERCENTILE": 90.7,
-      "2P%_PERCENTILE": 98.1,
+      "PPP_PERCENTILE": 90.9,
+      "2P%_PERCENTILE": 96.4,
       "3P%_PERCENTILE": null
     },
     {
@@ -1298,9 +1314,9 @@
       "3PM": "5",
       "3P%": "35.71",
       "PLAY_COUNT": 35,
-      "PPP_PERCENTILE": 81.5,
-      "2P%_PERCENTILE": 59.3,
-      "3P%_PERCENTILE": 66.7
+      "PPP_PERCENTILE": 80.0,
+      "2P%_PERCENTILE": 56.4,
+      "3P%_PERCENTILE": 67.3
     },
     {
       "PLAY_TYPE": "Transition",
@@ -1314,8 +1330,8 @@
       "3PM": "4",
       "3P%": "44.44",
       "PLAY_COUNT": 35,
-      "PPP_PERCENTILE": 61.1,
-      "2P%_PERCENTILE": 33.3,
+      "PPP_PERCENTILE": 60.0,
+      "2P%_PERCENTILE": 34.5,
       "3P%_PERCENTILE": null
     },
     {
@@ -1330,8 +1346,8 @@
       "3PM": "0",
       "3P%": null,
       "PLAY_COUNT": 34,
-      "PPP_PERCENTILE": 42.9,
-      "2P%_PERCENTILE": 42.9,
+      "PPP_PERCENTILE": 39.1,
+      "2P%_PERCENTILE": 39.1,
       "3P%_PERCENTILE": null
     },
     {
@@ -1384,22 +1400,6 @@
     },
     {
       "PLAY_TYPE": "Transition",
-      "PLAYER": "Braeden Burns",
-      "TEAM": "Clarkson University Golden Knights",
-      "PPP": "0.7941",
-      "2PA": "17",
-      "2PM": "12",
-      "2P%": "70.59",
-      "3PA": "3",
-      "3PM": "1",
-      "3P%": "33.33",
-      "PLAY_COUNT": 34,
-      "PPP_PERCENTILE": 59.3,
-      "2P%_PERCENTILE": 85.2,
-      "3P%_PERCENTILE": null
-    },
-    {
-      "PLAY_TYPE": "Transition",
       "PLAYER": "Andrew Deppe",
       "TEAM": "Rensselaer Polytechnic",
       "PPP": "0.6471",
@@ -1410,8 +1410,24 @@
       "3PM": "2",
       "3P%": "33.33",
       "PLAY_COUNT": 34,
-      "PPP_PERCENTILE": 38.9,
-      "2P%_PERCENTILE": 40.7,
+      "PPP_PERCENTILE": 38.2,
+      "2P%_PERCENTILE": 40.0,
+      "3P%_PERCENTILE": null
+    },
+    {
+      "PLAY_TYPE": "Transition",
+      "PLAYER": "Braeden Burns",
+      "TEAM": "Clarkson University Golden Knights",
+      "PPP": "0.7941",
+      "2PA": "17",
+      "2PM": "12",
+      "2P%": "70.59",
+      "3PA": "3",
+      "3PM": "1",
+      "3P%": "33.33",
+      "PLAY_COUNT": 34,
+      "PPP_PERCENTILE": 58.2,
+      "2P%_PERCENTILE": 83.6,
       "3P%_PERCENTILE": null
     },
     {
@@ -1427,7 +1443,7 @@
       "3P%": "40.00",
       "PLAY_COUNT": 33,
       "PPP_PERCENTILE": 87.5,
-      "2P%_PERCENTILE": 62.5,
+      "2P%_PERCENTILE": 75.0,
       "3P%_PERCENTILE": null
     },
     {
@@ -1448,6 +1464,22 @@
     },
     {
       "PLAY_TYPE": "Spot Ups",
+      "PLAYER": "Harrison Muntner",
+      "TEAM": "Hobart College Statesmen",
+      "PPP": "0.5152",
+      "2PA": "12",
+      "2PM": "4",
+      "2P%": "33.33",
+      "3PA": "11",
+      "3PM": "3",
+      "3P%": "27.27",
+      "PLAY_COUNT": 33,
+      "PPP_PERCENTILE": 12.0,
+      "2P%_PERCENTILE": null,
+      "3P%_PERCENTILE": 30.7
+    },
+    {
+      "PLAY_TYPE": "Spot Ups",
       "PLAYER": "Pat White",
       "TEAM": "Rensselaer Polytechnic",
       "PPP": "0.7273",
@@ -1458,7 +1490,7 @@
       "3PM": "8",
       "3P%": "30.77",
       "PLAY_COUNT": 33,
-      "PPP_PERCENTILE": 41.3,
+      "PPP_PERCENTILE": 40.0,
       "2P%_PERCENTILE": null,
       "3P%_PERCENTILE": 44.0
     },
@@ -1474,7 +1506,7 @@
       "3PM": "11",
       "3P%": "39.29",
       "PLAY_COUNT": 33,
-      "PPP_PERCENTILE": 70.7,
+      "PPP_PERCENTILE": 72.0,
       "2P%_PERCENTILE": null,
       "3P%_PERCENTILE": 68.0
     },
@@ -1490,7 +1522,7 @@
       "3PM": "8",
       "3P%": "88.89",
       "PLAY_COUNT": 33,
-      "PPP_PERCENTILE": 94.4,
+      "PPP_PERCENTILE": 94.5,
       "2P%_PERCENTILE": null,
       "3P%_PERCENTILE": null
     },
@@ -1508,7 +1540,7 @@
       "PLAY_COUNT": 32,
       "PPP_PERCENTILE": 98.7,
       "2P%_PERCENTILE": null,
-      "3P%_PERCENTILE": 93.3
+      "3P%_PERCENTILE": 94.7
     },
     {
       "PLAY_TYPE": "Transition",
@@ -1522,8 +1554,8 @@
       "3PM": "0",
       "3P%": "0.00",
       "PLAY_COUNT": 32,
-      "PPP_PERCENTILE": 42.6,
-      "2P%_PERCENTILE": 46.3,
+      "PPP_PERCENTILE": 41.8,
+      "2P%_PERCENTILE": 47.3,
       "3P%_PERCENTILE": null
     },
     {
@@ -1538,9 +1570,9 @@
       "3PM": "4",
       "3P%": "36.36",
       "PLAY_COUNT": 32,
-      "PPP_PERCENTILE": 66.7,
-      "2P%_PERCENTILE": 40.7,
-      "3P%_PERCENTILE": 68.5
+      "PPP_PERCENTILE": 69.1,
+      "2P%_PERCENTILE": 40.0,
+      "3P%_PERCENTILE": 69.1
     },
     {
       "PLAY_TYPE": "Transition",
@@ -1555,7 +1587,7 @@
       "3P%": "62.50",
       "PLAY_COUNT": 32,
       "PPP_PERCENTILE": 100.0,
-      "2P%_PERCENTILE": 92.6,
+      "2P%_PERCENTILE": 90.9,
       "3P%_PERCENTILE": null
     },
     {
@@ -1570,8 +1602,8 @@
       "3PM": "6",
       "3P%": "75.00",
       "PLAY_COUNT": 32,
-      "PPP_PERCENTILE": 79.6,
-      "2P%_PERCENTILE": 18.5,
+      "PPP_PERCENTILE": 78.2,
+      "2P%_PERCENTILE": 20.0,
       "3P%_PERCENTILE": null
     },
     {
@@ -1586,8 +1618,8 @@
       "3PM": "0",
       "3P%": null,
       "PLAY_COUNT": 31,
-      "PPP_PERCENTILE": 66.7,
-      "2P%_PERCENTILE": 52.4,
+      "PPP_PERCENTILE": 60.9,
+      "2P%_PERCENTILE": 47.8,
       "3P%_PERCENTILE": null
     },
     {
@@ -1640,22 +1672,6 @@
     },
     {
       "PLAY_TYPE": "Spot Ups",
-      "PLAYER": "Harrison Muntner",
-      "TEAM": "Hobart College Statesmen",
-      "PPP": "0.4839",
-      "2PA": "11",
-      "2PM": "3",
-      "2P%": "27.27",
-      "3PA": "10",
-      "3PM": "3",
-      "3P%": "30.00",
-      "PLAY_COUNT": 31,
-      "PPP_PERCENTILE": 10.7,
-      "2P%_PERCENTILE": null,
-      "3P%_PERCENTILE": 40.0
-    },
-    {
-      "PLAY_TYPE": "Spot Ups",
       "PLAYER": "Will Wertz",
       "TEAM": "Skidmore Thoroughbreds",
       "PPP": "0.5806",
@@ -1666,7 +1682,7 @@
       "3PM": "4",
       "3P%": "30.77",
       "PLAY_COUNT": 31,
-      "PPP_PERCENTILE": 17.3,
+      "PPP_PERCENTILE": 18.7,
       "2P%_PERCENTILE": null,
       "3P%_PERCENTILE": 44.0
     },
@@ -1682,9 +1698,9 @@
       "3PM": "1",
       "3P%": "8.33",
       "PLAY_COUNT": 31,
-      "PPP_PERCENTILE": 25.9,
+      "PPP_PERCENTILE": 25.5,
       "2P%_PERCENTILE": null,
-      "3P%_PERCENTILE": 29.6
+      "3P%_PERCENTILE": 29.1
     },
     {
       "PLAY_TYPE": "Transition",
@@ -1698,9 +1714,9 @@
       "3PM": "3",
       "3P%": "15.79",
       "PLAY_COUNT": 31,
-      "PPP_PERCENTILE": 35.2,
+      "PPP_PERCENTILE": 34.5,
       "2P%_PERCENTILE": null,
-      "3P%_PERCENTILE": 33.3
+      "3P%_PERCENTILE": 32.7
     },
     {
       "PLAY_TYPE": "Transition",
@@ -1714,7 +1730,7 @@
       "3PM": "2",
       "3P%": "25.00",
       "PLAY_COUNT": 31,
-      "PPP_PERCENTILE": 55.6,
+      "PPP_PERCENTILE": 54.5,
       "2P%_PERCENTILE": null,
       "3P%_PERCENTILE": null
     },
@@ -1735,6 +1751,38 @@
       "3P%_PERCENTILE": null
     },
     {
+      "PLAY_TYPE": "Spot Ups",
+      "PLAYER": "Connor Parkes",
+      "TEAM": "St. Lawrence Saints",
+      "PPP": "0.1667",
+      "2PA": "7",
+      "2PM": "1",
+      "2P%": "14.29",
+      "3PA": "14",
+      "3PM": "1",
+      "3P%": "7.14",
+      "PLAY_COUNT": 30,
+      "PPP_PERCENTILE": 0.0,
+      "2P%_PERCENTILE": null,
+      "3P%_PERCENTILE": 1.3
+    },
+    {
+      "PLAY_TYPE": "Spot Ups",
+      "PLAYER": "Colton Suriano",
+      "TEAM": "St. Lawrence Saints",
+      "PPP": "1.0000",
+      "2PA": "9",
+      "2PM": "3",
+      "2P%": "33.33",
+      "3PA": "18",
+      "3PM": "8",
+      "3P%": "44.44",
+      "PLAY_COUNT": 30,
+      "PPP_PERCENTILE": 72.0,
+      "2P%_PERCENTILE": null,
+      "3P%_PERCENTILE": 82.7
+    },
+    {
       "PLAY_TYPE": "Cuts",
       "PLAYER": "Josiah Turner",
       "TEAM": "Rochester Institute of Technology Tigers",
@@ -1746,41 +1794,9 @@
       "3PM": "0",
       "3P%": null,
       "PLAY_COUNT": 29,
-      "PPP_PERCENTILE": 85.7,
-      "2P%_PERCENTILE": 90.5,
+      "PPP_PERCENTILE": 82.6,
+      "2P%_PERCENTILE": 87.0,
       "3P%_PERCENTILE": null
-    },
-    {
-      "PLAY_TYPE": "Post",
-      "PLAYER": "Adam Dudzinski",
-      "TEAM": "St. Lawrence Saints",
-      "PPP": "0.5517",
-      "2PA": "16",
-      "2PM": "8",
-      "2P%": "50.00",
-      "3PA": "0",
-      "3PM": "0",
-      "3P%": null,
-      "PLAY_COUNT": 29,
-      "PPP_PERCENTILE": 45.5,
-      "2P%_PERCENTILE": 54.5,
-      "3P%_PERCENTILE": null
-    },
-    {
-      "PLAY_TYPE": "Spot Ups",
-      "PLAYER": "Connor Parkes",
-      "TEAM": "St. Lawrence Saints",
-      "PPP": "0.1724",
-      "2PA": "7",
-      "2PM": "1",
-      "2P%": "14.29",
-      "3PA": "14",
-      "3PM": "1",
-      "3P%": "7.14",
-      "PLAY_COUNT": 29,
-      "PPP_PERCENTILE": 0.0,
-      "2P%_PERCENTILE": null,
-      "3P%_PERCENTILE": 1.3
     },
     {
       "PLAY_TYPE": "Spot Ups",
@@ -1796,7 +1812,7 @@
       "PLAY_COUNT": 29,
       "PPP_PERCENTILE": 6.7,
       "2P%_PERCENTILE": null,
-      "3P%_PERCENTILE": 13.3
+      "3P%_PERCENTILE": 16.0
     },
     {
       "PLAY_TYPE": "Spot Ups",
@@ -1826,7 +1842,7 @@
       "3PM": "10",
       "3P%": "40.00",
       "PLAY_COUNT": 29,
-      "PPP_PERCENTILE": 82.7,
+      "PPP_PERCENTILE": 84.0,
       "2P%_PERCENTILE": null,
       "3P%_PERCENTILE": 70.7
     },
@@ -1842,8 +1858,8 @@
       "3PM": "0",
       "3P%": "0.00",
       "PLAY_COUNT": 29,
-      "PPP_PERCENTILE": 77.8,
-      "2P%_PERCENTILE": 87.0,
+      "PPP_PERCENTILE": 76.4,
+      "2P%_PERCENTILE": 85.5,
       "3P%_PERCENTILE": null
     },
     {
@@ -1858,8 +1874,8 @@
       "3PM": "0",
       "3P%": null,
       "PLAY_COUNT": 28,
-      "PPP_PERCENTILE": 90.5,
-      "2P%_PERCENTILE": 90.5,
+      "PPP_PERCENTILE": 87.0,
+      "2P%_PERCENTILE": 87.0,
       "3P%_PERCENTILE": null
     },
     {
@@ -1874,8 +1890,8 @@
       "3PM": "0",
       "3P%": null,
       "PLAY_COUNT": 28,
-      "PPP_PERCENTILE": 61.9,
-      "2P%_PERCENTILE": 85.7,
+      "PPP_PERCENTILE": 56.5,
+      "2P%_PERCENTILE": 82.6,
       "3P%_PERCENTILE": null
     },
     {
@@ -1890,7 +1906,7 @@
       "3PM": "0",
       "3P%": "0.00",
       "PLAY_COUNT": 28,
-      "PPP_PERCENTILE": 92.9,
+      "PPP_PERCENTILE": 93.3,
       "2P%_PERCENTILE": null,
       "3P%_PERCENTILE": null
     },
@@ -1922,9 +1938,25 @@
       "3PM": "6",
       "3P%": "50.00",
       "PLAY_COUNT": 28,
-      "PPP_PERCENTILE": 88.9,
+      "PPP_PERCENTILE": 87.3,
       "2P%_PERCENTILE": null,
-      "3P%_PERCENTILE": 79.6
+      "3P%_PERCENTILE": 80.0
+    },
+    {
+      "PLAY_TYPE": null,
+      "PLAYER": "Dorian Paki",
+      "TEAM": "Hobart College Statesmen",
+      "PPP": "0.9630",
+      "2PA": "22",
+      "2PM": "13",
+      "2P%": "59.09",
+      "3PA": "0",
+      "3PM": "0",
+      "3P%": null,
+      "PLAY_COUNT": 27,
+      "PPP_PERCENTILE": 66.7,
+      "2P%_PERCENTILE": 55.6,
+      "3P%_PERCENTILE": null
     },
     {
       "PLAY_TYPE": "Hand Offs",
@@ -1971,7 +2003,7 @@
       "3P%": "0.00",
       "PLAY_COUNT": 27,
       "PPP_PERCENTILE": 61.9,
-      "2P%_PERCENTILE": 95.2,
+      "2P%_PERCENTILE": 90.5,
       "3P%_PERCENTILE": null
     },
     {
@@ -2004,7 +2036,7 @@
       "PLAY_COUNT": 27,
       "PPP_PERCENTILE": 89.3,
       "2P%_PERCENTILE": null,
-      "3P%_PERCENTILE": 65.3
+      "3P%_PERCENTILE": 66.7
     },
     {
       "PLAY_TYPE": "Transition",
@@ -2018,9 +2050,25 @@
       "3PM": "3",
       "3P%": "20.00",
       "PLAY_COUNT": 27,
-      "PPP_PERCENTILE": 14.8,
+      "PPP_PERCENTILE": 14.5,
       "2P%_PERCENTILE": null,
-      "3P%_PERCENTILE": 38.9
+      "3P%_PERCENTILE": 38.2
+    },
+    {
+      "PLAY_TYPE": "Transition",
+      "PLAYER": "Allen Mordi",
+      "TEAM": "Hobart College Statesmen",
+      "PPP": "0.9630",
+      "2PA": "13",
+      "2PM": "7",
+      "2P%": "53.85",
+      "3PA": "6",
+      "3PM": "4",
+      "3P%": "66.67",
+      "PLAY_COUNT": 27,
+      "PPP_PERCENTILE": 81.8,
+      "2P%_PERCENTILE": null,
+      "3P%_PERCENTILE": null
     },
     {
       "PLAY_TYPE": "Spot Ups",
@@ -2034,25 +2082,9 @@
       "3PM": "2",
       "3P%": "40.00",
       "PLAY_COUNT": 26,
-      "PPP_PERCENTILE": 70.7,
+      "PPP_PERCENTILE": 72.0,
       "2P%_PERCENTILE": 90.7,
       "3P%_PERCENTILE": null
-    },
-    {
-      "PLAY_TYPE": "Spot Ups",
-      "PLAYER": "Colton Suriano",
-      "TEAM": "St. Lawrence Saints",
-      "PPP": "1.1538",
-      "2PA": "9",
-      "2PM": "3",
-      "2P%": "33.33",
-      "3PA": "15",
-      "3PM": "8",
-      "3P%": "53.33",
-      "PLAY_COUNT": 26,
-      "PPP_PERCENTILE": 86.7,
-      "2P%_PERCENTILE": null,
-      "3P%_PERCENTILE": 94.7
     },
     {
       "PLAY_TYPE": "Transition",
@@ -2066,7 +2098,23 @@
       "3PM": "0",
       "3P%": "0.00",
       "PLAY_COUNT": 26,
-      "PPP_PERCENTILE": 1.9,
+      "PPP_PERCENTILE": 1.8,
+      "2P%_PERCENTILE": null,
+      "3P%_PERCENTILE": null
+    },
+    {
+      "PLAY_TYPE": "Transition",
+      "PLAYER": "Tommy McMahon",
+      "TEAM": "St. Lawrence Saints",
+      "PPP": "0.4231",
+      "2PA": "12",
+      "2PM": "4",
+      "2P%": "33.33",
+      "3PA": "5",
+      "3PM": "1",
+      "3P%": "20.00",
+      "PLAY_COUNT": 26,
+      "PPP_PERCENTILE": 18.2,
       "2P%_PERCENTILE": null,
       "3P%_PERCENTILE": null
     },
@@ -2082,25 +2130,25 @@
       "3PM": "1",
       "3P%": "33.33",
       "PLAY_COUNT": 26,
-      "PPP_PERCENTILE": 16.7,
+      "PPP_PERCENTILE": 18.2,
       "2P%_PERCENTILE": null,
       "3P%_PERCENTILE": null
     },
     {
       "PLAY_TYPE": "Transition",
-      "PLAYER": "Allen Mordi",
+      "PLAYER": "Gabriel Bergeron",
       "TEAM": "Hobart College Statesmen",
-      "PPP": "1.0000",
-      "2PA": "12",
-      "2PM": "7",
-      "2P%": "58.33",
-      "3PA": "6",
+      "PPP": "0.8462",
+      "2PA": "11",
+      "2PM": "5",
+      "2P%": "45.45",
+      "3PA": "10",
       "3PM": "4",
-      "3P%": "66.67",
+      "3P%": "40.00",
       "PLAY_COUNT": 26,
-      "PPP_PERCENTILE": 83.3,
+      "PPP_PERCENTILE": 65.5,
       "2P%_PERCENTILE": null,
-      "3P%_PERCENTILE": null
+      "3P%_PERCENTILE": 72.7
     },
     {
       "PLAY_TYPE": "Spot Ups",
@@ -2114,9 +2162,9 @@
       "3PM": "4",
       "3P%": "28.57",
       "PLAY_COUNT": 25,
-      "PPP_PERCENTILE": 38.7,
+      "PPP_PERCENTILE": 37.3,
       "2P%_PERCENTILE": null,
-      "3P%_PERCENTILE": 33.3
+      "3P%_PERCENTILE": 34.7
     },
     {
       "PLAY_TYPE": "Spot Ups",
@@ -2132,7 +2180,7 @@
       "PLAY_COUNT": 25,
       "PPP_PERCENTILE": 92.0,
       "2P%_PERCENTILE": null,
-      "3P%_PERCENTILE": 77.3
+      "3P%_PERCENTILE": 78.7
     },
     {
       "PLAY_TYPE": "Transition",
@@ -2146,41 +2194,9 @@
       "3PM": "1",
       "3P%": "20.00",
       "PLAY_COUNT": 25,
-      "PPP_PERCENTILE": 27.8,
+      "PPP_PERCENTILE": 27.3,
       "2P%_PERCENTILE": null,
       "3P%_PERCENTILE": null
-    },
-    {
-      "PLAY_TYPE": "Transition",
-      "PLAYER": "Tommy McMahon",
-      "TEAM": "St. Lawrence Saints",
-      "PPP": "0.4400",
-      "2PA": "11",
-      "2PM": "4",
-      "2P%": "36.36",
-      "3PA": "5",
-      "3PM": "1",
-      "3P%": "20.00",
-      "PLAY_COUNT": 25,
-      "PPP_PERCENTILE": 20.4,
-      "2P%_PERCENTILE": null,
-      "3P%_PERCENTILE": null
-    },
-    {
-      "PLAY_TYPE": "Transition",
-      "PLAYER": "Gabriel Bergeron",
-      "TEAM": "Hobart College Statesmen",
-      "PPP": "0.8800",
-      "2PA": "10",
-      "2PM": "5",
-      "2P%": "50.00",
-      "3PA": "10",
-      "3PM": "4",
-      "3P%": "40.00",
-      "PLAY_COUNT": 25,
-      "PPP_PERCENTILE": 72.2,
-      "2P%_PERCENTILE": null,
-      "3P%_PERCENTILE": 72.2
     },
     {
       "PLAY_TYPE": "Transition",
@@ -2194,24 +2210,8 @@
       "3PM": "2",
       "3P%": "100.00",
       "PLAY_COUNT": 25,
-      "PPP_PERCENTILE": 72.2,
-      "2P%_PERCENTILE": 40.7,
-      "3P%_PERCENTILE": null
-    },
-    {
-      "PLAY_TYPE": null,
-      "PLAYER": "Dorian Paki",
-      "TEAM": "Hobart College Statesmen",
-      "PPP": "0.9167",
-      "2PA": "20",
-      "2PM": "11",
-      "2P%": "55.00",
-      "3PA": "0",
-      "3PM": "0",
-      "3P%": null,
-      "PLAY_COUNT": 24,
-      "PPP_PERCENTILE": 66.7,
-      "2P%_PERCENTILE": 44.4,
+      "PPP_PERCENTILE": 72.7,
+      "2P%_PERCENTILE": 40.0,
       "3P%_PERCENTILE": null
     },
     {
@@ -2227,7 +2227,7 @@
       "3P%": "0.00",
       "PLAY_COUNT": 24,
       "PPP_PERCENTILE": 22.2,
-      "2P%_PERCENTILE": 55.6,
+      "2P%_PERCENTILE": 44.4,
       "3P%_PERCENTILE": null
     },
     {
@@ -2242,9 +2242,41 @@
       "3PM": "0",
       "3P%": null,
       "PLAY_COUNT": 24,
-      "PPP_PERCENTILE": 81.0,
-      "2P%_PERCENTILE": 71.4,
+      "PPP_PERCENTILE": 78.3,
+      "2P%_PERCENTILE": 65.2,
       "3P%_PERCENTILE": null
+    },
+    {
+      "PLAY_TYPE": "Iso",
+      "PLAYER": "Dan Anderson",
+      "TEAM": "St. Lawrence Saints",
+      "PPP": "0.7500",
+      "2PA": "14",
+      "2PM": "6",
+      "2P%": "42.86",
+      "3PA": "2",
+      "3PM": "2",
+      "3P%": "100.00",
+      "PLAY_COUNT": 24,
+      "PPP_PERCENTILE": 62.5,
+      "2P%_PERCENTILE": null,
+      "3P%_PERCENTILE": null
+    },
+    {
+      "PLAY_TYPE": "Off Screens",
+      "PLAYER": "Dan Anderson",
+      "TEAM": "St. Lawrence Saints",
+      "PPP": "0.5417",
+      "2PA": "7",
+      "2PM": "5",
+      "2P%": "71.43",
+      "3PA": "14",
+      "3PM": "1",
+      "3P%": "7.14",
+      "PLAY_COUNT": 24,
+      "PPP_PERCENTILE": 0.0,
+      "2P%_PERCENTILE": null,
+      "3P%_PERCENTILE": 0.0
     },
     {
       "PLAY_TYPE": "PNR",
@@ -2276,7 +2308,7 @@
       "PLAY_COUNT": 24,
       "PPP_PERCENTILE": 9.3,
       "2P%_PERCENTILE": null,
-      "3P%_PERCENTILE": 40.0
+      "3P%_PERCENTILE": 41.3
     },
     {
       "PLAY_TYPE": "Spot Ups",
@@ -2308,7 +2340,7 @@
       "PLAY_COUNT": 24,
       "PPP_PERCENTILE": 62.7,
       "2P%_PERCENTILE": null,
-      "3P%_PERCENTILE": 86.7
+      "3P%_PERCENTILE": 88.0
     },
     {
       "PLAY_TYPE": "Transition",
@@ -2322,7 +2354,7 @@
       "3PM": "0",
       "3P%": "0.00",
       "PLAY_COUNT": 24,
-      "PPP_PERCENTILE": 7.4,
+      "PPP_PERCENTILE": 7.3,
       "2P%_PERCENTILE": null,
       "3P%_PERCENTILE": null
     },
@@ -2338,8 +2370,8 @@
       "3PM": "0",
       "3P%": null,
       "PLAY_COUNT": 23,
-      "PPP_PERCENTILE": 19.0,
-      "2P%_PERCENTILE": 23.8,
+      "PPP_PERCENTILE": 21.7,
+      "2P%_PERCENTILE": 21.7,
       "3P%_PERCENTILE": null
     },
     {
@@ -2376,6 +2408,22 @@
     },
     {
       "PLAY_TYPE": "Misc",
+      "PLAYER": "Monty Nedd",
+      "TEAM": "Hobart College Statesmen",
+      "PPP": "0.0000",
+      "2PA": "2",
+      "2PM": "0",
+      "2P%": "0.00",
+      "3PA": "1",
+      "3PM": "0",
+      "3P%": "0.00",
+      "PLAY_COUNT": 23,
+      "PPP_PERCENTILE": 0.0,
+      "2P%_PERCENTILE": null,
+      "3P%_PERCENTILE": null
+    },
+    {
+      "PLAY_TYPE": "Misc",
       "PLAYER": "Evan Cabral",
       "TEAM": "Ithaca College",
       "PPP": "0.1739",
@@ -2386,25 +2434,9 @@
       "3PM": "0",
       "3P%": "0.00",
       "PLAY_COUNT": 23,
-      "PPP_PERCENTILE": 85.7,
+      "PPP_PERCENTILE": 86.7,
       "2P%_PERCENTILE": null,
       "3P%_PERCENTILE": null
-    },
-    {
-      "PLAY_TYPE": "Off Screens",
-      "PLAYER": "Dan Anderson",
-      "TEAM": "St. Lawrence Saints",
-      "PPP": "0.5652",
-      "2PA": "7",
-      "2PM": "5",
-      "2P%": "71.43",
-      "3PA": "13",
-      "3PM": "1",
-      "3P%": "7.69",
-      "PLAY_COUNT": 23,
-      "PPP_PERCENTILE": 0.0,
-      "2P%_PERCENTILE": null,
-      "3P%_PERCENTILE": 0.0
     },
     {
       "PLAY_TYPE": "Spot Ups",
@@ -2450,9 +2482,9 @@
       "3PM": "7",
       "3P%": "36.84",
       "PLAY_COUNT": 23,
-      "PPP_PERCENTILE": 81.3,
+      "PPP_PERCENTILE": 82.7,
       "2P%_PERCENTILE": null,
-      "3P%_PERCENTILE": 62.7
+      "3P%_PERCENTILE": 64.0
     },
     {
       "PLAY_TYPE": "Transition",
@@ -2466,7 +2498,7 @@
       "3PM": "3",
       "3P%": "33.33",
       "PLAY_COUNT": 23,
-      "PPP_PERCENTILE": 50.0,
+      "PPP_PERCENTILE": 49.1,
       "2P%_PERCENTILE": null,
       "3P%_PERCENTILE": null
     },
@@ -2482,8 +2514,8 @@
       "3PM": "0",
       "3P%": null,
       "PLAY_COUNT": 22,
-      "PPP_PERCENTILE": 100.0,
-      "2P%_PERCENTILE": 71.4,
+      "PPP_PERCENTILE": 95.7,
+      "2P%_PERCENTILE": 65.2,
       "3P%_PERCENTILE": null
     },
     {
@@ -2519,19 +2551,19 @@
       "3P%_PERCENTILE": null
     },
     {
-      "PLAY_TYPE": "Misc",
-      "PLAYER": "Monty Nedd",
-      "TEAM": "Hobart College Statesmen",
-      "PPP": "0.0000",
-      "2PA": "2",
-      "2PM": "0",
-      "2P%": "0.00",
+      "PLAY_TYPE": "PNR",
+      "PLAYER": "Tommy McMahon",
+      "TEAM": "St. Lawrence Saints",
+      "PPP": "0.8182",
+      "2PA": "16",
+      "2PM": "9",
+      "2P%": "56.25",
       "3PA": "1",
       "3PM": "0",
       "3P%": "0.00",
       "PLAY_COUNT": 22,
-      "PPP_PERCENTILE": 0.0,
-      "2P%_PERCENTILE": null,
+      "PPP_PERCENTILE": 100.0,
+      "2P%_PERCENTILE": 95.2,
       "3P%_PERCENTILE": null
     },
     {
@@ -2564,7 +2596,7 @@
       "PLAY_COUNT": 22,
       "PPP_PERCENTILE": 94.7,
       "2P%_PERCENTILE": null,
-      "3P%_PERCENTILE": 92.0
+      "3P%_PERCENTILE": 93.3
     },
     {
       "PLAY_TYPE": "Transition",
@@ -2578,8 +2610,8 @@
       "3PM": "1",
       "3P%": "50.00",
       "PLAY_COUNT": 22,
-      "PPP_PERCENTILE": 53.7,
-      "2P%_PERCENTILE": 27.8,
+      "PPP_PERCENTILE": 52.7,
+      "2P%_PERCENTILE": 27.3,
       "3P%_PERCENTILE": null
     },
     {
@@ -2658,9 +2690,9 @@
       "3PM": "6",
       "3P%": "54.55",
       "PLAY_COUNT": 21,
-      "PPP_PERCENTILE": 98.1,
+      "PPP_PERCENTILE": 98.2,
       "2P%_PERCENTILE": null,
-      "3P%_PERCENTILE": 85.2
+      "3P%_PERCENTILE": 85.5
     },
     {
       "PLAY_TYPE": "Iso",
@@ -2754,7 +2786,7 @@
       "3PM": "0",
       "3P%": null,
       "PLAY_COUNT": 19,
-      "PPP_PERCENTILE": 57.1,
+      "PPP_PERCENTILE": 52.2,
       "2P%_PERCENTILE": null,
       "3P%_PERCENTILE": null
     },
@@ -2770,8 +2802,8 @@
       "3PM": "0",
       "3P%": null,
       "PLAY_COUNT": 19,
-      "PPP_PERCENTILE": 71.4,
-      "2P%_PERCENTILE": 57.1,
+      "PPP_PERCENTILE": 69.6,
+      "2P%_PERCENTILE": 52.2,
       "3P%_PERCENTILE": null
     },
     {
@@ -2786,7 +2818,7 @@
       "3PM": "0",
       "3P%": null,
       "PLAY_COUNT": 19,
-      "PPP_PERCENTILE": 4.8,
+      "PPP_PERCENTILE": 4.3,
       "2P%_PERCENTILE": null,
       "3P%_PERCENTILE": null
     },
@@ -2802,7 +2834,7 @@
       "3PM": "0",
       "3P%": null,
       "PLAY_COUNT": 19,
-      "PPP_PERCENTILE": 35.7,
+      "PPP_PERCENTILE": 33.3,
       "2P%_PERCENTILE": null,
       "3P%_PERCENTILE": null
     },
@@ -2840,22 +2872,6 @@
     },
     {
       "PLAY_TYPE": "PNR",
-      "PLAYER": "Tommy McMahon",
-      "TEAM": "St. Lawrence Saints",
-      "PPP": "0.7368",
-      "2PA": "14",
-      "2PM": "7",
-      "2P%": "50.00",
-      "3PA": "1",
-      "3PM": "0",
-      "3P%": "0.00",
-      "PLAY_COUNT": 19,
-      "PPP_PERCENTILE": 90.5,
-      "2P%_PERCENTILE": null,
-      "3P%_PERCENTILE": null
-    },
-    {
-      "PLAY_TYPE": "PNR",
       "PLAYER": "Matthew Zenker",
       "TEAM": "Ithaca College",
       "PPP": "0.7895",
@@ -2866,7 +2882,7 @@
       "3PM": "3",
       "3P%": "42.86",
       "PLAY_COUNT": 19,
-      "PPP_PERCENTILE": 100.0,
+      "PPP_PERCENTILE": 95.2,
       "2P%_PERCENTILE": null,
       "3P%_PERCENTILE": null
     },
@@ -2883,6 +2899,22 @@
       "3P%": null,
       "PLAY_COUNT": 19,
       "PPP_PERCENTILE": 18.2,
+      "2P%_PERCENTILE": null,
+      "3P%_PERCENTILE": null
+    },
+    {
+      "PLAY_TYPE": "Spot Ups",
+      "PLAYER": "Jlin Brown",
+      "TEAM": "St. Lawrence Saints",
+      "PPP": "0.4737",
+      "2PA": "8",
+      "2PM": "3",
+      "2P%": "37.50",
+      "3PA": "6",
+      "3PM": "1",
+      "3P%": "16.67",
+      "PLAY_COUNT": 19,
+      "PPP_PERCENTILE": 10.7,
       "2P%_PERCENTILE": null,
       "3P%_PERCENTILE": null
     },
@@ -2936,6 +2968,22 @@
     },
     {
       "PLAY_TYPE": "Transition",
+      "PLAYER": "Jlin Brown",
+      "TEAM": "St. Lawrence Saints",
+      "PPP": "0.4211",
+      "2PA": "10",
+      "2PM": "4",
+      "2P%": "40.00",
+      "3PA": "1",
+      "3PM": "0",
+      "3P%": "0.00",
+      "PLAY_COUNT": 19,
+      "PPP_PERCENTILE": 16.4,
+      "2P%_PERCENTILE": null,
+      "3P%_PERCENTILE": null
+    },
+    {
+      "PLAY_TYPE": "Transition",
       "PLAYER": "Cole Wissink",
       "TEAM": "Ithaca College",
       "PPP": "0.3158",
@@ -2946,9 +2994,9 @@
       "3PM": "2",
       "3P%": "15.38",
       "PLAY_COUNT": 19,
-      "PPP_PERCENTILE": 5.6,
+      "PPP_PERCENTILE": 5.5,
       "2P%_PERCENTILE": null,
-      "3P%_PERCENTILE": 31.5
+      "3P%_PERCENTILE": 30.9
     },
     {
       "PLAY_TYPE": "Cuts",
@@ -2962,7 +3010,7 @@
       "3PM": "0",
       "3P%": null,
       "PLAY_COUNT": 18,
-      "PPP_PERCENTILE": 47.6,
+      "PPP_PERCENTILE": 43.5,
       "2P%_PERCENTILE": null,
       "3P%_PERCENTILE": null
     },
@@ -2978,7 +3026,7 @@
       "3PM": "0",
       "3P%": null,
       "PLAY_COUNT": 18,
-      "PPP_PERCENTILE": 47.6,
+      "PPP_PERCENTILE": 43.5,
       "2P%_PERCENTILE": null,
       "3P%_PERCENTILE": null
     },
@@ -3015,34 +3063,18 @@
       "3P%_PERCENTILE": null
     },
     {
-      "PLAY_TYPE": "Iso",
-      "PLAYER": "Dan Anderson",
+      "PLAY_TYPE": "Misc",
+      "PLAYER": "Adam Dudzinski",
       "TEAM": "St. Lawrence Saints",
-      "PPP": "0.7778",
-      "2PA": "8",
-      "2PM": "4",
-      "2P%": "50.00",
-      "3PA": "2",
-      "3PM": "2",
-      "3P%": "100.00",
-      "PLAY_COUNT": 18,
-      "PPP_PERCENTILE": 62.5,
-      "2P%_PERCENTILE": null,
-      "3P%_PERCENTILE": null
-    },
-    {
-      "PLAY_TYPE": "Spot Ups",
-      "PLAYER": "Jlin Brown",
-      "TEAM": "St. Lawrence Saints",
-      "PPP": "0.5000",
-      "2PA": "8",
-      "2PM": "3",
-      "2P%": "37.50",
+      "PPP": "0.3333",
+      "2PA": "0",
+      "2PM": "0",
+      "2P%": null,
       "3PA": "5",
-      "3PM": "1",
-      "3P%": "20.00",
+      "3PM": "2",
+      "3P%": "40.00",
       "PLAY_COUNT": 18,
-      "PPP_PERCENTILE": 12.0,
+      "PPP_PERCENTILE": 100.0,
       "2P%_PERCENTILE": null,
       "3P%_PERCENTILE": null
     },
@@ -3058,7 +3090,7 @@
       "3PM": "0",
       "3P%": "0.00",
       "PLAY_COUNT": 18,
-      "PPP_PERCENTILE": 31.5,
+      "PPP_PERCENTILE": 30.9,
       "2P%_PERCENTILE": null,
       "3P%_PERCENTILE": null
     },
@@ -3074,9 +3106,9 @@
       "3PM": "4",
       "3P%": "30.77",
       "PLAY_COUNT": 18,
-      "PPP_PERCENTILE": 57.4,
+      "PPP_PERCENTILE": 56.4,
       "2P%_PERCENTILE": null,
-      "3P%_PERCENTILE": 55.6
+      "3P%_PERCENTILE": 54.5
     },
     {
       "PLAY_TYPE": "Transition",
@@ -3090,7 +3122,7 @@
       "3PM": "3",
       "3P%": "75.00",
       "PLAY_COUNT": 18,
-      "PPP_PERCENTILE": 96.3,
+      "PPP_PERCENTILE": 96.4,
       "2P%_PERCENTILE": null,
       "3P%_PERCENTILE": null
     },
@@ -3106,7 +3138,7 @@
       "3PM": "0",
       "3P%": null,
       "PLAY_COUNT": 17,
-      "PPP_PERCENTILE": 33.3,
+      "PPP_PERCENTILE": 30.4,
       "2P%_PERCENTILE": null,
       "3P%_PERCENTILE": null
     },
@@ -3170,7 +3202,7 @@
       "3PM": "0",
       "3P%": null,
       "PLAY_COUNT": 17,
-      "PPP_PERCENTILE": 50.0,
+      "PPP_PERCENTILE": 46.7,
       "2P%_PERCENTILE": null,
       "3P%_PERCENTILE": null
     },
@@ -3202,23 +3234,7 @@
       "3PM": "0",
       "3P%": "0.00",
       "PLAY_COUNT": 17,
-      "PPP_PERCENTILE": 50.0,
-      "2P%_PERCENTILE": null,
-      "3P%_PERCENTILE": null
-    },
-    {
-      "PLAY_TYPE": "Misc",
-      "PLAYER": "Adam Dudzinski",
-      "TEAM": "St. Lawrence Saints",
-      "PPP": "0.3529",
-      "2PA": "0",
-      "2PM": "0",
-      "2P%": null,
-      "3PA": "5",
-      "3PM": "2",
-      "3P%": "40.00",
-      "PLAY_COUNT": 17,
-      "PPP_PERCENTILE": 100.0,
+      "PPP_PERCENTILE": 46.7,
       "2P%_PERCENTILE": null,
       "3P%_PERCENTILE": null
     },
@@ -3250,7 +3266,7 @@
       "3PM": "3",
       "3P%": "50.00",
       "PLAY_COUNT": 17,
-      "PPP_PERCENTILE": 95.2,
+      "PPP_PERCENTILE": 90.5,
       "2P%_PERCENTILE": null,
       "3P%_PERCENTILE": null
     },
@@ -3282,23 +3298,7 @@
       "3PM": "0",
       "3P%": null,
       "PLAY_COUNT": 17,
-      "PPP_PERCENTILE": 87.0,
-      "2P%_PERCENTILE": null,
-      "3P%_PERCENTILE": null
-    },
-    {
-      "PLAY_TYPE": "Transition",
-      "PLAYER": "Jlin Brown",
-      "TEAM": "St. Lawrence Saints",
-      "PPP": "0.4706",
-      "2PA": "10",
-      "2PM": "4",
-      "2P%": "40.00",
-      "3PA": "1",
-      "3PM": "0",
-      "3P%": "0.00",
-      "PLAY_COUNT": 17,
-      "PPP_PERCENTILE": 24.1,
+      "PPP_PERCENTILE": 85.5,
       "2P%_PERCENTILE": null,
       "3P%_PERCENTILE": null
     },
@@ -3314,7 +3314,7 @@
       "3PM": "1",
       "3P%": "16.67",
       "PLAY_COUNT": 17,
-      "PPP_PERCENTILE": 3.7,
+      "PPP_PERCENTILE": 3.6,
       "2P%_PERCENTILE": null,
       "3P%_PERCENTILE": null
     },
@@ -3330,7 +3330,7 @@
       "3PM": "1",
       "3P%": "50.00",
       "PLAY_COUNT": 17,
-      "PPP_PERCENTILE": 83.3,
+      "PPP_PERCENTILE": 83.6,
       "2P%_PERCENTILE": null,
       "3P%_PERCENTILE": null
     },
@@ -3458,7 +3458,7 @@
       "3PM": "0",
       "3P%": null,
       "PLAY_COUNT": 16,
-      "PPP_PERCENTILE": 64.3,
+      "PPP_PERCENTILE": 60.0,
       "2P%_PERCENTILE": null,
       "3P%_PERCENTILE": null
     },
@@ -3528,6 +3528,22 @@
     },
     {
       "PLAY_TYPE": "Post",
+      "PLAYER": "Dylan Matchett",
+      "TEAM": "Rensselaer Polytechnic",
+      "PPP": "0.7500",
+      "2PA": "15",
+      "2PM": "6",
+      "2P%": "40.00",
+      "3PA": "0",
+      "3PM": "0",
+      "3P%": null,
+      "PLAY_COUNT": 16,
+      "PPP_PERCENTILE": 81.8,
+      "2P%_PERCENTILE": 27.3,
+      "3P%_PERCENTILE": null
+    },
+    {
+      "PLAY_TYPE": "Post",
       "PLAYER": "Chris Leysath",
       "TEAM": "Ithaca College",
       "PPP": "0.3750",
@@ -3540,22 +3556,6 @@
       "PLAY_COUNT": 16,
       "PPP_PERCENTILE": 9.1,
       "2P%_PERCENTILE": null,
-      "3P%_PERCENTILE": null
-    },
-    {
-      "PLAY_TYPE": "Post",
-      "PLAYER": "Dylan Matchett",
-      "TEAM": "Rensselaer Polytechnic",
-      "PPP": "0.7500",
-      "2PA": "15",
-      "2PM": "6",
-      "2P%": "40.00",
-      "3PA": "0",
-      "3PM": "0",
-      "3P%": null,
-      "PLAY_COUNT": 16,
-      "PPP_PERCENTILE": 72.7,
-      "2P%_PERCENTILE": 27.3,
       "3P%_PERCENTILE": null
     },
     {
@@ -3572,7 +3572,7 @@
       "PLAY_COUNT": 16,
       "PPP_PERCENTILE": 65.3,
       "2P%_PERCENTILE": null,
-      "3P%_PERCENTILE": 40.0
+      "3P%_PERCENTILE": 41.3
     },
     {
       "PLAY_TYPE": "Spot Ups",
@@ -3602,7 +3602,7 @@
       "3PM": "1",
       "3P%": "20.00",
       "PLAY_COUNT": 16,
-      "PPP_PERCENTILE": 18.5,
+      "PPP_PERCENTILE": 21.8,
       "2P%_PERCENTILE": null,
       "3P%_PERCENTILE": null
     },
@@ -3618,7 +3618,7 @@
       "3PM": "2",
       "3P%": "22.22",
       "PLAY_COUNT": 16,
-      "PPP_PERCENTILE": 37.0,
+      "PPP_PERCENTILE": 36.4,
       "2P%_PERCENTILE": null,
       "3P%_PERCENTILE": null
     },
@@ -3672,6 +3672,38 @@
     },
     {
       "PLAY_TYPE": "Cuts",
+      "PLAYER": "Allen Mordi",
+      "TEAM": "Hobart College Statesmen",
+      "PPP": "1.2000",
+      "2PA": "13",
+      "2PM": "9",
+      "2P%": "69.23",
+      "3PA": "0",
+      "3PM": "0",
+      "3P%": null,
+      "PLAY_COUNT": 15,
+      "PPP_PERCENTILE": 100.0,
+      "2P%_PERCENTILE": null,
+      "3P%_PERCENTILE": null
+    },
+    {
+      "PLAY_TYPE": "Cuts",
+      "PLAYER": "Niko Lutz",
+      "TEAM": "Hobart College Statesmen",
+      "PPP": "0.9333",
+      "2PA": "11",
+      "2PM": "7",
+      "2P%": "63.64",
+      "3PA": "0",
+      "3PM": "0",
+      "3P%": null,
+      "PLAY_COUNT": 15,
+      "PPP_PERCENTILE": 65.2,
+      "2P%_PERCENTILE": null,
+      "3P%_PERCENTILE": null
+    },
+    {
+      "PLAY_TYPE": "Cuts",
       "PLAYER": "Gyasi Zinn",
       "TEAM": "Vassar Brewers",
       "PPP": "0.5333",
@@ -3682,7 +3714,7 @@
       "3PM": "0",
       "3P%": null,
       "PLAY_COUNT": 15,
-      "PPP_PERCENTILE": 9.5,
+      "PPP_PERCENTILE": 8.7,
       "2P%_PERCENTILE": null,
       "3P%_PERCENTILE": null
     },
@@ -3698,7 +3730,7 @@
       "3PM": "0",
       "3P%": null,
       "PLAY_COUNT": 15,
-      "PPP_PERCENTILE": 9.5,
+      "PPP_PERCENTILE": 8.7,
       "2P%_PERCENTILE": null,
       "3P%_PERCENTILE": null
     },
@@ -3714,7 +3746,23 @@
       "3PM": "0",
       "3P%": null,
       "PLAY_COUNT": 15,
-      "PPP_PERCENTILE": 71.4,
+      "PPP_PERCENTILE": 66.7,
+      "2P%_PERCENTILE": null,
+      "3P%_PERCENTILE": null
+    },
+    {
+      "PLAY_TYPE": "Misc",
+      "PLAYER": "Alex Moesch",
+      "TEAM": "Hobart College Statesmen",
+      "PPP": "0.1333",
+      "2PA": "1",
+      "2PM": "1",
+      "2P%": "100.00",
+      "3PA": "0",
+      "3PM": "0",
+      "3P%": null,
+      "PLAY_COUNT": 15,
+      "PPP_PERCENTILE": 66.7,
       "2P%_PERCENTILE": null,
       "3P%_PERCENTILE": null
     },
@@ -3730,7 +3778,7 @@
       "3PM": "0",
       "3P%": null,
       "PLAY_COUNT": 15,
-      "PPP_PERCENTILE": 71.4,
+      "PPP_PERCENTILE": 66.7,
       "2P%_PERCENTILE": null,
       "3P%_PERCENTILE": null
     },
@@ -3842,9 +3890,9 @@
       "3PM": "5",
       "3P%": "35.71",
       "PLAY_COUNT": 15,
-      "PPP_PERCENTILE": 70.7,
+      "PPP_PERCENTILE": 72.0,
       "2P%_PERCENTILE": null,
-      "3P%_PERCENTILE": 58.7
+      "3P%_PERCENTILE": 60.0
     },
     {
       "PLAY_TYPE": "Spot Ups",
@@ -3874,23 +3922,7 @@
       "3PM": "0",
       "3P%": null,
       "PLAY_COUNT": 15,
-      "PPP_PERCENTILE": 90.7,
-      "2P%_PERCENTILE": null,
-      "3P%_PERCENTILE": null
-    },
-    {
-      "PLAY_TYPE": "Transition",
-      "PLAYER": "Harrison Collins",
-      "TEAM": "Union (NY) Chargers",
-      "PPP": "0.4000",
-      "2PA": "5",
-      "2PM": "3",
-      "2P%": "60.00",
-      "3PA": "1",
-      "3PM": "0",
-      "3P%": "0.00",
-      "PLAY_COUNT": 15,
-      "PPP_PERCENTILE": 13.0,
+      "PPP_PERCENTILE": 90.9,
       "2P%_PERCENTILE": null,
       "3P%_PERCENTILE": null
     },
@@ -3909,6 +3941,38 @@
       "PPP_PERCENTILE": 0.0,
       "2P%_PERCENTILE": null,
       "3P%_PERCENTILE": null
+    },
+    {
+      "PLAY_TYPE": "Transition",
+      "PLAYER": "Harrison Collins",
+      "TEAM": "Union (NY) Chargers",
+      "PPP": "0.4000",
+      "2PA": "5",
+      "2PM": "3",
+      "2P%": "60.00",
+      "3PA": "1",
+      "3PM": "0",
+      "3P%": "0.00",
+      "PLAY_COUNT": 15,
+      "PPP_PERCENTILE": 12.7,
+      "2P%_PERCENTILE": null,
+      "3P%_PERCENTILE": null
+    },
+    {
+      "PLAY_TYPE": "Transition",
+      "PLAYER": "Colton Suriano",
+      "TEAM": "St. Lawrence Saints",
+      "PPP": "1.1333",
+      "2PA": "1",
+      "2PM": "1",
+      "2P%": "100.00",
+      "3PA": "12",
+      "3PM": "5",
+      "3P%": "41.67",
+      "PLAY_COUNT": 15,
+      "PPP_PERCENTILE": 89.1,
+      "2P%_PERCENTILE": null,
+      "3P%_PERCENTILE": 76.4
     }
   ]
 }

@@ -3,7 +3,7 @@
   "gender": "mens",
   "query": "team-shot-location-frequency",
   "description": "Team shot distribution showing percentage of shots from each court zone",
-  "fetched_at": "2026-01-20T08:51:57.631558",
+  "fetched_at": "2026-01-20T11:52:53.595767",
   "row_count": 10,
   "data": [
     {
@@ -23,6 +23,14 @@
       "TOTAL_SHOTS": "967"
     },
     {
+      "TEAM": "Hobart College Statesmen",
+      "LAYUP_COUNT": "498",
+      "CLOSE_COUNT": "67",
+      "MID_COUNT": "18",
+      "THREE_COUNT": "331",
+      "TOTAL_SHOTS": "914"
+    },
+    {
       "TEAM": "Clarkson University Golden Knights",
       "LAYUP_COUNT": "403",
       "CLOSE_COUNT": "37",
@@ -39,12 +47,12 @@
       "TOTAL_SHOTS": "862"
     },
     {
-      "TEAM": "Hobart College Statesmen",
-      "LAYUP_COUNT": "471",
-      "CLOSE_COUNT": "63",
-      "MID_COUNT": "15",
-      "THREE_COUNT": "311",
-      "TOTAL_SHOTS": "860"
+      "TEAM": "St. Lawrence Saints",
+      "LAYUP_COUNT": "383",
+      "CLOSE_COUNT": "60",
+      "MID_COUNT": "46",
+      "THREE_COUNT": "344",
+      "TOTAL_SHOTS": "833"
     },
     {
       "TEAM": "Bard College",
@@ -69,14 +77,6 @@
       "MID_COUNT": "50",
       "THREE_COUNT": "278",
       "TOTAL_SHOTS": "813"
-    },
-    {
-      "TEAM": "St. Lawrence Saints",
-      "LAYUP_COUNT": "359",
-      "CLOSE_COUNT": "57",
-      "MID_COUNT": "44",
-      "THREE_COUNT": "322",
-      "TOTAL_SHOTS": "782"
     },
     {
       "TEAM": "Skidmore Thoroughbreds",

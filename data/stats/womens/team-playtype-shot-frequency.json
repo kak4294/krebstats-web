@@ -3,7 +3,7 @@
   "gender": "womens",
   "query": "team-playtype-shot-frequency",
   "description": "Team shot distribution by play type, showing where teams shoot from on different offensive actions",
-  "fetched_at": "2026-01-20T08:52:04.374277",
+  "fetched_at": "2026-01-20T11:52:58.536395",
   "row_count": 105,
   "data": [
     {

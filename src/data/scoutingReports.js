@@ -280,9 +280,30 @@ export const scoutingReports = {
                 'Drives Left: 10 possessions (28.6% FG)',
                 'Isolations Left: 1 out of 14 total',
               ]
-            }
+            },
+            shotChart: '/imgs/stl-dudzinski-shotchart.png'
           }
         ],
+        analyticalGameplan: {
+          title: 'Analytically Proposed Gameplan',
+          offensiveKeys: {
+            title: 'Offensive Keys',
+            points: [
+              'Because this defense tends to overhelp, keep the ball moving. Good, open shots are more likely on the second or third pass.',
+              'St. Lawrence\'s aggressive closeouts create opportunities to drive to the basket and further scramble the defense.',
+            ]
+          },
+          defensiveKeys: {
+            title: 'Defensive Keys',
+            points: [
+              'Disciplined defense — St. Lawrence is a team that has thrived off getting to the free-throw line. Players like Dudzinski will take advantage.',
+              'Going under screens, daring St. Lawrence\'s ball-handlers to shoot the ball rather than letting them cause damage inside the paint.',
+              'Help defense on drives, as well as soft hedging against the Saints\' PnR: have the big briefly contain the ball handler until his defender recovers, then have the big retreat to guard the roll man.',
+              'Have Dudzinski receive the ball well outside the paint. Deny any entry passes into the low post!',
+              'Most importantly, force these 3 players left — Anderson, McMahon, and Dudzinski. Statistics and film show that they\'ve been contained in isolation, drives, and in the PnR when they\'ve been dribbling left.',
+            ]
+          }
+        },
         gamePlanSummary: {
           offensiveKeys: [
             'Attack the paint and draw fouls — force St. Lawrence to defend without fouling.',
